@@ -1,0 +1,216 @@
+{
+  "analyzed_games": [
+    {
+      "game": "Kansas @ Duke",
+      "market_line": -2.5,
+      "predicted_line": -1.8,
+      "line_edge": 0.7,
+      "line_recommendation": null,
+      "market_total": 155.5,
+      "predicted_total": 157.9,
+      "total_edge": 2.4,
+      "total_recommendation": null,
+      "home_strength": 0.465,
+      "away_strength": 0.655,
+      "confidence": "MEDIUM",
+      "game_info": {
+        "tournament": "Champions Classic",
+        "neutral_site": true,
+        "injuries": {
+          "Duke": [
+            {
+              "player": "Key Player",
+              "severity": "minor"
+            }
+          ]
+        },
+        "rest_days": {
+          "Duke": 3,
+          "Kansas": 4
+        }
+      },
+      "date": "2024-11-12",
+      "tournament": "Champions Classic"
+    },
+    {
+      "game": "Dayton @ UNC",
+      "market_line": -8.5,
+      "predicted_line": -8.1,
+      "line_edge": 0.4,
+      "line_recommendation": null,
+      "market_total": 142.0,
+      "predicted_total": 160.2,
+      "total_edge": 18.2,
+      "total_recommendation": "OVER",
+      "home_strength": 0.373,
+      "away_strength": 0.818,
+      "confidence": "HIGH",
+      "game_info": {
+        "tournament": "Maui Invitational",
+        "injuries": {},
+        "rest_days": {
+          "UNC": 2,
+          "Dayton": 1
+        }
+      },
+      "date": "2024-11-15",
+      "tournament": "Maui Invitational"
+    },
+    {
+      "game": "Xavier @ Cincinnati",
+      "market_line": 3.5,
+      "predicted_line": -4.7,
+      "line_edge": 8.2,
+      "line_recommendation": "AWAY",
+      "market_total": 138.5,
+      "predicted_total": 150.5,
+      "total_edge": 12.0,
+      "total_recommendation": "OVER",
+      "home_strength": 0.289,
+      "away_strength": 0.595,
+      "confidence": "HIGH",
+      "game_info": {
+        "tournament": "Crosstown Shootout",
+        "rivalry": true,
+        "injuries": {
+          "Xavier": [
+            {
+              "player": "Starter",
+              "severity": "moderate"
+            }
+          ]
+        },
+        "rest_days": {
+          "Cincinnati": 3,
+          "Xavier": 2
+        }
+      },
+      "date": "2024-11-18",
+      "tournament": "Crosstown Shootout"
+    },
+    {
+      "game": "Houston @ Auburn",
+      "market_line": -1.0,
+      "predicted_line": 3.5,
+      "line_edge": 4.5,
+      "line_recommendation": "HOME",
+      "market_total": 148.5,
+      "predicted_total": 154.8,
+      "total_edge": 6.3,
+      "total_recommendation": "OVER",
+      "home_strength": 0.522,
+      "away_strength": 0.502,
+      "confidence": "HIGH",
+      "game_info": {
+        "tournament": "Battle 4 Atlantis",
+        "neutral_site": true,
+        "injuries": {},
+        "rest_days": {
+          "Auburn": 2,
+          "Houston": 3
+        }
+      },
+      "date": "2024-11-20",
+      "tournament": "Battle 4 Atlantis"
+    },
+    {
+      "game": "Marquette @ Providence",
+      "market_line": 6.5,
+      "predicted_line": 3.0,
+      "line_edge": 3.5,
+      "line_recommendation": "AWAY",
+      "market_total": 144.0,
+      "predicted_total": 165.2,
+      "total_edge": 21.2,
+      "total_recommendation": "OVER",
+      "home_strength": 0.671,
+      "away_strength": 0.67,
+      "confidence": "HIGH",
+      "game_info": {
+        "conference": "Big East Preview",
+        "injuries": {
+          "Providence": [
+            {
+              "player": "Guard",
+              "severity": "minor"
+            }
+          ]
+        },
+        "rest_days": {
+          "Providence": 4,
+          "Marquette": 3
+        }
+      },
+      "date": "2024-11-22",
+      "tournament": "Regular Season"
+    }
+  ],
+  "opportunities": [
+    {
+      "type": "Total",
+      "game": "Dayton @ UNC",
+      "recommendation": "OVER 142.0",
+      "edge": 18.2,
+      "confidence": "HIGH",
+      "reasoning": "Model predicts 160.2, market 142.0",
+      "date": "2024-11-15"
+    },
+    {
+      "type": "Spread",
+      "game": "Xavier @ Cincinnati",
+      "recommendation": "AWAY 3.5",
+      "edge": 8.2,
+      "confidence": "HIGH",
+      "reasoning": "Model predicts -4.7, market 3.5",
+      "date": "2024-11-18"
+    },
+    {
+      "type": "Total",
+      "game": "Xavier @ Cincinnati",
+      "recommendation": "OVER 138.5",
+      "edge": 12.0,
+      "confidence": "HIGH",
+      "reasoning": "Model predicts 150.5, market 138.5",
+      "date": "2024-11-18"
+    },
+    {
+      "type": "Spread",
+      "game": "Houston @ Auburn",
+      "recommendation": "HOME 1.0",
+      "edge": 4.5,
+      "confidence": "HIGH",
+      "reasoning": "Model predicts 3.5, market -1.0",
+      "date": "2024-11-20"
+    },
+    {
+      "type": "Total",
+      "game": "Houston @ Auburn",
+      "recommendation": "OVER 148.5",
+      "edge": 6.3,
+      "confidence": "HIGH",
+      "reasoning": "Model predicts 154.8, market 148.5",
+      "date": "2024-11-20"
+    },
+    {
+      "type": "Spread",
+      "game": "Marquette @ Providence",
+      "recommendation": "AWAY 6.5",
+      "edge": 3.5,
+      "confidence": "HIGH",
+      "reasoning": "Model predicts 3.0, market 6.5",
+      "date": "2024-11-22"
+    },
+    {
+      "type": "Total",
+      "game": "Marquette @ Providence",
+      "recommendation": "OVER 144.0",
+      "edge": 21.2,
+      "confidence": "HIGH",
+      "reasoning": "Model predicts 165.2, market 144.0",
+      "date": "2024-11-22"
+    }
+  ],
+  "analysis_date": "2025-10-17T16:42:17.740760",
+  "games_analyzed": 5,
+  "opportunities_found": 7
+}

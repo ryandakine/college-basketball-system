@@ -1,0 +1,14 @@
+2025-10-17 16:40:47,097 - INFO - Created default config file: monitor_config.json
+2025-10-17 16:40:47,097 - INFO - Loaded 11 target teams for monitoring
+2025-10-17 16:40:47,097 - INFO - 🔍 Starting monitoring cycle...
+2025-10-17 16:40:47,097 - WARNING - No valid API key configured. Using mock data for demo.
+2025-10-17 16:40:47,097 - INFO - 🎯 Found 7 value opportunities
+2025-10-17 16:40:47,398 - ERROR - Failed to send email alert: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5a8a973f35dsm228334173.43 - gsmtp')
+2025-10-17 16:41:04,578 - INFO - 🚀 Starting College Basketball Line Monitor
+2025-10-17 16:41:04,578 - INFO - 📊 Monitoring 11 target teams
+2025-10-17 16:41:04,579 - INFO - ⏰ Check interval: 300 seconds
+2025-10-17 16:41:04,579 - INFO - 🔍 Starting monitoring cycle...
+2025-10-17 16:41:04,579 - WARNING - No valid API key configured. Using mock data for demo.
+2025-10-17 16:41:04,580 - INFO - 🎯 Found 7 value opportunities
+2025-10-17 16:41:04,783 - ERROR - Failed to send email alert: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5a8a973e796sm232062173.32 - gsmtp')
+2025-10-17 16:41:12,700 - INFO - 🛑 Monitoring stopped by user

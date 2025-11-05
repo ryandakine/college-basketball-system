@@ -1,0 +1,154 @@
+[
+  {
+    "timestamp": "2025-10-17T16:40:47.398797",
+    "opportunities_count": 7,
+    "opportunities": [
+      {
+        "type": "Tournament Futures",
+        "team": "VCU",
+        "market_prob": 0.385,
+        "our_prob": 0.7171787591823969,
+        "edge": 0.3321787591823969,
+        "odds": 160,
+        "confidence": "MASSIVE",
+        "priority": "MEDIUM"
+      },
+      {
+        "type": "Tournament Futures",
+        "team": "Dayton",
+        "market_prob": 0.408,
+        "our_prob": 0.8210687471953827,
+        "edge": 0.4130687471953827,
+        "odds": 145,
+        "confidence": "MASSIVE",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Tournament Futures",
+        "team": "Utah State",
+        "market_prob": 0.286,
+        "our_prob": 0.7699440749552859,
+        "edge": 0.48394407495528596,
+        "odds": 250,
+        "confidence": "MASSIVE",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Season Win Total OVER",
+        "team": "Cincinnati",
+        "market_total": 18.5,
+        "projected_wins": 26.056825860274756,
+        "edge": 0.4084770735283652,
+        "over_odds": -110,
+        "confidence": "STRONG",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Season Win Total OVER",
+        "team": "Xavier",
+        "market_total": 18.5,
+        "projected_wins": 26.480461324455774,
+        "edge": 0.43137628780842024,
+        "over_odds": -115,
+        "confidence": "STRONG",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Season Win Total OVER",
+        "team": "Providence",
+        "market_total": 18.5,
+        "projected_wins": 26.28687690974502,
+        "edge": 0.42091226539162263,
+        "over_odds": -110,
+        "confidence": "STRONG",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Season Win Total OVER",
+        "team": "Auburn",
+        "market_total": 24.5,
+        "projected_wins": 28.312305788364547,
+        "edge": 0.1556043178924305,
+        "over_odds": -105,
+        "confidence": "STRONG",
+        "priority": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-10-17T16:41:04.783681",
+    "opportunities_count": 7,
+    "opportunities": [
+      {
+        "type": "Tournament Futures",
+        "team": "VCU",
+        "market_prob": 0.385,
+        "our_prob": 0.7171787591823969,
+        "edge": 0.3321787591823969,
+        "odds": 160,
+        "confidence": "MASSIVE",
+        "priority": "MEDIUM"
+      },
+      {
+        "type": "Tournament Futures",
+        "team": "Dayton",
+        "market_prob": 0.408,
+        "our_prob": 0.8210687471953827,
+        "edge": 0.4130687471953827,
+        "odds": 145,
+        "confidence": "MASSIVE",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Tournament Futures",
+        "team": "Utah State",
+        "market_prob": 0.286,
+        "our_prob": 0.7699440749552859,
+        "edge": 0.48394407495528596,
+        "odds": 250,
+        "confidence": "MASSIVE",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Season Win Total OVER",
+        "team": "Cincinnati",
+        "market_total": 18.5,
+        "projected_wins": 26.056825860274756,
+        "edge": 0.4084770735283652,
+        "over_odds": -110,
+        "confidence": "STRONG",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Season Win Total OVER",
+        "team": "Xavier",
+        "market_total": 18.5,
+        "projected_wins": 26.480461324455774,
+        "edge": 0.43137628780842024,
+        "over_odds": -115,
+        "confidence": "STRONG",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Season Win Total OVER",
+        "team": "Providence",
+        "market_total": 18.5,
+        "projected_wins": 26.28687690974502,
+        "edge": 0.42091226539162263,
+        "over_odds": -110,
+        "confidence": "STRONG",
+        "priority": "HIGH"
+      },
+      {
+        "type": "Season Win Total OVER",
+        "team": "Auburn",
+        "market_total": 24.5,
+        "projected_wins": 28.312305788364547,
+        "edge": 0.1556043178924305,
+        "over_odds": -105,
+        "confidence": "STRONG",
+        "priority": "MEDIUM"
+      }
+    ]
+  }
+]

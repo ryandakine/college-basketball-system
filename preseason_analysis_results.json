@@ -1,0 +1,484 @@
+{
+  "teams": {
+    "duke": {
+      "name": "Duke",
+      "traditional_rank": 1,
+      "analytics_strength": 0.47907473883650203,
+      "projected_wins": 26.078479238079627,
+      "tournament_probability": 0.6065399365066355
+    },
+    "kansas": {
+      "name": "Kansas",
+      "traditional_rank": 2,
+      "analytics_strength": 0.6419758948615019,
+      "projected_wins": 26.128934592577995,
+      "tournament_probability": 0.6107445493814996
+    },
+    "unc": {
+      "name": "UNC",
+      "traditional_rank": 3,
+      "analytics_strength": 0.3730830811835083,
+      "projected_wins": 26.824579177679595,
+      "tournament_probability": 0.6687149314732995
+    },
+    "houston": {
+      "name": "Houston",
+      "traditional_rank": 4,
+      "analytics_strength": 0.5019191992243136,
+      "projected_wins": 25.593174640258308,
+      "tournament_probability": 0.5660978866881923
+    },
+    "purdue": {
+      "name": "Purdue",
+      "traditional_rank": 5,
+      "analytics_strength": 0.506892868028448,
+      "projected_wins": 26.035219824077004,
+      "tournament_probability": 0.6029349853397503
+    },
+    "marquette": {
+      "name": "Marquette",
+      "traditional_rank": 6,
+      "analytics_strength": 0.6698749272732778,
+      "projected_wins": 27.177693084706597,
+      "tournament_probability": 0.6981410903922165
+    },
+    "tennessee": {
+      "name": "Tennessee",
+      "traditional_rank": 7,
+      "analytics_strength": 0.6770880501733212,
+      "projected_wins": 27.059476144793408,
+      "tournament_probability": 0.6882896787327841
+    },
+    "iowa_state": {
+      "name": "Iowa State",
+      "traditional_rank": 8,
+      "analytics_strength": 0.48116348424273514,
+      "projected_wins": 26.879987351837542,
+      "tournament_probability": 0.6733322793197953
+    },
+    "arizona": {
+      "name": "Arizona",
+      "traditional_rank": 9,
+      "analytics_strength": 0.6099496520999058,
+      "projected_wins": 26.664399968868054,
+      "tournament_probability": 0.6553666640723379
+    },
+    "auburn": {
+      "name": "Auburn",
+      "traditional_rank": 10,
+      "analytics_strength": 0.5224809027990778,
+      "projected_wins": 28.88510019831303,
+      "tournament_probability": 0.8404250165260858
+    },
+    "st._john's": {
+      "name": "St. John's",
+      "traditional_rank": 25,
+      "analytics_strength": 0.5286433669481926,
+      "projected_wins": 27.018180301120537,
+      "tournament_probability": 0.6848483584267113
+    },
+    "cincinnati": {
+      "name": "Cincinnati",
+      "traditional_rank": null,
+      "analytics_strength": 0.28909257726272064,
+      "projected_wins": 26.188148099245208,
+      "tournament_probability": 0.615679008270434
+    },
+    "xavier": {
+      "name": "Xavier",
+      "traditional_rank": null,
+      "analytics_strength": 0.6470506400402196,
+      "projected_wins": 26.60734131018898,
+      "tournament_probability": 0.6506117758490816
+    },
+    "providence": {
+      "name": "Providence",
+      "traditional_rank": null,
+      "analytics_strength": 0.6784283579876673,
+      "projected_wins": 26.409185999642425,
+      "tournament_probability": 0.6340988333035352
+    },
+    "seton_hall": {
+      "name": "Seton Hall",
+      "traditional_rank": null,
+      "analytics_strength": 0.6441045572091935,
+      "projected_wins": 27.348745091407793,
+      "tournament_probability": 0.7123954242839825
+    },
+    "vcu": {
+      "name": "VCU",
+      "traditional_rank": null,
+      "analytics_strength": 0.6775166422961529,
+      "projected_wins": 27.406145110188763,
+      "tournament_probability": 0.7171787591823969
+    },
+    "saint_mary's": {
+      "name": "Saint Mary's",
+      "traditional_rank": null,
+      "analytics_strength": 1.0,
+      "projected_wins": 28.39663524475069,
+      "tournament_probability": 0.7997196037292242
+    },
+    "dayton": {
+      "name": "Dayton",
+      "traditional_rank": null,
+      "analytics_strength": 0.8183045509497525,
+      "projected_wins": 28.652824966344593,
+      "tournament_probability": 0.8210687471953827
+    },
+    "colorado_state": {
+      "name": "Colorado State",
+      "traditional_rank": null,
+      "analytics_strength": 0.3907535097821987,
+      "projected_wins": 25.266946885428,
+      "tournament_probability": 0.5389122404523331
+    },
+    "utah_state": {
+      "name": "Utah State",
+      "traditional_rank": null,
+      "analytics_strength": 0.7436954114595747,
+      "projected_wins": 28.03932889946343,
+      "tournament_probability": 0.7699440749552859
+    }
+  },
+  "recommendations": [
+    {
+      "bet_type": "Tournament Futures",
+      "team": "Cincinnati",
+      "recommendation": "BUY",
+      "confidence": "MASSIVE",
+      "expected_edge": 0.34299999999999997,
+      "reasoning": "Our models project 89.3% tournament chance vs traditional 55.0%",
+      "stake_recommendation": "3-5% of bankroll"
+    },
+    {
+      "bet_type": "Tournament Futures",
+      "team": "Xavier",
+      "recommendation": "BUY",
+      "confidence": "MASSIVE",
+      "expected_edge": 0.35139999999999993,
+      "reasoning": "Our models project 90.1% tournament chance vs traditional 55.0%",
+      "stake_recommendation": "3-5% of bankroll"
+    },
+    {
+      "bet_type": "Tournament Futures",
+      "team": "Providence",
+      "recommendation": "BUY",
+      "confidence": "MASSIVE",
+      "expected_edge": 0.35039999999999993,
+      "reasoning": "Our models project 90.0% tournament chance vs traditional 55.0%",
+      "stake_recommendation": "3-5% of bankroll"
+    },
+    {
+      "bet_type": "Tournament Futures",
+      "team": "Seton Hall",
+      "recommendation": "BUY",
+      "confidence": "MASSIVE",
+      "expected_edge": 0.35339999999999994,
+      "reasoning": "Our models project 90.3% tournament chance vs traditional 55.0%",
+      "stake_recommendation": "3-5% of bankroll"
+    },
+    {
+      "bet_type": "Tournament Futures",
+      "team": "VCU",
+      "recommendation": "BUY",
+      "confidence": "MASSIVE",
+      "expected_edge": 0.36239999999999994,
+      "reasoning": "Our models project 91.2% tournament chance vs traditional 55.0%",
+      "stake_recommendation": "3-5% of bankroll"
+    },
+    {
+      "bet_type": "Tournament Futures",
+      "team": "Saint Mary's",
+      "recommendation": "BUY",
+      "confidence": "MASSIVE",
+      "expected_edge": 0.37359999999999993,
+      "reasoning": "Our models project 92.4% tournament chance vs traditional 55.0%",
+      "stake_recommendation": "3-5% of bankroll"
+    },
+    {
+      "bet_type": "Tournament Futures",
+      "team": "Dayton",
+      "recommendation": "BUY",
+      "confidence": "MASSIVE",
+      "expected_edge": 0.377,
+      "reasoning": "Our models project 92.7% tournament chance vs traditional 55.0%",
+      "stake_recommendation": "3-5% of bankroll"
+    },
+    {
+      "bet_type": "Tournament Futures",
+      "team": "Colorado State",
+      "recommendation": "BUY",
+      "confidence": "MASSIVE",
+      "expected_edge": 0.3283999999999999,
+      "reasoning": "Our models project 87.8% tournament chance vs traditional 55.0%",
+      "stake_recommendation": "3-5% of bankroll"
+    },
+    {
+      "bet_type": "Tournament Futures",
+      "team": "Utah State",
+      "recommendation": "BUY",
+      "confidence": "MASSIVE",
+      "expected_edge": 0.5588000000000001,
+      "reasoning": "Our models project 90.9% tournament chance vs traditional 35.0%",
+      "stake_recommendation": "3-5% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "UNC",
+      "recommendation": "OVER",
+      "confidence": "MODERATE",
+      "market_total": 24.5,
+      "projected_wins": 26.601121535568662,
+      "edge": 0.08576006267627193,
+      "reasoning": "Project 26.6 wins vs market 24.5",
+      "stake_recommendation": "1-2% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "Marquette",
+      "recommendation": "OVER",
+      "confidence": "MODERATE",
+      "market_total": 24.5,
+      "projected_wins": 26.877559172310903,
+      "edge": 0.097043231522894,
+      "reasoning": "Project 26.9 wins vs market 24.5",
+      "stake_recommendation": "1-2% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "Tennessee",
+      "recommendation": "OVER",
+      "confidence": "MODERATE",
+      "market_total": 24.5,
+      "projected_wins": 26.88434082475329,
+      "edge": 0.09732003366339964,
+      "reasoning": "Project 26.9 wins vs market 24.5",
+      "stake_recommendation": "1-2% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "Iowa State",
+      "recommendation": "OVER",
+      "confidence": "MODERATE",
+      "market_total": 24.5,
+      "projected_wins": 26.715987805874104,
+      "edge": 0.09044848187241239,
+      "reasoning": "Project 26.7 wins vs market 24.5",
+      "stake_recommendation": "1-2% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "Arizona",
+      "recommendation": "OVER",
+      "confidence": "MODERATE",
+      "market_total": 24.5,
+      "projected_wins": 26.64295638481416,
+      "edge": 0.08746760754343506,
+      "reasoning": "Project 26.6 wins vs market 24.5",
+      "stake_recommendation": "1-2% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "Auburn",
+      "recommendation": "OVER",
+      "confidence": "STRONG",
+      "market_total": 24.5,
+      "projected_wins": 28.312305788364547,
+      "edge": 0.1556043178924305,
+      "reasoning": "Project 28.3 wins vs market 24.5",
+      "stake_recommendation": "2-4% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "St. John's",
+      "recommendation": "OVER",
+      "confidence": "STRONG",
+      "market_total": 21.5,
+      "projected_wins": 26.782449227629094,
+      "edge": 0.2456953129129811,
+      "reasoning": "Project 26.8 wins vs market 21.5",
+      "stake_recommendation": "2-4% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "Cincinnati",
+      "recommendation": "OVER",
+      "confidence": "STRONG",
+      "market_total": 18.5,
+      "projected_wins": 26.056825860274756,
+      "edge": 0.4084770735283652,
+      "reasoning": "Project 26.1 wins vs market 18.5",
+      "stake_recommendation": "2-4% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "Xavier",
+      "recommendation": "OVER",
+      "confidence": "STRONG",
+      "market_total": 18.5,
+      "projected_wins": 26.480461324455774,
+      "edge": 0.43137628780842024,
+      "reasoning": "Project 26.5 wins vs market 18.5",
+      "stake_recommendation": "2-4% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "Providence",
+      "recommendation": "OVER",
+      "confidence": "STRONG",
+      "market_total": 18.5,
+      "projected_wins": 26.28687690974502,
+      "edge": 0.42091226539162263,
+      "reasoning": "Project 26.3 wins vs market 18.5",
+      "stake_recommendation": "2-4% of bankroll"
+    },
+    {
+      "bet_type": "Season Win Total",
+      "team": "Seton Hall",
+      "recommendation": "OVER",
+      "confidence": "STRONG",
+      "market_total": 18.5,
+      "projected_wins": 27.025271333828364,
+      "edge": 0.4608254775042359,
+      "reasoning": "Project 27.0 wins vs market 18.5",
+      "stake_recommendation": "2-4% of bankroll"
+    }
+  ],
+  "value_opportunities": {
+    "massive_undervalued": [
+      {
+        "team": "Cincinnati",
+        "gap": 0.34299999999999997,
+        "our_prob": 0.893,
+        "traditional_prob": 0.55,
+        "type": "tournament"
+      },
+      {
+        "team": "Xavier",
+        "gap": 0.35139999999999993,
+        "our_prob": 0.9014,
+        "traditional_prob": 0.55,
+        "type": "tournament"
+      },
+      {
+        "team": "Providence",
+        "gap": 0.35039999999999993,
+        "our_prob": 0.9004,
+        "traditional_prob": 0.55,
+        "type": "tournament"
+      },
+      {
+        "team": "Seton Hall",
+        "gap": 0.35339999999999994,
+        "our_prob": 0.9034,
+        "traditional_prob": 0.55,
+        "type": "tournament"
+      },
+      {
+        "team": "VCU",
+        "gap": 0.36239999999999994,
+        "our_prob": 0.9124,
+        "traditional_prob": 0.55,
+        "type": "tournament"
+      },
+      {
+        "team": "Saint Mary's",
+        "gap": 0.37359999999999993,
+        "our_prob": 0.9236,
+        "traditional_prob": 0.55,
+        "type": "tournament"
+      },
+      {
+        "team": "Dayton",
+        "gap": 0.377,
+        "our_prob": 0.927,
+        "traditional_prob": 0.55,
+        "type": "tournament"
+      },
+      {
+        "team": "Colorado State",
+        "gap": 0.3283999999999999,
+        "our_prob": 0.8784,
+        "traditional_prob": 0.55,
+        "type": "tournament"
+      },
+      {
+        "team": "Utah State",
+        "gap": 0.5588000000000001,
+        "our_prob": 0.9088,
+        "traditional_prob": 0.35,
+        "type": "tournament"
+      }
+    ],
+    "strong_undervalued": [
+      {
+        "team": "St. John's",
+        "gap": 0.20620000000000005,
+        "our_prob": 0.9062,
+        "traditional_prob": 0.7,
+        "type": "tournament"
+      }
+    ],
+    "massive_overvalued": [],
+    "strong_overvalued": [],
+    "sleeper_picks": [
+      {
+        "team": "Cincinnati",
+        "tournament_prob": 0.893,
+        "championship_prob": 0.0466,
+        "avg_wins": 26.056825860274756
+      },
+      {
+        "team": "Xavier",
+        "tournament_prob": 0.9014,
+        "championship_prob": 0.0556,
+        "avg_wins": 26.480461324455774
+      },
+      {
+        "team": "Providence",
+        "tournament_prob": 0.9004,
+        "championship_prob": 0.0466,
+        "avg_wins": 26.28687690974502
+      },
+      {
+        "team": "Seton Hall",
+        "tournament_prob": 0.9034,
+        "championship_prob": 0.0474,
+        "avg_wins": 27.025271333828364
+      },
+      {
+        "team": "VCU",
+        "tournament_prob": 0.9124,
+        "championship_prob": 0.0488,
+        "avg_wins": 27.19599875493378
+      },
+      {
+        "team": "Saint Mary's",
+        "tournament_prob": 0.9236,
+        "championship_prob": 0.0492,
+        "avg_wins": 27.961606575065456
+      },
+      {
+        "team": "Dayton",
+        "tournament_prob": 0.927,
+        "championship_prob": 0.055,
+        "avg_wins": 28.200138215092732
+      },
+      {
+        "team": "Colorado State",
+        "tournament_prob": 0.8784,
+        "championship_prob": 0.048,
+        "avg_wins": 25.222840379126037
+      },
+      {
+        "team": "Utah State",
+        "tournament_prob": 0.9088,
+        "championship_prob": 0.0534,
+        "avg_wins": 27.62889458084167
+      }
+    ],
+    "tournament_values": []
+  },
+  "analysis_date": "2025-10-17T16:38:29.470376"
+}
