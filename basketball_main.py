@@ -7,6 +7,11 @@ Usage:
     python basketball_main.py --backtest --start-date 2024-01-01
     python basketball_main.py --paper-trade --bankroll 10000
     python basketball_main.py --init-db
+
+Self-Learning:
+    python basketball_main.py --update-outcomes
+    python basketball_main.py --monitor-performance
+    python basketball_main.py --run-learning-cycle
 """
 
 import argparse
@@ -189,6 +194,73 @@ def paper_trade(bankroll: float):
         return False
 
 
+def update_outcomes():
+    """Update database with actual game outcomes."""
+    logger.info("📥 Updating outcomes...")
+    try:
+        from automatic_outcome_tracker import AutomaticOutcomeTracker
+        tracker = AutomaticOutcomeTracker()
+        metrics = tracker.run_daily_update(lookback_days=7)
+        print("\n" + "="*60)
+        print("📥 OUTCOME UPDATE COMPLETE")
+        print("="*60)
+        print(f"\nOverall Accuracy: {metrics.get('overall_accuracy', 0):.1f}%")
+        print(f"Total Predictions: {metrics.get('total_predictions', 0)}")
+        print("="*60 + "\n")
+        return True
+    except Exception as e:
+        logger.error(f"❌ Error updating outcomes: {e}")
+        return False
+
+
+def monitor_performance():
+    """Monitor system performance and detect drift."""
+    logger.info("🔍 Monitoring performance...")
+    try:
+        from performance_monitor import PerformanceMonitor
+        monitor = PerformanceMonitor()
+        summary = monitor.run_monitoring_cycle()
+
+        print("\n" + "="*60)
+        print("🔍 PERFORMANCE MONITORING REPORT")
+        print("="*60)
+        perf = summary['current_performance']
+        print(f"\nAccuracy: {perf['accuracy']:.1%}")
+        print(f"Health Status: {summary['health_status'].upper()}")
+        if summary['alerts']:
+            print(f"\n⚠️  Alerts: {len(summary['alerts'])}")
+            for alert in summary['alerts']:
+                print(f"   - {alert['alert_type']}: {alert['recommendation']}")
+        print("="*60 + "\n")
+        return True
+    except Exception as e:
+        logger.error(f"❌ Error monitoring performance: {e}")
+        return False
+
+
+def run_learning_cycle():
+    """Run full self-learning cycle."""
+    logger.info("🧠 Running learning cycle...")
+    try:
+        from self_learning_system import SelfLearningSystem
+        system = SelfLearningSystem()
+        summary = system.run_learning_cycle()
+
+        print("\n" + "="*60)
+        print("🧠 LEARNING CYCLE COMPLETE")
+        print("="*60)
+        if summary.get('success'):
+            print(f"\nAccuracy: {summary['metrics']['accuracy']:.1%}")
+            print(f"Retraining Needed: {'YES' if summary['needs_retraining'] else 'NO'}")
+            if summary['improvement_opportunities']:
+                print(f"\nImprovements Identified: {len(summary['improvement_opportunities'])}")
+        print("="*60 + "\n")
+        return True
+    except Exception as e:
+        logger.error(f"❌ Error running learning cycle: {e}")
+        return False
+
+
 def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(
@@ -200,6 +272,11 @@ Examples:
   python basketball_main.py --backtest --start-date 2024-01-01
   python basketball_main.py --paper-trade --bankroll 10000
   python basketball_main.py --init-db
+
+Self-Learning:
+  python basketball_main.py --update-outcomes
+  python basketball_main.py --monitor-performance
+  python basketball_main.py --run-learning-cycle
         """
     )
 
@@ -246,6 +323,25 @@ Examples:
         help='Starting bankroll for paper trading (default: 10000)'
     )
 
+    # Self-learning arguments
+    parser.add_argument(
+        '--update-outcomes',
+        action='store_true',
+        help='Update database with actual game outcomes'
+    )
+
+    parser.add_argument(
+        '--monitor-performance',
+        action='store_true',
+        help='Monitor system performance and detect drift'
+    )
+
+    parser.add_argument(
+        '--run-learning-cycle',
+        action='store_true',
+        help='Run full self-learning cycle'
+    )
+
     args = parser.parse_args()
 
     # Print banner
@@ -270,6 +366,18 @@ Examples:
 
     elif args.paper_trade:
         success = paper_trade(args.bankroll)
+        sys.exit(0 if success else 1)
+
+    elif args.update_outcomes:
+        success = update_outcomes()
+        sys.exit(0 if success else 1)
+
+    elif args.monitor_performance:
+        success = monitor_performance()
+        sys.exit(0 if success else 1)
+
+    elif args.run_learning_cycle:
+        success = run_learning_cycle()
         sys.exit(0 if success else 1)
 
     else:
