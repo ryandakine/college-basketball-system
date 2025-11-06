@@ -12,6 +12,10 @@ Self-Learning:
     python basketball_main.py --update-outcomes
     python basketball_main.py --monitor-performance
     python basketball_main.py --run-learning-cycle
+
+FULL AUTOMATION:
+    python basketball_main.py --auto-predict    # Auto generate predictions
+    python basketball_main.py --full-auto       # Complete daily cycle
 """
 
 import argparse
@@ -261,6 +265,52 @@ def run_learning_cycle():
         return False
 
 
+def auto_predict():
+    """Automatically generate predictions for upcoming games."""
+    logger.info("🤖 Running automatic prediction generation...")
+    try:
+        from automatic_prediction_generator import AutomaticPredictionGenerator
+        generator = AutomaticPredictionGenerator()
+        summary = generator.run_automatic_predictions()
+
+        print("\n" + "="*60)
+        print("🤖 AUTOMATIC PREDICTIONS COMPLETE")
+        print("="*60)
+        if summary.get('success'):
+            print(f"\nGames Processed: {summary['total_games']}")
+            print(f"Predictions Saved: {summary['predictions_saved']}")
+            if summary['errors'] > 0:
+                print(f"Errors: {summary['errors']}")
+        print("="*60 + "\n")
+        return True
+    except Exception as e:
+        logger.error(f"❌ Error in auto prediction: {e}")
+        return False
+
+
+def full_auto():
+    """Run complete automatic daily cycle."""
+    logger.info("🚀 Running full automation cycle...")
+    try:
+        from full_automation import FullAutomation
+        automation = FullAutomation(email_alerts=False)
+        results = automation.run_daily_automation()
+
+        print("\n" + "="*60)
+        print("🚀 FULL AUTOMATION COMPLETE")
+        print("="*60)
+        if results.get('success'):
+            print(f"\nTasks Completed: {len(results['tasks'])}")
+            for task in results['tasks']:
+                status = "✅" if task['status'] == 'success' else "⚠️ "
+                print(f"  {status} {task['phase']}")
+        print("="*60 + "\n")
+        return True
+    except Exception as e:
+        logger.error(f"❌ Error in full automation: {e}")
+        return False
+
+
 def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(
@@ -277,6 +327,10 @@ Self-Learning:
   python basketball_main.py --update-outcomes
   python basketball_main.py --monitor-performance
   python basketball_main.py --run-learning-cycle
+
+Full Automation:
+  python basketball_main.py --auto-predict
+  python basketball_main.py --full-auto
         """
     )
 
@@ -342,6 +396,19 @@ Self-Learning:
         help='Run full self-learning cycle'
     )
 
+    # Full automation arguments
+    parser.add_argument(
+        '--auto-predict',
+        action='store_true',
+        help='Automatically generate predictions for upcoming games'
+    )
+
+    parser.add_argument(
+        '--full-auto',
+        action='store_true',
+        help='Run complete automatic daily cycle (predict + outcomes + monitor)'
+    )
+
     args = parser.parse_args()
 
     # Print banner
@@ -378,6 +445,14 @@ Self-Learning:
 
     elif args.run_learning_cycle:
         success = run_learning_cycle()
+        sys.exit(0 if success else 1)
+
+    elif args.auto_predict:
+        success = auto_predict()
+        sys.exit(0 if success else 1)
+
+    elif args.full_auto:
+        success = full_auto()
         sys.exit(0 if success else 1)
 
     else:
