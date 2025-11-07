@@ -37,6 +37,7 @@ python basketball_main.py --monitor-performance
 - ✅ 3 ensemble models (RF, GB, XGBoost)
 - ✅ Automatic predictions
 - ✅ Self-learning system
+- ✅ **BONUS:** 5-model LLM ensemble (optional)
 
 **Total Cost: $0**
 **Total Time: 30 minutes**
@@ -54,6 +55,25 @@ python basketball_main.py --monitor-performance
 System will then run automatically:
 - Daily at 10 AM: Make predictions
 - Weekly on Sunday: Full learning cycle
+
+---
+
+## Optional: LLM Ensemble (Advanced)
+
+Want to use **5 AI models** for predictions?
+
+```bash
+# Setup Ollama and download models (~20GB, one-time)
+./setup_ollama_models.sh
+
+# Test the ensemble
+python basketball_main.py --llm-test
+
+# Make predictions
+python basketball_main.py --llm-predict
+```
+
+**Details:** See `LLM_ENSEMBLE_GUIDE.md`
 
 ---
 

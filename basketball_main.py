@@ -16,9 +16,15 @@ Self-Learning:
 FULL AUTOMATION:
     python basketball_main.py --auto-predict    # Auto generate predictions
     python basketball_main.py --full-auto       # Complete daily cycle
+
+LLM ENSEMBLE (5 Models - Ollama):
+    python basketball_main.py --check-llm-models     # Check installed models
+    python basketball_main.py --llm-predict          # Interactive LLM prediction
+    python basketball_main.py --llm-test             # Test LLM ensemble
 """
 
 import argparse
+import asyncio
 import logging
 import sys
 from datetime import datetime
@@ -311,6 +317,174 @@ def full_auto():
         return False
 
 
+def check_llm_models():
+    """Check which Ollama models are installed."""
+    logger.info("🔍 Checking LLM models...")
+    try:
+        from basketball_llm_ensemble import BasketballLLMEnsemble
+
+        ensemble = BasketballLLMEnsemble()
+        status = ensemble.check_models_available()
+
+        print("\n" + "="*60)
+        print("🤖 LLM MODEL STATUS")
+        print("="*60)
+        print("\nRequired Models (Total: ~20GB):")
+
+        all_available = True
+        for model_name, available in status.items():
+            icon = "✅" if available else "❌"
+            status_text = "Installed" if available else "Not Installed"
+            print(f"  {icon} {model_name:15s} - {status_text}")
+            if not available:
+                all_available = False
+
+        print("\n" + "="*60)
+
+        if all_available:
+            print("✅ All models installed and ready!")
+        else:
+            print("⚠️  Some models missing. Run:")
+            print("   ./setup_ollama_models.sh")
+
+        print("="*60 + "\n")
+        return all_available
+
+    except ImportError as e:
+        logger.error("❌ Ollama not installed. Run: pip install ollama")
+        return False
+    except Exception as e:
+        logger.error(f"❌ Error checking models: {e}")
+        return False
+
+
+def llm_test():
+    """Test the LLM ensemble with a sample game."""
+    logger.info("🧪 Testing LLM ensemble...")
+    try:
+        from basketball_llm_ensemble import BasketballLLMEnsemble
+
+        print("\n" + "="*60)
+        print("🧪 TESTING LLM ENSEMBLE")
+        print("="*60)
+        print("\nRunning test prediction: Duke vs North Carolina")
+        print("This will query all 5 models (may take 30-60 seconds)...")
+        print("="*60 + "\n")
+
+        ensemble = BasketballLLMEnsemble()
+
+        # Run async test
+        async def run_test():
+            home_stats = {
+                "win_rate": "0.750",
+                "ppg": "78.5",
+                "off_eff": "112.3",
+                "def_eff": "98.7",
+                "recent_form": "W-W-L-W-W"
+            }
+
+            away_stats = {
+                "win_rate": "0.600",
+                "ppg": "72.1",
+                "off_eff": "105.8",
+                "def_eff": "102.3",
+                "recent_form": "L-W-W-L-W"
+            }
+
+            result = await ensemble.predict_game(
+                home_team="Duke",
+                away_team="North Carolina",
+                home_stats=home_stats,
+                away_stats=away_stats,
+                additional_context="Rivalry game at Cameron Indoor Stadium"
+            )
+
+            ensemble.print_detailed_analysis(result, "Duke", "North Carolina")
+            return True
+
+        return asyncio.run(run_test())
+
+    except ImportError:
+        logger.error("❌ Ollama not installed. Run: pip install ollama")
+        return False
+    except Exception as e:
+        logger.error(f"❌ Error testing LLM ensemble: {e}")
+        import traceback
+        traceback.print_exc()
+        return False
+
+
+def llm_predict():
+    """Interactive LLM prediction."""
+    logger.info("🎯 LLM Prediction Mode...")
+    try:
+        from basketball_llm_ensemble import BasketballLLMEnsemble
+
+        ensemble = BasketballLLMEnsemble()
+
+        # Check models first
+        status = ensemble.check_models_available()
+        if not all(status.values()):
+            print("❌ Not all models available. Run: ./setup_ollama_models.sh")
+            return False
+
+        print("\n" + "="*60)
+        print("🎯 LLM ENSEMBLE PREDICTION")
+        print("="*60)
+
+        # Get game info interactively
+        print("\nEnter game details:")
+        home_team = input("Home Team: ").strip()
+        away_team = input("Away Team: ").strip()
+
+        print("\nOptional: Enter team stats (or press Enter to skip)")
+        print("Home team win rate (e.g., 0.750):", end=" ")
+        home_win_rate = input().strip()
+
+        home_stats = None
+        away_stats = None
+
+        if home_win_rate:
+            home_stats = {"win_rate": home_win_rate}
+            print("Home team PPG:", end=" ")
+            home_stats["ppg"] = input().strip()
+
+            print("\nAway team win rate:", end=" ")
+            away_win_rate = input().strip()
+            away_stats = {"win_rate": away_win_rate}
+            print("Away team PPG:", end=" ")
+            away_stats["ppg"] = input().strip()
+
+        print("\nAdditional context (optional):", end=" ")
+        context = input().strip()
+
+        print("\n" + "="*60)
+        print("🤖 Querying 5 LLM models (this may take 30-60 seconds)...")
+        print("="*60 + "\n")
+
+        # Run prediction
+        async def run_prediction():
+            result = await ensemble.predict_game(
+                home_team, away_team, home_stats, away_stats, context
+            )
+            ensemble.print_detailed_analysis(result, home_team, away_team)
+            return True
+
+        return asyncio.run(run_prediction())
+
+    except ImportError:
+        logger.error("❌ Ollama not installed. Run: pip install ollama")
+        return False
+    except KeyboardInterrupt:
+        print("\n\nPrediction cancelled.")
+        return False
+    except Exception as e:
+        logger.error(f"❌ Error in LLM prediction: {e}")
+        import traceback
+        traceback.print_exc()
+        return False
+
+
 def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(
@@ -409,6 +583,25 @@ Full Automation:
         help='Run complete automatic daily cycle (predict + outcomes + monitor)'
     )
 
+    # LLM ensemble arguments
+    parser.add_argument(
+        '--check-llm-models',
+        action='store_true',
+        help='Check which Ollama LLM models are installed'
+    )
+
+    parser.add_argument(
+        '--llm-test',
+        action='store_true',
+        help='Test LLM ensemble with sample game (Duke vs UNC)'
+    )
+
+    parser.add_argument(
+        '--llm-predict',
+        action='store_true',
+        help='Interactive LLM prediction for any game'
+    )
+
     args = parser.parse_args()
 
     # Print banner
@@ -453,6 +646,18 @@ Full Automation:
 
     elif args.full_auto:
         success = full_auto()
+        sys.exit(0 if success else 1)
+
+    elif args.check_llm_models:
+        success = check_llm_models()
+        sys.exit(0 if success else 1)
+
+    elif args.llm_test:
+        success = llm_test()
+        sys.exit(0 if success else 1)
+
+    elif args.llm_predict:
+        success = llm_predict()
         sys.exit(0 if success else 1)
 
     else:
