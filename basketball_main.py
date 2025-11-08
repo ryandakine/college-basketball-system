@@ -4,9 +4,14 @@ Main entry point for the College Basketball Betting Intelligence System.
 
 Usage:
     python basketball_main.py --analyze-today
-    python basketball_main.py --backtest --start-date 2024-01-01
+    python basketball_main.py --backtest              # Auto backtest on all data
     python basketball_main.py --paper-trade --bankroll 10000
     python basketball_main.py --init-db
+
+Backtesting:
+    python basketball_main.py --backtest                    # Use all available data
+    python basketball_main.py --backtest --bankroll 5000    # Custom bankroll
+    ./run_backtest.sh                                       # Quick backtest script
 
 Self-Learning:
     python basketball_main.py --update-outcomes
@@ -149,34 +154,65 @@ def analyze_today():
         return False
 
 
-def run_backtest(start_date: str, end_date: Optional[str] = None):
+def run_backtest(start_date: str, end_date: Optional[str] = None, bankroll: float = 10000):
     """Run backtesting on historical data."""
     logger.info(f"📊 Running backtest from {start_date}...")
 
     try:
+        from basketball_backtester import BasketballBacktester, load_historical_data
+
         if end_date is None:
             end_date = datetime.now().strftime("%Y-%m-%d")
 
-        logger.info(f"Backtesting period: {start_date} to {end_date}")
-        logger.info("Note: Full backtesting integration pending")
+        # Load historical data
+        df = load_historical_data()
 
-        # Demo output
-        print("\n" + "="*60)
-        print("📊 BACKTESTING RESULTS")
-        print("="*60)
-        print(f"\nPeriod: {start_date} to {end_date}")
-        print("\nPerformance Metrics:")
-        print("  Total Bets: TBD")
-        print("  Win Rate: TBD")
-        print("  ROI: TBD")
-        print("  Sharpe Ratio: TBD")
-        print("  Max Drawdown: TBD")
-        print("\n" + "="*60)
+        if df is None or len(df) == 0:
+            print("\n❌ No historical data available!")
+            print("\n💡 First scrape real data:")
+            print("   python real_historical_data_scraper.py")
+            return False
 
-        return True
+        logger.info(f"Loaded {len(df)} historical games")
+
+        # Create backtester
+        backtester = BasketballBacktester(
+            initial_bankroll=bankroll,
+            kelly_fraction=0.25,  # Quarter Kelly
+            min_edge=0.02,  # 2% minimum edge
+            min_confidence=0.55  # 55% minimum confidence
+        )
+
+        # Calculate split point (80% train, 20% test)
+        df_sorted = df.sort_values('game_date')
+        split_idx = int(len(df) * 0.8)
+
+        train_start = str(df_sorted.iloc[0]['game_date'])[:10]
+        train_end = str(df_sorted.iloc[split_idx]['game_date'])[:10]
+        test_start = str(df_sorted.iloc[split_idx + 1]['game_date'])[:10]
+        test_end = str(df_sorted.iloc[-1]['game_date'])[:10]
+
+        # Run backtest
+        results = backtester.run_backtest(
+            df,
+            train_start=train_start,
+            train_end=train_end,
+            test_start=test_start,
+            test_end=test_end
+        )
+
+        if results.get('success'):
+            backtester.print_results()
+            backtester.save_results("backtest_results.json")
+            return True
+        else:
+            logger.error(f"Backtest failed: {results.get('error')}")
+            return False
 
     except Exception as e:
         logger.error(f"❌ Error running backtest: {e}")
+        import traceback
+        traceback.print_exc()
         return False
 
 
@@ -619,9 +655,12 @@ Full Automation:
         sys.exit(0 if success else 1)
 
     elif args.backtest:
-        if not args.start_date:
-            parser.error("--backtest requires --start-date")
-        success = run_backtest(args.start_date, args.end_date)
+        # For auto backtest, use all available data
+        success = run_backtest(
+            start_date=args.start_date or "2020-01-01",
+            end_date=args.end_date,
+            bankroll=args.bankroll
+        )
         sys.exit(0 if success else 1)
 
     elif args.paper_trade:

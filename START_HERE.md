@@ -28,6 +28,16 @@ python basketball_main.py --full-auto
 python basketball_main.py --monitor-performance
 ```
 
+### Backtest Your System:
+
+```bash
+# Test on historical data to see real performance
+./run_backtest.sh
+
+# Or manually:
+python basketball_main.py --backtest
+```
+
 ---
 
 ## What You Get:
