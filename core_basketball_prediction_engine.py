@@ -559,21 +559,17 @@ class CoreBasketballPredictionEngine:
             if not self.injury_system:
                 return {'available': False}
                 
-            # Basketball injuries have different impacts than baseball
-            impacts = {'available': True}
+            # Get REAL injury data from injury system
+            # This system MUST be connected to real injury reports
+            impacts = self.injury_system.get_team_injury_status(
+                home_team=game_context.home_team,
+                away_team=game_context.away_team,
+                game_date=game_context.date
+            )
             
-            # Mock injury analysis (would normally get real injury reports)
-            impacts['home_impact'] = {
-                'overall_team_impact': 0.0,  # No major injuries
-                'starting_five_impact': 0.0,
-                'bench_depth_impact': 0.0
-            }
-            
-            impacts['away_impact'] = {
-                'overall_team_impact': 0.0,
-                'starting_five_impact': 0.0,
-                'bench_depth_impact': 0.0
-            }
+            if not impacts:
+                self.logger.warning("No injury data available - using system without injury adjustments")
+                return {'available': False}
             
             return impacts
             
@@ -587,20 +583,16 @@ class CoreBasketballPredictionEngine:
             if not self.depth_system:
                 return {'available': False}
                 
-            advantages = {'available': True}
+            # Get REAL depth analysis from depth system
+            # This system MUST analyze actual roster data
+            advantages = self.depth_system.analyze_depth(
+                home_team=game_context.home_team,
+                away_team=game_context.away_team
+            )
             
-            # Analyze bench strength and rotation depth
-            advantages['home_depth'] = {
-                'bench_strength': 0.5,  # Scale 0-1
-                'rotation_depth': 8,    # Number of reliable players
-                'minutes_distribution': 'balanced'
-            }
-            
-            advantages['away_depth'] = {
-                'bench_strength': 0.5,
-                'rotation_depth': 8,
-                'minutes_distribution': 'balanced'
-            }
+            if not advantages:
+                self.logger.warning("No depth data available - using system without depth adjustments")
+                return {'available': False}
             
             return advantages
             

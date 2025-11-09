@@ -80,8 +80,9 @@ class BasketballRAGSystem:
         # Initialize database
         self._init_database()
         
-        # Load sample data if database is empty
-        self._load_sample_data()
+        # WARNING: RAG system requires REAL data to be loaded
+        # Do NOT use sample data for production predictions
+        # Use import_referee_data() and import_venue_data() methods with real data
         
     def _init_database(self):
         """Initialize RAG database schema"""
@@ -167,61 +168,87 @@ class BasketballRAGSystem:
         except Exception as e:
             self.logger.error(f"Error initializing RAG database: {e}")
             
-    def _load_sample_data(self):
-        """Load sample referee and venue data"""
+    def import_referee_data(self, referee_data: List[Dict]):
+        """Import REAL referee data from external source
+        
+        Args:
+            referee_data: List of dicts with keys:
+                - referee_name, games_worked, avg_fouls_per_game, 
+                  avg_points_per_game, home_foul_bias, pace_factor,
+                  technical_foul_rate, experience_years, conference_specialty,
+                  tournament_games
+        """
         try:
             conn = sqlite3.connect(self.db_path)
             cursor = conn.cursor()
             
-            # Check if data already exists
-            cursor.execute("SELECT COUNT(*) FROM referee_profiles")
-            if cursor.fetchone()[0] > 0:
-                conn.close()
-                return
-                
-            # Sample referee data
-            sample_referees = [
-                ("John Higgins", 250, 42.5, 145.2, -1.2, 0.98, 0.08, 25, "ACC,SEC", 45),
-                ("Doug Shows", 230, 45.8, 148.6, 0.8, 1.02, 0.12, 22, "Big 12,Big Ten", 38),
-                ("Ted Valentine", 280, 48.2, 150.1, -0.5, 0.95, 0.15, 30, "ACC,Big East", 52),
-                ("Bo Boroski", 215, 41.3, 143.7, 0.3, 1.01, 0.09, 18, "Big Ten,Big East", 28),
-                ("Jeff Anderson", 200, 43.1, 146.5, -0.8, 0.99, 0.11, 20, "Pac-12,Mountain West", 31)
-            ]
-            
-            for ref in sample_referees:
+            for ref in referee_data:
                 cursor.execute('''
-                    INSERT OR IGNORE INTO referee_profiles (
+                    INSERT OR REPLACE INTO referee_profiles (
                         referee_name, games_worked, avg_fouls_per_game, avg_points_per_game,
                         home_foul_bias, pace_factor, technical_foul_rate, experience_years,
                         conference_specialty, tournament_games, last_updated
                     ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                ''', (*ref, datetime.now().isoformat()))
-                
-            # Sample venue data
-            sample_venues = [
-                ("Cameron Indoor Stadium", "Duke", 9314, 0.842, 9100, 152.3, 0.15, "Loud,Intimate,Historic"),
-                ("Allen Fieldhouse", "Kansas", 16300, 0.835, 16200, 148.7, 0.18, "Historic,Loud,Intimidating"),
-                ("Rupp Arena", "Kentucky", 20500, 0.798, 19500, 155.2, 0.22, "Large,Loud,NBA-style"),
-                ("The Kohl Center", "Wisconsin", 17287, 0.812, 16800, 138.5, 0.12, "Defensive,Slow-pace"),
-                ("Madison Square Garden", "Neutral", 20789, 0.500, 18500, 151.8, 0.28, "Neutral,Big-stage,Tournament")
-            ]
-            
-            for venue in sample_venues:
-                cursor.execute('''
-                    INSERT OR IGNORE INTO venue_profiles (
-                        venue_name, home_team, capacity, home_win_percentage,
-                        avg_attendance, avg_total_points, upset_frequency,
-                        characteristics, last_updated
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
-                ''', (*venue, datetime.now().isoformat()))
+                ''', (
+                    ref['referee_name'],
+                    ref['games_worked'],
+                    ref['avg_fouls_per_game'],
+                    ref['avg_points_per_game'],
+                    ref['home_foul_bias'],
+                    ref['pace_factor'],
+                    ref['technical_foul_rate'],
+                    ref['experience_years'],
+                    ref['conference_specialty'],
+                    ref['tournament_games'],
+                    datetime.now().isoformat()
+                ))
                 
             conn.commit()
             conn.close()
             
-            self.logger.info("Sample RAG data loaded successfully")
+            self.logger.info(f"Imported {len(referee_data)} referee profiles")
             
         except Exception as e:
-            self.logger.error(f"Error loading sample data: {e}")
+            self.logger.error(f"Error importing referee data: {e}")
+    
+    def import_venue_data(self, venue_data: List[Dict]):
+        """Import REAL venue data from external source
+        
+        Args:
+            venue_data: List of dicts with keys:
+                - venue_name, home_team, capacity, home_win_percentage,
+                  avg_attendance, avg_total_points, upset_frequency, characteristics
+        """
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+            
+            for venue in venue_data:
+                cursor.execute('''
+                    INSERT OR REPLACE INTO venue_profiles (
+                        venue_name, home_team, capacity, home_win_percentage,
+                        avg_attendance, avg_total_points, upset_frequency,
+                        characteristics, last_updated
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ''', (
+                    venue['venue_name'],
+                    venue['home_team'],
+                    venue['capacity'],
+                    venue['home_win_percentage'],
+                    venue['avg_attendance'],
+                    venue['avg_total_points'],
+                    venue['upset_frequency'],
+                    venue['characteristics'],
+                    datetime.now().isoformat()
+                ))
+                
+            conn.commit()
+            conn.close()
+            
+            self.logger.info(f"Imported {len(venue_data)} venue profiles")
+            
+        except Exception as e:
+            self.logger.error(f"Error importing venue data: {e}")
             
     def get_referee_context(self, referee_name: str) -> Optional[RefereeProfile]:
         """Retrieve referee profile and tendencies"""

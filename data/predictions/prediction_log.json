@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "created_at": "2025-11-09T03:54:57.498232",
+    "version": "1.0",
+    "description": "Prediction tracking log for college basketball system"
+  },
+  "predictions": [
+    {
+      "prediction_id": "test_game_001_spread_20251109_035457",
+      "timestamp": "2025-11-09T03:54:57.499046",
+      "game_id": "test_game_001",
+      "game_date": "2025-11-09",
+      "home_team": "Duke",
+      "away_team": "UNC",
+      "bet_type": "spread",
+      "selection": "Duke -3.5",
+      "predicted_probability": 0.58,
+      "raw_confidence": 0.75,
+      "calibrated_confidence": 0.75,
+      "line": -3.5,
+      "odds": -110,
+      "edge_percentage": 0.05,
+      "suggested_units": 1.0,
+      "recommendation": "BET",
+      "model_version": "1.0.0",
+      "confidence_tier": "MEDIUM",
+      "data_quality_score": 0.8,
+      "model_agreement": 0.7,
+      "key_factors": [
+        "Home court advantage",
+        "Conference strength"
+      ],
+      "risk_factors": [],
+      "reasoning": "Strong home team with conference advantage",
+      "actual_result": "Duke won by 5",
+      "bet_outcome": "WIN",
+      "profit_loss": 0.91,
+      "outcome_timestamp": "2025-11-09T03:54:57.499411"
+    }
+  ]
+}
