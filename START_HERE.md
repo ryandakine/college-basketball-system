@@ -1,5 +1,16 @@
 # 🚀 START HERE - One Command Setup
 
+## ⚠️ CRITICAL: This System ONLY Uses REAL Data
+
+**NO synthetic. NO mock. NO simulated data.** Only REAL data from:
+- **Barttorvik** (team efficiency - FREE)
+- **ESPN** (injuries + games - FREE)
+- **The Odds API** (real betting lines - FREE tier)
+
+**Setup real data first:** See `REAL_DATA_SETUP.md` (15 minutes)
+
+---
+
 ## Get to 58-62% accuracy in 30 minutes using ONLY REAL data!
 
 ### Run This:
