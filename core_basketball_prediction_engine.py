@@ -38,6 +38,12 @@ try:
 except ImportError as e:
     logging.warning(f"Could not import basketball systems: {e}")
 
+try:
+    from prediction_logger import PredictionLogger
+except ImportError as e:
+    logging.warning(f"Could not import prediction logger: {e}")
+    PredictionLogger = None
+
 @dataclass
 class GameContext:
     """Complete game context information for college basketball"""
@@ -188,6 +194,21 @@ class CoreBasketballPredictionEngine:
         # Basketball-specific constants
         self.AVERAGE_COLLEGE_POSSESSIONS = 68.0
         self.AVERAGE_COLLEGE_POINTS = 71.0
+        
+        # Confidence calibration settings
+        self.CALIBRATION_THRESHOLD = 0.80  # Apply calibration above 80%
+        self.CALIBRATION_MULTIPLIER = 0.85  # Multiply by 0.85 for overconfident predictions
+        self.PROBLEMATIC_CONFIDENCE_MIN = 0.50  # Flag 50-60% bucket
+        self.PROBLEMATIC_CONFIDENCE_MAX = 0.60
+        
+        # Initialize prediction logger
+        self.prediction_logger = None
+        if PredictionLogger:
+            try:
+                self.prediction_logger = PredictionLogger()
+                self.logger.info("Prediction logger initialized")
+            except Exception as e:
+                self.logger.warning(f"Could not initialize prediction logger: {e}")
         
     def _init_database(self):
         """Initialize basketball prediction database"""
@@ -771,6 +792,26 @@ class CoreBasketballPredictionEngine:
         else:
             return -odds / (-odds + 100)
             
+    def _apply_confidence_calibration(self, raw_confidence: float) -> tuple[float, bool]:
+        """Apply calibration to overconfident predictions
+        
+        Returns:
+            (calibrated_confidence, is_problematic_bucket)
+        """
+        # Check if in problematic 50-60% bucket
+        is_problematic = (self.PROBLEMATIC_CONFIDENCE_MIN <= raw_confidence <= self.PROBLEMATIC_CONFIDENCE_MAX)
+        
+        # Apply calibration for overconfident predictions (>80%)
+        if raw_confidence > self.CALIBRATION_THRESHOLD:
+            calibrated = raw_confidence * self.CALIBRATION_MULTIPLIER
+            self.logger.info(
+                f"Calibrated confidence: {raw_confidence:.2%} -> {calibrated:.2%} "
+                f"(applied {self.CALIBRATION_MULTIPLIER}x multiplier)"
+            )
+            return calibrated, is_problematic
+            
+        return raw_confidence, is_problematic
+        
     def _generate_betting_recommendations(
         self,
         game_context: GameContext,
@@ -780,7 +821,8 @@ class CoreBasketballPredictionEngine:
         """Generate actionable betting recommendations."""
         recommendations: Dict[str, Union[BasketballBettingRecommendation, List[BasketballBettingRecommendation]]] = {}
 
-        confidence_multiplier = max(
+        # Calculate raw confidence
+        raw_confidence_multiplier = max(
             0.1,
             min(
                 1.0,
@@ -789,6 +831,16 @@ class CoreBasketballPredictionEngine:
                 + (components.data_quality_score * 0.2),
             ),
         )
+        
+        # Apply calibration
+        confidence_multiplier, is_problematic = self._apply_confidence_calibration(raw_confidence_multiplier)
+        
+        # Flag problematic confidence bucket (50-60%)
+        if is_problematic:
+            self.logger.warning(
+                f"Prediction in problematic 50-60% confidence bucket ({raw_confidence_multiplier:.1%}). "
+                "Consider avoiding bet or retraining model."
+            )
 
         # Spread recommendation
         spread_info = game_context.betting_lines.get('spread', {})
@@ -840,6 +892,13 @@ class CoreBasketballPredictionEngine:
                         f"{selection} shows {edge_pct:.1%} edge"
                     ),
                 )
+                
+                # Log prediction
+                if self.prediction_logger:
+                    self._log_betting_recommendation(
+                        game_context, recommendations['spread'], 
+                        raw_confidence_multiplier, confidence_multiplier, is_problematic
+                    )
 
         # Total recommendation
         total_info = game_context.betting_lines.get('total', {})
@@ -886,6 +945,13 @@ class CoreBasketballPredictionEngine:
                         f"{total_side.upper()} edge {edge_pct:.1%}"
                     ),
                 )
+                
+                # Log prediction
+                if self.prediction_logger:
+                    self._log_betting_recommendation(
+                        game_context, recommendations['total'],
+                        raw_confidence_multiplier, confidence_multiplier, is_problematic
+                    )
 
         # Moneyline recommendation
         moneyline_info = game_context.odds.get('moneyline', {})
@@ -929,6 +995,13 @@ class CoreBasketballPredictionEngine:
                         f"for {ml_team}"
                     ),
                 )
+                
+                # Log prediction
+                if self.prediction_logger:
+                    self._log_betting_recommendation(
+                        game_context, recommendations['moneyline'],
+                        raw_confidence_multiplier, confidence_multiplier, is_problematic
+                    )
 
         recommendations['props'] = []
         return recommendations
@@ -1236,6 +1309,50 @@ class CoreBasketballPredictionEngine:
             risks.append("Tempo near league average")
         return risks[:3]
 
+    def _log_betting_recommendation(
+        self,
+        game_context: GameContext,
+        recommendation: BasketballBettingRecommendation,
+        raw_confidence: float,
+        calibrated_confidence: float,
+        is_problematic: bool
+    ):
+        """Log betting recommendation to prediction logger"""
+        try:
+            # Add problematic flag to risk factors if needed
+            risk_factors = list(recommendation.risk_factors)
+            if is_problematic:
+                risk_factors.insert(0, "⚠️ Problematic 50-60% confidence bucket")
+                
+            prediction_data = {
+                'game_id': game_context.game_id,
+                'game_date': game_context.date.strftime('%Y-%m-%d'),
+                'home_team': game_context.home_team,
+                'away_team': game_context.away_team,
+                'bet_type': recommendation.bet_type,
+                'selection': f"{game_context.home_team if recommendation.bet_type == 'moneyline' else recommendation.bet_type}",
+                'predicted_probability': 0.0,  # Would need to calculate based on bet type
+                'raw_confidence': raw_confidence,
+                'calibrated_confidence': calibrated_confidence,
+                'line': None,  # Would extract from recommendation
+                'odds': recommendation.recommended_odds,
+                'edge_percentage': recommendation.edge_percentage,
+                'suggested_units': recommendation.suggested_unit_size,
+                'recommendation': recommendation.recommendation,
+                'model_version': self.model_version,
+                'confidence_tier': 'HIGH' if calibrated_confidence >= 0.75 else 'MEDIUM' if calibrated_confidence >= 0.60 else 'LOW',
+                'data_quality_score': 0.8,  # Would get from components
+                'model_agreement': 0.7,  # Would get from components
+                'key_factors': recommendation.key_factors,
+                'risk_factors': risk_factors,
+                'reasoning': recommendation.reasoning
+            }
+            
+            self.prediction_logger.log_prediction(prediction_data)
+            
+        except Exception as e:
+            self.logger.error(f"Error logging betting recommendation: {e}")
+    
     def _serialize_prediction(self, prediction: ComprehensiveBasketballPrediction) -> Dict[str, Any]:
         """Serialize structured prediction for database storage."""
         payload = {
