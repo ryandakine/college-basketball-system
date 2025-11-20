@@ -1,0 +1,50 @@
+{
+  "bankroll": 995.5,
+  "initial_bankroll": 1000,
+  "bets": [
+    {
+      "id": "BET-0001",
+      "game_id": "GAME001",
+      "home_team": "Duke",
+      "away_team": "UNC",
+      "pick": "HOME",
+      "confidence": 0.72,
+      "spread_prediction": 5.5,
+      "odds": 1.91,
+      "bet_amount": 50.0,
+      "potential_profit": 45.5,
+      "placed_at": "2025-11-20T14:14:44.432023",
+      "status": "won",
+      "profit": 45.5,
+      "resolved_at": "2025-11-20T14:14:44.433445",
+      "actual_winner": "HOME",
+      "home_score": 78,
+      "away_score": 72,
+      "actual_spread": 6
+    },
+    {
+      "id": "BET-0002",
+      "game_id": "GAME002",
+      "home_team": "Kentucky",
+      "away_team": "Kansas",
+      "pick": "AWAY",
+      "confidence": 0.68,
+      "spread_prediction": -3.2,
+      "odds": 1.91,
+      "bet_amount": 50.0,
+      "potential_profit": 45.5,
+      "placed_at": "2025-11-20T14:14:44.432812",
+      "status": "lost",
+      "profit": -50.0,
+      "resolved_at": "2025-11-20T14:14:44.434062",
+      "actual_winner": "HOME",
+      "home_score": 85,
+      "away_score": 80,
+      "actual_spread": 5
+    }
+  ],
+  "pending_bets": [],
+  "daily_results": [],
+  "created_at": "2025-11-20T14:14:44.431555",
+  "last_updated": "2025-11-20T14:14:44.434074"
+}
