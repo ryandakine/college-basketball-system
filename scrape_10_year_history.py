@@ -239,6 +239,79 @@ class TenYearHistoricalScraper:
     def scrape_barttorvik_season(self, year: int) -> List[Dict]:
         """
         Scrape Barttorvik efficiency ratings for a season
+        Falls back to Sports Reference if Barttorvik is blocked
+
+        Args:
+            year: Season end year
+
+        Returns:
+            List of team efficiency dictionaries
+        """
+        teams = []
+
+        # Try Barttorvik first
+        try:
+            url = f"{self.barttorvik_base}/trank.php?year={year}"
+            response = self.session.get(url, timeout=10)
+
+            if response.status_code == 200 and 'Access Denied' not in response.text:
+                soup = BeautifulSoup(response.content, 'html.parser')
+
+                # Find ratings table
+                table = soup.find('table')
+                if table:
+                    rows = table.find_all('tr')[1:]  # Skip header
+
+                    for row in rows:
+                        cols = row.find_all('td')
+                        if len(cols) < 10:
+                            continue
+
+                        try:
+                            team_data = {
+                                'season': year,
+                                'rank': int(cols[0].text.strip()),
+                                'team': cols[1].text.strip(),
+                                'conference': cols[2].text.strip(),
+                                'record': cols[3].text.strip(),
+                                'adj_oe': float(cols[4].text.strip()),
+                                'adj_de': float(cols[5].text.strip()),
+                                'adj_em': float(cols[6].text.strip()),
+                                'tempo': float(cols[7].text.strip()),
+                                'barthag': float(cols[8].text.strip()) if cols[8].text.strip() else 0.5,
+                                'data_source': 'BARTTORVIK'
+                            }
+
+                            # Parse record
+                            record = cols[3].text.strip()
+                            if '-' in record:
+                                parts = record.split('-')
+                                team_data['wins'] = int(parts[0])
+                                team_data['losses'] = int(parts[1])
+
+                            teams.append(team_data)
+
+                        except (ValueError, IndexError) as e:
+                            continue
+
+                    time.sleep(self.request_delay)
+
+                    if teams:
+                        logger.info(f"   ✅ Barttorvik: {len(teams)} teams")
+                        return teams
+
+            logger.warning(f"Barttorvik blocked for {year}, trying Sports Reference...")
+
+        except Exception as e:
+            logger.warning(f"Barttorvik error for {year}: {e}, trying Sports Reference...")
+
+        # Fallback to Sports Reference
+        teams = self.scrape_sports_reference_ratings(year)
+        return teams
+
+    def scrape_sports_reference_ratings(self, year: int) -> List[Dict]:
+        """
+        Scrape team ratings from Sports Reference as fallback
 
         Args:
             year: Season end year
@@ -249,58 +322,129 @@ class TenYearHistoricalScraper:
         teams = []
 
         try:
-            url = f"{self.barttorvik_base}/trank.php?year={year}"
-            response = self.session.get(url, timeout=10)
+            # Sports Reference college basketball ratings page
+            url = f"{self.sports_ref_base}/seasons/{year}-school-stats.html"
+            response = self.session.get(url, timeout=15)
 
             if response.status_code != 200:
-                logger.warning(f"Barttorvik returned {response.status_code} for {year}")
+                logger.warning(f"Sports Reference returned {response.status_code} for {year}")
                 return teams
 
             soup = BeautifulSoup(response.content, 'html.parser')
 
-            # Find ratings table
-            table = soup.find('table')
+            # Find the main stats table
+            table = soup.find('table', {'id': 'basic_school_stats'})
             if not table:
+                # Try alternate table ID
+                table = soup.find('table', {'class': 'stats_table'})
+
+            if not table:
+                logger.warning(f"No stats table found for {year}")
                 return teams
 
-            rows = table.find_all('tr')[1:]  # Skip header
+            tbody = table.find('tbody')
+            if not tbody:
+                return teams
+
+            rows = tbody.find_all('tr')
+            rank = 0
 
             for row in rows:
-                cols = row.find_all('td')
+                # Skip header rows
+                if row.get('class') and 'thead' in row.get('class', []):
+                    continue
+
+                cols = row.find_all(['td', 'th'])
                 if len(cols) < 10:
                     continue
 
                 try:
+                    rank += 1
+
+                    # Extract team name
+                    team_cell = row.find('td', {'data-stat': 'school_name'})
+                    if not team_cell:
+                        team_cell = cols[0]
+                    team_name = team_cell.text.strip()
+
+                    if not team_name:
+                        continue
+
+                    # Extract stats
+                    def get_stat(stat_name, default=0):
+                        cell = row.find('td', {'data-stat': stat_name})
+                        if cell and cell.text.strip():
+                            try:
+                                return float(cell.text.strip())
+                            except ValueError:
+                                return default
+                        return default
+
+                    # Get basic stats
+                    wins = int(get_stat('wins', 0))
+                    losses = int(get_stat('losses', 0))
+                    pts = get_stat('pts', 70)
+                    opp_pts = get_stat('opp_pts', 70)
+
+                    # Calculate efficiency metrics
+                    games = wins + losses
+                    if games > 0:
+                        ppg = pts / games if pts > 10 else get_stat('pts_per_g', 70)
+                        opp_ppg = opp_pts / games if opp_pts > 10 else get_stat('opp_pts_per_g', 70)
+                    else:
+                        ppg = get_stat('pts_per_g', 70)
+                        opp_ppg = get_stat('opp_pts_per_g', 70)
+
+                    # Estimate adjusted efficiency (not as accurate as Barttorvik but usable)
+                    # Average D1 efficiency is ~100 for both offense and defense
+                    adj_oe = ppg * 1.43  # Rough conversion to per-100-possessions
+                    adj_de = opp_ppg * 1.43
+                    adj_em = adj_oe - adj_de
+
+                    # Estimate tempo and win probability
+                    tempo = get_stat('pace', 68)
+                    if tempo == 0:
+                        tempo = 68  # D1 average
+
+                    # Calculate Pythag win expectation
+                    if ppg + opp_ppg > 0:
+                        pythag = (ppg ** 11.5) / ((ppg ** 11.5) + (opp_ppg ** 11.5))
+                    else:
+                        pythag = 0.5
+
                     team_data = {
                         'season': year,
-                        'rank': int(cols[0].text.strip()),
-                        'team': cols[1].text.strip(),
-                        'conference': cols[2].text.strip(),
-                        'record': cols[3].text.strip(),
-                        'adj_oe': float(cols[4].text.strip()),
-                        'adj_de': float(cols[5].text.strip()),
-                        'adj_em': float(cols[6].text.strip()),
-                        'tempo': float(cols[7].text.strip()),
-                        'barthag': float(cols[8].text.strip()) if cols[8].text.strip() else 0.5,
-                        'data_source': 'BARTTORVIK'
+                        'rank': rank,
+                        'team': team_name,
+                        'conference': get_stat('conf_abbr', ''),
+                        'record': f"{wins}-{losses}",
+                        'wins': wins,
+                        'losses': losses,
+                        'adj_oe': round(adj_oe, 1),
+                        'adj_de': round(adj_de, 1),
+                        'adj_em': round(adj_em, 1),
+                        'tempo': round(tempo, 1),
+                        'barthag': round(pythag, 3),
+                        'data_source': 'SPORTS_REFERENCE'
                     }
-
-                    # Parse record
-                    record = cols[3].text.strip()
-                    if '-' in record:
-                        parts = record.split('-')
-                        team_data['wins'] = int(parts[0])
-                        team_data['losses'] = int(parts[1])
 
                     teams.append(team_data)
 
-                except (ValueError, IndexError) as e:
+                except (ValueError, IndexError, AttributeError) as e:
                     continue
 
-            time.sleep(self.request_delay)
+            # Sort by estimated efficiency margin
+            teams.sort(key=lambda x: x.get('adj_em', 0), reverse=True)
+            for i, team in enumerate(teams):
+                team['rank'] = i + 1
+
+            time.sleep(3.0)  # Sports Reference needs longer delays
+
+            if teams:
+                logger.info(f"   ✅ Sports Reference: {len(teams)} teams")
 
         except Exception as e:
-            logger.error(f"Error scraping Barttorvik {year}: {e}")
+            logger.error(f"Error scraping Sports Reference {year}: {e}")
 
         return teams
 
