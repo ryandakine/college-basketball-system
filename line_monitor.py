@@ -95,8 +95,9 @@ class LineMonitor:
         """Fetch current odds from sports betting APIs"""
         api_key = self.config['api_keys'].get('odds_api_key')
         if not api_key or api_key == "your_odds_api_key_here":
-            logging.warning("No valid API key configured. Using mock data for demo.")
-            return self.generate_mock_odds()
+            logging.error("No valid API key configured. Please configure 'odds_api_key' in monitor_config.json")
+            logging.error("Get your API key from: https://the-odds-api.com")
+            return {'futures': {}, 'games': {}, 'timestamp': datetime.now().isoformat(), 'error': 'No API key configured'}
         
         try:
             # Tournament futures
@@ -131,31 +132,10 @@ class LineMonitor:
             
         except requests.RequestException as e:
             logging.error(f"API request failed: {e}")
-            return self.generate_mock_odds()
+            logging.error("Unable to fetch odds data. Please check your API key and internet connection.")
+            return {'futures': {}, 'games': {}, 'timestamp': datetime.now().isoformat(), 'error': str(e)}
     
-    def generate_mock_odds(self) -> Dict:
-        """Generate mock odds for demonstration"""
-        mock_data = {
-            'futures': {
-                'cincinnati_tournament': {'odds': +180, 'implied_prob': 0.357},
-                'xavier_tournament': {'odds': +165, 'implied_prob': 0.377},
-                'providence_tournament': {'odds': +175, 'implied_prob': 0.364},
-                'seton_hall_tournament': {'odds': +170, 'implied_prob': 0.370},
-                'vcu_tournament': {'odds': +160, 'implied_prob': 0.385},
-                'saint_marys_tournament': {'odds': +150, 'implied_prob': 0.400},
-                'dayton_tournament': {'odds': +145, 'implied_prob': 0.408},
-                'utah_state_tournament': {'odds': +250, 'implied_prob': 0.286}
-            },
-            'season_totals': {
-                'cincinnati_wins': {'total': 18.5, 'over_odds': -110, 'under_odds': -110},
-                'xavier_wins': {'total': 18.5, 'over_odds': -115, 'under_odds': -105},
-                'providence_wins': {'total': 18.5, 'over_odds': -110, 'under_odds': -110},
-                'auburn_wins': {'total': 24.5, 'over_odds': -105, 'under_odds': -115},
-                'st_johns_wins': {'total': 21.5, 'over_odds': -110, 'under_odds': -110}
-            },
-            'timestamp': datetime.now().isoformat()
-        }
-        return mock_data
+
     
     def analyze_value_opportunities(self, odds_data: Dict) -> List[Dict]:
         """Analyze current odds for value opportunities"""
