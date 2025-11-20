@@ -423,11 +423,31 @@ class BasketballBacktester:
         logger.info(f"💾 Results saved to {filename}")
 
 
-def load_historical_data() -> pd.DataFrame:
+def load_historical_data(data_path: str = None) -> pd.DataFrame:
     """Load historical game data from database or CSV"""
     logger.info("Loading historical data...")
 
-    # Try loading from scraped_games.csv first
+    # If specific path provided, use it
+    if data_path:
+        path = Path(data_path)
+        if path.exists():
+            logger.info(f"Loading from {path}")
+            df = pd.read_csv(path)
+            logger.info(f"Loaded {len(df)} games from {path}")
+            return df
+        else:
+            logger.error(f"File not found: {path}")
+            return None
+
+    # Try loading from 10-year historical data (scraped data)
+    historical_path = Path("data/historical/all_games_10yr.csv")
+    if historical_path.exists():
+        logger.info(f"Loading from {historical_path}")
+        df = pd.read_csv(historical_path)
+        logger.info(f"Loaded {len(df)} games from 10-year historical data")
+        return df
+
+    # Try loading from scraped_games.csv
     csv_path = Path("scraped_games.csv")
     if csv_path.exists():
         logger.info(f"Loading from {csv_path}")
@@ -450,40 +470,80 @@ def load_historical_data() -> pd.DataFrame:
         except:
             conn.close()
 
+    # Try historical database
+    hist_db_path = Path("data/historical/historical_10yr.db")
+    if hist_db_path.exists():
+        logger.info(f"Loading from {hist_db_path}")
+        conn = sqlite3.connect(hist_db_path)
+        try:
+            df = pd.read_sql_query("SELECT * FROM historical_games", conn)
+            conn.close()
+            logger.info(f"Loaded {len(df)} games from historical database")
+            return df
+        except:
+            conn.close()
+
     logger.error("❌ No historical data found!")
-    logger.error("Run data scraper first: python real_historical_data_scraper.py")
+    logger.error("Run data scraper first: python scrape_10_year_history.py")
     return None
 
 
 if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description="🏀 Basketball Backtesting Engine",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python basketball_backtester.py                                    # Auto-detect data
+  python basketball_backtester.py --data data/historical/all_games_10yr.csv  # Specify CSV
+  python basketball_backtester.py --bankroll 5000 --kelly 0.5        # Custom settings
+        """
+    )
+
+    parser.add_argument('--data', type=str, help='Path to historical data CSV')
+    parser.add_argument('--bankroll', type=float, default=10000, help='Initial bankroll (default: 10000)')
+    parser.add_argument('--kelly', type=float, default=0.25, help='Kelly fraction (default: 0.25)')
+    parser.add_argument('--min-edge', type=float, default=0.02, help='Minimum edge to bet (default: 0.02)')
+    parser.add_argument('--min-confidence', type=float, default=0.55, help='Minimum confidence (default: 0.55)')
+    parser.add_argument('--train-ratio', type=float, default=0.8, help='Training data ratio (default: 0.8)')
+
+    args = parser.parse_args()
+
     print("\n🏀 Basketball Backtesting Engine\n")
 
     # Load data
-    df = load_historical_data()
+    df = load_historical_data(args.data)
 
     if df is None or len(df) == 0:
         print("❌ No data available for backtesting")
-        print("\n Run: python real_historical_data_scraper.py")
+        print("\nRun the scraper first: python scrape_10_year_history.py")
+        print("Or specify data path: python basketball_backtester.py --data path/to/data.csv")
         exit(1)
 
     print(f"✅ Loaded {len(df)} historical games")
 
     # Run backtest
     backtester = BasketballBacktester(
-        initial_bankroll=10000,
-        kelly_fraction=0.25,  # Quarter Kelly
-        min_edge=0.02,  # 2% minimum edge
-        min_confidence=0.55  # 55% minimum confidence
+        initial_bankroll=args.bankroll,
+        kelly_fraction=args.kelly,
+        min_edge=args.min_edge,
+        min_confidence=args.min_confidence
     )
 
-    # Use 80/20 split of data
+    # Use train/test split
     df_sorted = df.sort_values('game_date')
-    split_idx = int(len(df) * 0.8)
+    split_idx = int(len(df) * args.train_ratio)
 
     train_start = df_sorted.iloc[0]['game_date']
     train_end = df_sorted.iloc[split_idx]['game_date']
     test_start = df_sorted.iloc[split_idx + 1]['game_date']
     test_end = df_sorted.iloc[-1]['game_date']
+
+    print(f"\n📊 Data Split:")
+    print(f"   Training: {train_start} to {train_end} ({split_idx} games)")
+    print(f"   Testing:  {test_start} to {test_end} ({len(df) - split_idx - 1} games)")
 
     results = backtester.run_backtest(
         df,
