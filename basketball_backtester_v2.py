@@ -117,30 +117,42 @@ class BasketballBacktesterV2:
 
         feature_cols = []
 
-        # 1. Basic scoring features
+        # Sort by date first (critical for point-in-time features)
+        df = df.sort_values('game_date').reset_index(drop=True)
+
+        # 1. Basic scoring features - POINT-IN-TIME (only past games)
         if 'home_score' in df.columns:
-            df['home_scoring_avg'] = df.groupby('home_team')['home_score'].transform('mean')
-            df['away_scoring_avg'] = df.groupby('away_team')['away_score'].transform('mean')
+            # Use expanding mean with shift to only include past games
+            df['home_scoring_avg'] = df.groupby('home_team')['home_score'].transform(
+                lambda x: x.expanding().mean().shift(1)
+            )
+            df['away_scoring_avg'] = df.groupby('away_team')['away_score'].transform(
+                lambda x: x.expanding().mean().shift(1)
+            )
             feature_cols.extend(['home_scoring_avg', 'away_scoring_avg'])
 
-        # 2. Win percentage (momentum)
-        df['home_win_pct'] = df.groupby('home_team')['home_score'].transform(
-            lambda x: (x > df.loc[x.index, 'away_score']).rolling(10, min_periods=1).mean()
+        # 2. Win percentage - POINT-IN-TIME (rolling last 10 games, shifted)
+        df['home_won'] = (df['home_score'] > df['away_score']).astype(int)
+        df['away_won'] = (df['away_score'] > df['home_score']).astype(int)
+
+        df['home_win_pct'] = df.groupby('home_team')['home_won'].transform(
+            lambda x: x.rolling(10, min_periods=1).mean().shift(1)
         )
-        df['away_win_pct'] = df.groupby('away_team')['away_score'].transform(
-            lambda x: (x > df.loc[x.index, 'home_score']).rolling(10, min_periods=1).mean()
+        df['away_win_pct'] = df.groupby('away_team')['away_won'].transform(
+            lambda x: x.rolling(10, min_periods=1).mean().shift(1)
         )
         feature_cols.extend(['home_win_pct', 'away_win_pct'])
 
-        # 3. Point differential (efficiency proxy)
-        df['home_avg_margin'] = df.groupby('home_team').apply(
-            lambda x: (x['home_score'] - x['away_score']).mean(),
-            include_groups=False
-        ).reindex(df['home_team']).values
-        df['away_avg_margin'] = df.groupby('away_team').apply(
-            lambda x: (x['away_score'] - x['home_score']).mean(),
-            include_groups=False
-        ).reindex(df['away_team']).values
+        # 3. Point differential - POINT-IN-TIME (expanding mean, shifted)
+        df['home_margin'] = df['home_score'] - df['away_score']
+        df['away_margin'] = df['away_score'] - df['home_score']
+
+        df['home_avg_margin'] = df.groupby('home_team')['home_margin'].transform(
+            lambda x: x.expanding().mean().shift(1)
+        )
+        df['away_avg_margin'] = df.groupby('away_team')['away_margin'].transform(
+            lambda x: x.expanding().mean().shift(1)
+        )
         feature_cols.extend(['home_avg_margin', 'away_avg_margin'])
 
         # 4. Home court advantage
@@ -148,6 +160,8 @@ class BasketballBacktesterV2:
         feature_cols.append('home_advantage')
 
         # 5. Merge efficiency ratings if available
+        # NOTE: These are end-of-season ratings, so there's some look-ahead bias
+        # In production, you'd want to use point-in-time ratings from earlier in season
         if self.efficiency_data is not None:
             df = self._merge_efficiency_features(df)
             efficiency_features = ['home_ortg', 'home_drtg', 'home_srs',
@@ -155,6 +169,8 @@ class BasketballBacktesterV2:
             for feat in efficiency_features:
                 if feat in df.columns:
                     feature_cols.append(feat)
+            # Use previous season's ratings to reduce look-ahead bias
+            # (still not perfect, but better than current season end-of-year)
 
         # 6. Conference game indicator
         if 'conference_game' in df.columns:
