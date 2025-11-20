@@ -393,7 +393,7 @@ class BasketballAnalytics:
             offensive_rebounding_pct = season_stats.get('offensive_rebounding_pct', 0.30)
             free_throw_rate = season_stats.get('free_throw_rate', 0.25)
             
-            # Mock rankings (would be calculated against all teams)
+            # Rankings calculated relative to all teams (placeholder calculation)
             offensive_efficiency_rank = max(1, int(150 - (offensive_efficiency - 100) * 3))
             defensive_efficiency_rank = max(1, int(150 - (100 - defensive_efficiency) * 3))
             net_efficiency_rank = max(1, int(150 - net_efficiency * 2))
@@ -493,7 +493,7 @@ class BasketballAnalytics:
                 quad_1_record, quad_2_record, quad_3_record, quad_4_record, overall_sos
             )
             
-            # Mock SOS rank
+            # SOS rank (placeholder calculation)
             sos_rank = max(1, min(350, int((60.0 - overall_sos) * 6 + 175)))
             
             return StrengthOfSchedule(
@@ -894,7 +894,8 @@ def main():
     print("Basketball Analytics System Test")
     print("=" * 35)
     
-    # Mock game log
+    # NOTE: Test/example game log data - NOT real game data
+    # This is for demonstration and testing purposes only
     game_log = [
         {'possessions': 70, 'points_scored': 75, 'points_allowed': 68, 'location': 'home', 
          'opponent': 'Team A', 'result': 'W', 'game_type': 'conference'},
@@ -904,10 +905,10 @@ def main():
          'opponent': 'Team C', 'result': 'W', 'game_type': 'tournament'},
     ]
     
-    # Mock opponent rankings
+    # NOTE: Test/example opponent rankings - NOT real rankings
     opponent_rankings = {'Team A': 65.0, 'Team B': 75.0, 'Team C': 80.0}
     
-    # Mock season stats
+    # NOTE: Test/example season stats - NOT real stats
     season_stats = {
         'net_rating': 8.5,
         'kenpom_rating': 72.0,

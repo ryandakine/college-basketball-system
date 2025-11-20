@@ -839,7 +839,8 @@ def main():
     print("Basketball Injury Impact System Test")
     print("=" * 40)
     
-    # Mock injury data
+    # NOTE: Test/example injury data - NOT real injury data
+    # This is for demonstration and testing purposes only
     current_injuries = [
         {
             'player_id': 'player_001',
@@ -860,7 +861,8 @@ def main():
         }
     ]
     
-    # Mock roster data
+    # NOTE: Test/example roster data - NOT real roster data
+    # This is for demonstration and testing purposes only
     roster_data = [
         {'player_id': 'player_002', 'position': 'PG', 'status': 'Healthy', 'minutes_per_game': 15, 'class': 'SO'},
         {'player_id': 'player_003', 'position': 'SG', 'status': 'Healthy', 'minutes_per_game': 25, 'class': 'JR'},

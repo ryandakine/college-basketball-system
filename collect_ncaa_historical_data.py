@@ -3,13 +3,17 @@
 NCAA Basketball Historical Data Collector (2015-2024)
 ======================================================
 
+PRIORITY: REGULAR SEASON GAMES (happening now!)
+
 Collects 10 years of college basketball data for backtesting:
+- REGULAR SEASON games (Nov-Mar) - PRIMARY FOCUS
+- Conference games and rivalries
 - Game results with scores
-- Tournament context (seeds, rounds)
 - Spreads and ATS results
 - Conference information
 - Attendance when available
 - TV coverage info
+- Tournament context (seeds, rounds) - SECONDARY
 
 Uses free public APIs where possible.
 """

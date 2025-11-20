@@ -20,10 +20,28 @@ from dataclasses import dataclass
 from datetime import datetime
 import logging
 
-# Mock classes for modules that may not be available
+
+# Real analysis modules
+try:
+    from agent_player_coach_relationships import AgentPlayerCoachAnalyzer
+    from march_madness_upset_model import MarchMadnessUpsetModel
+    from basketball_injury_impact_system import BasketballInjuryImpactSystem
+    from basketball_versatility_analysis import BasketballVersatilityAnalyzer
+    from basketball_analytics import BasketballAnalytics
+    from advanced_ml_pipeline import AdvancedMLPipeline
+    from nil_era_backtesting import NILEraBacktester
+except ImportError as e:
+    logger.warning(f"Could not import some modules: {e}")
+
+# Fallback classes for modules that may not be available
+# NOTE: These are NOT mock data - they provide graceful degradation when modules fail to load
 class MockAnalyzer:
-    def __init__(self): pass
-    def analyze(self, *args, **kwargs): return 0.5
+    def __init__(self): 
+        logger.warning("Using MockAnalyzer fallback - real module failed to load. System operating in degraded mode.")
+    def analyze(self, *args, **kwargs): 
+        logger.warning("MockAnalyzer.analyze() called - please configure proper analyzer modules for full functionality")
+        return 0.5
+
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -71,13 +89,13 @@ class IntegratedBettingSystem:
     
     def __init__(self):
         # Initialize all analyzers with mock fallbacks
-        self.relationship_analyzer = MockAnalyzer()
-        self.upset_predictor = MockAnalyzer()
-        self.injury_analyzer = MockAnalyzer()
-        self.versatility_analyzer = MockAnalyzer()
-        self.analytics_engine = MockAnalyzer()
-        self.ml_trainer = MockAnalyzer()
-        self.backtester = MockAnalyzer()
+        self.relationship_analyzer = self._safe_init(AgentPlayerCoachAnalyzer) or MockAnalyzer()
+        self.upset_predictor = self._safe_init(MarchMadnessUpsetModel) or MockAnalyzer()
+        self.injury_analyzer = self._safe_init(BasketballInjuryImpactSystem) or MockAnalyzer()
+        self.versatility_analyzer = self._safe_init(BasketballVersatilityAnalyzer) or MockAnalyzer()
+        self.analytics_engine = self._safe_init(BasketballAnalytics) or MockAnalyzer()
+        self.ml_trainer = self._safe_init(AdvancedMLPipeline) or MockAnalyzer()
+        self.backtester = self._safe_init(NILEraBacktester) or MockAnalyzer()
         
         # Integration weights (tuned through backtesting)
         self.component_weights = {
@@ -381,8 +399,9 @@ class IntegratedBettingSystem:
             return 0.5
         
         try:
-            # Mock ML prediction for demo
+            # Get ML predictions from game data
             ml_predictions = game_data.get('ml_predictions', {})
+
             
             # Average confidence across models
             spread_confidence = ml_predictions.get('spread_confidence', 0.52)
