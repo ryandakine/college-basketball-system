@@ -236,8 +236,15 @@ class BasketballBacktester:
         logger.info(f"Initial Bankroll: ${self.initial_bankroll:,.2f}")
         logger.info("="*60)
 
-        # Convert date strings to datetime
-        df['game_date'] = pd.to_datetime(df['game_date'])
+        # Ensure dates are datetime
+        if not pd.api.types.is_datetime64_any_dtype(df['game_date']):
+            df['game_date'] = pd.to_datetime(df['game_date'])
+
+        # Convert boundary dates to datetime if needed
+        train_start = pd.to_datetime(train_start)
+        train_end = pd.to_datetime(train_end)
+        test_start = pd.to_datetime(test_start)
+        test_end = pd.to_datetime(test_end)
 
         # Split data
         train_mask = (df['game_date'] >= train_start) & (df['game_date'] <= train_end)
@@ -413,14 +420,46 @@ class BasketballBacktester:
             logger.error("No results to save")
             return
 
+        def convert_to_serializable(obj):
+            """Convert numpy types to Python native types"""
+            if isinstance(obj, dict):
+                return {k: convert_to_serializable(v) for k, v in obj.items()}
+            elif isinstance(obj, list):
+                return [convert_to_serializable(v) for v in obj]
+            elif isinstance(obj, (np.bool_, np.integer)):
+                return int(obj)
+            elif isinstance(obj, np.floating):
+                return float(obj)
+            elif isinstance(obj, np.ndarray):
+                return obj.tolist()
+            else:
+                return obj
+
         # Convert to JSON-serializable format
         results_copy = self.results.copy()
         results_copy['bets'] = results_copy['bets'][:100]  # Save only first 100 bets
+        results_copy = convert_to_serializable(results_copy)
 
         with open(filename, 'w') as f:
             json.dump(results_copy, f, indent=2)
 
         logger.info(f"💾 Results saved to {filename}")
+
+
+def normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
+    """Normalize column names for different data sources"""
+    # Handle 'date' vs 'game_date'
+    if 'date' in df.columns and 'game_date' not in df.columns:
+        df['game_date'] = df['date']
+
+    # Convert date to datetime if it's numeric (YYYYMMDD format)
+    if 'game_date' in df.columns:
+        if df['game_date'].dtype in ['int64', 'float64']:
+            df['game_date'] = pd.to_datetime(df['game_date'].astype(str), format='%Y%m%d')
+        else:
+            df['game_date'] = pd.to_datetime(df['game_date'])
+
+    return df
 
 
 def load_historical_data(data_path: str = None) -> pd.DataFrame:
@@ -433,6 +472,7 @@ def load_historical_data(data_path: str = None) -> pd.DataFrame:
         if path.exists():
             logger.info(f"Loading from {path}")
             df = pd.read_csv(path)
+            df = normalize_columns(df)
             logger.info(f"Loaded {len(df)} games from {path}")
             return df
         else:
@@ -444,6 +484,7 @@ def load_historical_data(data_path: str = None) -> pd.DataFrame:
     if historical_path.exists():
         logger.info(f"Loading from {historical_path}")
         df = pd.read_csv(historical_path)
+        df = normalize_columns(df)
         logger.info(f"Loaded {len(df)} games from 10-year historical data")
         return df
 

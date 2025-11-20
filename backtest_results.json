@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "model_accuracy": 0.7449302182126609,
+  "total_bets": 11538,
+  "winning_bets": 8903,
+  "losing_bets": 2635,
+  "win_rate": 0.7716241983012654,
+  "total_staked": 1.2410240570505028e+210,
+  "total_profit": 3.5715543876909506e+209,
+  "roi": 28.779090682410587,
+  "initial_bankroll": 10000,
+  "final_bankroll": 3.5715543876909506e+209,
+  "total_return": 3.5715543876909504e+207,
+  "sharpe_ratio": 10.56824691547131,
+  "max_drawdown": -56.5056590106804,
+  "bets": [
+    {
+      "game_idx": 1,
+      "prediction": "HOME",
+      "confidence": 0.9982437750508236,
+      "bet_size": 1000.0,
+      "odds": 1.91,
+      "won": 
