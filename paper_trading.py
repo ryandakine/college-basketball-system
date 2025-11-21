@@ -191,8 +191,10 @@ class PaperTradingSystem:
                 'total_bets': 0,
                 'pending_bets': len(self.data['pending_bets']),
                 'bankroll': self.data['bankroll'],
+                'initial_bankroll': self.data['initial_bankroll'],
                 'profit': 0,
-                'roi': 0
+                'roi': 0,
+                'total_return': 0
             }
 
         wins = sum(1 for b in self.data['bets'] if b['status'] == 'won')
@@ -240,7 +242,11 @@ class PaperTradingSystem:
         if stats['pending_bets'] > 0:
             print(f"\n⏳ PENDING BETS: {stats['pending_bets']}")
             for bet in self.data['pending_bets']:
-                print(f"   {bet['id']}: {bet['pick']} ({bet['home_team']} vs {bet['away_team']}) - ${bet['bet_amount']:.2f}")
+                # Get the pick detail (team name) if available
+                pick_team = bet['home_team'] if bet['pick'] == 'HOME' else bet['away_team']
+                print(f"   {bet['id']}: {pick_team} ({bet['pick']})")
+                print(f"      Match: {bet['home_team']} vs {bet['away_team']}")
+                print(f"      Wager: ${bet['bet_amount']:.2f} @ {bet['odds']:.2f} (Conf: {bet.get('confidence', 0)*100:.1f}%)")
 
         # Recent bets
         if self.data['bets']:
