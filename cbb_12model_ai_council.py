@@ -21,6 +21,7 @@ try:
     from basketball_analytics import BasketballAnalytics
     from basketball_injury_impact_system import BasketballInjuryImpactSystem
     from march_madness_upset_model import MarchMadnessUpsetModel
+    from mcb_narrative_analyzer import MCBNarrativeAnalyzer
 except ImportError as e:
     logging.warning(f"Could not import basketball systems: {e}")
 
@@ -64,7 +65,7 @@ class BasketballRecommendation:
 
 class CBB12ModelAICouncil:
     """
-    12-Model AI Council for College Basketball
+    13-Model AI Council for College Basketball
     
     Models:
     1. Tempo/Pace Model
@@ -79,6 +80,7 @@ class CBB12ModelAICouncil:
     10. Sharp Money/Line Movement
     11. Prop Betting Model
     12. Live In-Game Model
+    13. Narrative Intelligence (Entertainment & Psychology)
     
     Meta-Reasoners:
     - DeepSeek Meta (analyzes all models)
@@ -99,6 +101,7 @@ class CBB12ModelAICouncil:
             'sharp_money': 1.2,      # Line movement
             'props': 1.0,            # Player props
             'live': 1.1,             # In-game adjustments
+            'narrative': 1.3,        # Entertainment & Psychology
             'gemini_meta': 1.4,      # AI meta-reasoner
         }
         
@@ -110,6 +113,7 @@ class CBB12ModelAICouncil:
             self.analytics = BasketballAnalytics()
             self.injury_system = BasketballInjuryImpactSystem() 
             self.upset_model = MarchMadnessUpsetModel()
+            self.narrative_analyzer = MCBNarrativeAnalyzer()
             logger.info("✅ Basketball engines loaded")
         except Exception as e:
             logger.warning(f"Could not load all basketball engines: {e}")
@@ -117,6 +121,7 @@ class CBB12ModelAICouncil:
             self.analytics = None
             self.injury_system = None
             self.upset_model = None
+            self.narrative_analyzer = None
         
         # Initialize AI meta-reasoners
         if genai and os.getenv('GEMINI_API_KEY'):
@@ -170,6 +175,10 @@ class CBB12ModelAICouncil:
         
         # 10. Sharp Money Model
         model_predictions.append(self._model_sharp_money(game_data))
+        
+        # 11. Narrative Intelligence (Entertainment & Psychology)
+        if self.narrative_analyzer:
+            model_predictions.append(self._model_narrative(game_data))
         
         # Meta-Reasoner: Gemini AI
         if genai:
@@ -438,6 +447,73 @@ class CBB12ModelAICouncil:
             reasoning=reasoning,
             weight=self.model_weights['sharp_money']
         )
+    
+    def _model_narrative(self, game_data: Dict) -> ModelPrediction:
+        """Model 11: Narrative Intelligence (Entertainment & Psychology)"""
+        home = game_data.get('home_team')
+        away = game_data.get('away_team')
+        
+        try:
+            # Extract month from date
+            date_str = game_data.get('date', '')
+            if date_str:
+                try:
+                    from datetime import datetime
+                    date_obj = datetime.fromisoformat(date_str)
+                    month = date_obj.month
+                except:
+                    from datetime import datetime
+                    month = datetime.now().month
+            else:
+                from datetime import datetime
+                month = datetime.now().month
+            
+            # Prepare narrative data
+            narrative_data = {
+                'home_team': home,
+                'away_team': away,
+                'broadcast': game_data.get('broadcast', ''),
+                'is_tournament': game_data.get('tournament_context') == 'march_madness',
+                'month': month,
+                'home_seed': game_data.get('home_seed'),
+                'away_seed': game_data.get('away_seed'),
+                'is_conference_tournament': game_data.get('is_conference_tournament', False),
+            }
+            
+            # Run narrative analysis
+            analysis = self.narrative_analyzer.analyze_narrative(narrative_data)
+            
+            # Determine winner based on narrative score
+            if analysis.narrative_score > 0:
+                winner = home
+                confidence = 0.50 + abs(analysis.narrative_score) * 0.25
+            elif analysis.narrative_score < 0:
+                winner = away
+                confidence = 0.50 + abs(analysis.narrative_score) * 0.25
+            else:
+                winner = home
+                confidence = 0.50
+            
+            # Build reasoning from narrative factors
+            reasoning = f"Narrative: {', '.join(analysis.factors[:2]) if analysis.factors else 'No significant factors'}"
+            
+            return ModelPrediction(
+                model_name='narrative',
+                predicted_winner=winner,
+                confidence=min(confidence, 0.75),
+                reasoning=reasoning,
+                weight=self.model_weights['narrative']
+            )
+        
+        except Exception as e:
+            logger.warning(f"Narrative model failed: {e}")
+            return ModelPrediction(
+                model_name='narrative',
+                predicted_winner=home,
+                confidence=0.50,
+                reasoning="Narrative: Analysis unavailable",
+                weight=self.model_weights['narrative']
+            )
     
     def _model_gemini_meta(self, game_data: Dict, predictions: List[ModelPrediction]) -> Optional[ModelPrediction]:
         """Meta-Reasoner: Gemini AI analyzes all models"""
