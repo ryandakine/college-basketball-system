@@ -471,6 +471,13 @@ class DataCollector:
                     competition = event.get('competitions', [{}])[0]
                     competitors = competition.get('competitors', [])
                     
+                    # Extract broadcast info
+                    broadcasts = competition.get('broadcasts', [])
+                    broadcast_network = None
+                    if broadcasts:
+                        # Get the first broadcast network name
+                        broadcast_network = broadcasts[0].get('names', [''])[0] if broadcasts[0].get('names') else None
+                    
                     if len(competitors) >= 2:
                         home_team = competitors[0]
                         away_team = competitors[1]
@@ -482,6 +489,7 @@ class DataCollector:
                             'home_score': int(home_team.get('score', 0)),
                             'away_score': int(away_team.get('score', 0)),
                             'location': 'home' if home_team.get('homeAway') == 'home' else 'away',
+                            'broadcast': broadcast_network,  # Add broadcast info
                         }
                         
                         games.append(game)

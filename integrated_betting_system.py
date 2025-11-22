@@ -30,6 +30,7 @@ try:
     from basketball_analytics import BasketballAnalytics
     from advanced_ml_pipeline import AdvancedMLPipeline
     from nil_era_backtesting import NILEraBacktester
+    from mcb_narrative_analyzer import MCBNarrativeAnalyzer
 except ImportError as e:
     logger.warning(f"Could not import some modules: {e}")
 
@@ -96,15 +97,17 @@ class IntegratedBettingSystem:
         self.analytics_engine = self._safe_init(BasketballAnalytics) or MockAnalyzer()
         self.ml_trainer = self._safe_init(AdvancedMLPipeline) or MockAnalyzer()
         self.backtester = self._safe_init(NILEraBacktester) or MockAnalyzer()
+        self.narrative_analyzer = self._safe_init(MCBNarrativeAnalyzer) or MockAnalyzer()
         
-        # Integration weights (tuned through backtesting)
-        self.component_weights = {
-            'relationship_edge': 0.25,      # Proven 16.6% ROI
-            'upset_probability': 0.20,      # March Madness specialization  
-            'injury_impact': 0.15,          # High impact in basketball
-            'versatility_edge': 0.15,       # Coaching adaptability
-            'analytics_edge': 0.15,         # Traditional analytics
-            'ml_confidence': 0.10          # ML model validation
+        # Component weights for final confidence calculation
+        self.weights = {
+            'relationship': 0.15,
+            'upset': 0.15,
+            'injury': 0.15,
+            'versatility': 0.10,
+            'analytics': 0.20,
+            'ml': 0.15,
+            'narrative': 0.10  # Entertainment & Psychology factor
         }
         
         # Betting thresholds (optimized for maximum ROI)
@@ -155,6 +158,7 @@ class IntegratedBettingSystem:
         versatility_edge = self._analyze_versatility_edge(game_data)
         analytics_edge = self._analyze_analytics_edge(game_data)
         ml_confidence = self._analyze_ml_confidence(game_data)
+        narrative_score = self._analyze_narrative(game_data)
         
         # Calculate final integrated confidence
         final_confidence = self._calculate_final_confidence({
@@ -163,7 +167,8 @@ class IntegratedBettingSystem:
             'injury_impact': injury_impact,
             'versatility_edge': versatility_edge,
             'analytics_edge': analytics_edge,
-            'ml_confidence': ml_confidence
+            'ml_confidence': ml_confidence,
+            'narrative_score': narrative_score
         })
         
         # Generate betting recommendations
@@ -418,6 +423,55 @@ class IntegratedBettingSystem:
         except Exception as e:
             logger.warning(f"ML analysis failed: {e}")
             return 0.5
+    
+    def _analyze_narrative(self, game_data: Dict) -> float:
+        """Analyze entertainment & psychology narrative factors."""
+        try:
+            # Extract month from date
+            date_str = game_data.get('date', '')
+            if date_str:
+                try:
+                    from datetime import datetime
+                    date_obj = datetime.fromisoformat(date_str)
+                    month = date_obj.month
+                except:
+                    from datetime import datetime
+                    month = datetime.now().month
+            else:
+                from datetime import datetime
+                month = datetime.now().month
+            
+            # Prepare narrative analysis data
+            narrative_data = {
+                'home_team': game_data.get('home_team', ''),
+                'away_team': game_data.get('away_team', ''),
+                'broadcast': game_data.get('broadcast', ''),
+                'is_tournament': game_data.get('is_tournament', False),
+                'month': month,
+                'home_seed': game_data.get('home_seed'),
+                'away_seed': game_data.get('away_seed'),
+                'is_conference_tournament': game_data.get('is_conference_tournament', False),
+                # Additional context
+                'home_recent_losses': game_data.get('home_recent_losses', 0),
+                'away_recent_losses': game_data.get('away_recent_losses', 0),
+                'home_on_bubble': game_data.get('home_on_bubble', False),
+                'away_on_bubble': game_data.get('away_on_bubble', False),
+                'home_tournament_lock': game_data.get('home_tournament_lock', False),
+                'away_tournament_lock': game_data.get('away_tournament_lock', False),
+                'home_needs_autobid': game_data.get('home_needs_autobid', False),
+                'away_needs_autobid': game_data.get('away_needs_autobid', False),
+            }
+            
+            # Run narrative analysis
+            analysis = self.narrative_analyzer.analyze_narrative(narrative_data)
+            
+            # Return narrative score (normalized to 0-1 range)
+            # Narrative score is -1 to 1, we convert to 0-1 for consistency
+            return (analysis.narrative_score + 1.0) / 2.0
+            
+        except Exception as e:
+            logger.warning(f"Error in narrative analysis: {e}")
+            return 0.5  # Neutral if analysis fails
     
     def _calculate_final_confidence(self, component_scores: Dict[str, float]) -> float:
         """Calculate weighted final confidence score."""
