@@ -126,10 +126,14 @@ class CBB12ModelAICouncil:
         
         # Initialize AI meta-reasoners
         self.deepseek_api_key = os.getenv('DEEPSEEK_API_KEY')
-        if self.deepseek_api_key:
-            logger.info("✅ DeepSeek R1 (Primary) configured")
+        self.openrouter_api_key = os.getenv('OPENROUTER_API_KEY')
+        
+        if self.openrouter_api_key:
+            logger.info("✅ DeepSeek R1 (via OpenRouter) configured")
+        elif self.deepseek_api_key:
+            logger.info("✅ DeepSeek R1 (Direct) configured")
         else:
-            logger.warning("⚠️ DeepSeek API key not found")
+            logger.warning("⚠️ DeepSeek/OpenRouter API key not found")
 
         if genai and os.getenv('GEMINI_API_KEY'):
             genai.configure(api_key=os.getenv('GEMINI_API_KEY'))
@@ -528,8 +532,10 @@ class CBB12ModelAICouncil:
             )
     
     def _model_deepseek_meta(self, game_data: Dict, predictions: List[ModelPrediction]) -> Optional[ModelPrediction]:
-        """Meta-Reasoner 1: DeepSeek R1 analyzes all models (Primary)"""
-        if not self.deepseek_api_key:
+        """Meta-Reasoner 1: DeepSeek R1 analyzes all models (via OpenRouter)"""
+        # Check for OpenRouter Key first, then DeepSeek Key
+        api_key = os.getenv('OPENROUTER_API_KEY') or self.deepseek_api_key
+        if not api_key:
             return None
             
         try:
@@ -544,16 +550,20 @@ class CBB12ModelAICouncil:
             summary += f"\nContext: {game_data.get('tournament_context', 'regular_season')}\n"
             summary += "Task: Analyze these conflicting signals. You are the 'DeepSeek R1' meta-reasoner. Synthesize the data and provide a final verdict."
             
-            # Call DeepSeek API
+            # Call OpenRouter API
             response = requests.post(
-                "https://api.deepseek.com/v1/chat/completions",
-                headers={"Authorization": f"Bearer {self.deepseek_api_key}"},
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers={
+                    "Authorization": f"Bearer {api_key}",
+                    "HTTP-Referer": "https://github.com/ryandakine/college-basketball-system",
+                    "X-Title": "CBB AI Council"
+                },
                 json={
-                    "model": "deepseek-reasoner", # R1
+                    "model": "deepseek/deepseek-r1", # OpenRouter ID for R1
                     "messages": [{"role": "user", "content": summary}],
                     "temperature": 0.7
                 },
-                timeout=10
+                timeout=15
             )
             
             if response.status_code == 200:
@@ -579,7 +589,9 @@ class CBB12ModelAICouncil:
                     reasoning=f"DeepSeek R1: {content[:150]}...",
                     weight=self.model_weights['deepseek_meta']
                 )
-            return None
+            else:
+                logger.warning(f"OpenRouter API error: {response.status_code} - {response.text}")
+                return None
 
         except Exception as e:
             logger.warning(f"DeepSeek meta-reasoner failed: {e}")
