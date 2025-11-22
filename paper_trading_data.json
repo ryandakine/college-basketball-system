@@ -1,8 +1,7 @@
 {
-  "bankroll": 1000.0,
+  "bankroll": 1036.0511999999999,
   "initial_bankroll": 1000,
-  "bets": [],
-  "pending_bets": [
+  "bets": [
     {
       "id": "BET-0003",
       "game_id": "401823636",
@@ -15,21 +14,13 @@
       "bet_amount": 49.78,
       "potential_profit": 45.3,
       "placed_at": "2025-11-20T19:51:52.507071",
-      "status": "pending"
-    },
-    {
-      "id": "BET-0004",
-      "game_id": "401829386",
-      "home_team": "Tennessee Volunteers",
-      "away_team": "Tennessee State Tigers",
-      "pick": "HOME",
-      "confidence": 0.6232104019728845,
-      "spread_prediction": 3.6963120591865337,
-      "odds": 1.91,
-      "bet_amount": 49.78,
-      "potential_profit": 45.3,
-      "placed_at": "2025-11-20T19:51:52.507949",
-      "status": "pending"
+      "status": "lost",
+      "profit": -49.78,
+      "resolved_at": "2025-11-21T10:00:01.705631",
+      "actual_winner": "HOME",
+      "home_score": 80,
+      "away_score": 71,
+      "actual_spread": 9
     },
     {
       "id": "BET-0005",
@@ -43,10 +34,94 @@
       "bet_amount": 44.54,
       "potential_profit": 40.53,
       "placed_at": "2025-11-20T19:51:52.511475",
+      "status": "won",
+      "profit": 40.53,
+      "resolved_at": "2025-11-21T10:00:01.706494",
+      "actual_winner": "HOME",
+      "home_score": 97,
+      "away_score": 49,
+      "actual_spread": 48
+    },
+    {
+      "id": "BET-0004",
+      "game_id": "401829386",
+      "home_team": "Tennessee Volunteers",
+      "away_team": "Tennessee State Tigers",
+      "pick": "HOME",
+      "confidence": 0.6232104019728845,
+      "spread_prediction": 3.6963120591865337,
+      "odds": 1.91,
+      "bet_amount": 49.78,
+      "potential_profit": 45.3,
+      "placed_at": "2025-11-20T19:51:52.507949",
+      "status": "won",
+      "profit": 45.3,
+      "resolved_at": "2025-11-21T10:00:01.706711",
+      "actual_winner": "HOME",
+      "home_score": 89,
+      "away_score": 60,
+      "actual_spread": 29
+    }
+  ],
+  "pending_bets": [
+    {
+      "id": "BET-0004",
+      "game_id": "401813377",
+      "home_team": "Duke Blue Devils",
+      "away_team": "Niagara Purple Eagles",
+      "pick": "HOME",
+      "confidence": 0.6587402847184349,
+      "spread_prediction": 4.762208541553048,
+      "odds": 1.91,
+      "bet_amount": 51.8,
+      "potential_profit": 47.14,
+      "placed_at": "2025-11-21T10:00:01.853050",
+      "status": "pending"
+    },
+    {
+      "id": "BET-0005",
+      "game_id": "401820187",
+      "home_team": "Kentucky Wildcats",
+      "away_team": "Loyola Maryland Greyhounds",
+      "pick": "HOME",
+      "confidence": 0.6575755436116618,
+      "spread_prediction": 4.727266308349854,
+      "odds": 1.91,
+      "bet_amount": 51.8,
+      "potential_profit": 47.14,
+      "placed_at": "2025-11-21T10:00:01.853361",
+      "status": "pending"
+    },
+    {
+      "id": "BET-0006",
+      "game_id": "401823371",
+      "home_team": "Michigan State Spartans",
+      "away_team": "Detroit Mercy Titans",
+      "pick": "AWAY",
+      "confidence": 0.599924885441385,
+      "spread_prediction": -2.99774656324155,
+      "odds": 1.91,
+      "bet_amount": 41.52,
+      "potential_profit": 37.78,
+      "placed_at": "2025-11-21T10:00:01.853622",
+      "status": "pending"
+    },
+    {
+      "id": "BET-0007",
+      "game_id": "401826788",
+      "home_team": "Arkansas Razorbacks",
+      "away_team": "Jackson State Tigers",
+      "pick": "HOME",
+      "confidence": 0.5960763572123,
+      "spread_prediction": 2.8822907163690004,
+      "odds": 1.91,
+      "bet_amount": 39.42,
+      "potential_profit": 35.87,
+      "placed_at": "2025-11-21T10:00:01.853854",
       "status": "pending"
     }
   ],
   "daily_results": [],
   "created_at": "2025-11-20T14:14:44.431555",
-  "last_updated": "2025-11-20T19:54:49.546539"
+  "last_updated": "2025-11-21T10:00:01.853856"
 }

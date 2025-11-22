@@ -1,0 +1,242 @@
+game_id,date,season,home_team,away_team,home_score,away_score,winner,total_points,point_diff,venue,neutral_site,conference_game
+400787433,2015-05-22,2015,Chicago Sky,New York Liberty,83,55,Chicago Sky,138,28,Bob Carpenter Center,True,False
+400787434,2015-05-23,2015,Tulsa Shock,San Antonio Stars,81,51,Tulsa Shock,132,30,BOK Center,False,False
+400787435,2015-05-23,2015,Indiana Fever,Connecticut Sun,68,76,Connecticut Sun,144,8,KFC Yum! Center,True,False
+400787436,2015-05-23,2015,Atlanta Dream,Washington Mystics,55,79,Washington Mystics,134,24,KFC Yum! Center,True,False
+400787437,2015-05-26,2015,Seattle Storm,Phoenix Mercury,73,59,Seattle Storm,132,14,KeyArena,False,False
+400787438,2015-05-27,2015,New York Liberty,Atlanta Dream,72,85,Atlanta Dream,157,13,Madison Square Garden,False,False
+400787439,2015-05-27,2015,Washington Mystics,Minnesota Lynx,89,63,Washington Mystics,152,26,Capital One Arena,False,False
+400787440,2015-05-27,2015,Chicago Sky,Los Angeles Sparks,67,76,Los Angeles Sparks,143,9,Mohegan Sun Arena,True,False
+400787561,2015-05-27,2015,Connecticut Sun,CHINA,86,65,Connecticut Sun,151,21,Mohegan Sun Arena,False,False
+400787562,2015-05-28,2015,San Antonio Stars,Tulsa Shock,71,79,Tulsa Shock,150,8,Freeman Coliseum,False,False
+400787563,2015-05-28,2015,Phoenix Mercury,Seattle Storm,79,73,Phoenix Mercury,152,6,Mortgage Matchup Center,False,False
+400787564,2015-05-28,2015,Chicago Sky,CHINA,92,59,Chicago Sky,151,33,Mohegan Sun Arena,True,False
+400787565,2015-05-28,2015,Connecticut Sun,Los Angeles Sparks,57,64,Los Angeles Sparks,121,7,Mohegan Sun Arena,False,False
+400787566,2015-05-29,2015,Indiana Fever,Washington Mystics,76,74,Indiana Fever,150,2,Corteva Coliseum,False,False
+400787567,2015-06-02,2015,Minnesota Lynx,New York Liberty,85,80,Minnesota Lynx,165,5,Target Center,False,False
+400610636,2015-06-05,2015,Connecticut Sun,Washington Mystics,68,73,Washington Mystics,141,5,Mohegan Sun Arena,False,False
+400610637,2015-06-05,2015,New York Liberty,Atlanta Dream,82,73,New York Liberty,155,9,Madison Square Garden,False,False
+400610638,2015-06-06,2015,Minnesota Lynx,Tulsa Shock,83,75,Minnesota Lynx,158,8,Target Center,False,False
+400610639,2015-06-06,2015,Chicago Sky,Indiana Fever,95,72,Chicago Sky,167,23,Allstate Arena,False,False
+400610640,2015-06-06,2015,Phoenix Mercury,San Antonio Stars,76,71,Phoenix Mercury,147,5,Mortgage Matchup Center,False,False
+400610641,2015-06-06,2015,Washington Mystics,New York Liberty,67,62,Washington Mystics,129,5,Capital One Arena,False,False
+400610642,2015-06-06,2015,Indiana Fever,Minnesota Lynx,69,78,Minnesota Lynx,147,9,Gainbridge Fieldhouse,False,False
+400610643,2015-06-07,2015,Tulsa Shock,Chicago Sky,101,93,Tulsa Shock,194,8,BOK Center,False,False
+400610644,2015-06-07,2015,Seattle Storm,Los Angeles Sparks,86,61,Seattle Storm,147,25,KeyArena,False,False
+400610645,2015-06-07,2015,Atlanta Dream,Connecticut Sun,70,75,Connecticut Sun,145,5,State Farm Arena,False,False
+400610646,2015-06-09,2015,New York Liberty,Indiana Fever,86,79,New York Liberty,165,7,Madison Square Garden,False,False
+400610647,2015-06-10,2015,Tulsa Shock,Seattle Storm,68,45,Tulsa Shock,113,23,BOK Center,False,False
+400610648,2015-06-11,2015,Connecticut Sun,Chicago Sky,67,65,Connecticut Sun,132,2,Mohegan Sun Arena,False,False
+400610649,2015-06-11,2015,New York Liberty,Phoenix Mercury,68,57,New York Liberty,125,11,Madison Square Garden,False,False
+400610650,2015-06-11,2015,Atlanta Dream,San Antonio Stars,72,69,Atlanta Dream,141,3,State Farm Arena,False,False
+400610651,2015-06-12,2015,Minnesota Lynx,Seattle Storm,94,70,Minnesota Lynx,164,24,Target Center,False,False
+400610652,2015-06-12,2015,Washington Mystics,Atlanta Dream,61,64,Atlanta Dream,125,3,Capital One Arena,False,False
+400610653,2015-06-12,2015,Indiana Fever,Phoenix Mercury,77,74,Indiana Fever,151,3,Gainbridge Fieldhouse,False,False
+400610654,2015-06-14,2015,Indiana Fever,Chicago Sky,72,98,Chicago Sky,170,26,Gainbridge Fieldhouse,False,False
+400610655,2015-06-14,2015,Connecticut Sun,Atlanta Dream,82,64,Connecticut Sun,146,18,Mohegan Sun Arena,False,False
+400610656,2015-06-14,2015,Phoenix Mercury,Minnesota Lynx,81,66,Phoenix Mercury,147,15,Mortgage Matchup Center,False,False
+400610657,2015-06-14,2015,San Antonio Stars,Tulsa Shock,62,73,Tulsa Shock,135,11,Freeman Coliseum,False,False
+400610658,2015-06-14,2015,Los Angeles Sparks,Seattle Storm,54,60,Seattle Storm,114,6,crypto.com Arena,False,False
+400610659,2015-06-14,2015,New York Liberty,Washington Mystics,59,74,Washington Mystics,133,15,Madison Square Garden,False,False
+400610660,2015-06-16,2015,Atlanta Dream,Indiana Fever,79,90,Indiana Fever,169,11,State Farm Arena,False,False
+400610661,2015-06-16,2015,Tulsa Shock,San Antonio Stars,88,61,Tulsa Shock,149,27,BOK Center,False,False
+400610662,2015-06-17,2015,Seattle Storm,Connecticut Sun,58,79,Connecticut Sun,137,21,KeyArena,False,False
+400610663,2015-06-17,2015,Los Angeles Sparks,Minnesota Lynx,52,67,Minnesota Lynx,119,15,crypto.com Arena,False,False
+400610664,2015-06-19,2015,Washington Mystics,Tulsa Shock,82,86,Tulsa Shock,168,4,Capital One Arena,False,False
+400610665,2015-06-19,2015,New York Liberty,Indiana Fever,63,80,Indiana Fever,143,17,Madison Square Garden,False,False
+400610666,2015-06-19,2015,Atlanta Dream,Chicago Sky,74,73,Atlanta Dream,147,1,State Farm Arena,False,False
+400610667,2015-06-20,2015,San Antonio Stars,Minnesota Lynx,59,74,Minnesota Lynx,133,15,Freeman Coliseum,False,False
+400610668,2015-06-20,2015,Phoenix Mercury,Connecticut Sun,78,90,Connecticut Sun,168,12,Mortgage Matchup Center,False,False
+400610669,2015-06-20,2015,Indiana Fever,Washington Mystics,75,87,Washington Mystics,162,12,Gainbridge Fieldhouse,False,False
+400610670,2015-06-21,2015,San Antonio Stars,Chicago Sky,87,95,Chicago Sky,182,8,Freeman Coliseum,False,False
+400610671,2015-06-21,2015,Atlanta Dream,New York Liberty,64,73,New York Liberty,137,9,State Farm Arena,False,False
+400610672,2015-06-21,2015,Los Angeles Sparks,Connecticut Sun,68,76,Connecticut Sun,144,8,crypto.com Arena,False,False
+400610673,2015-06-21,2015,Minnesota Lynx,Tulsa Shock,78,86,Tulsa Shock,164,8,Target Center,False,False
+400610674,2015-06-22,2015,Seattle Storm,Phoenix Mercury,72,84,Phoenix Mercury,156,12,KeyArena,False,False
+400610675,2015-06-24,2015,Washington Mystics,Los Angeles Sparks,84,80,Washington Mystics,164,4,Capital One Arena,False,False
+400610676,2015-06-24,2015,Chicago Sky,Atlanta Dream,100,96,Chicago Sky,196,4,Allstate Arena,False,False
+400610677,2015-06-26,2015,San Antonio Stars,Phoenix Mercury,76,71,San Antonio Stars,147,5,Freeman Coliseum,False,False
+400610678,2015-06-26,2015,Seattle Storm,Minnesota Lynx,73,76,Minnesota Lynx,149,3,KeyArena,False,False
+400610679,2015-06-26,2015,Connecticut Sun,Los Angeles Sparks,80,76,Connecticut Sun,156,4,Mohegan Sun Arena,False,False
+400610680,2015-06-26,2015,Indiana Fever,Chicago Sky,77,83,Chicago Sky,160,6,Gainbridge Fieldhouse,False,False
+400610681,2015-06-26,2015,Atlanta Dream,Washington Mystics,72,69,Atlanta Dream,141,3,State Farm Arena,False,False
+400610682,2015-06-27,2015,Tulsa Shock,New York Liberty,71,62,Tulsa Shock,133,9,BOK Center,False,False
+400610683,2015-06-28,2015,Minnesota Lynx,Phoenix Mercury,71,56,Minnesota Lynx,127,15,Target Center,False,False
+400610684,2015-06-28,2015,San Antonio Stars,Seattle Storm,73,71,San Antonio Stars,144,2,Freeman Coliseum,False,False
+400610685,2015-06-28,2015,New York Liberty,Los Angeles Sparks,79,70,New York Liberty,149,9,Madison Square Garden,False,False
+400610686,2015-06-28,2015,Washington Mystics,Chicago Sky,86,71,Washington Mystics,157,15,Capital One Arena,False,False
+400610687,2015-06-28,2015,Tulsa Shock,Seattle Storm,93,89,Tulsa Shock,182,4,BOK Center,False,False
+400610688,2015-06-30,2015,Connecticut Sun,Indiana Fever,84,92,Indiana Fever,176,8,Mohegan Sun Arena,False,False
+400610689,2015-07-01,2015,Chicago Sky,New York Liberty,81,89,New York Liberty,170,8,Allstate Arena,False,False
+400610690,2015-07-01,2015,Phoenix Mercury,San Antonio Stars,85,78,Phoenix Mercury,163,7,Mortgage Matchup Center,False,False
+400610691,2015-07-01,2015,Seattle Storm,Tulsa Shock,74,69,Seattle Storm,143,5,KeyArena,False,False
+400610692,2015-07-02,2015,Connecticut Sun,Chicago Sky,74,77,Chicago Sky,151,3,Mohegan Sun Arena,False,False
+400610693,2015-07-02,2015,Indiana Fever,Washington Mystics,73,50,Indiana Fever,123,23,Gainbridge Fieldhouse,False,False
+400610694,2015-07-03,2015,Phoenix Mercury,Tulsa Shock,86,55,Phoenix Mercury,141,31,Mortgage Matchup Center,False,False
+400610695,2015-07-03,2015,Los Angeles Sparks,San Antonio Stars,86,81,Los Angeles Sparks,167,5,crypto.com Arena,False,False
+400610696,2015-07-04,2015,Minnesota Lynx,Seattle Storm,82,57,Minnesota Lynx,139,25,Target Center,False,False
+400610697,2015-07-04,2015,Los Angeles Sparks,Tulsa Shock,98,95,Los Angeles Sparks,193,3,crypto.com Arena,False,False
+400610698,2015-07-05,2015,Atlanta Dream,Seattle Storm,72,64,Atlanta Dream,136,8,State Farm Arena,False,False
+400610699,2015-07-05,2015,Los Angeles Sparks,Phoenix Mercury,91,94,Phoenix Mercury,185,3,crypto.com Arena,False,False
+400610700,2015-07-08,2015,Atlanta Dream,Tulsa Shock,75,85,Tulsa Shock,160,10,State Farm Arena,False,False
+400610701,2015-07-08,2015,Indiana Fever,Seattle Storm,88,65,Indiana Fever,153,23,Gainbridge Fieldhouse,False,False
+400610702,2015-07-09,2015,San Antonio Stars,Los Angeles Sparks,70,63,San Antonio Stars,133,7,Freeman Coliseum,False,False
+400610703,2015-07-09,2015,Washington Mystics,New York Liberty,76,79,New York Liberty,155,3,Capital One Arena,False,False
+400610704,2015-07-10,2015,Indiana Fever,San Antonio Stars,83,76,Indiana Fever,159,7,Gainbridge Fieldhouse,False,False
+400610705,2015-07-11,2015,Chicago Sky,Minnesota Lynx,90,83,Chicago Sky,173,7,Allstate Arena,False,False
+400610706,2015-07-11,2015,Seattle Storm,Phoenix Mercury,79,94,Phoenix Mercury,173,15,KeyArena,False,False
+400610707,2015-07-12,2015,Tulsa Shock,Los Angeles Sparks,82,67,Tulsa Shock,149,15,BOK Center,False,False
+400610708,2015-07-12,2015,Atlanta Dream,New York Liberty,84,76,Atlanta Dream,160,8,State Farm Arena,False,False
+400610709,2015-07-12,2015,Chicago Sky,Connecticut Sun,96,76,Chicago Sky,172,20,Allstate Arena,False,False
+400610710,2015-07-12,2015,Phoenix Mercury,Seattle Storm,70,60,Phoenix Mercury,130,10,Mortgage Matchup Center,False,False
+400610711,2015-07-12,2015,Minnesota Lynx,San Antonio Stars,66,49,Minnesota Lynx,115,17,Target Center,False,False
+400610712,2015-07-14,2015,Connecticut Sun,Minnesota Lynx,79,85,Minnesota Lynx,164,6,Mohegan Sun Arena,False,False
+400610713,2015-07-15,2015,Phoenix Mercury,Atlanta Dream,80,71,Phoenix Mercury,151,9,Mortgage Matchup Center,False,False
+400610714,2015-07-15,2015,New York Liberty,San Antonio Stars,84,68,New York Liberty,152,16,Madison Square Garden,False,False
+400610715,2015-07-15,2015,Chicago Sky,Washington Mystics,85,57,Chicago Sky,142,28,Allstate Arena,False,False
+400610716,2015-07-15,2015,Seattle Storm,Los Angeles Sparks,68,61,Seattle Storm,129,7,KeyArena,False,False
+400610717,2015-07-15,2015,Indiana Fever,Tulsa Shock,83,80,Indiana Fever,163,3,Gainbridge Fieldhouse,False,False
+400610718,2015-07-16,2015,Los Angeles Sparks,Atlanta Dream,72,76,Atlanta Dream,148,4,crypto.com Arena,False,False
+400610719,2015-07-16,2015,New York Liberty,Connecticut Sun,64,57,New York Liberty,121,7,Madison Square Garden,False,False
+400610720,2015-07-17,2015,Washington Mystics,Indiana Fever,68,50,Washington Mystics,118,18,Capital One Arena,False,False
+400610721,2015-07-18,2015,Minnesota Lynx,Chicago Sky,84,66,Minnesota Lynx,150,18,Target Center,False,False
+400610722,2015-07-18,2015,San Antonio Stars,Tulsa Shock,65,58,San Antonio Stars,123,7,Freeman Coliseum,False,False
+400610724,2015-07-19,2015,Seattle Storm,Atlanta Dream,86,73,Seattle Storm,159,13,KeyArena,False,False
+400610725,2015-07-19,2015,Phoenix Mercury,New York Liberty,73,75,New York Liberty,148,2,Mortgage Matchup Center,False,False
+400610726,2015-07-19,2015,Tulsa Shock,Minnesota Lynx,72,79,Minnesota Lynx,151,7,BOK Center,False,False
+400610727,2015-07-19,2015,Chicago Sky,San Antonio Stars,93,82,Chicago Sky,175,11,Allstate Arena,False,False
+400610728,2015-07-19,2015,Washington Mystics,Connecticut Sun,89,82,Washington Mystics,171,7,Capital One Arena,False,False
+400610729,2015-07-21,2015,Tulsa Shock,Washington Mystics,69,76,Washington Mystics,145,7,BOK Center,False,False
+400610730,2015-07-21,2015,San Antonio Stars,Indiana Fever,80,62,San Antonio Stars,142,18,Freeman Coliseum,False,False
+400610731,2015-07-22,2015,Chicago Sky,Atlanta Dream,97,92,Chicago Sky,189,5,Allstate Arena,False,False
+400610733,2015-07-22,2015,Seattle Storm,New York Liberty,77,81,New York Liberty,158,4,KeyArena,False,False
+400610732,2015-07-22,2015,Los Angeles Sparks,Phoenix Mercury,70,65,Los Angeles Sparks,135,5,crypto.com Arena,False,False
+400610734,2015-07-22,2015,Minnesota Lynx,Connecticut Sun,77,78,Connecticut Sun,155,1,Target Center,False,False
+400610735,2015-07-23,2015,Los Angeles Sparks,New York Liberty,53,59,New York Liberty,112,6,crypto.com Arena,False,False
+400765572,2015-07-25,2015,EAST,WEST,112,117,WEST,229,5,Mohegan Sun Arena,True,False
+400821141,2015-07-28,2015,Connecticut Sun,Indiana Fever,73,75,Indiana Fever,148,2,Mohegan Sun Arena,False,False
+400610736,2015-07-29,2015,Phoenix Mercury,Chicago Sky,89,87,Phoenix Mercury,176,2,Mortgage Matchup Center,False,False
+400610737,2015-07-29,2015,Washington Mystics,Seattle Storm,87,74,Washington Mystics,161,13,Capital One Arena,False,False
+400610738,2015-07-29,2015,Indiana Fever,New York Liberty,84,72,Indiana Fever,156,12,Gainbridge Fieldhouse,False,False
+400610739,2015-07-30,2015,Minnesota Lynx,Los Angeles Sparks,82,76,Minnesota Lynx,158,6,Target Center,False,False
+400610740,2015-07-30,2015,San Antonio Stars,Atlanta Dream,102,85,San Antonio Stars,187,17,Freeman Coliseum,False,False
+400610741,2015-07-31,2015,Tulsa Shock,Phoenix Mercury,66,78,Phoenix Mercury,144,12,BOK Center,False,False
+400610742,2015-07-31,2015,Connecticut Sun,Seattle Storm,67,66,Connecticut Sun,133,1,Mohegan Sun Arena,False,False
+400610743,2015-08-01,2015,Minnesota Lynx,Atlanta Dream,86,70,Minnesota Lynx,156,16,Target Center,False,False
+400610744,2015-08-01,2015,San Antonio Stars,Washington Mystics,53,88,Washington Mystics,141,35,Freeman Coliseum,False,False
+400610745,2015-08-01,2015,Chicago Sky,Los Angeles Sparks,77,88,Los Angeles Sparks,165,11,Allstate Arena,False,False
+400610746,2015-08-02,2015,Tulsa Shock,Minnesota Lynx,80,86,Minnesota Lynx,166,6,BOK Center,False,False
+400610747,2015-08-02,2015,New York Liberty,Seattle Storm,78,62,New York Liberty,140,16,Madison Square Garden,False,False
+400610748,2015-08-02,2015,Atlanta Dream,Phoenix Mercury,68,71,Phoenix Mercury,139,3,State Farm Arena,False,False
+400610749,2015-08-02,2015,San Antonio Stars,Los Angeles Sparks,78,80,Los Angeles Sparks,158,2,Freeman Coliseum,False,False
+400610750,2015-08-02,2015,Indiana Fever,Connecticut Sun,83,70,Indiana Fever,153,13,Gainbridge Fieldhouse,False,False
+400610751,2015-08-02,2015,Chicago Sky,Washington Mystics,71,68,Chicago Sky,139,3,Allstate Arena,False,False
+400610752,2015-08-04,2015,Connecticut Sun,San Antonio Stars,82,51,Connecticut Sun,133,31,Mohegan Sun Arena,False,False
+400610753,2015-08-05,2015,Chicago Sky,Indiana Fever,106,82,Chicago Sky,188,24,Allstate Arena,False,False
+400610754,2015-08-05,2015,Phoenix Mercury,Tulsa Shock,87,84,Phoenix Mercury,171,3,Mortgage Matchup Center,False,False
+400610755,2015-08-05,2015,Los Angeles Sparks,Minnesota Lynx,83,61,Los Angeles Sparks,144,22,crypto.com Arena,False,False
+400610756,2015-08-05,2015,Washington Mystics,San Antonio Stars,66,63,Washington Mystics,129,3,Capital One Arena,False,False
+400610757,2015-08-07,2015,Los Angeles Sparks,Tulsa Shock,84,57,Los Angeles Sparks,141,27,crypto.com Arena,False,False
+400610758,2015-08-07,2015,Connecticut Sun,Washington Mystics,86,72,Connecticut Sun,158,14,Mohegan Sun Arena,False,False
+400610759,2015-08-07,2015,Indiana Fever,Atlanta Dream,106,77,Indiana Fever,183,29,Gainbridge Fieldhouse,False,False
+400610760,2015-08-08,2015,Chicago Sky,New York Liberty,63,77,New York Liberty,140,14,Allstate Arena,False,False
+400610761,2015-08-08,2015,Phoenix Mercury,Minnesota Lynx,73,66,Phoenix Mercury,139,7,Mortgage Matchup Center,False,False
+400610762,2015-08-09,2015,San Antonio Stars,Seattle Storm,88,81,San Antonio Stars,169,7,Freeman Coliseum,False,False
+400610763,2015-08-09,2015,Chicago Sky,Phoenix Mercury,74,64,Chicago Sky,138,10,Allstate Arena,False,False
+400610764,2015-08-09,2015,Washington Mystics,Connecticut Sun,84,73,Washington Mystics,157,11,Capital One Arena,False,False
+400610765,2015-08-09,2015,Tulsa Shock,Atlanta Dream,90,98,Atlanta Dream,188,8,BOK Center,False,False
+400610766,2015-08-09,2015,Minnesota Lynx,Los Angeles Sparks,72,64,Minnesota Lynx,136,8,Target Center,False,False
+400610767,2015-08-11,2015,New York Liberty,Chicago Sky,84,63,New York Liberty,147,21,Madison Square Garden,False,False
+400610768,2015-08-11,2015,Washington Mystics,Indiana Fever,62,73,Indiana Fever,135,11,Capital One Arena,False,False
+400610769,2015-08-12,2015,Minnesota Lynx,San Antonio Stars,83,76,Minnesota Lynx,159,7,Target Center,False,False
+400610770,2015-08-12,2015,Los Angeles Sparks,Seattle Storm,77,85,Seattle Storm,162,8,crypto.com Arena,False,False
+400610771,2015-08-12,2015,Connecticut Sun,Tulsa Shock,80,74,Connecticut Sun,154,6,Mohegan Sun Arena,False,False
+400610772,2015-08-13,2015,Phoenix Mercury,Seattle Storm,83,66,Phoenix Mercury,149,17,Mortgage Matchup Center,False,False
+400610773,2015-08-14,2015,Connecticut Sun,New York Liberty,78,90,New York Liberty,168,12,Mohegan Sun Arena,False,False
+400610774,2015-08-14,2015,Atlanta Dream,Minnesota Lynx,82,84,Minnesota Lynx,166,2,State Farm Arena,False,False
+400610775,2015-08-15,2015,Seattle Storm,Chicago Sky,84,94,Chicago Sky,178,10,KeyArena,False,False
+400610776,2015-08-15,2015,New York Liberty,Tulsa Shock,76,81,Tulsa Shock,157,5,Madison Square Garden,False,False
+400610777,2015-08-16,2015,Atlanta Dream,Connecticut Sun,90,77,Atlanta Dream,167,13,State Farm Arena,False,False
+400610778,2015-08-16,2015,Washington Mystics,Minnesota Lynx,77,69,Washington Mystics,146,8,Capital One Arena,False,False
+400610779,2015-08-16,2015,Los Angeles Sparks,Chicago Sky,76,64,Los Angeles Sparks,140,12,crypto.com Arena,False,False
+400610780,2015-08-17,2015,Phoenix Mercury,Indiana Fever,63,75,Indiana Fever,138,12,Mortgage Matchup Center,False,False
+400610781,2015-08-17,2015,Seattle Storm,San Antonio Stars,72,63,Seattle Storm,135,9,KeyArena,False,False
+400610782,2015-08-19,2015,Tulsa Shock,Phoenix Mercury,74,59,Tulsa Shock,133,15,BOK Center,False,False
+400610783,2015-08-19,2015,Los Angeles Sparks,Indiana Fever,68,79,Indiana Fever,147,11,crypto.com Arena,False,False
+400610784,2015-08-20,2015,Minnesota Lynx,Washington Mystics,61,79,Washington Mystics,140,18,Target Center,False,False
+400610785,2015-08-20,2015,San Antonio Stars,New York Liberty,45,73,New York Liberty,118,28,Freeman Coliseum,False,False
+400610786,2015-08-21,2015,New York Liberty,Atlanta Dream,78,67,New York Liberty,145,11,Madison Square Garden,False,False
+400610787,2015-08-22,2015,Tulsa Shock,Connecticut Sun,84,76,Tulsa Shock,160,8,BOK Center,False,False
+400610788,2015-08-22,2015,San Antonio Stars,Minnesota Lynx,61,78,Minnesota Lynx,139,17,Freeman Coliseum,False,False
+400610789,2015-08-22,2015,Chicago Sky,Washington Mystics,87,85,Chicago Sky,172,2,Allstate Arena,False,False
+400610790,2015-08-22,2015,Phoenix Mercury,Los Angeles Sparks,68,78,Los Angeles Sparks,146,10,Mortgage Matchup Center,False,False
+400610791,2015-08-22,2015,Seattle Storm,Indiana Fever,63,75,Indiana Fever,138,12,KeyArena,False,False
+400610792,2015-08-23,2015,Washington Mystics,Chicago Sky,64,66,Chicago Sky,130,2,Capital One Arena,False,False
+400610793,2015-08-23,2015,San Antonio Stars,Los Angeles Sparks,59,90,Los Angeles Sparks,149,31,Freeman Coliseum,False,False
+400610794,2015-08-23,2015,Connecticut Sun,Atlanta Dream,92,102,Atlanta Dream,194,10,Mohegan Sun Arena,False,False
+400610795,2015-08-23,2015,Indiana Fever,New York Liberty,80,79,Indiana Fever,159,1,Gainbridge Fieldhouse,False,False
+400610796,2015-08-23,2015,Phoenix Mercury,Minnesota Lynx,79,67,Phoenix Mercury,146,12,Mortgage Matchup Center,False,False
+400610797,2015-08-25,2015,Atlanta Dream,Connecticut Sun,71,57,Atlanta Dream,128,14,State Farm Arena,False,False
+400610798,2015-08-26,2015,Indiana Fever,Los Angeles Sparks,79,81,Los Angeles Sparks,160,2,Gainbridge Fieldhouse,False,False
+400610799,2015-08-27,2015,Connecticut Sun,Phoenix Mercury,80,81,Phoenix Mercury,161,1,Mohegan Sun Arena,False,False
+400610800,2015-08-28,2015,Washington Mystics,Phoenix Mercury,71,63,Washington Mystics,134,8,Capital One Arena,False,False
+400610801,2015-08-28,2015,Indiana Fever,Atlanta Dream,84,90,Atlanta Dream,174,6,Gainbridge Fieldhouse,False,False
+400610802,2015-08-28,2015,New York Liberty,Minnesota Lynx,81,68,New York Liberty,149,13,Madison Square Garden,False,False
+400610803,2015-08-29,2015,Tulsa Shock,Los Angeles Sparks,76,66,Tulsa Shock,142,10,BOK Center,False,False
+400610804,2015-08-29,2015,Seattle Storm,San Antonio Stars,83,69,Seattle Storm,152,14,KeyArena,False,False
+400610805,2015-08-29,2015,Connecticut Sun,New York Liberty,66,80,New York Liberty,146,14,Mohegan Sun Arena,False,False
+400610806,2015-08-29,2015,Atlanta Dream,Chicago Sky,96,98,Chicago Sky,194,2,State Farm Arena,False,False
+400610807,2015-08-30,2015,Tulsa Shock,Indiana Fever,76,70,Tulsa Shock,146,6,BOK Center,False,False
+400610808,2015-08-30,2015,Los Angeles Sparks,San Antonio Stars,60,52,Los Angeles Sparks,112,8,crypto.com Arena,False,False
+400610809,2015-08-30,2015,Chicago Sky,Connecticut Sun,68,72,Connecticut Sun,140,4,Allstate Arena,False,False
+400610810,2015-08-30,2015,Minnesota Lynx,Phoenix Mercury,71,61,Minnesota Lynx,132,10,Target Center,False,False
+400610811,2015-08-31,2015,Seattle Storm,Washington Mystics,69,59,Seattle Storm,128,10,KeyArena,False,False
+400610812,2015-09-01,2015,New York Liberty,Atlanta Dream,80,75,New York Liberty,155,5,Madison Square Garden,False,False
+400610813,2015-09-01,2015,Indiana Fever,Connecticut Sun,81,51,Indiana Fever,132,30,Gainbridge Fieldhouse,False,False
+400610814,2015-09-02,2015,Phoenix Mercury,Washington Mystics,73,53,Phoenix Mercury,126,20,Mortgage Matchup Center,False,False
+400610815,2015-09-03,2015,New York Liberty,Chicago Sky,60,82,Chicago Sky,142,22,Madison Square Garden,False,False
+400610816,2015-09-04,2015,Seattle Storm,Tulsa Shock,67,85,Tulsa Shock,152,18,KeyArena,False,False
+400610817,2015-09-04,2015,Los Angeles Sparks,Washington Mystics,93,91,Los Angeles Sparks,184,2,crypto.com Arena,False,False
+400610818,2015-09-05,2015,Minnesota Lynx,Indiana Fever,81,65,Minnesota Lynx,146,16,Target Center,False,False
+400610819,2015-09-05,2015,San Antonio Stars,Connecticut Sun,72,73,Connecticut Sun,145,1,Freeman Coliseum,False,False
+400610820,2015-09-06,2015,San Antonio Stars,Phoenix Mercury,52,82,Phoenix Mercury,134,30,Freeman Coliseum,False,False
+400610821,2015-09-06,2015,Atlanta Dream,Washington Mystics,73,67,Atlanta Dream,140,6,State Farm Arena,False,False
+400610822,2015-09-06,2015,Los Angeles Sparks,Tulsa Shock,92,73,Los Angeles Sparks,165,19,crypto.com Arena,False,False
+400610823,2015-09-06,2015,Chicago Sky,Seattle Storm,93,65,Chicago Sky,158,28,Allstate Arena,False,False
+400610824,2015-09-06,2015,Minnesota Lynx,New York Liberty,71,75,New York Liberty,146,4,Target Center,False,False
+400610825,2015-09-08,2015,Washington Mystics,Indiana Fever,76,72,Washington Mystics,148,4,Capital One Arena,False,False
+400610826,2015-09-09,2015,Minnesota Lynx,Seattle Storm,73,67,Minnesota Lynx,140,6,Target Center,False,False
+400610827,2015-09-09,2015,Tulsa Shock,San Antonio Stars,74,64,Tulsa Shock,138,10,BOK Center,False,False
+400610828,2015-09-09,2015,New York Liberty,Connecticut Sun,74,64,New York Liberty,138,10,Madison Square Garden,False,False
+400610829,2015-09-09,2015,Atlanta Dream,Los Angeles Sparks,90,60,Atlanta Dream,150,30,State Farm Arena,False,False
+400610830,2015-09-11,2015,New York Liberty,Washington Mystics,55,82,Washington Mystics,137,27,Madison Square Garden,False,False
+400610831,2015-09-11,2015,Atlanta Dream,Indiana Fever,67,75,Indiana Fever,142,8,State Farm Arena,False,False
+400610832,2015-09-12,2015,Chicago Sky,Tulsa Shock,92,71,Chicago Sky,163,21,Allstate Arena,False,False
+400610833,2015-09-12,2015,Phoenix Mercury,Los Angeles Sparks,70,65,Phoenix Mercury,135,5,Mortgage Matchup Center,False,False
+400610834,2015-09-12,2015,Seattle Storm,Minnesota Lynx,78,64,Seattle Storm,142,14,KeyArena,False,False
+400610835,2015-09-13,2015,Connecticut Sun,Chicago Sky,86,75,Connecticut Sun,161,11,Mohegan Sun Arena,False,False
+400610836,2015-09-13,2015,Washington Mystics,Atlanta Dream,71,73,Atlanta Dream,144,2,Capital One Arena,False,False
+400610837,2015-09-13,2015,Tulsa Shock,Phoenix Mercury,91,87,Tulsa Shock,178,4,BOK Center,False,False
+400610838,2015-09-13,2015,Indiana Fever,New York Liberty,81,76,Indiana Fever,157,5,Gainbridge Fieldhouse,False,False
+400610839,2015-09-14,2015,Seattle Storm,San Antonio Stars,58,59,San Antonio Stars,117,1,KeyArena,False,False
+400839633,2015-09-18,2015,Chicago Sky,Indiana Fever,77,72,Chicago Sky,149,5,Allstate Arena,False,False
+400839118,2015-09-18,2015,Phoenix Mercury,Tulsa Shock,88,55,Phoenix Mercury,143,33,Mortgage Matchup Center,False,False
+400839630,2015-09-18,2015,New York Liberty,Washington Mystics,83,86,Washington Mystics,169,3,Madison Square Garden,False,False
+400838810,2015-09-19,2015,Minnesota Lynx,Los Angeles Sparks,67,65,Minnesota Lynx,132,2,Target Center,False,False
+400839634,2015-09-19,2015,Indiana Fever,Chicago Sky,89,82,Indiana Fever,171,7,Gainbridge Fieldhouse,False,False
+400839119,2015-09-20,2015,Tulsa Shock,Phoenix Mercury,67,91,Phoenix Mercury,158,24,BOK Center,False,False
+400839631,2015-09-20,2015,Washington Mystics,New York Liberty,68,86,New York Liberty,154,18,Capital One Arena,False,False
+400838811,2015-09-20,2015,Los Angeles Sparks,Minnesota Lynx,81,71,Los Angeles Sparks,152,10,crypto.com Arena,False,False
+400839635,2015-09-22,2015,Chicago Sky,Indiana Fever,89,100,Indiana Fever,189,11,Allstate Arena,False,False
+400839632,2015-09-22,2015,New York Liberty,Washington Mystics,79,74,New York Liberty,153,5,Madison Square Garden,False,False
+400838812,2015-09-23,2015,Minnesota Lynx,Los Angeles Sparks,91,80,Minnesota Lynx,171,11,Target Center,False,False
+400844305,2015-09-23,2015,New York Liberty,Indiana Fever,84,67,New York Liberty,151,17,Madison Square Garden,False,False
+400844348,2015-09-25,2015,Minnesota Lynx,Phoenix Mercury,67,60,Minnesota Lynx,127,7,Target Center,False,False
+400844306,2015-09-27,2015,Indiana Fever,New York Liberty,70,64,Indiana Fever,134,6,Gainbridge Fieldhouse,False,False
+400844349,2015-09-27,2015,Phoenix Mercury,Minnesota Lynx,71,72,Minnesota Lynx,143,1,Mortgage Matchup Center,False,False
+400844307,2015-09-29,2015,New York Liberty,Indiana Fever,51,66,Indiana Fever,117,15,Madison Square Garden,False,False
+400847195,2015-10-04,2015,Minnesota Lynx,Indiana Fever,69,75,Indiana Fever,144,6,Target Center,False,False
+400847196,2015-10-07,2015,Minnesota Lynx,Indiana Fever,77,71,Minnesota Lynx,148,6,Target Center,False,False
+400847197,2015-10-10,2015,Indiana Fever,Minnesota Lynx,77,80,Minnesota Lynx,157,3,Gainbridge Fieldhouse,False,False
+400847198,2015-10-12,2015,Indiana Fever,Minnesota Lynx,75,69,Indiana Fever,144,6,Gainbridge Fieldhouse,False,False
+400847199,2015-10-15,2015,Minnesota Lynx,Indiana Fever,69,52,Minnesota Lynx,121,17,Target Center,False,False

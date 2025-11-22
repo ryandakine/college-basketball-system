@@ -1,0 +1,219 @@
+game_id,date,season,home_team,away_team,home_score,away_score,winner,total_points,point_diff,venue,neutral_site,conference_game
+401322870,2021-05-05,2021,Washington Mystics,Atlanta Dream,80,87,Atlanta Dream,167,7,CareFirst Arena,False,False
+401323518,2021-05-08,2021,Dallas Wings,Connecticut Sun,76,89,Connecticut Sun,165,13,College Park Center,False,False
+401322871,2021-05-08,2021,Minnesota Lynx,Washington Mystics,79,68,Minnesota Lynx,147,11,Target Center,False,False
+401323519,2021-05-08,2021,Los Angeles Sparks,Las Vegas Aces,85,85,Las Vegas Aces,170,0,crypto.com Arena,False,False
+401323520,2021-05-08,2021,Phoenix Mercury,Seattle Storm,71,88,Seattle Storm,159,17,Mortgage Matchup Center,False,False
+401323454,2021-05-09,2021,Indiana Fever,Chicago Sky,82,65,Indiana Fever,147,17,Corteva Coliseum,False,False
+401323455,2021-05-11,2021,Chicago Sky,Indiana Fever,83,70,Chicago Sky,153,13,Wintrust Arena,False,False
+401320565,2021-05-14,2021,New York Liberty,Indiana Fever,90,87,New York Liberty,177,3,Barclays Center,False,False
+401320566,2021-05-14,2021,Atlanta Dream,Connecticut Sun,67,78,Connecticut Sun,145,11,Gateway Center,False,False
+401320567,2021-05-15,2021,Minnesota Lynx,Phoenix Mercury,75,77,Phoenix Mercury,152,2,Target Center,False,False
+401320568,2021-05-15,2021,Los Angeles Sparks,Dallas Wings,71,94,Dallas Wings,165,23,Los Angeles Convention Center,False,False
+401320569,2021-05-15,2021,Washington Mystics,Chicago Sky,56,70,Chicago Sky,126,14,CareFirst Arena,False,False
+401320570,2021-05-15,2021,Seattle Storm,Las Vegas Aces,97,83,Seattle Storm,180,14,Angel of the Winds Arena,False,False
+401320571,2021-05-16,2021,Indiana Fever,New York Liberty,65,73,New York Liberty,138,8,Gainbridge Fieldhouse,False,False
+401320572,2021-05-16,2021,Connecticut Sun,Phoenix Mercury,86,78,Connecticut Sun,164,8,Mohegan Sun Arena,False,False
+401320573,2021-05-18,2021,New York Liberty,Minnesota Lynx,86,75,New York Liberty,161,11,Barclays Center,False,False
+401320574,2021-05-19,2021,Washington Mystics,Phoenix Mercury,70,91,Phoenix Mercury,161,21,CareFirst Arena,False,False
+401320575,2021-05-19,2021,Seattle Storm,Las Vegas Aces,80,96,Las Vegas Aces,176,16,Angel of the Winds Arena,False,False
+401320576,2021-05-19,2021,Atlanta Dream,Chicago Sky,77,85,Chicago Sky,162,8,Gateway Center,False,False
+401320577,2021-05-19,2021,Connecticut Sun,Indiana Fever,88,67,Connecticut Sun,155,21,Mohegan Sun Arena,False,False
+401320578,2021-05-21,2021,Minnesota Lynx,Seattle Storm,78,90,Seattle Storm,168,12,Target Center,False,False
+401320579,2021-05-21,2021,Indiana Fever,Atlanta Dream,79,83,Atlanta Dream,162,4,Gainbridge Fieldhouse,False,False
+401320580,2021-05-21,2021,Washington Mystics,New York Liberty,101,72,Washington Mystics,173,29,CareFirst Arena,False,False
+401320581,2021-05-22,2021,Phoenix Mercury,Connecticut Sun,67,84,Connecticut Sun,151,17,Mortgage Matchup Center,False,False
+401320582,2021-05-22,2021,Las Vegas Aces,Los Angeles Sparks,97,69,Las Vegas Aces,166,28,Michelob ULTRA Arena,False,False
+401320583,2021-05-23,2021,Dallas Wings,Seattle Storm,97,100,Seattle Storm,197,3,College Park Center,False,False
+401320584,2021-05-23,2021,Chicago Sky,New York Liberty,85,93,New York Liberty,178,8,Wintrust Arena,False,False
+401320585,2021-05-23,2021,Indiana Fever,Washington Mystics,89,77,Indiana Fever,166,12,Gainbridge Fieldhouse,False,False
+401320586,2021-05-23,2021,Las Vegas Aces,Connecticut Sun,65,72,Connecticut Sun,137,7,Michelob ULTRA Arena,False,False
+401320588,2021-05-24,2021,New York Liberty,Dallas Wings,88,81,New York Liberty,169,7,Barclays Center,False,False
+401320587,2021-05-25,2021,Indiana Fever,Washington Mystics,69,85,Washington Mystics,154,16,Gainbridge Fieldhouse,False,False
+401320589,2021-05-26,2021,Chicago Sky,Atlanta Dream,83,90,Atlanta Dream,173,7,Wintrust Arena,False,False
+401320590,2021-05-26,2021,Seattle Storm,Connecticut Sun,90,87,Seattle Storm,177,3,Angel of the Winds Arena,False,False
+401320591,2021-05-27,2021,Phoenix Mercury,Las Vegas Aces,79,85,Las Vegas Aces,164,6,Mortgage Matchup Center,False,False
+401320592,2021-05-27,2021,Atlanta Dream,Dallas Wings,101,95,Atlanta Dream,196,6,Gateway Center,False,False
+401320593,2021-05-28,2021,Connecticut Sun,Washington Mystics,86,81,Connecticut Sun,167,5,Mohegan Sun Arena,False,False
+401320594,2021-05-29,2021,Chicago Sky,Los Angeles Sparks,61,76,Los Angeles Sparks,137,15,Wintrust Arena,False,False
+401320595,2021-05-29,2021,Seattle Storm,Minnesota Lynx,82,72,Seattle Storm,154,10,Angel of the Winds Arena,False,False
+401320596,2021-05-29,2021,Las Vegas Aces,Indiana Fever,113,77,Las Vegas Aces,190,36,Michelob ULTRA Arena,False,False
+401320597,2021-05-29,2021,New York Liberty,Atlanta Dream,87,90,Atlanta Dream,177,3,Barclays Center,False,False
+401320598,2021-05-30,2021,Dallas Wings,Phoenix Mercury,85,89,Phoenix Mercury,174,4,College Park Center,False,False
+401320599,2021-05-30,2021,Chicago Sky,Los Angeles Sparks,79,82,Los Angeles Sparks,161,3,Wintrust Arena,False,False
+401320600,2021-05-30,2021,Las Vegas Aces,Indiana Fever,101,78,Las Vegas Aces,179,23,Michelob ULTRA Arena,False,False
+401320601,2021-05-30,2021,Minnesota Lynx,Connecticut Sun,79,74,Minnesota Lynx,153,5,Target Center,False,False
+401320602,2021-06-01,2021,Connecticut Sun,Las Vegas Aces,74,67,Connecticut Sun,141,7,Mohegan Sun Arena,False,False
+401320604,2021-06-02,2021,Dallas Wings,Los Angeles Sparks,79,69,Dallas Wings,148,10,College Park Center,False,False
+401320603,2021-06-02,2021,Chicago Sky,Phoenix Mercury,83,84,Phoenix Mercury,167,1,Wintrust Arena,False,False
+401320605,2021-06-02,2021,Seattle Storm,Indiana Fever,88,73,Seattle Storm,161,15,Angel of the Winds Arena,False,False
+401320606,2021-06-03,2021,New York Liberty,Las Vegas Aces,82,94,Las Vegas Aces,176,12,Barclays Center,False,False
+401320607,2021-06-04,2021,Phoenix Mercury,Chicago Sky,77,74,Phoenix Mercury,151,3,Mortgage Matchup Center,False,False
+401320608,2021-06-04,2021,Los Angeles Sparks,Indiana Fever,98,63,Los Angeles Sparks,161,35,Los Angeles Convention Center,False,False
+401320609,2021-06-05,2021,Minnesota Lynx,Atlanta Dream,86,84,Minnesota Lynx,170,2,Target Center,False,False
+401320610,2021-06-05,2021,Seattle Storm,Dallas Wings,105,102,Seattle Storm,207,3,Angel of the Winds Arena,False,False
+401320611,2021-06-05,2021,Washington Mystics,Las Vegas Aces,93,96,Las Vegas Aces,189,3,CareFirst Arena,False,False
+401320612,2021-06-05,2021,Los Angeles Sparks,Chicago Sky,68,63,Los Angeles Sparks,131,5,Los Angeles Convention Center,False,False
+401320613,2021-06-05,2021,Connecticut Sun,New York Liberty,85,64,Connecticut Sun,149,21,Mohegan Sun Arena,False,False
+401320614,2021-06-06,2021,Minnesota Lynx,Atlanta Dream,100,80,Minnesota Lynx,180,20,Target Center,False,False
+401320615,2021-06-06,2021,Seattle Storm,Dallas Wings,67,68,Dallas Wings,135,1,Angel of the Winds Arena,False,False
+401320616,2021-06-08,2021,Washington Mystics,Minnesota Lynx,85,81,Washington Mystics,166,4,CareFirst Arena,False,False
+401320619,2021-06-09,2021,Phoenix Mercury,Dallas Wings,81,85,Dallas Wings,166,4,Mortgage Matchup Center,False,False
+401320617,2021-06-09,2021,Atlanta Dream,Seattle Storm,71,95,Seattle Storm,166,24,Gateway Center,False,False
+401320618,2021-06-10,2021,Chicago Sky,Indiana Fever,92,76,Chicago Sky,168,16,Wintrust Arena,False,False
+401320620,2021-06-10,2021,Washington Mystics,Los Angeles Sparks,89,71,Washington Mystics,160,18,CareFirst Arena,False,False
+401320621,2021-06-12,2021,Atlanta Dream,Seattle Storm,75,86,Seattle Storm,161,11,Gateway Center,False,False
+401320622,2021-06-12,2021,Phoenix Mercury,Dallas Wings,59,77,Dallas Wings,136,18,Mortgage Matchup Center,False,False
+401320623,2021-06-12,2021,Indiana Fever,Chicago Sky,79,83,Chicago Sky,162,4,Corteva Coliseum,False,False
+401320624,2021-06-13,2021,Minnesota Lynx,Los Angeles Sparks,80,64,Minnesota Lynx,144,16,Target Center,False,False
+401320625,2021-06-13,2021,Connecticut Sun,Seattle Storm,66,89,Seattle Storm,155,23,Mohegan Sun Arena,False,False
+401320626,2021-06-13,2021,Atlanta Dream,Washington Mystics,101,78,Atlanta Dream,179,23,Gateway Center,False,False
+401320627,2021-06-13,2021,Las Vegas Aces,Dallas Wings,85,78,Las Vegas Aces,163,7,Michelob ULTRA Arena,False,False
+401320628,2021-06-13,2021,Phoenix Mercury,New York Liberty,83,85,New York Liberty,168,2,Mortgage Matchup Center,False,False
+401320629,2021-06-15,2021,Indiana Fever,Seattle Storm,70,87,Seattle Storm,157,17,Corteva Coliseum,False,False
+401320630,2021-06-16,2021,Minnesota Lynx,Chicago Sky,89,105,Chicago Sky,194,16,Target Center,False,False
+401320631,2021-06-16,2021,Las Vegas Aces,New York Liberty,100,78,Las Vegas Aces,178,22,Michelob ULTRA Arena,False,False
+401320632,2021-06-17,2021,Los Angeles Sparks,Phoenix Mercury,85,80,Los Angeles Sparks,165,5,Los Angeles Convention Center,False,False
+401320633,2021-06-17,2021,Indiana Fever,Seattle Storm,69,79,Seattle Storm,148,10,Corteva Coliseum,False,False
+401320634,2021-06-17,2021,Washington Mystics,Atlanta Dream,96,93,Washington Mystics,189,3,CareFirst Arena,False,False
+401320635,2021-06-18,2021,Chicago Sky,Connecticut Sun,81,75,Chicago Sky,156,6,Wintrust Arena,False,False
+401320636,2021-06-18,2021,Dallas Wings,Minnesota Lynx,73,85,Minnesota Lynx,158,12,College Park Center,False,False
+401320637,2021-06-18,2021,Las Vegas Aces,New York Liberty,103,76,Las Vegas Aces,179,27,Michelob ULTRA Arena,False,False
+401320638,2021-06-19,2021,Los Angeles Sparks,Phoenix Mercury,66,80,Phoenix Mercury,146,14,Los Angeles Convention Center,False,False
+401320639,2021-06-19,2021,Chicago Sky,Connecticut Sun,91,81,Chicago Sky,172,10,Wintrust Arena,False,False
+401320640,2021-06-19,2021,Washington Mystics,Indiana Fever,82,77,Washington Mystics,159,5,CareFirst Arena,False,False
+401320641,2021-06-20,2021,Dallas Wings,Minnesota Lynx,95,77,Dallas Wings,172,18,College Park Center,False,False
+401320642,2021-06-20,2021,Los Angeles Sparks,New York Liberty,73,76,New York Liberty,149,3,Los Angeles Convention Center,False,False
+401320643,2021-06-22,2021,Connecticut Sun,Dallas Wings,80,70,Connecticut Sun,150,10,Mohegan Sun Arena,False,False
+401320644,2021-06-22,2021,New York Liberty,Chicago Sky,72,92,Chicago Sky,164,20,Barclays Center,False,False
+401320645,2021-06-23,2021,Seattle Storm,Washington Mystics,83,87,Washington Mystics,170,4,Angel of the Winds Arena,False,False
+401320646,2021-06-23,2021,Atlanta Dream,Minnesota Lynx,85,87,Minnesota Lynx,172,2,Gateway Center,False,False
+401320647,2021-06-24,2021,Indiana Fever,Dallas Wings,64,89,Dallas Wings,153,25,Corteva Coliseum,False,False
+401320648,2021-06-24,2021,New York Liberty,Chicago Sky,68,91,Chicago Sky,159,23,Barclays Center,False,False
+401320649,2021-06-25,2021,Los Angeles Sparks,Washington Mystics,89,82,Los Angeles Sparks,171,7,Los Angeles Convention Center,False,False
+401320650,2021-06-26,2021,Minnesota Lynx,Las Vegas Aces,90,89,Minnesota Lynx,179,1,Target Center,False,False
+401320651,2021-06-26,2021,Dallas Wings,Washington Mystics,85,74,Dallas Wings,159,11,College Park Center,False,False
+401320652,2021-06-26,2021,Atlanta Dream,New York Liberty,78,101,New York Liberty,179,23,Gateway Center,False,False
+401320654,2021-06-27,2021,Connecticut Sun,Chicago Sky,74,58,Connecticut Sun,132,16,Mohegan Sun Arena,False,False
+401320655,2021-06-27,2021,Las Vegas Aces,Seattle Storm,95,92,Las Vegas Aces,187,3,Michelob ULTRA Arena,False,False
+401320653,2021-06-27,2021,Phoenix Mercury,Los Angeles Sparks,88,79,Phoenix Mercury,167,9,Mortgage Matchup Center,False,False
+401320656,2021-06-29,2021,Atlanta Dream,New York Liberty,73,69,Atlanta Dream,142,4,Gateway Center,False,False
+401320657,2021-06-29,2021,Washington Mystics,Connecticut Sun,71,90,Connecticut Sun,161,19,CareFirst Arena,False,False
+401320658,2021-07-01,2021,Dallas Wings,Chicago Sky,81,91,Chicago Sky,172,10,College Park Center,False,False
+401320659,2021-07-01,2021,Phoenix Mercury,Minnesota Lynx,76,82,Minnesota Lynx,158,6,Mortgage Matchup Center,False,False
+401320660,2021-07-01,2021,Los Angeles Sparks,Las Vegas Aces,75,99,Las Vegas Aces,174,24,Los Angeles Convention Center,False,False
+401320661,2021-07-01,2021,Indiana Fever,Connecticut Sun,80,86,Connecticut Sun,166,6,Corteva Coliseum,False,False
+401320662,2021-07-03,2021,Dallas Wings,Chicago Sky,100,91,Dallas Wings,191,9,College Park Center,False,False
+401320663,2021-07-03,2021,Los Angeles Sparks,Las Vegas Aces,58,66,Las Vegas Aces,124,8,Los Angeles Convention Center,False,False
+401320665,2021-07-03,2021,Seattle Storm,Atlanta Dream,91,88,Seattle Storm,179,3,Angel of the Winds Arena,False,False
+401320666,2021-07-03,2021,Indiana Fever,Connecticut Sun,73,67,Indiana Fever,140,6,Corteva Coliseum,False,False
+401320667,2021-07-03,2021,New York Liberty,Washington Mystics,82,79,New York Liberty,161,3,Barclays Center,False,False
+401320664,2021-07-04,2021,Phoenix Mercury,Minnesota Lynx,68,99,Minnesota Lynx,167,31,Mortgage Matchup Center,False,False
+401320668,2021-07-04,2021,Las Vegas Aces,Atlanta Dream,118,95,Las Vegas Aces,213,23,Michelob ULTRA Arena,False,False
+401320669,2021-07-05,2021,Los Angeles Sparks,Seattle Storm,74,84,Seattle Storm,158,10,Los Angeles Convention Center,False,False
+401320670,2021-07-05,2021,New York Liberty,Dallas Wings,99,96,New York Liberty,195,3,Barclays Center,False,False
+401320671,2021-07-08,2021,Minnesota Lynx,Dallas Wings,85,79,Minnesota Lynx,164,6,Target Center,False,False
+401320672,2021-07-08,2021,Las Vegas Aces,Phoenix Mercury,90,99,Phoenix Mercury,189,9,Michelob ULTRA Arena,False,False
+401320673,2021-07-08,2021,Seattle Storm,Los Angeles Sparks,71,62,Seattle Storm,133,9,Angel of the Winds Arena,False,False
+401320674,2021-07-09,2021,Connecticut Sun,Atlanta Dream,84,72,Connecticut Sun,156,12,Mohegan Sun Arena,False,False
+401320675,2021-07-09,2021,Indiana Fever,New York Liberty,82,69,Indiana Fever,151,13,Corteva Coliseum,False,False
+401320676,2021-07-10,2021,Phoenix Mercury,Seattle Storm,85,77,Phoenix Mercury,162,8,Mortgage Matchup Center,False,False
+401320677,2021-07-10,2021,Las Vegas Aces,Minnesota Lynx,67,77,Minnesota Lynx,144,10,Michelob ULTRA Arena,False,False
+401320678,2021-07-11,2021,Chicago Sky,Washington Mystics,85,89,Washington Mystics,174,4,Wintrust Arena,False,False
+401320679,2021-07-11,2021,Dallas Wings,Las Vegas Aces,79,95,Las Vegas Aces,174,16,College Park Center,False,False
+401320680,2021-07-11,2021,New York Liberty,Connecticut Sun,54,71,Connecticut Sun,125,17,Barclays Center,False,False
+401320681,2021-07-11,2021,Atlanta Dream,Indiana Fever,68,79,Indiana Fever,147,11,Gateway Center,False,False
+401320682,2021-07-11,2021,Seattle Storm,Phoenix Mercury,82,75,Seattle Storm,157,7,Angel of the Winds Arena,False,False
+401320683,2021-07-12,2021,Los Angeles Sparks,Minnesota Lynx,61,86,Minnesota Lynx,147,25,Los Angeles Convention Center,False,False
+401341447,2021-07-14,2021,Team WNBA,Team USA,93,85,Team WNBA,178,8,Michelob ULTRA Arena,True,False
+401353913,2021-08-13,2021,Seattle Storm,Connecticut Sun,79,57,Seattle Storm,136,22,Mortgage Matchup Center,True,False
+401320684,2021-08-15,2021,Chicago Sky,Seattle Storm,87,85,Chicago Sky,172,2,Wintrust Arena,False,False
+401320685,2021-08-15,2021,Dallas Wings,Connecticut Sun,59,80,Connecticut Sun,139,21,College Park Center,False,False
+401320686,2021-08-15,2021,Las Vegas Aces,Washington Mystics,84,83,Las Vegas Aces,167,1,Michelob ULTRA Arena,False,False
+401320687,2021-08-15,2021,Phoenix Mercury,Atlanta Dream,92,81,Phoenix Mercury,173,11,Mortgage Matchup Center,False,False
+401320688,2021-08-15,2021,Minnesota Lynx,New York Liberty,88,78,Minnesota Lynx,166,10,Target Center,False,False
+401320689,2021-08-16,2021,Los Angeles Sparks,Indiana Fever,75,70,Los Angeles Sparks,145,5,crypto.com Arena,False,False
+401320690,2021-08-17,2021,Connecticut Sun,Minnesota Lynx,72,60,Connecticut Sun,132,12,Mohegan Sun Arena,False,False
+401320691,2021-08-18,2021,Chicago Sky,Dallas Wings,76,80,Dallas Wings,156,4,Wintrust Arena,False,False
+401320692,2021-08-18,2021,Las Vegas Aces,Washington Mystics,93,83,Las Vegas Aces,176,10,Michelob ULTRA Arena,False,False
+401320693,2021-08-18,2021,Phoenix Mercury,Indiana Fever,84,80,Phoenix Mercury,164,4,Mortgage Matchup Center,False,False
+401320694,2021-08-18,2021,Los Angeles Sparks,Atlanta Dream,85,80,Los Angeles Sparks,165,5,crypto.com Arena,False,False
+401320695,2021-08-18,2021,New York Liberty,Seattle Storm,83,79,New York Liberty,162,4,Barclays Center,False,False
+401320696,2021-08-19,2021,Connecticut Sun,Minnesota Lynx,82,71,Connecticut Sun,153,11,Mohegan Sun Arena,False,False
+401320697,2021-08-20,2021,Phoenix Mercury,Washington Mystics,77,64,Phoenix Mercury,141,13,Mortgage Matchup Center,False,False
+401320698,2021-08-20,2021,Los Angeles Sparks,Atlanta Dream,66,64,Los Angeles Sparks,130,2,crypto.com Arena,False,False
+401320699,2021-08-20,2021,New York Liberty,Seattle Storm,83,99,Seattle Storm,182,16,Barclays Center,False,False
+401320700,2021-08-21,2021,Dallas Wings,Indiana Fever,81,83,Indiana Fever,164,2,College Park Center,False,False
+401320701,2021-08-21,2021,Atlanta Dream,Phoenix Mercury,69,84,Phoenix Mercury,153,15,Gateway Center,False,False
+401320702,2021-08-22,2021,Chicago Sky,Minnesota Lynx,95,101,Minnesota Lynx,196,6,Wintrust Arena,False,False
+401320703,2021-08-22,2021,New York Liberty,Los Angeles Sparks,83,86,Los Angeles Sparks,169,3,Barclays Center,False,False
+401320704,2021-08-22,2021,Washington Mystics,Seattle Storm,78,85,Seattle Storm,163,7,CareFirst Arena,False,False
+401320705,2021-08-24,2021,Minnesota Lynx,Seattle Storm,76,70,Minnesota Lynx,146,6,Target Center,False,False
+401320706,2021-08-24,2021,Atlanta Dream,Chicago Sky,79,86,Chicago Sky,165,7,Gateway Center,False,False
+401320707,2021-08-24,2021,Connecticut Sun,Las Vegas Aces,76,62,Connecticut Sun,138,14,Mohegan Sun Arena,False,False
+401320708,2021-08-24,2021,Washington Mystics,Los Angeles Sparks,78,68,Washington Mystics,146,10,CareFirst Arena,False,False
+401320709,2021-08-25,2021,New York Liberty,Phoenix Mercury,79,106,Phoenix Mercury,185,27,Barclays Center,False,False
+401320710,2021-08-26,2021,Atlanta Dream,Las Vegas Aces,71,78,Las Vegas Aces,149,7,Gateway Center,False,False
+401320711,2021-08-26,2021,Connecticut Sun,Los Angeles Sparks,76,72,Connecticut Sun,148,4,Mohegan Sun Arena,False,False
+401320712,2021-08-26,2021,Washington Mystics,Dallas Wings,77,82,Dallas Wings,159,5,CareFirst Arena,False,False
+401320713,2021-08-28,2021,New York Liberty,Phoenix Mercury,64,80,Phoenix Mercury,144,16,Barclays Center,False,False
+401320714,2021-08-28,2021,Seattle Storm,Chicago Sky,69,73,Chicago Sky,142,4,Angel of the Winds Arena,False,False
+401320715,2021-08-28,2021,Indiana Fever,Las Vegas Aces,71,87,Las Vegas Aces,158,16,Corteva Coliseum,False,False
+401320716,2021-08-28,2021,Connecticut Sun,Los Angeles Sparks,76,61,Connecticut Sun,137,15,Mohegan Sun Arena,False,False
+401320717,2021-08-28,2021,Washington Mystics,Dallas Wings,76,75,Washington Mystics,151,1,CareFirst Arena,False,False
+401320718,2021-08-29,2021,Seattle Storm,Chicago Sky,75,107,Chicago Sky,182,32,Angel of the Winds Arena,False,False
+401320719,2021-08-31,2021,Indiana Fever,Los Angeles Sparks,74,72,Indiana Fever,146,2,Corteva Coliseum,False,False
+401320720,2021-08-31,2021,Washington Mystics,Connecticut Sun,75,85,Connecticut Sun,160,10,CareFirst Arena,False,False
+401320721,2021-09-01,2021,Minnesota Lynx,New York Liberty,74,66,Minnesota Lynx,140,8,Target Center,False,False
+401320722,2021-09-01,2021,Phoenix Mercury,Chicago Sky,103,83,Phoenix Mercury,186,20,Mortgage Matchup Center,False,False
+401320723,2021-09-03,2021,Dallas Wings,Atlanta Dream,72,68,Dallas Wings,140,4,College Park Center,False,False
+401320724,2021-09-03,2021,Minnesota Lynx,Los Angeles Sparks,66,57,Minnesota Lynx,123,9,Target Center,False,False
+401320725,2021-09-03,2021,Las Vegas Aces,Chicago Sky,90,83,Las Vegas Aces,173,7,Michelob ULTRA Arena,False,False
+401320726,2021-09-03,2021,Seattle Storm,New York Liberty,85,75,Seattle Storm,160,10,Angel of the Winds Arena,False,False
+401320727,2021-09-04,2021,Indiana Fever,Phoenix Mercury,65,87,Phoenix Mercury,152,22,Corteva Coliseum,False,False
+401320728,2021-09-05,2021,Minnesota Lynx,Washington Mystics,93,75,Minnesota Lynx,168,18,Target Center,False,False
+401320729,2021-09-05,2021,Chicago Sky,Las Vegas Aces,92,84,Chicago Sky,176,8,Wintrust Arena,False,False
+401320730,2021-09-05,2021,Dallas Wings,Atlanta Dream,64,69,Atlanta Dream,133,5,College Park Center,False,False
+401320731,2021-09-06,2021,Indiana Fever,Phoenix Mercury,81,86,Phoenix Mercury,167,5,Corteva Coliseum,False,False
+401320732,2021-09-08,2021,Dallas Wings,Connecticut Sun,56,83,Connecticut Sun,139,27,College Park Center,False,False
+401320733,2021-09-08,2021,Seattle Storm,Washington Mystics,105,71,Seattle Storm,176,34,Angel of the Winds Arena,False,False
+401320734,2021-09-08,2021,Atlanta Dream,Phoenix Mercury,75,76,Phoenix Mercury,151,1,Gateway Center,False,False
+401320735,2021-09-09,2021,Las Vegas Aces,Minnesota Lynx,102,81,Las Vegas Aces,183,21,Michelob ULTRA Arena,False,False
+401320736,2021-09-10,2021,Los Angeles Sparks,Connecticut Sun,57,75,Connecticut Sun,132,18,crypto.com Arena,False,False
+401320737,2021-09-10,2021,Washington Mystics,Atlanta Dream,82,74,Washington Mystics,156,8,CareFirst Arena,False,False
+401320738,2021-09-11,2021,Minnesota Lynx,Indiana Fever,89,72,Minnesota Lynx,161,17,Target Center,False,False
+401320739,2021-09-12,2021,Dallas Wings,New York Liberty,77,76,Dallas Wings,153,1,College Park Center,False,False
+401320740,2021-09-12,2021,Phoenix Mercury,Connecticut Sun,67,76,Connecticut Sun,143,9,Mortgage Matchup Center,False,False
+401320741,2021-09-12,2021,Chicago Sky,Washington Mystics,71,79,Washington Mystics,150,8,Wintrust Arena,False,False
+401320742,2021-09-12,2021,Minnesota Lynx,Indiana Fever,90,80,Minnesota Lynx,170,10,Target Center,False,False
+401320743,2021-09-13,2021,Los Angeles Sparks,Seattle Storm,81,53,Los Angeles Sparks,134,28,crypto.com Arena,False,False
+401320744,2021-09-13,2021,Las Vegas Aces,Dallas Wings,85,75,Las Vegas Aces,160,10,Michelob ULTRA Arena,False,False
+401320745,2021-09-14,2021,Atlanta Dream,Indiana Fever,85,78,Atlanta Dream,163,7,Gateway Center,False,False
+401320746,2021-09-15,2021,Connecticut Sun,New York Liberty,98,69,Connecticut Sun,167,29,Mohegan Sun Arena,False,False
+401320747,2021-09-16,2021,Atlanta Dream,Los Angeles Sparks,68,74,Los Angeles Sparks,142,6,Gateway Center,False,False
+401320748,2021-09-17,2021,Indiana Fever,Minnesota Lynx,73,92,Minnesota Lynx,165,19,Corteva Coliseum,False,False
+401320749,2021-09-17,2021,New York Liberty,Washington Mystics,91,80,New York Liberty,171,11,Barclays Center,False,False
+401320750,2021-09-18,2021,Chicago Sky,Las Vegas Aces,70,103,Las Vegas Aces,173,33,Wintrust Arena,False,False
+401320751,2021-09-18,2021,Seattle Storm,Phoenix Mercury,94,85,Seattle Storm,179,9,Angel of the Winds Arena,False,False
+401320752,2021-09-19,2021,Connecticut Sun,Atlanta Dream,84,64,Connecticut Sun,148,20,Mohegan Sun Arena,False,False
+401320753,2021-09-19,2021,Phoenix Mercury,Las Vegas Aces,83,84,Las Vegas Aces,167,1,Mortgage Matchup Center,False,False
+401320754,2021-09-19,2021,Washington Mystics,Minnesota Lynx,77,83,Minnesota Lynx,160,6,CareFirst Arena,False,False
+401320755,2021-09-19,2021,Dallas Wings,Los Angeles Sparks,87,84,Dallas Wings,171,3,College Park Center,False,False
+401320756,2021-09-19,2021,Chicago Sky,Indiana Fever,98,87,Chicago Sky,185,11,Wintrust Arena,False,False
+401370430,2021-09-24,2021,Chicago Sky,Dallas Wings,81,64,Chicago Sky,145,17,Wintrust Arena,False,False
+401370431,2021-09-24,2021,Phoenix Mercury,New York Liberty,83,82,Phoenix Mercury,165,1,Global Credit Union Arena,False,False
+401370433,2021-09-26,2021,Seattle Storm,Phoenix Mercury,80,85,Phoenix Mercury,165,5,Angel of the Winds Arena,False,False
+401370432,2021-09-26,2021,Minnesota Lynx,Chicago Sky,76,89,Chicago Sky,165,13,Target Center,False,False
+401370434,2021-09-29,2021,Connecticut Sun,Chicago Sky,95,101,Chicago Sky,196,6,Mohegan Sun Arena,False,False
+401370435,2021-09-29,2021,Las Vegas Aces,Phoenix Mercury,96,90,Las Vegas Aces,186,6,Michelob ULTRA Arena,False,False
+401370436,2021-10-01,2021,Connecticut Sun,Chicago Sky,79,68,Connecticut Sun,147,11,Mohegan Sun Arena,False,False
+401370437,2021-10-01,2021,Las Vegas Aces,Phoenix Mercury,91,117,Phoenix Mercury,208,26,Michelob ULTRA Arena,False,False
+401370439,2021-10-03,2021,Chicago Sky,Connecticut Sun,86,83,Chicago Sky,169,3,Wintrust Arena,False,False
+401370438,2021-10-03,2021,Phoenix Mercury,Las Vegas Aces,87,60,Phoenix Mercury,147,27,Mortgage Matchup Center,False,False
+401370441,2021-10-07,2021,Chicago Sky,Connecticut Sun,79,69,Chicago Sky,148,10,Wintrust Arena,False,False
+401370440,2021-10-07,2021,Phoenix Mercury,Las Vegas Aces,76,93,Las Vegas Aces,169,17,Mortgage Matchup Center,False,False
+401370442,2021-10-09,2021,Las Vegas Aces,Phoenix Mercury,84,87,Phoenix Mercury,171,3,Michelob ULTRA Arena,False,False
+401370395,2021-10-10,2021,Phoenix Mercury,Chicago Sky,77,91,Chicago Sky,168,14,Mortgage Matchup Center,False,False
+401370396,2021-10-14,2021,Phoenix Mercury,Chicago Sky,91,86,Phoenix Mercury,177,5,Mortgage Matchup Center,False,False
+401370397,2021-10-16,2021,Chicago Sky,Phoenix Mercury,86,50,Chicago Sky,136,36,Wintrust Arena,False,False
+401370398,2021-10-17,2021,Chicago Sky,Phoenix Mercury,80,74,Chicago Sky,154,6,Wintrust Arena,False,False

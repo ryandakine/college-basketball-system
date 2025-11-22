@@ -1,0 +1,1003 @@
+game_id,date,season,home_team,away_team,home_score,away_score,winner,total_points,point_diff,venue,neutral_site,conference_game
+400597447,2014-11-15,2015,UC Davis Aggies,UConn Huskies,43,102,UConn Huskies,145,59,University Credit Union Center,False,False
+400592930,2014-11-14,2015,Notre Dame Fighting Irish,UMass Lowell River Hawks,105,51,Notre Dame Fighting Irish,156,54,Purcell Pavilion,False,False
+400595048,2014-11-15,2015,Tennessee Lady Volunteers,Pennsylvania Quakers,97,52,Tennessee Lady Volunteers,149,45,Food City Center,False,False
+400590345,2014-11-15,2015,Stanford Cardinal,Boston College Eagles,96,63,Stanford Cardinal,159,33,Maples Pavilion,False,False
+400585652,2014-11-15,2015,Baylor Bears,Oral Roberts Golden Eagles,101,60,Baylor Bears,161,41,Ferrell Center,False,False
+400596587,2014-11-14,2015,Maryland Terrapins,Mount St. Mary's Mountaineers,109,45,Maryland Terrapins,154,64,XFINITY Center,False,False
+400594978,2014-11-15,2015,Kentucky Wildcats,App State Mountaineers,111,74,Kentucky Wildcats,185,37,Memorial Coliseum (KY),False,False
+400585650,2014-11-14,2015,IU Indianapolis Jaguars,Louisville Cardinals,69,89,Louisville Cardinals,158,20,The Jungle,False,False
+400592934,2014-11-14,2015,North Carolina Tar Heels,Howard Bison,83,49,North Carolina Tar Heels,132,34,Carmichael Arena,False,False
+400588790,2014-11-15,2015,Iowa Hawkeyes,South Carolina Upstate Spartans,107,56,Iowa Hawkeyes,163,51,Carver-Hawkeye Arena,False,False
+400590344,2014-11-15,2015,Oregon State Beavers,Portland Pilots,87,65,Oregon State Beavers,152,22,Gill Coliseum,False,False
+400592289,2014-11-14,2015,Oklahoma State Cowgirls,Loyola Marymount Lions,76,65,Oklahoma State Cowgirls,141,11,Gallagher-Iba Arena,False,False
+400590346,2014-11-15,2015,Washington State Cougars,Dayton Flyers,76,60,Washington State Cougars,136,16,Beasley Coliseum,False,False
+400590343,2014-11-14,2015,James Madison Dukes,UCLA Bruins,91,87,James Madison Dukes,178,4,JMU Convocation Center,False,False
+400592671,2014-11-15,2015,Rutgers Scarlet Knights,Saint Joseph's Hawks,76,52,Rutgers Scarlet Knights,128,24,Jersey Mike’s Arena,False,False
+400590350,2014-11-16,2015,South Carolina Gamecocks,USC Trojans,70,61,South Carolina Gamecocks,131,9,Colonial Life Arena,False,False
+400589919,2014-11-15,2015,Texas Longhorns,UTSA Roadrunners,68,48,Texas Longhorns,116,20,Frank Erwin Center,False,False
+400596591,2014-11-15,2015,Nebraska Cornhuskers,Pepperdine Waves,100,65,Nebraska Cornhuskers,165,35,Pinnacle Bank Arena,False,False
+400592937,2014-11-17,2015,Alabama Crimson Tide,Duke Blue Devils,40,90,Duke Blue Devils,130,50,Foster Auditorium,False,False
+400596594,2014-11-16,2015,Maryland Terrapins,Wagner Seahawks,97,24,Maryland Terrapins,121,73,XFINITY Center,False,False
+400592943,2014-11-16,2015,Louisville Cardinals,UT Martin Skyhawks,77,43,Louisville Cardinals,120,34,KFC Yum! Center,False,False
+400590355,2014-11-16,2015,North Carolina Tar Heels,UCLA Bruins,84,68,North Carolina Tar Heels,152,16,Carmichael Arena,False,False
+400594676,2014-11-16,2015,Michigan State Spartans,Eastern Michigan Eagles,69,61,Michigan State Spartans,130,8,Breslin Center,False,False
+400590354,2014-11-17,2015,Pacific Tigers,California Golden Bears,64,84,California Golden Bears,148,20,Alex G. Spanos Center,False,False
+400596596,2014-11-16,2015,Nebraska Cornhuskers,Alcorn State Lady Braves,83,49,Nebraska Cornhuskers,132,34,Pinnacle Bank Arena,False,False
+400596593,2014-11-16,2015,Iowa Hawkeyes,Robert Morris Colonials,85,67,Iowa Hawkeyes,152,18,Carver-Hawkeye Arena,False,False
+400590353,2014-11-16,2015,Oregon State Beavers,Utah State Aggies,85,62,Oregon State Beavers,147,23,Gill Coliseum,False,False
+400592291,2014-11-17,2015,Oklahoma State Cowgirls,Texas Southern Tigers,77,58,Oklahoma State Cowgirls,135,19,Gallagher-Iba Arena,False,False
+400592679,2014-11-16,2015,Gonzaga Bulldogs,Dayton Flyers,75,65,Gonzaga Bulldogs,140,10,McCarthey Athletic Center,False,False
+400592676,2014-11-16,2015,Syracuse Orange,Fordham Rams,59,42,Syracuse Orange,101,17,JMA Wireless Dome,False,False
+400585661,2014-11-18,2015,Tennessee Lady Volunteers,Oral Roberts Golden Eagles,91,39,Tennessee Lady Volunteers,130,52,Food City Center,False,False
+400590358,2014-11-19,2015,California Golden Bears,Nevada Wolf Pack,76,54,California Golden Bears,130,22,Haas Pavilion,False,False
+400596600,2014-11-19,2015,Rutgers Scarlet Knights,Northeastern Huskies,74,60,Rutgers Scarlet Knights,134,14,Jersey Mike’s Arena,False,False
+400596800,2014-11-19,2015,Gonzaga Bulldogs,Idaho State Bengals,88,63,Gonzaga Bulldogs,151,25,McCarthey Athletic Center,False,False
+400592948,2014-11-20,2015,Michigan State Spartans,Notre Dame Fighting Irish,63,71,Notre Dame Fighting Irish,134,8,Breslin Center,False,False
+400589928,2014-11-20,2015,Texas A&M Aggies,Rice Owls,76,55,Texas A&M Aggies,131,21,Reed Arena,False,False
+400596603,2014-11-20,2015,Maryland Terrapins,South Florida Bulls,85,67,Maryland Terrapins,152,18,XFINITY Center,False,False
+400592296,2014-11-19,2015,North Carolina Tar Heels,Oklahoma State Cowgirls,79,77,North Carolina Tar Heels,156,2,Carmichael Arena,False,False
+400594979,2014-11-19,2015,Kentucky Wildcats,Morehead State Eagles,91,62,Kentucky Wildcats,153,29,Memorial Coliseum (KY),False,False
+400590359,2014-11-20,2015,Washington State Cougars,Nebraska Cornhuskers,61,82,Nebraska Cornhuskers,143,21,Beasley Coliseum,False,False
+400592689,2014-11-20,2015,Duquesne Dukes,Syracuse Orange,84,90,Syracuse Orange,174,6,UPMC Cooper Fieldhouse,False,False
+400596602,2014-11-19,2015,Purdue Boilermakers,Green Bay Phoenix,78,81,Green Bay Phoenix,159,3,Mackey Arena,False,False
+400594959,2014-11-20,2015,Ohio State Buckeyes,Georgia Lady Bulldogs,59,67,Georgia Lady Bulldogs,126,8,Value City Arena,False,False
+400592949,2014-11-21,2015,South Carolina Gamecocks,Clemson Tigers,99,41,South Carolina Gamecocks,140,58,Colonial Life Arena,False,False
+400590361,2014-11-21,2015,Stanford Cardinal,Texas Longhorns,81,87,Texas Longhorns,168,6,Maples Pavilion,False,False
+400589931,2014-11-21,2015,Old Dominion Monarchs,Duke Blue Devils,66,82,Duke Blue Devils,148,16,Chartway Arena,False,False
+400592952,2014-11-21,2015,Louisville Cardinals,Belmont Bruins,95,35,Louisville Cardinals,130,60,KFC Yum! Center,False,False
+400592953,2014-11-21,2015,Notre Dame Fighting Irish,Chattanooga Mocs,88,53,Notre Dame Fighting Irish,141,35,Purcell Pavilion,False,False
+400595049,2014-11-22,2015,Tennessee Lady Volunteers,Winthrop Eagles,81,48,Tennessee Lady Volunteers,129,33,Food City Center,False,False
+400596802,2014-11-22,2015,Montana State Bobcats,Gonzaga Bulldogs,60,89,Gonzaga Bulldogs,149,29,Worthington Arena,False,False
+400592700,2014-11-22,2015,George Washington Revolutionaries,Maryland Terrapins,65,75,Maryland Terrapins,140,10,Charles E. Smith Center,False,False
+400594685,2014-11-23,2015,Central Michigan Chippewas,Kentucky Wildcats,68,71,Kentucky Wildcats,139,3,McGuirk Arena,False,False
+400586494,2014-11-23,2015,DePaul Blue Demons,South Dakota State Jackrabbits,84,62,DePaul Blue Demons,146,22,McGrath-Phillips Arena,False,False
+400590366,2014-11-22,2015,Oregon State Beavers,Concordia Oregon Cavaliers,92,35,Oregon State Beavers,127,57,Gill Coliseum,False,False
+400589744,2014-11-22,2015,Oklahoma State Cowgirls,Missouri State Bears,77,36,Oklahoma State Cowgirls,113,41,Gallagher-Iba Arena,False,False
+400588812,2014-11-22,2015,Jacksonville Dolphins,Syracuse Orange,61,77,Syracuse Orange,138,16,Swisher Gymnasium,False,False
+400588158,2014-11-23,2015,UConn Huskies,Creighton Bluejays,96,60,UConn Huskies,156,36,Gampel Pavilion,False,False
+400595037,2014-11-23,2015,South Carolina Gamecocks,San Diego State Aztecs,89,38,South Carolina Gamecocks,127,51,Colonial Life Arena,False,False
+400588161,2014-11-23,2015,Duke Blue Devils,Marquette Golden Eagles,83,51,Duke Blue Devils,134,32,Cameron Indoor Stadium,False,False
+400590371,2014-11-23,2015,UCLA Bruins,Texas Longhorns,65,75,Texas Longhorns,140,10,Pauley Pavilion,False,False
+400590370,2014-11-23,2015,Oregon Ducks,North Carolina Tar Heels,59,76,North Carolina Tar Heels,135,17,Matthew Knight Arena,False,False
+400592962,2014-11-23,2015,Louisville Cardinals,Ball State Cardinals,69,56,Louisville Cardinals,125,13,KFC Yum! Center,False,False
+400586496,2014-11-23,2015,Michigan State Spartans,IU Indianapolis Jaguars,64,45,Michigan State Spartans,109,19,Breslin Center,False,False
+400590372,2014-11-23,2015,Nebraska Cornhuskers,Utah Utes,66,43,Nebraska Cornhuskers,109,23,Pinnacle Bank Arena,False,False
+400594688,2014-11-23,2015,Purdue Boilermakers,Toledo Rockets,66,48,Purdue Boilermakers,114,18,Mackey Arena,False,False
+400592961,2014-11-23,2015,Georgia Tech Yellow Jackets,Georgia Lady Bulldogs,57,64,Georgia Lady Bulldogs,121,7,McCamish Pavilion,False,False
+400595050,2014-11-25,2015,Tennessee Lady Volunteers,Tennessee State Lady Tigers,97,46,Tennessee Lady Volunteers,143,51,Food City Center,False,False
+400590373,2014-11-25,2015,New Mexico Lobos,Stanford Cardinal,65,70,Stanford Cardinal,135,5,The Pit,False,False
+400595060,2014-11-25,2015,Texas A&M Aggies,Prairie View A&M Lady Panthers,59,41,Texas A&M Aggies,100,18,Reed Arena,False,False
+400596609,2014-11-25,2015,Maryland Terrapins,Loyola Maryland Greyhounds,65,43,Maryland Terrapins,108,22,XFINITY Center,False,False
+400592470,2014-11-25,2015,Notre Dame Fighting Irish,Quinnipiac Bobcats,112,52,Notre Dame Fighting Irish,164,60,Purcell Pavilion,False,False
+400592966,2014-11-25,2015,Duke Blue Devils,Buffalo Bulls,88,54,Duke Blue Devils,142,34,Cameron Indoor Stadium,False,False
+400589948,2014-11-26,2015,Louisville Cardinals,Western Kentucky Lady Toppers,89,67,Louisville Cardinals,156,22,KFC Yum! Center,False,False
+400589751,2014-11-26,2015,Iowa Hawkeyes,Northern Iowa Panthers,73,45,Iowa Hawkeyes,118,28,Carver-Hawkeye Arena,False,False
+400592304,2014-11-26,2015,Oklahoma State Cowgirls,Morgan State Lady Bears,73,43,Oklahoma State Cowgirls,116,30,Gallagher-Iba Arena,False,False
+400596611,2014-11-26,2015,Wagner Seahawks,Rutgers Scarlet Knights,53,81,Rutgers Scarlet Knights,134,28,Spiro Sports Center,False,False
+400594960,2014-11-26,2015,Georgia Lady Bulldogs,Georgia Southern Eagles,93,52,Georgia Lady Bulldogs,145,41,Stegeman Coliseum,False,False
+400595013,2014-11-26,2015,Mississippi State Bulldogs,UL Monroe Warhawks,80,46,Mississippi State Bulldogs,126,34,Humphrey Coliseum,False,False
+400595051,2014-11-27,2015,Chattanooga Mocs,Tennessee Lady Volunteers,67,63,Chattanooga Mocs,130,4,McKenzie Arena,False,False
+400590608,2014-11-27,2015,Texas Longhorns,UT Rio Grande Valley Vaqueros,72,45,Texas Longhorns,117,27,Frank Erwin Center,False,False
+400591945,2014-11-27,2015,Texas A&M Aggies,McNeese Cowgirls,93,27,Texas A&M Aggies,120,66,Reed Arena,False,False
+400596612,2014-11-27,2015,Michigan State Spartans,Oakland Golden Grizzlies,79,64,Michigan State Spartans,143,15,Breslin Center,False,False
+400594961,2014-11-27,2015,Georgia Lady Bulldogs,Colgate Raiders,66,35,Georgia Lady Bulldogs,101,31,Stegeman Coliseum,False,False
+400589753,2014-11-27,2015,West Virginia Mountaineers,Evansville Purple Aces,83,39,West Virginia Mountaineers,122,44,WVU Coliseum,False,False
+400595778,2014-11-27,2015,Furman Paladins,Hartford Hawks,53,43,Furman Paladins,96,10,Hard Rock Hotel Riviera Maya,True,False
+400592969,2014-11-27,2015,Ohio State Buckeyes,Clemson Tigers,86,77,Ohio State Buckeyes,163,9,UVI Sports & Fitness Center,True,False
+400596815,2014-11-27,2015,Idaho State Bengals,San Diego State Aztecs,53,68,San Diego State Aztecs,121,15,Mario Morales Coliseum,True,False
+400592970,2014-11-27,2015,Syracuse Orange,East Carolina Pirates,69,58,Syracuse Orange,127,11,St. Georges High School,True,False
+400590378,2014-11-27,2015,Washington Huskies,Florida State Seminoles,80,68,Washington Huskies,148,12,Hard Rock Hotel Riviera Maya,True,False
+400588823,2014-11-27,2015,Florida Gulf Coast Eagles,Wichita State Shockers,56,39,Florida Gulf Coast Eagles,95,17,UVI Sports & Fitness Center,True,False
+400595038,2014-11-27,2015,South Carolina Gamecocks,Wisconsin Badgers,67,44,South Carolina Gamecocks,111,23,St. Georges High School,True,False
+400596977,2014-11-27,2015,BYU-Hawaii Seasiders,BYU Cougars,52,73,BYU Cougars,125,21,George Q. Cannon Activities Center,False,False
+400594980,2014-11-27,2015,Kentucky Wildcats,Illinois Fighting Illini,71,77,Illinois Fighting Illini,148,6,UVI Sports & Fitness Center,True,False
+400589951,2014-11-27,2015,Montana Lady Griz,Charlotte 49ers,67,58,Montana Lady Griz,125,9,Hard Rock Hotel Riviera Maya,True,False
+400592717,2014-11-28,2015,Richmond Spiders,Central Michigan Chippewas,56,61,Central Michigan Chippewas,117,5,South Point Arena,True,False
+400588168,2014-11-28,2015,Butler Bulldogs,Oregon State Beavers,53,85,Oregon State Beavers,138,32,George Q. Cannon Activities Center,True,False
+400602374,2014-11-28,2015,South Florida Bulls,Oklahoma Sooners,83,68,South Florida Bulls,151,15,UVI Sports & Fitness Center,True,False
+400592971,2014-11-28,2015,Wake Forest Demon Deacons,Princeton Tigers,55,72,Princeton Tigers,127,17,Hard Rock Hotel Riviera Maya,True,False
+400592976,2014-11-28,2015,Duke Blue Devils,Stony Brook Seawolves,72,42,Duke Blue Devils,114,30,Cameron Indoor Stadium,False,False
+400592977,2014-11-29,2015,Louisville Cardinals,Lafayette Leopards,102,61,Louisville Cardinals,163,41,KFC Yum! Center,False,False
+400590383,2014-11-28,2015,UCLA Bruins,Nebraska Cornhuskers,66,71,Nebraska Cornhuskers,137,5,Pauley Pavilion,False,False
+400596618,2014-11-28,2015,Rutgers Scarlet Knights,Colgate Raiders,60,44,Rutgers Scarlet Knights,104,16,Jersey Mike’s Arena,False,False
+400588175,2014-11-30,2015,DePaul Blue Demons,Northwestern Wildcats,91,97,Northwestern Wildcats,188,6,McGrath-Phillips Arena,False,False
+400592314,2014-11-29,2015,Oklahoma State Cowgirls,Texas State Bobcats,64,37,Oklahoma State Cowgirls,101,27,Gallagher-Iba Arena,False,False
+400592311,2014-11-29,2015,West Virginia Mountaineers,Fairfield Stags,67,53,West Virginia Mountaineers,120,14,WVU Coliseum,False,False
+400594962,2014-11-30,2015,Tennessee Tech Golden Eagles,Georgia Lady Bulldogs,51,74,Georgia Lady Bulldogs,125,23,Hooper Eblen Center,False,False
+400591952,2014-11-29,2015,New Orleans Privateers,Mississippi State Bulldogs,45,85,Mississippi State Bulldogs,130,40,Lakefront Arena,False,False
+400592317,2014-11-30,2015,Texas Longhorns,Tennessee Lady Volunteers,72,59,Texas Longhorns,131,13,Frank Erwin Center,False,False
+400592982,2014-11-30,2015,Texas A&M Aggies,Duke Blue Devils,63,59,Texas A&M Aggies,122,4,Reed Arena,False,False
+400592983,2014-11-30,2015,Valparaiso Beacons,Louisville Cardinals,59,86,Louisville Cardinals,145,27,Athletics-Recreation Center,False,False
+400596621,2014-11-30,2015,Nebraska Cornhuskers,Northern Colorado Bears,63,56,Nebraska Cornhuskers,119,7,Pinnacle Bank Arena,False,False
+400594702,2014-11-30,2015,Michigan State Spartans,Miami (OH) RedHawks,85,39,Michigan State Spartans,124,46,Breslin Center,False,False
+400592729,2014-11-30,2015,Rutgers Scarlet Knights,Davidson Wildcats,100,44,Rutgers Scarlet Knights,144,56,Jersey Mike’s Arena,False,False
+400595039,2014-12-02,2015,South Carolina Gamecocks,North Carolina Central Eagles,90,26,South Carolina Gamecocks,116,64,Colonial Life Arena,False,False
+400592987,2014-12-02,2015,Syracuse Orange,Vermont Catamounts,94,63,Syracuse Orange,157,31,JMA Wireless Dome,False,False
+400594963,2014-12-03,2015,Georgia Lady Bulldogs,Coppin State Eagles,49,29,Georgia Lady Bulldogs,78,20,Stegeman Coliseum,False,False
+400592318,2014-12-03,2015,Oklahoma State Cowgirls,Arkansas-Pine Bluff Golden Lions,90,45,Oklahoma State Cowgirls,135,45,Gallagher-Iba Arena,False,False
+400586516,2014-12-03,2015,Mississippi State Bulldogs,North Dakota State Bison,109,58,Mississippi State Bulldogs,167,51,Humphrey Coliseum,False,False
+400592994,2014-12-04,2015,Notre Dame Fighting Irish,Maryland Terrapins,92,72,Notre Dame Fighting Irish,164,20,Purcell Pavilion,False,False
+400592319,2014-12-04,2015,Texas Longhorns,New Mexico Lobos,86,37,Texas Longhorns,123,49,Frank Erwin Center,False,False
+400591964,2014-12-03,2015,Texas A&M Aggies,Northwestern State Lady Demons,75,42,Texas A&M Aggies,117,33,Reed Arena,False,False
+400592988,2014-12-04,2015,Nebraska Cornhuskers,Duke Blue Devils,60,54,Nebraska Cornhuskers,114,6,Pinnacle Bank Arena,False,False
+400590391,2014-12-03,2015,California Golden Bears,Sacramento State Hornets,107,94,California Golden Bears,201,13,Haas Pavilion,False,False
+400590619,2014-12-04,2015,Baylor Bears,UT Rio Grande Valley Vaqueros,96,42,Baylor Bears,138,54,Ferrell Center,False,False
+400588842,2014-12-04,2015,Kentucky Wildcats,Northern Kentucky Norse,82,64,Kentucky Wildcats,146,18,Memorial Coliseum (KY),False,False
+400595052,2014-12-04,2015,Tennessee Lady Volunteers,Saint Francis Red Flash,111,44,Tennessee Lady Volunteers,155,67,Food City Center,False,False
+400592320,2014-12-04,2015,Fairleigh Dickinson Knights,West Virginia Mountaineers,52,80,West Virginia Mountaineers,132,28,Bogota Savings Bank Center,False,False
+400588181,2014-12-03,2015,DePaul Blue Demons,Butler Bulldogs,92,76,DePaul Blue Demons,168,16,McGrath-Phillips Arena,False,True
+400589976,2014-12-05,2015,South Carolina Gamecocks,Charlotte 49ers,82,61,South Carolina Gamecocks,143,21,Colonial Life Arena,False,False
+400592996,2014-12-05,2015,Rutgers Scarlet Knights,North Carolina Tar Heels,93,96,North Carolina Tar Heels,189,3,Jersey Mike’s Arena,False,False
+400592999,2014-12-05,2015,Louisville Cardinals,Iowa Hawkeyes,86,52,Louisville Cardinals,138,34,KFC Yum! Center,False,False
+400592997,2014-12-05,2015,Michigan State Spartans,Georgia Tech Yellow Jackets,79,73,Michigan State Spartans,152,6,Breslin Center,False,False
+400590394,2014-12-04,2015,Oregon State Beavers,Idaho Vandals,75,53,Oregon State Beavers,128,22,Gill Coliseum,False,False
+400594964,2014-12-05,2015,Mercer Bears,Georgia Lady Bulldogs,49,68,Georgia Lady Bulldogs,117,19,Hawkins Arena,False,False
+400592998,2014-12-05,2015,Syracuse Orange,Penn State Lady Lions,61,39,Syracuse Orange,100,22,JMA Wireless Dome,False,False
+400586523,2014-12-05,2015,Arkansas Razorbacks,South Dakota State Jackrabbits,75,80,South Dakota State Jackrabbits,155,5,Bud Walton Arena,False,False
+400588843,2014-12-05,2015,Stetson Hatters,Webber International Warriors,90,27,Stetson Hatters,117,63,Edmunds Center,False,False
+400601272,2014-12-05,2015,Columbia Lions,UMBC Retrievers,66,76,UMBC Retrievers,142,10,Levien Gymnasium,False,False
+400590397,2014-12-05,2015,Colorado Buffaloes,San José State Spartans,97,89,Colorado Buffaloes,186,8,CU Events Center,False,False
+400589772,2014-12-05,2015,Wichita State Shockers,Arkansas-Pine Bluff Golden Lions,55,26,Wichita State Shockers,81,29,Charles Koch Arena,False,False
+400592487,2014-12-05,2015,Quinnipiac Bobcats,Siena Saints,78,65,Quinnipiac Bobcats,143,13,M&T Bank Arena,False,True
+400592488,2014-12-05,2015,Niagara Purple Eagles,Saint Peter's Peacocks,73,40,Niagara Purple Eagles,113,33,Gallagher Center,False,True
+400602154,2014-12-05,2015,Santa Clara Broncos,UC Davis Aggies,79,76,Santa Clara Broncos,155,3,Clune Arena,True,False
+400602848,2014-12-06,2015,Pennsylvania Quakers,Hampton Lady Pirates,43,58,Hampton Lady Pirates,101,15,The Palestra,False,False
+400601816,2014-12-06,2015,Jacksonville State Gamecocks,Jackson State Lady Tigers,64,57,Jacksonville State Gamecocks,121,7,Pete Mathews Coliseum,False,False
+400597152,2014-12-06,2015,St. Francis Brooklyn Terriers,Lafayette Leopards,51,73,Lafayette Leopards,124,22,Peter Aquilone Court,False,False
+400595788,2014-12-06,2015,UNC Greensboro Spartans,Gardner-Webb Runnin' Bulldogs,76,60,UNC Greensboro Spartans,136,16,Fleming Gymnasium,False,False
+400594708,2014-12-06,2015,Akron Zips,Morehead State Eagles,89,61,Akron Zips,150,28,James A. Rhodes Arena,False,False
+400592489,2014-12-06,2015,Marist Red Foxes,Monmouth Hawks,75,65,Marist Red Foxes,140,10,McCann Arena,False,True
+400592486,2014-12-06,2015,Rider Broncs,Iona Gaels,51,71,Iona Gaels,122,20,Alumni Gymnasium (Rider),False,True
+400592485,2014-12-06,2015,Canisius Golden Griffins,Manhattan Jaspers,55,44,Canisius Golden Griffins,99,11,Koessler Athletic Center,False,True
+400589978,2014-12-06,2015,Old Dominion Monarchs,VCU Rams,66,44,Old Dominion Monarchs,110,22,Chartway Arena,False,False
+400588186,2014-12-06,2015,Butler Bulldogs,Wright State Raiders,57,49,Butler Bulldogs,106,8,Hinkle Fieldhouse,False,False
+400588185,2014-12-06,2015,Fordham Rams,Seton Hall Pirates,43,56,Seton Hall Pirates,99,13,Rose Hill Gym,False,False
+400586524,2014-12-06,2015,Eastern Illinois Panthers,Omaha Mavericks,77,66,Eastern Illinois Panthers,143,11,Groniger Arena,False,False
+400596832,2014-12-06,2015,Air Force Falcons,Southern Utah Thunderbirds,57,73,Southern Utah Thunderbirds,130,16,Clune Arena,False,False
+400596831,2014-12-06,2015,Portland State Vikings,Navy Midshipmen,56,50,Portland State Vikings,106,6,Peter W. Stott Center,False,False
+400590396,2014-12-06,2015,Portland Pilots,Oregon Ducks,49,72,Oregon Ducks,121,23,Chiles Center,False,False
+400593004,2014-12-06,2015,Notre Dame Fighting Irish,UConn Huskies,58,76,UConn Huskies,134,18,Purcell Pavilion,False,False
+400590401,2014-12-06,2015,Oregon State Beavers,Sacramento State Hornets,109,61,Oregon State Beavers,170,48,Gill Coliseum,False,False
+400592322,2014-12-06,2015,West Virginia Mountaineers,Coppin State Eagles,83,43,West Virginia Mountaineers,126,40,WVU Coliseum,False,False
+400592323,2014-12-07,2015,TCU Horned Frogs,Texas A&M Aggies,71,82,Texas A&M Aggies,153,11,Schollmaier Arena,False,False
+400593009,2014-12-07,2015,Louisville Cardinals,Kentucky Wildcats,68,77,Kentucky Wildcats,145,9,KFC Yum! Center,False,False
+400590404,2014-12-07,2015,Kansas Jayhawks,California Golden Bears,62,39,Kansas Jayhawks,101,23,Allen Fieldhouse,False,False
+400602278,2014-12-07,2015,Ole Miss Rebels,Baylor Bears,54,96,Baylor Bears,150,42,C. M. Tad Smith Coliseum,False,False
+400594882,2014-12-07,2015,Alabama Crimson Tide,Nebraska Cornhuskers,53,51,Alabama Crimson Tide,104,2,Foster Auditorium,False,False
+400588849,2014-12-07,2015,Lipscomb Bisons,Tennessee Lady Volunteers,51,85,Tennessee Lady Volunteers,136,34,Allen Arena,False,False
+400596622,2014-12-07,2015,Maryland Terrapins,Towson Tigers,81,52,Maryland Terrapins,133,29,XFINITY Center,False,False
+400594965,2014-12-07,2015,Georgia Lady Bulldogs,Michigan State Spartans,69,60,Georgia Lady Bulldogs,129,9,Stegeman Coliseum,False,False
+400594904,2014-12-07,2015,Arkansas Razorbacks,Rutgers Scarlet Knights,52,64,Rutgers Scarlet Knights,116,12,Bud Walton Arena,False,False
+400590405,2014-12-07,2015,Iowa Hawkeyes,Colorado Buffaloes,78,63,Iowa Hawkeyes,141,15,Carver-Hawkeye Arena,False,False
+400602279,2014-12-07,2015,Mississippi State Bulldogs,SE Louisiana Lady Lions,97,36,Mississippi State Bulldogs,133,61,Humphrey Coliseum,False,False
+400588195,2014-12-07,2015,Chicago State Cougars,DePaul Blue Demons,34,87,DePaul Blue Demons,121,53,Jones Convocation Center,False,False
+400592325,2014-12-08,2015,Texas Longhorns,Southern Jaguars,80,42,Texas Longhorns,122,38,Frank Erwin Center,False,False
+400595061,2014-12-10,2015,SMU Mustangs,Texas A&M Aggies,62,70,Texas A&M Aggies,132,8,Moody Coliseum (Dallas),False,False
+400588201,2014-12-11,2015,DePaul Blue Demons,Notre Dame Fighting Irish,93,94,Notre Dame Fighting Irish,187,1,McGrath-Phillips Arena,False,False
+400592327,2014-12-11,2015,Baylor Bears,Idaho Vandals,88,70,Baylor Bears,158,18,Ferrell Center,False,False
+400596628,2014-12-10,2015,Temple Owls,Rutgers Scarlet Knights,55,88,Rutgers Scarlet Knights,143,33,McGonigle Hall,False,False
+400592326,2014-12-11,2015,West Virginia Mountaineers,Duquesne Dukes,79,60,West Virginia Mountaineers,139,19,WVU Coliseum,False,False
+400588204,2014-12-12,2015,Creighton Bluejays,Nebraska Cornhuskers,57,60,Nebraska Cornhuskers,117,3,D.J. Sokol Arena,False,False
+400589990,2014-12-12,2015,Mississippi State Bulldogs,Louisiana Tech Lady Techsters,81,77,Mississippi State Bulldogs,158,4,Humphrey Coliseum,False,False
+400592328,2014-12-12,2015,Iowa Hawkeyes,Iowa State Cyclones,76,67,Iowa Hawkeyes,143,9,Carver-Hawkeye Arena,False,False
+400589991,2014-12-13,2015,Kentucky Wildcats,Middle Tennessee Blue Raiders,78,62,Kentucky Wildcats,140,16,Memorial Coliseum (KY),False,False
+400596630,2014-12-13,2015,Maryland Terrapins,American University Eagles,94,50,Maryland Terrapins,144,44,XFINITY Center,False,False
+400595062,2014-12-13,2015,Texas A&M Aggies,Houston Cougars,94,55,Texas A&M Aggies,149,39,Reed Arena,False,False
+400593013,2014-12-13,2015,Notre Dame Fighting Irish,Michigan Wolverines,70,50,Notre Dame Fighting Irish,120,20,Purcell Pavilion,False,False
+400590630,2014-12-13,2015,Nebraska Cornhuskers,Cal State Bakersfield Roadrunners,54,45,Nebraska Cornhuskers,99,9,Pinnacle Bank Arena,False,False
+400590415,2014-12-14,2015,Long Beach State Beach,California Golden Bears,58,56,Long Beach State Beach,114,2,Walter Pyramid,False,False
+400586546,2014-12-13,2015,West Virginia Mountaineers,Purdue Fort Wayne Mastodons,82,48,West Virginia Mountaineers,130,34,WVU Coliseum,False,False
+400595040,2014-12-14,2015,South Carolina Gamecocks,Savannah State Tigers,111,49,South Carolina Gamecocks,160,62,Colonial Life Arena,False,False
+400592331,2014-12-14,2015,Texas Longhorns,Northwestern State Lady Demons,74,34,Texas Longhorns,108,40,Frank Erwin Center,False,False
+400593020,2014-12-14,2015,North Carolina Tar Heels,App State Mountaineers,84,52,North Carolina Tar Heels,136,32,Carmichael Arena,False,False
+400590419,2014-12-15,2015,Stanford Cardinal,Santa Clara Broncos,82,43,Stanford Cardinal,125,39,Maples Pavilion,False,False
+400594982,2014-12-14,2015,Kentucky Wildcats,Belmont Bruins,71,55,Kentucky Wildcats,126,16,Memorial Coliseum (KY),False,False
+400591990,2014-12-14,2015,Baylor Bears,Stephen F. Austin Ladyjacks,96,57,Baylor Bears,153,39,Ferrell Center,False,False
+400595053,2014-12-14,2015,Rutgers Scarlet Knights,Tennessee Lady Volunteers,45,55,Tennessee Lady Volunteers,100,10,Jersey Mike’s Arena,False,False
+400589786,2014-12-14,2015,Loyola Chicago Ramblers,Michigan State Spartans,38,90,Michigan State Spartans,128,52,Gentile Arena,False,False
+400593018,2014-12-14,2015,Syracuse Orange,North Carolina Central Eagles,70,25,Syracuse Orange,95,45,JMA Wireless Dome,False,False
+400595014,2014-12-14,2015,Southern Miss Lady Eagles,Mississippi State Bulldogs,46,73,Mississippi State Bulldogs,119,27,Reed Green Coliseum,False,False
+400589998,2014-12-16,2015,Louisville Cardinals,Old Dominion Monarchs,100,46,Louisville Cardinals,146,54,KFC Yum! Center,False,False
+400591993,2014-12-16,2015,Oklahoma State Cowgirls,New Orleans Privateers,84,33,Oklahoma State Cowgirls,117,51,Gallagher-Iba Arena,False,False
+400595015,2014-12-16,2015,Mississippi State Bulldogs,Mississippi Valley State Devilettes,104,41,Mississippi State Bulldogs,145,63,Humphrey Coliseum,False,False
+400590421,2014-12-16,2015,North Carolina Tar Heels,Oregon State Beavers,55,70,Oregon State Beavers,125,15,Carmichael Arena,False,False
+400589789,2014-12-17,2015,Tennessee Lady Volunteers,Wichita State Shockers,54,51,Tennessee Lady Volunteers,105,3,Food City Center,False,False
+400596635,2014-12-17,2015,Michigan State Spartans,Alcorn State Lady Braves,77,41,Michigan State Spartans,118,36,Breslin Center,False,False
+400592505,2014-12-17,2015,Syracuse Orange,Canisius Golden Griffins,70,37,Syracuse Orange,107,33,JMA Wireless Dome,False,False
+400595041,2014-12-18,2015,Hampton Lady Pirates,South Carolina Gamecocks,49,69,South Carolina Gamecocks,118,20,Convocation Center (VA),False,False
+400591996,2014-12-18,2015,Texas Longhorns,McNeese Cowgirls,76,59,Texas Longhorns,135,17,Frank Erwin Center,False,False
+400590422,2014-12-17,2015,Chattanooga Mocs,Stanford Cardinal,54,46,Chattanooga Mocs,100,8,McKenzie Arena,False,False
+400592335,2014-12-17,2015,Duke Blue Devils,Oklahoma Sooners,92,72,Duke Blue Devils,164,20,Cameron Indoor Stadium,False,False
+400595016,2014-12-17,2015,Louisiana Ragin' Cajuns,Mississippi State Bulldogs,51,66,Mississippi State Bulldogs,117,15,Earl K. Long Gym,False,False
+400588212,2014-12-17,2015,Loyola Chicago Ramblers,DePaul Blue Demons,84,109,DePaul Blue Demons,193,25,Gentile Arena,False,False
+400593029,2014-12-19,2015,Grand Canyon Lopes,Louisville Cardinals,51,65,Louisville Cardinals,116,14,Global Credit Union Arena,False,False
+400592336,2014-12-19,2015,Weber State Wildcats,Oklahoma State Cowgirls,49,55,Oklahoma State Cowgirls,104,6,Dee Events Center,False,False
+400588216,2014-12-20,2015,UConn Huskies,DePaul Blue Demons,98,64,UConn Huskies,162,34,Total Mortgage Arena,True,False
+400593033,2014-12-20,2015,North Carolina Tar Heels,Maine Black Bears,65,36,North Carolina Tar Heels,101,29,Myrtle Beach Convention Center,True,False
+400593030,2014-12-19,2015,Duke Blue Devils,UMass Lowell River Hawks,95,48,Duke Blue Devils,143,47,Cameron Indoor Stadium,False,False
+400590431,2014-12-20,2015,Tennessee Lady Volunteers,Stanford Cardinal,59,40,Tennessee Lady Volunteers,99,19,Food City Center,False,False
+400596639,2014-12-20,2015,Nebraska Cornhuskers,High Point Panthers,83,57,Nebraska Cornhuskers,140,26,Pinnacle Bank Arena,False,False
+400594966,2014-12-20,2015,Georgia Lady Bulldogs,Furman Paladins,58,51,Georgia Lady Bulldogs,109,7,Stegeman Coliseum,False,False
+400592514,2014-12-20,2015,Iona Gaels,Rutgers Scarlet Knights,58,66,Rutgers Scarlet Knights,124,8,Hynes Athletics Center,False,False
+400590015,2014-12-20,2015,West Virginia Mountaineers,Marshall Thundering Herd,69,56,West Virginia Mountaineers,125,13,WVU Coliseum,False,False
+400590435,2014-12-21,2015,UConn Huskies,UCLA Bruins,86,50,UConn Huskies,136,36,Mohegan Sun Arena,True,False
+400592340,2014-12-21,2015,Texas A&M Aggies,Texas Longhorns,65,67,Texas Longhorns,132,2,Simmons Bank Arena,True,False
+400592779,2014-12-21,2015,Notre Dame Fighting Irish,Saint Joseph's Hawks,64,50,Notre Dame Fighting Irish,114,14,Purcell Pavilion,False,False
+400593042,2014-12-21,2015,North Carolina Tar Heels,Elon Phoenix,85,67,North Carolina Tar Heels,152,18,Myrtle Beach Convention Center,True,False
+400593041,2014-12-21,2015,Duke Blue Devils,Kentucky Wildcats,89,68,Duke Blue Devils,157,21,Cameron Indoor Stadium,False,False
+400590436,2014-12-21,2015,California Golden Bears,Louisville Cardinals,57,70,Louisville Cardinals,127,13,Haas Pavilion,False,False
+400596641,2014-12-21,2015,Coppin State Eagles,Maryland Terrapins,51,110,Maryland Terrapins,161,59,Physical Education Complex,False,False
+400590434,2014-12-21,2015,USC Trojans,Oklahoma State Cowgirls,62,66,Oklahoma State Cowgirls,128,4,Galen Center,False,False
+400589801,2014-12-21,2015,Drake Bulldogs,Iowa Hawkeyes,98,100,Iowa Hawkeyes,198,2,Knapp Center,False,False
+400594967,2014-12-23,2015,Georgia Lady Bulldogs,Belmont Bruins,62,43,Georgia Lady Bulldogs,105,19,Stegeman Coliseum,False,False
+400590440,2014-12-22,2015,Stanford Cardinal,UC Davis Aggies,71,59,Stanford Cardinal,130,12,Maples Pavilion,False,False
+400592343,2014-12-22,2015,Ohio State Buckeyes,West Virginia Mountaineers,96,54,Ohio State Buckeyes,150,42,Value City Arena,False,False
+400597476,2014-12-23,2015,Cincinnati Bearcats,Detroit Mercy Titans,70,38,Cincinnati Bearcats,108,32,Fifth Third Arena,False,False
+400590646,2014-12-23,2015,Cal State Bakersfield Roadrunners,Hawai'i Rainbow Wahine,78,69,Cal State Bakersfield Roadrunners,147,9,Icardo Center,False,False
+400601229,2014-12-23,2015,UC Riverside Highlanders,San Diego State Aztecs,64,54,UC Riverside Highlanders,118,10,SRC Arena,False,False
+400597478,2014-12-27,2015,UConn Huskies,SMU Mustangs,96,45,UConn Huskies,141,51,PeoplesBank Arena,False,True
+400590444,2014-12-28,2015,UCLA Bruins,Notre Dame Fighting Irish,67,82,Notre Dame Fighting Irish,149,15,Pauley Pavilion,False,False
+400590443,2014-12-28,2015,Tennessee Lady Volunteers,Oregon State Beavers,74,63,Tennessee Lady Volunteers,137,11,Food City Center,False,False
+400594983,2014-12-28,2015,Kentucky Wildcats,Tennessee State Lady Tigers,87,75,Kentucky Wildcats,162,12,Memorial Coliseum (KY),False,False
+400588227,2014-12-28,2015,Seton Hall Pirates,Georgia Lady Bulldogs,70,51,Seton Hall Pirates,121,19,Walsh Gymnasium,False,False
+400590442,2014-12-28,2015,Stanford Cardinal,UC Santa Barbara Gauchos,90,34,Stanford Cardinal,124,56,Maples Pavilion,False,False
+400596648,2014-12-28,2015,Indiana Hoosiers,Rutgers Scarlet Knights,51,66,Rutgers Scarlet Knights,117,15,Simon Skjodt Assembly Hall,False,True
+400596646,2014-12-28,2015,Michigan State Spartans,Northwestern Wildcats,57,61,Northwestern Wildcats,118,4,Breslin Center,False,True
+400593046,2014-12-28,2015,Syracuse Orange,Cornell Big Red,76,59,Syracuse Orange,135,17,JMA Wireless Dome,False,False
+400596647,2014-12-28,2015,Iowa Hawkeyes,Penn State Lady Lions,77,52,Iowa Hawkeyes,129,25,Carver-Hawkeye Arena,False,True
+400592784,2014-12-28,2015,Dayton Flyers,Green Bay Phoenix,72,66,Dayton Flyers,138,6,UD Arena,False,False
+400590445,2014-12-28,2015,Arizona State Sun Devils,Yale Bulldogs,69,51,Arizona State Sun Devils,120,18,Desert Financial Arena,False,False
+400593050,2014-12-30,2015,UConn Huskies,Duke Blue Devils,83,52,UConn Huskies,135,31,PeoplesBank Arena,False,False
+400590446,2014-12-30,2015,Washington Huskies,Texas A&M Aggies,70,49,Washington Huskies,119,21,Alaska Airlines Arena,False,False
+400592346,2014-12-30,2015,Baylor Bears,Prairie View A&M Lady Panthers,108,64,Baylor Bears,172,44,Ferrell Center,False,False
+400589804,2014-12-30,2015,Louisville Cardinals,Evansville Purple Aces,73,51,Louisville Cardinals,124,22,KFC Yum! Center,False,False
+400596651,2014-12-30,2015,Minnesota Golden Gophers,Nebraska Cornhuskers,72,69,Minnesota Golden Gophers,141,3,Williams Arena,False,True
+400596650,2014-12-30,2015,Maryland Terrapins,Ohio State Buckeyes,87,78,Maryland Terrapins,165,9,XFINITY Center,False,True
+400595018,2014-12-30,2015,Mississippi State Bulldogs,Arkansas-Pine Bluff Golden Lions,83,26,Mississippi State Bulldogs,109,57,Humphrey Coliseum,False,False
+400592019,2014-12-30,2015,Oklahoma State Cowgirls,Northwestern State Lady Demons,89,44,Oklahoma State Cowgirls,133,45,Gallagher-Iba Arena,False,False
+400590037,2014-12-31,2015,Texas Longhorns,Rice Owls,77,54,Texas Longhorns,131,23,Frank Erwin Center,False,False
+400593053,2014-12-30,2015,North Carolina Tar Heels,UAlbany Great Danes,71,56,North Carolina Tar Heels,127,15,Carmichael Arena,False,False
+400593055,2014-12-31,2015,Syracuse Orange,Central Connecticut Blue Devils,74,43,Syracuse Orange,117,31,JMA Wireless Dome,False,False
+400588231,2014-12-31,2015,Seton Hall Pirates,Butler Bulldogs,70,65,Seton Hall Pirates,135,5,Walsh Gymnasium,False,True
+400597485,2014-12-31,2015,East Carolina Pirates,UConn Huskies,38,89,UConn Huskies,127,51,Minges Coliseum,False,True
+400590038,2014-12-31,2015,Texas A&M Aggies,North Texas Mean Green,75,38,Texas A&M Aggies,113,37,Reed Arena,False,False
+400596652,2015-01-01,2015,Indiana Hoosiers,Michigan State Spartans,70,51,Indiana Hoosiers,121,19,Simon Skjodt Assembly Hall,False,True
+400596656,2015-01-01,2015,Ohio State Buckeyes,Rutgers Scarlet Knights,85,68,Ohio State Buckeyes,153,17,Value City Arena,False,True
+400594928,2015-01-03,2015,South Carolina Gamecocks,Auburn Tigers,77,58,South Carolina Gamecocks,135,19,Colonial Life Arena,False,True
+400593062,2015-01-03,2015,Notre Dame Fighting Irish,Florida State Seminoles,74,68,Notre Dame Fighting Irish,142,6,Purcell Pavilion,False,True
+400595063,2015-01-03,2015,Texas A&M Aggies,Vanderbilt Commodores,75,61,Texas A&M Aggies,136,14,Reed Arena,False,True
+400593061,2015-01-03,2015,Louisville Cardinals,Georgia Tech Yellow Jackets,75,48,Louisville Cardinals,123,27,KFC Yum! Center,False,True
+400595031,2015-01-03,2015,Tennessee Lady Volunteers,Missouri Tigers,63,53,Tennessee Lady Volunteers,116,10,Food City Center,False,True
+400593059,2015-01-02,2015,North Carolina Tar Heels,East Tennessee State Bucs,95,62,North Carolina Tar Heels,157,33,Carmichael Arena,False,False
+400593060,2015-01-02,2015,Duke Blue Devils,North Carolina A&T Aggies,87,36,Duke Blue Devils,123,51,Cameron Indoor Stadium,False,False
+400594886,2015-01-02,2015,Alabama Crimson Tide,Kentucky Wildcats,66,78,Kentucky Wildcats,144,12,Foster Auditorium,False,True
+400594968,2015-01-02,2015,Mississippi State Bulldogs,Georgia Lady Bulldogs,64,56,Mississippi State Bulldogs,120,8,Humphrey Coliseum,False,True
+400588236,2015-01-02,2015,St. John's Red Storm,Seton Hall Pirates,59,50,St. John's Red Storm,109,9,Carnesecca Arena,False,True
+400588238,2015-01-03,2015,Villanova Wildcats,DePaul Blue Demons,79,76,Villanova Wildcats,155,3,Finneran Pavilion,False,True
+400592351,2015-01-04,2015,Texas Longhorns,Kansas Jayhawks,60,46,Texas Longhorns,106,14,Frank Erwin Center,False,True
+400592352,2015-01-03,2015,Baylor Bears,Oklahoma State Cowgirls,61,45,Baylor Bears,106,16,Ferrell Center,False,True
+400596657,2015-01-03,2015,Nebraska Cornhuskers,Maryland Terrapins,47,75,Maryland Terrapins,122,28,Pinnacle Bank Arena,False,True
+400590454,2015-01-04,2015,UCLA Bruins,Oregon State Beavers,47,65,Oregon State Beavers,112,18,Pauley Pavilion,False,True
+400590455,2015-01-04,2015,Stanford Cardinal,Colorado Buffaloes,62,55,Stanford Cardinal,117,7,Maples Pavilion,False,True
+400590450,2015-01-03,2015,Arizona State Sun Devils,Washington Huskies,62,48,Arizona State Sun Devils,110,14,Desert Financial Arena,False,True
+400595002,2015-01-04,2015,LSU Tigers,South Carolina Gamecocks,51,75,South Carolina Gamecocks,126,24,Pete Maravich Assembly Center,False,True
+400588242,2015-01-04,2015,St. John's Red Storm,UConn Huskies,54,70,UConn Huskies,124,16,Madison Square Garden,True,False
+400593064,2015-01-04,2015,Syracuse Orange,Notre Dame Fighting Irish,74,85,Notre Dame Fighting Irish,159,11,JMA Wireless Dome,False,True
+400594908,2015-01-04,2015,Arkansas Razorbacks,Texas A&M Aggies,50,52,Texas A&M Aggies,102,2,Bud Walton Arena,False,True
+400593067,2015-01-04,2015,Pittsburgh Panthers,Louisville Cardinals,57,63,Louisville Cardinals,120,6,Petersen Events Center,False,True
+400593070,2015-01-04,2015,North Carolina Tar Heels,NC State Wolfpack,72,56,North Carolina Tar Heels,128,16,Carmichael Arena,False,True
+400593068,2015-01-04,2015,Duke Blue Devils,Wake Forest Demon Deacons,70,63,Duke Blue Devils,133,7,Cameron Indoor Stadium,False,True
+400594984,2015-01-04,2015,Kentucky Wildcats,Ole Miss Rebels,64,58,Kentucky Wildcats,122,6,Memorial Coliseum (KY),False,True
+400596663,2015-01-04,2015,Rutgers Scarlet Knights,Iowa Hawkeyes,72,79,Iowa Hawkeyes,151,7,Jersey Mike’s Arena,False,True
+400595019,2015-01-04,2015,Missouri Tigers,Mississippi State Bulldogs,47,53,Mississippi State Bulldogs,100,6,Mizzou Arena,False,True
+400594887,2015-01-04,2015,Georgia Lady Bulldogs,Alabama Crimson Tide,64,47,Georgia Lady Bulldogs,111,17,Stegeman Coliseum,False,True
+400596659,2015-01-04,2015,Michigan Wolverines,Michigan State Spartans,74,65,Michigan Wolverines,139,9,Crisler Center,False,True
+400588244,2015-01-04,2015,Georgetown Hoyas,DePaul Blue Demons,85,105,DePaul Blue Demons,190,20,McDonough Arena,False,True
+400595054,2015-01-06,2015,Vanderbilt Commodores,Tennessee Lady Volunteers,49,57,Tennessee Lady Volunteers,106,8,Memorial Gymnasium (TN),False,True
+400590461,2015-01-06,2015,USC Trojans,Oregon State Beavers,66,76,Oregon State Beavers,142,10,Galen Center,False,True
+400590458,2015-01-06,2015,Stanford Cardinal,Utah Utes,55,44,Stanford Cardinal,99,11,Maples Pavilion,False,True
+400590460,2015-01-06,2015,Arizona State Sun Devils,Washington State Cougars,78,64,Arizona State Sun Devils,142,14,Desert Financial Arena,False,True
+400599072,2015-01-06,2015,Hampton Lady Pirates,Princeton Tigers,63,75,Princeton Tigers,138,12,Convocation Center (VA),False,False
+400592356,2015-01-07,2015,Kansas State Wildcats,Baylor Bears,44,74,Baylor Bears,118,30,Bramlage Coliseum,False,True
+400597491,2015-01-08,2015,UConn Huskies,Tulsa Golden Hurricane,98,60,UConn Huskies,158,38,PeoplesBank Arena,False,True
+400592357,2015-01-08,2015,Texas Longhorns,West Virginia Mountaineers,61,55,Texas Longhorns,116,6,Frank Erwin Center,False,True
+400592358,2015-01-08,2015,Oklahoma State Cowgirls,Texas Tech Lady Raiders,66,35,Oklahoma State Cowgirls,101,31,Gallagher-Iba Arena,False,True
+400596665,2015-01-08,2015,Rutgers Scarlet Knights,Michigan Wolverines,81,68,Rutgers Scarlet Knights,149,13,Jersey Mike’s Arena,False,True
+400594888,2015-01-09,2015,Alabama Crimson Tide,South Carolina Gamecocks,59,102,South Carolina Gamecocks,161,43,Foster Auditorium,False,True
+400593077,2015-01-09,2015,Miami Hurricanes,Notre Dame Fighting Irish,78,63,Miami Hurricanes,141,15,Watsco Center,False,True
+400595055,2015-01-09,2015,Tennessee Lady Volunteers,Texas A&M Aggies,81,58,Tennessee Lady Volunteers,139,23,Food City Center,False,True
+400593074,2015-01-09,2015,Pittsburgh Panthers,North Carolina Tar Heels,84,59,Pittsburgh Panthers,143,25,Petersen Events Center,False,True
+400594930,2015-01-09,2015,Kentucky Wildcats,Auburn Tigers,78,57,Kentucky Wildcats,135,21,Memorial Coliseum (KY),False,True
+400596667,2015-01-08,2015,Maryland Terrapins,Purdue Boilermakers,88,64,Maryland Terrapins,152,24,XFINITY Center,False,True
+400593071,2015-01-08,2015,Duke Blue Devils,Syracuse Orange,74,72,Duke Blue Devils,146,2,Cameron Indoor Stadium,False,True
+400594909,2015-01-09,2015,Mississippi State Bulldogs,Arkansas Razorbacks,72,57,Mississippi State Bulldogs,129,15,Humphrey Coliseum,False,True
+400596669,2015-01-09,2015,Illinois Fighting Illini,Iowa Hawkeyes,73,61,Illinois Fighting Illini,134,12,State Farm Center,False,True
+400590462,2015-01-09,2015,Arizona Wildcats,Arizona State Sun Devils,41,88,Arizona State Sun Devils,129,47,McKale Memorial Center,False,True
+400596668,2015-01-09,2015,Michigan State Spartans,Nebraska Cornhuskers,67,71,Nebraska Cornhuskers,138,4,Breslin Center,False,True
+400594969,2015-01-09,2015,Georgia Lady Bulldogs,Missouri Tigers,69,48,Georgia Lady Bulldogs,117,21,Stegeman Coliseum,False,True
+400590051,2015-01-09,2015,Charlotte 49ers,Western Kentucky Lady Toppers,61,76,Western Kentucky Lady Toppers,137,15,Halton Arena,False,True
+400590465,2015-01-10,2015,Oregon State Beavers,Oregon Ducks,70,37,Oregon State Beavers,107,33,Gill Coliseum,False,True
+400590466,2015-01-10,2015,Washington Huskies,Stanford Cardinal,56,60,Stanford Cardinal,116,4,Alaska Airlines Arena,False,True
+400592364,2015-01-10,2015,Iowa State Cyclones,Texas Longhorns,59,57,Iowa State Cyclones,116,2,Hilton Coliseum,False,True
+400592363,2015-01-10,2015,West Virginia Mountaineers,Baylor Bears,62,66,Baylor Bears,128,4,WVU Coliseum,False,True
+400592361,2015-01-11,2015,TCU Horned Frogs,Oklahoma State Cowgirls,70,66,TCU Horned Frogs,136,4,Schollmaier Arena,False,True
+400590468,2015-01-11,2015,Arizona State Sun Devils,Arizona Wildcats,71,54,Arizona State Sun Devils,125,17,Desert Financial Arena,False,True
+400602853,2015-01-10,2015,Princeton Tigers,Pennsylvania Quakers,83,54,Princeton Tigers,137,29,Jadwin Gymnasium,False,True
+400596670,2015-01-10,2015,Penn State Lady Lions,Rutgers Scarlet Knights,51,71,Rutgers Scarlet Knights,122,20,Bryce Jordan Center,False,True
+400590060,2015-01-10,2015,Old Dominion Monarchs,Western Kentucky Lady Toppers,60,76,Western Kentucky Lady Toppers,136,16,Chartway Arena,False,True
+400594985,2015-01-11,2015,South Carolina Gamecocks,Kentucky Wildcats,68,60,South Carolina Gamecocks,128,8,Colonial Life Arena,False,True
+400597496,2015-01-11,2015,SMU Mustangs,UConn Huskies,28,87,UConn Huskies,115,59,Moody Coliseum (Dallas),False,True
+400593081,2015-01-11,2015,Notre Dame Fighting Irish,Boston College Eagles,104,58,Notre Dame Fighting Irish,162,46,Purcell Pavilion,False,True
+400593082,2015-01-11,2015,Wake Forest Demon Deacons,Louisville Cardinals,68,79,Louisville Cardinals,147,11,LJVM Coliseum,False,True
+400594910,2015-01-11,2015,Arkansas Razorbacks,Tennessee Lady Volunteers,51,60,Tennessee Lady Volunteers,111,9,Bud Walton Arena,False,True
+400593084,2015-01-11,2015,North Carolina Tar Heels,Georgia Tech Yellow Jackets,96,81,North Carolina Tar Heels,177,15,Carmichael Arena,False,True
+400595004,2015-01-11,2015,Texas A&M Aggies,LSU Tigers,55,48,Texas A&M Aggies,103,7,Reed Arena,False,True
+400590473,2015-01-12,2015,Oregon Ducks,Oregon State Beavers,48,77,Oregon State Beavers,125,29,Matthew Knight Arena,False,True
+400596671,2015-01-11,2015,Minnesota Golden Gophers,Maryland Terrapins,73,77,Maryland Terrapins,150,4,Williams Arena,False,True
+400593080,2015-01-11,2015,Florida State Seminoles,Duke Blue Devils,74,58,Florida State Seminoles,132,16,Tucker Center,False,True
+400595020,2015-01-11,2015,Vanderbilt Commodores,Mississippi State Bulldogs,78,62,Vanderbilt Commodores,140,16,Memorial Gymnasium (TN),False,True
+400590469,2015-01-11,2015,Washington State Cougars,Stanford Cardinal,76,86,Stanford Cardinal,162,10,Beasley Coliseum,False,True
+400596675,2015-01-11,2015,Iowa Hawkeyes,Purdue Boilermakers,73,59,Iowa Hawkeyes,132,14,Carver-Hawkeye Arena,False,True
+400596676,2015-01-11,2015,Illinois Fighting Illini,Nebraska Cornhuskers,53,58,Nebraska Cornhuskers,111,5,State Farm Center,False,True
+400594931,2015-01-11,2015,Auburn Tigers,Georgia Lady Bulldogs,52,57,Georgia Lady Bulldogs,109,5,Neville Arena,False,True
+400593079,2015-01-11,2015,Syracuse Orange,Virginia Cavaliers,70,58,Syracuse Orange,128,12,JMA Wireless Dome,False,True
+400592554,2015-01-12,2015,Manhattan Jaspers,Marist Red Foxes,45,67,Marist Red Foxes,112,22,Draddy Gymnasium,False,True
+400595833,2015-01-12,2015,Wofford Terriers,East Tennessee State Bucs,47,79,East Tennessee State Bucs,126,32,Benjamin Johnson Arena,False,True
+400595834,2015-01-12,2015,Western Carolina Catamounts,Samford Bulldogs,50,60,Samford Bulldogs,110,10,Ramsey Center,False,True
+400599088,2015-01-12,2015,North Carolina Central Eagles,Savannah State Tigers,61,82,Savannah State Tigers,143,21,McDougald-McLendon Arena,False,True
+400599087,2015-01-12,2015,Morgan State Lady Bears,Maryland Eastern Shore Hawks,72,62,Morgan State Lady Bears,134,10,Hill Field House,False,True
+400599086,2015-01-12,2015,North Carolina A&T Aggies,South Carolina State Lady Bulldogs,59,48,North Carolina A&T Aggies,107,11,Corbett Sports Center,False,True
+400599085,2015-01-12,2015,Howard Bison,Delaware State Hornets,50,58,Delaware State Hornets,108,8,Burr Gymnasium,False,True
+400599084,2015-01-12,2015,Bethune-Cookman Wildcats,Norfolk State Spartans,40,53,Norfolk State Spartans,93,13,Moore Gymnasium (FL),False,True
+400599089,2015-01-12,2015,Florida A&M Rattlers,Hampton Lady Pirates,52,80,Hampton Lady Pirates,132,28,Al Lawson Center,False,True
+400603451,2015-01-12,2015,Jackson State Lady Tigers,Southern Jaguars,61,77,Southern Jaguars,138,16,Lee E. Williams Athletics and Assembly Center,False,True
+400601967,2015-01-12,2015,Arkansas-Pine Bluff Golden Lions,Alabama A&M Bulldogs,70,69,Arkansas-Pine Bluff Golden Lions,139,1,H.O. Clemmons Arena,False,True
+400601966,2015-01-12,2015,Grambling Lady Tigers,Alcorn State Lady Braves,64,57,Grambling Lady Tigers,121,7,Fredrick C. Hobdy Assembly Center,False,True
+400601965,2015-01-12,2015,Mississippi Valley State Devilettes,Alabama State Lady Hornets,45,62,Alabama State Lady Hornets,107,17,R.W. Harrison HPER Complex,False,True
+400602260,2015-01-13,2015,NJIT Highlanders,Columbia Lions,38,45,Columbia Lions,83,7,Fleisher Center,False,False
+400599259,2015-01-13,2015,Wagner Seahawks,Robert Morris Colonials,47,86,Robert Morris Colonials,133,39,Spiro Sports Center,False,True
+400599258,2015-01-13,2015,Mount St. Mary's Mountaineers,Central Connecticut Blue Devils,54,50,Mount St. Mary's Mountaineers,104,4,Knott Arena,False,True
+400599257,2015-01-13,2015,LIU Brooklyn Blackbirds,Sacred Heart Pioneers,77,74,LIU Brooklyn Blackbirds,151,3,Steinberg Wellness Center,False,True
+400599256,2015-01-13,2015,Bryant Bulldogs,Saint Francis Red Flash,87,83,Bryant Bulldogs,170,4,Chace Athletic Center,False,True
+400599255,2015-01-13,2015,Fairleigh Dickinson Knights,St. Francis Brooklyn Terriers,61,72,St. Francis Brooklyn Terriers,133,11,Bogota Savings Bank Center,False,True
+400595836,2015-01-13,2015,UNC Greensboro Spartans,Mercer Bears,73,74,Mercer Bears,147,1,Fleming Gymnasium,False,True
+400595835,2015-01-13,2015,Furman Paladins,Chattanooga Mocs,40,47,Chattanooga Mocs,87,7,Timmons Arena,False,True
+400592821,2015-01-13,2015,Saint Louis Billikens,VCU Rams,54,59,VCU Rams,113,5,Chaifetz Arena,False,True
+400589826,2015-01-13,2015,Evansville Purple Aces,Bradley Braves,86,46,Evansville Purple Aces,132,40,Ford Center,False,True
+400592366,2015-01-14,2015,Baylor Bears,Iowa State Cyclones,79,47,Baylor Bears,126,32,Ferrell Center,False,True
+400597498,2015-01-15,2015,UConn Huskies,Temple Owls,92,58,UConn Huskies,150,34,Gampel Pavilion,False,True
+400593085,2015-01-15,2015,Louisville Cardinals,NC State Wolfpack,65,58,Louisville Cardinals,123,7,KFC Yum! Center,False,True
+400592369,2015-01-15,2015,Oklahoma Sooners,Texas Longhorns,70,59,Oklahoma Sooners,129,11,Lloyd Noble Center,False,True
+400592368,2015-01-15,2015,Oklahoma State Cowgirls,Kansas State Wildcats,69,47,Oklahoma State Cowgirls,116,22,Gallagher-Iba Arena,False,True
+400596677,2015-01-15,2015,Iowa Hawkeyes,Northwestern Wildcats,83,70,Iowa Hawkeyes,153,13,Carver-Hawkeye Arena,False,True
+400595032,2015-01-16,2015,Missouri Tigers,South Carolina Gamecocks,49,60,South Carolina Gamecocks,109,11,Mizzou Arena,False,True
+400594932,2015-01-16,2015,Auburn Tigers,Tennessee Lady Volunteers,42,54,Tennessee Lady Volunteers,96,12,Neville Arena,False,True
+400593087,2015-01-16,2015,North Carolina Tar Heels,Notre Dame Fighting Irish,79,89,Notre Dame Fighting Irish,168,10,Carmichael Arena,False,True
+400596681,2015-01-16,2015,Rutgers Scarlet Knights,Maryland Terrapins,59,71,Maryland Terrapins,130,12,Jersey Mike’s Arena,False,True
+400594948,2015-01-16,2015,Kentucky Wildcats,Florida Gators,62,56,Kentucky Wildcats,118,6,Memorial Coliseum (KY),False,True
+400595005,2015-01-16,2015,Mississippi State Bulldogs,LSU Tigers,69,71,LSU Tigers,140,2,Humphrey Coliseum,False,True
+400593086,2015-01-15,2015,Duke Blue Devils,Virginia Tech Hokies,65,40,Duke Blue Devils,105,25,Cameron Indoor Stadium,False,True
+400596682,2015-01-16,2015,Nebraska Cornhuskers,Penn State Lady Lions,73,45,Nebraska Cornhuskers,118,28,Pinnacle Bank Arena,False,True
+400594970,2015-01-16,2015,Ole Miss Rebels,Georgia Lady Bulldogs,55,52,Ole Miss Rebels,107,3,C. M. Tad Smith Coliseum,False,True
+400593089,2015-01-16,2015,Florida State Seminoles,Pittsburgh Panthers,58,43,Florida State Seminoles,101,15,Tucker Center,False,True
+400596679,2015-01-16,2015,Ohio State Buckeyes,Minnesota Golden Gophers,72,76,Minnesota Golden Gophers,148,4,Value City Arena,False,True
+400593088,2015-01-16,2015,Syracuse Orange,Wake Forest Demon Deacons,73,62,Syracuse Orange,135,11,JMA Wireless Dome,False,True
+400590476,2015-01-17,2015,Oregon State Beavers,Washington State Cougars,73,70,Oregon State Beavers,143,3,Gill Coliseum,False,True
+400590478,2015-01-17,2015,Stanford Cardinal,Arizona Wildcats,77,47,Stanford Cardinal,124,30,Maples Pavilion,False,True
+400590475,2015-01-17,2015,California Golden Bears,Arizona State Sun Devils,52,67,Arizona State Sun Devils,119,15,Haas Pavilion,False,True
+400592375,2015-01-17,2015,Kansas Jayhawks,Baylor Bears,63,71,Baylor Bears,134,8,Allen Fieldhouse,False,True
+400592373,2015-01-17,2015,Texas Longhorns,Texas Tech Lady Raiders,55,44,Texas Longhorns,99,11,Frank Erwin Center,False,True
+400592374,2015-01-17,2015,Oklahoma State Cowgirls,West Virginia Mountaineers,49,61,West Virginia Mountaineers,110,12,Gallagher-Iba Arena,False,True
+400597503,2015-01-18,2015,UConn Huskies,South Florida Bulls,92,50,UConn Huskies,142,42,Gampel Pavilion,False,True
+400593098,2015-01-18,2015,Louisville Cardinals,Virginia Cavaliers,67,55,Louisville Cardinals,122,12,KFC Yum! Center,False,True
+400596686,2015-01-18,2015,Maryland Terrapins,Illinois Fighting Illini,74,54,Maryland Terrapins,128,20,XFINITY Center,False,True
+400594986,2015-01-18,2015,LSU Tigers,Kentucky Wildcats,84,79,LSU Tigers,163,5,Pete Maravich Assembly Center,False,True
+400595064,2015-01-18,2015,Texas A&M Aggies,Ole Miss Rebels,58,49,Texas A&M Aggies,107,9,Reed Arena,False,True
+400593095,2015-01-18,2015,Clemson Tigers,North Carolina Tar Heels,56,78,North Carolina Tar Heels,134,22,Littlejohn Coliseum,False,True
+400594890,2015-01-18,2015,Mississippi State Bulldogs,Alabama Crimson Tide,66,50,Mississippi State Bulldogs,116,16,Humphrey Coliseum,False,True
+400593092,2015-01-18,2015,Duke Blue Devils,Miami Hurricanes,68,53,Duke Blue Devils,121,15,Cameron Indoor Stadium,False,True
+400594971,2015-01-18,2015,Georgia Lady Bulldogs,Vanderbilt Commodores,64,53,Georgia Lady Bulldogs,117,11,Stegeman Coliseum,False,True
+400593097,2015-01-18,2015,Virginia Tech Hokies,Florida State Seminoles,44,59,Florida State Seminoles,103,15,Cassell Coliseum,False,True
+400596685,2015-01-18,2015,Michigan State Spartans,Iowa Hawkeyes,50,52,Iowa Hawkeyes,102,2,Breslin Center,False,True
+400596684,2015-01-18,2015,Minnesota Golden Gophers,Indiana Hoosiers,65,61,Minnesota Golden Gophers,126,4,Williams Arena,False,True
+400596688,2015-01-18,2015,Wisconsin Badgers,Rutgers Scarlet Knights,63,73,Rutgers Scarlet Knights,136,10,Kohl Center,False,True
+400593093,2015-01-18,2015,Boston College Eagles,Syracuse Orange,46,64,Syracuse Orange,110,18,Conte Forum,False,True
+400594949,2015-01-20,2015,Florida Gators,South Carolina Gamecocks,42,77,South Carolina Gamecocks,119,35,Stephen C. O'Connell Center,False,True
+400592377,2015-01-19,2015,Baylor Bears,Texas Longhorns,75,58,Baylor Bears,133,17,Ferrell Center,False,True
+400593099,2015-01-20,2015,Notre Dame Fighting Irish,Tennessee Lady Volunteers,88,77,Notre Dame Fighting Irish,165,11,Purcell Pavilion,False,False
+400590484,2015-01-20,2015,Oregon State Beavers,Washington Huskies,75,67,Oregon State Beavers,142,8,Gill Coliseum,False,True
+400590483,2015-01-19,2015,Stanford Cardinal,Arizona State Sun Devils,57,60,Arizona State Sun Devils,117,3,Maples Pavilion,False,True
+400596689,2015-01-20,2015,Nebraska Cornhuskers,Purdue Boilermakers,69,59,Nebraska Cornhuskers,128,10,Pinnacle Bank Arena,False,True
+400602262,2015-01-20,2015,Brown Bears,NJIT Highlanders,67,39,Brown Bears,106,28,Pizzitola Sports Center,False,False
+400601916,2015-01-21,2015,UNC Asheville Bulldogs,Radford Highlanders,65,67,Radford Highlanders,132,2,Kimmel Arena,False,True
+400601622,2015-01-21,2015,Presbyterian Blue Hose,Charleston Southern Buccaneers,71,40,Presbyterian Blue Hose,111,31,Templeton Center,False,True
+400601602,2015-01-21,2015,Winthrop Eagles,Liberty Flames,63,58,Winthrop Eagles,121,5,Winthrop Coliseum,False,True
+400601583,2015-01-21,2015,High Point Panthers,Gardner-Webb Runnin' Bulldogs,72,57,High Point Panthers,129,15,Millis Athletic and Convocation Center,False,True
+400601563,2015-01-21,2015,Coastal Carolina Chanticleers,Campbell Fighting Camels,50,40,Coastal Carolina Chanticleers,90,10,The HTC Center,False,True
+400596128,2015-01-21,2015,Temple Owls,Cincinnati Bearcats,83,50,Temple Owls,133,33,McGonigle Hall,False,True
+400592566,2015-01-21,2015,Saint Peter's Peacocks,Fairfield Stags,47,57,Fairfield Stags,104,10,Yanitelli Center,False,True
+400601855,2015-01-21,2015,Southeast Missouri State Redhawks,SIU Edwardsville Cougars,48,60,SIU Edwardsville Cougars,108,12,Show Me Center,False,True
+400597505,2015-01-21,2015,Tulane Green Wave,Tulsa Golden Hurricane,73,34,Tulane Green Wave,107,39,Devlin Fieldhouse,False,True
+400597507,2015-01-22,2015,UCF Knights,UConn Huskies,45,100,UConn Huskies,145,55,Addition Financial Arena,False,True
+400593102,2015-01-23,2015,Florida State Seminoles,Louisville Cardinals,68,63,Florida State Seminoles,131,5,Tucker Center,False,True
+400595006,2015-01-23,2015,Tennessee Lady Volunteers,LSU Tigers,75,58,Tennessee Lady Volunteers,133,17,Food City Center,False,True
+400593101,2015-01-23,2015,Notre Dame Fighting Irish,Georgia Tech Yellow Jackets,89,76,Notre Dame Fighting Irish,165,13,Purcell Pavilion,False,True
+400596690,2015-01-23,2015,Maryland Terrapins,Michigan State Spartans,85,56,Maryland Terrapins,141,29,XFINITY Center,False,True
+400594972,2015-01-23,2015,Georgia Lady Bulldogs,Texas A&M Aggies,54,51,Georgia Lady Bulldogs,105,3,Stegeman Coliseum,False,True
+400593104,2015-01-23,2015,NC State Wolfpack,North Carolina Tar Heels,63,67,North Carolina Tar Heels,130,4,Reynolds Coliseum,False,True
+400593105,2015-01-23,2015,Boston College Eagles,Duke Blue Devils,60,56,Boston College Eagles,116,4,Conte Forum,False,True
+400596694,2015-01-23,2015,Wisconsin Badgers,Nebraska Cornhuskers,72,89,Nebraska Cornhuskers,161,17,Kohl Center,False,True
+400595021,2015-01-23,2015,Ole Miss Rebels,Mississippi State Bulldogs,62,64,Mississippi State Bulldogs,126,2,C. M. Tad Smith Coliseum,False,True
+400596691,2015-01-23,2015,Iowa Hawkeyes,Michigan Wolverines,76,70,Iowa Hawkeyes,146,6,Carver-Hawkeye Arena,False,True
+400596693,2015-01-23,2015,Minnesota Golden Gophers,Purdue Boilermakers,88,90,Purdue Boilermakers,178,2,Williams Arena,False,True
+400593103,2015-01-23,2015,Pittsburgh Panthers,Syracuse Orange,60,68,Syracuse Orange,128,8,Petersen Events Center,False,True
+400590077,2015-01-23,2015,UTEP Miners,Western Kentucky Lady Toppers,74,80,Western Kentucky Lady Toppers,154,6,Don Haskins Center,False,True
+400590486,2015-01-24,2015,Arizona Wildcats,Oregon State Beavers,55,73,Oregon State Beavers,128,18,McKale Memorial Center,False,True
+400590488,2015-01-24,2015,UCLA Bruins,Stanford Cardinal,70,79,Stanford Cardinal,149,9,Pauley Pavilion,False,True
+400590485,2015-01-23,2015,Arizona State Sun Devils,Oregon Ducks,70,58,Arizona State Sun Devils,128,12,Desert Financial Arena,False,True
+400592381,2015-01-24,2015,Baylor Bears,Kansas State Wildcats,68,46,Baylor Bears,114,22,Ferrell Center,False,True
+400593108,2015-01-24,2015,Clemson Tigers,Notre Dame Fighting Irish,36,74,Notre Dame Fighting Irish,110,38,Littlejohn Coliseum,False,True
+400590080,2015-01-24,2015,UTSA Roadrunners,Western Kentucky Lady Toppers,64,63,UTSA Roadrunners,127,1,UTSA Convocation Center,False,True
+400597510,2015-01-25,2015,Cincinnati Bearcats,UConn Huskies,31,96,UConn Huskies,127,65,Fifth Third Arena,False,True
+400593113,2015-01-25,2015,Louisville Cardinals,Miami Hurricanes,68,55,Louisville Cardinals,123,13,KFC Yum! Center,False,True
+400594973,2015-01-25,2015,Tennessee Lady Volunteers,Georgia Lady Bulldogs,59,51,Tennessee Lady Volunteers,110,8,Food City Center,False,True
+400596699,2015-01-25,2015,Indiana Hoosiers,Maryland Terrapins,74,84,Maryland Terrapins,158,10,Simon Skjodt Assembly Hall,False,True
+400592385,2015-01-25,2015,Texas Longhorns,Iowa State Cyclones,57,58,Iowa State Cyclones,115,1,Frank Erwin Center,False,True
+400590491,2015-01-25,2015,Arizona State Sun Devils,Oregon State Beavers,57,68,Oregon State Beavers,125,11,Desert Financial Arena,False,True
+400590495,2015-01-26,2015,USC Trojans,Stanford Cardinal,60,71,Stanford Cardinal,131,11,Galen Center,False,True
+400593112,2015-01-25,2015,North Carolina Tar Heels,Duke Blue Devils,67,74,Duke Blue Devils,141,7,Carmichael Arena,False,True
+400594987,2015-01-25,2015,Missouri Tigers,Kentucky Wildcats,69,83,Kentucky Wildcats,152,14,Mizzou Arena,False,True
+400593110,2015-01-25,2015,Florida State Seminoles,Wake Forest Demon Deacons,110,80,Florida State Seminoles,190,30,Tucker Center,False,True
+400596698,2015-01-25,2015,Rutgers Scarlet Knights,Minnesota Golden Gophers,66,61,Rutgers Scarlet Knights,127,5,Jersey Mike’s Arena,False,True
+400593111,2015-01-25,2015,Syracuse Orange,NC State Wolfpack,66,49,Syracuse Orange,115,17,JMA Wireless Dome,False,True
+400595043,2015-01-27,2015,South Carolina Gamecocks,Texas A&M Aggies,79,61,South Carolina Gamecocks,140,18,Colonial Life Arena,False,True
+400596702,2015-01-27,2015,Iowa Hawkeyes,Nebraska Cornhuskers,78,72,Iowa Hawkeyes,150,6,Carver-Hawkeye Arena,False,True
+400594933,2015-01-27,2015,Auburn Tigers,Mississippi State Bulldogs,48,59,Mississippi State Bulldogs,107,11,Neville Arena,False,True
+400595848,2015-01-26,2015,Chattanooga Mocs,Samford Bulldogs,49,32,Chattanooga Mocs,81,17,McKenzie Arena,False,True
+400592386,2015-01-28,2015,TCU Horned Frogs,Baylor Bears,67,89,Baylor Bears,156,22,Schollmaier Arena,False,True
+400597514,2015-01-29,2015,UConn Huskies,East Carolina Pirates,87,32,UConn Huskies,119,55,PeoplesBank Arena,False,True
+400594893,2015-01-30,2015,South Carolina Gamecocks,Alabama Crimson Tide,85,54,South Carolina Gamecocks,139,31,Colonial Life Arena,False,True
+400593116,2015-01-30,2015,Virginia Tech Hokies,Notre Dame Fighting Irish,50,74,Notre Dame Fighting Irish,124,24,Cassell Coliseum,False,True
+400596708,2015-01-30,2015,Michigan Wolverines,Maryland Terrapins,65,91,Maryland Terrapins,156,26,Crisler Center,False,True
+400594988,2015-01-30,2015,Kentucky Wildcats,Tennessee Lady Volunteers,72,73,Tennessee Lady Volunteers,145,1,Memorial Coliseum (KY),False,True
+400593117,2015-01-30,2015,Louisville Cardinals,Syracuse Orange,78,58,Louisville Cardinals,136,20,KFC Yum! Center,False,True
+400592390,2015-01-30,2015,Texas Longhorns,Oklahoma Sooners,84,81,Texas Longhorns,165,3,Frank Erwin Center,False,True
+400596707,2015-01-30,2015,Nebraska Cornhuskers,Illinois Fighting Illini,59,57,Nebraska Cornhuskers,116,2,Pinnacle Bank Arena,False,True
+400593114,2015-01-29,2015,Duke Blue Devils,Pittsburgh Panthers,62,45,Duke Blue Devils,107,17,Cameron Indoor Stadium,False,True
+400595022,2015-01-30,2015,Mississippi State Bulldogs,Vanderbilt Commodores,69,44,Mississippi State Bulldogs,113,25,Humphrey Coliseum,False,True
+400596706,2015-01-30,2015,Northwestern Wildcats,Iowa Hawkeyes,99,102,Iowa Hawkeyes,201,3,Welsh-Ryan Arena,False,True
+400596709,2015-01-30,2015,Purdue Boilermakers,Rutgers Scarlet Knights,49,58,Rutgers Scarlet Knights,107,9,Mackey Arena,False,True
+400593119,2015-01-31,2015,Georgia Tech Yellow Jackets,Florida State Seminoles,62,82,Florida State Seminoles,144,20,McCamish Pavilion,False,True
+400590498,2015-01-31,2015,Colorado Buffaloes,Arizona State Sun Devils,60,68,Arizona State Sun Devils,128,8,CU Events Center,False,True
+400602864,2015-01-31,2015,Harvard Crimson,Princeton Tigers,46,96,Princeton Tigers,142,50,Lavietes Pavilion,False,True
+400590502,2015-01-31,2015,Oregon State Beavers,USC Trojans,68,35,Oregon State Beavers,103,33,Gill Coliseum,False,True
+400590500,2015-01-31,2015,Stanford Cardinal,Washington State Cougars,75,56,Stanford Cardinal,131,19,Maples Pavilion,False,True
+400602868,2015-01-31,2015,Dartmouth Big Green,Princeton Tigers,65,83,Princeton Tigers,148,18,Leede Arena,False,True
+400595854,2015-01-31,2015,Chattanooga Mocs,Mercer Bears,71,59,Chattanooga Mocs,130,12,McKenzie Arena,False,True
+400595044,2015-02-01,2015,Ole Miss Rebels,South Carolina Gamecocks,59,77,South Carolina Gamecocks,136,18,C. M. Tad Smith Coliseum,False,True
+400597520,2015-02-01,2015,Temple Owls,UConn Huskies,49,83,UConn Huskies,132,34,McGonigle Hall,False,True
+400592395,2015-02-01,2015,Baylor Bears,Kansas Jayhawks,66,58,Baylor Bears,124,8,Ferrell Center,False,True
+400593120,2015-02-01,2015,Notre Dame Fighting Irish,Wake Forest Demon Deacons,92,63,Notre Dame Fighting Irish,155,29,Purcell Pavilion,False,True
+400596713,2015-02-01,2015,Maryland Terrapins,Iowa Hawkeyes,93,88,Maryland Terrapins,181,5,XFINITY Center,False,True
+400595023,2015-02-01,2015,Tennessee Lady Volunteers,Mississippi State Bulldogs,79,67,Tennessee Lady Volunteers,146,12,Food City Center,False,True
+400594974,2015-02-01,2015,Kentucky Wildcats,Georgia Lady Bulldogs,80,72,Kentucky Wildcats,152,8,Memorial Coliseum (KY),False,True
+400590504,2015-02-01,2015,Utah Utes,Arizona State Sun Devils,48,58,Arizona State Sun Devils,106,10,Jon M. Huntsman Center,False,True
+400594934,2015-02-01,2015,Texas A&M Aggies,Auburn Tigers,78,45,Texas A&M Aggies,123,33,Reed Arena,False,True
+400592394,2015-02-01,2015,TCU Horned Frogs,Texas Longhorns,64,59,TCU Horned Frogs,123,5,Schollmaier Arena,False,True
+400596711,2015-02-01,2015,Nebraska Cornhuskers,Michigan Wolverines,75,60,Nebraska Cornhuskers,135,15,Pinnacle Bank Arena,False,True
+400593122,2015-02-01,2015,North Carolina Tar Heels,Boston College Eagles,72,60,North Carolina Tar Heels,132,12,Carmichael Arena,False,True
+400596714,2015-02-01,2015,Rutgers Scarlet Knights,Penn State Lady Lions,76,65,Rutgers Scarlet Knights,141,11,Jersey Mike’s Arena,False,True
+400592393,2015-02-01,2015,West Virginia Mountaineers,Oklahoma Sooners,78,69,West Virginia Mountaineers,147,9,WVU Coliseum,False,True
+400590507,2015-02-03,2015,Oregon State Beavers,UCLA Bruins,82,64,Oregon State Beavers,146,18,Gill Coliseum,False,True
+400593125,2015-02-03,2015,Duke Blue Devils,Louisville Cardinals,66,58,Duke Blue Devils,124,8,Cameron Indoor Stadium,False,True
+400593126,2015-02-03,2015,Florida State Seminoles,Syracuse Orange,62,52,Florida State Seminoles,114,10,Tucker Center,False,True
+400590508,2015-02-03,2015,Stanford Cardinal,Washington Huskies,82,69,Stanford Cardinal,151,13,Maples Pavilion,False,True
+400595856,2015-02-02,2015,East Tennessee State Bucs,Chattanooga Mocs,56,64,Chattanooga Mocs,120,8,Brooks Gym,False,True
+400597522,2015-02-04,2015,UConn Huskies,Cincinnati Bearcats,96,36,UConn Huskies,132,60,PeoplesBank Arena,False,True
+400592398,2015-02-05,2015,Oklahoma State Cowgirls,Baylor Bears,52,69,Baylor Bears,121,17,Gallagher-Iba Arena,False,True
+400592396,2015-02-05,2015,Kansas State Wildcats,Texas Longhorns,66,57,Kansas State Wildcats,123,9,Bramlage Coliseum,False,True
+400594975,2015-02-06,2015,Georgia Lady Bulldogs,South Carolina Gamecocks,35,58,South Carolina Gamecocks,93,23,Stegeman Coliseum,False,True
+400593127,2015-02-06,2015,Notre Dame Fighting Irish,Virginia Cavaliers,75,54,Notre Dame Fighting Irish,129,21,Purcell Pavilion,False,True
+400596720,2015-02-06,2015,Penn State Lady Lions,Maryland Terrapins,62,77,Maryland Terrapins,139,15,Bryce Jordan Center,False,True
+400593128,2015-02-06,2015,Syracuse Orange,North Carolina Tar Heels,61,56,Syracuse Orange,117,5,JMA Wireless Dome,False,True
+400595033,2015-02-06,2015,Missouri Tigers,Texas A&M Aggies,48,55,Texas A&M Aggies,103,7,Mizzou Arena,False,True
+400593129,2015-02-06,2015,Wake Forest Demon Deacons,Duke Blue Devils,53,70,Duke Blue Devils,123,17,LJVM Coliseum,False,True
+400596718,2015-02-06,2015,Iowa Hawkeyes,Ohio State Buckeyes,73,65,Iowa Hawkeyes,138,8,Carver-Hawkeye Arena,False,True
+400596721,2015-02-06,2015,Rutgers Scarlet Knights,Nebraska Cornhuskers,46,43,Rutgers Scarlet Knights,89,3,Jersey Mike’s Arena,False,True
+400592864,2015-02-05,2015,George Washington Revolutionaries,Davidson Wildcats,52,35,George Washington Revolutionaries,87,17,Charles E. Smith Center,False,True
+400590511,2015-02-07,2015,Washington Huskies,Oregon State Beavers,76,67,Washington Huskies,143,9,Alaska Airlines Arena,False,True
+400590512,2015-02-07,2015,Arizona State Sun Devils,Stanford Cardinal,53,52,Arizona State Sun Devils,105,1,Desert Financial Arena,False,True
+400602870,2015-02-07,2015,Princeton Tigers,Columbia Lions,83,44,Princeton Tigers,127,39,Jadwin Gymnasium,False,True
+400597527,2015-02-07,2015,Memphis Tigers,UConn Huskies,34,80,UConn Huskies,114,46,FedExForum,False,True
+400602874,2015-02-07,2015,Princeton Tigers,Cornell Big Red,75,47,Princeton Tigers,122,28,Jadwin Gymnasium,False,True
+400592405,2015-02-08,2015,Texas Longhorns,Baylor Bears,68,70,Baylor Bears,138,2,Frank Erwin Center,False,True
+400593134,2015-02-08,2015,Boston College Eagles,Notre Dame Fighting Irish,56,89,Notre Dame Fighting Irish,145,33,Conte Forum,False,True
+400596727,2015-02-08,2015,Maryland Terrapins,Nebraska Cornhuskers,59,47,Maryland Terrapins,106,12,XFINITY Center,False,True
+400594952,2015-02-08,2015,Florida Gators,Tennessee Lady Volunteers,56,64,Tennessee Lady Volunteers,120,8,Stephen C. O'Connell Center,False,True
+400590517,2015-02-08,2015,Washington State Cougars,Oregon State Beavers,56,61,Oregon State Beavers,117,5,Beasley Coliseum,False,True
+400593136,2015-02-08,2015,Louisville Cardinals,Pittsburgh Panthers,48,35,Louisville Cardinals,83,13,KFC Yum! Center,False,True
+400593135,2015-02-08,2015,Florida State Seminoles,Miami Hurricanes,80,60,Florida State Seminoles,140,20,Tucker Center,False,True
+400590515,2015-02-08,2015,Arizona State Sun Devils,California Golden Bears,49,50,California Golden Bears,99,1,Desert Financial Arena,False,True
+400594989,2015-02-08,2015,Vanderbilt Commodores,Kentucky Wildcats,68,82,Kentucky Wildcats,150,14,Memorial Gymnasium (TN),False,True
+400590518,2015-02-08,2015,Arizona Wildcats,Stanford Cardinal,60,57,Arizona Wildcats,117,3,McKale Memorial Center,False,True
+400593133,2015-02-08,2015,Virginia Tech Hokies,North Carolina Tar Heels,52,74,North Carolina Tar Heels,126,22,Cassell Coliseum,False,True
+400595024,2015-02-08,2015,Mississippi State Bulldogs,Texas A&M Aggies,63,61,Mississippi State Bulldogs,124,2,Humphrey Coliseum,False,True
+400593139,2015-02-08,2015,Duke Blue Devils,Clemson Tigers,89,60,Duke Blue Devils,149,29,Cameron Indoor Stadium,False,True
+400596725,2015-02-08,2015,Wisconsin Badgers,Iowa Hawkeyes,75,87,Iowa Hawkeyes,162,12,Kohl Center,False,True
+400596728,2015-02-08,2015,Michigan Wolverines,Rutgers Scarlet Knights,50,57,Rutgers Scarlet Knights,107,7,Crisler Center,False,True
+400592869,2015-02-08,2015,George Washington Revolutionaries,Dayton Flyers,67,56,George Washington Revolutionaries,123,11,Charles E. Smith Center,False,True
+400593137,2015-02-08,2015,Georgia Tech Yellow Jackets,Syracuse Orange,60,65,Syracuse Orange,125,5,McCamish Pavilion,False,True
+400595045,2015-02-10,2015,UConn Huskies,South Carolina Gamecocks,87,62,UConn Huskies,149,25,Gampel Pavilion,False,False
+400595862,2015-02-09,2015,Chattanooga Mocs,Wofford Terriers,68,41,Chattanooga Mocs,109,27,McKenzie Arena,False,True
+400594916,2015-02-10,2015,Arkansas Razorbacks,Georgia Lady Bulldogs,54,48,Arkansas Razorbacks,102,6,Bud Walton Arena,False,True
+400596731,2015-02-11,2015,Maryland Terrapins,Rutgers Scarlet Knights,80,69,Maryland Terrapins,149,11,XFINITY Center,False,True
+400597531,2015-02-11,2015,SMU Mustangs,South Florida Bulls,51,72,South Florida Bulls,123,21,Moody Coliseum (Dallas),False,True
+400592408,2015-02-12,2015,Baylor Bears,Oklahoma Sooners,89,66,Baylor Bears,155,23,Ferrell Center,False,True
+400592875,2015-02-12,2015,Saint Louis Billikens,George Washington Revolutionaries,79,61,Saint Louis Billikens,140,18,Chaifetz Arena,False,True
+400595009,2015-02-13,2015,South Carolina Gamecocks,LSU Tigers,86,62,South Carolina Gamecocks,148,24,Colonial Life Arena,False,True
+400595056,2015-02-13,2015,Ole Miss Rebels,Tennessee Lady Volunteers,49,69,Tennessee Lady Volunteers,118,20,C. M. Tad Smith Coliseum,False,True
+400593140,2015-02-13,2015,North Carolina Tar Heels,Florida State Seminoles,71,63,North Carolina Tar Heels,134,8,Carmichael Arena,False,True
+400593146,2015-02-13,2015,Clemson Tigers,Louisville Cardinals,49,81,Louisville Cardinals,130,32,Littlejohn Coliseum,False,True
+400594990,2015-02-13,2015,Kentucky Wildcats,Mississippi State Bulldogs,92,90,Kentucky Wildcats,182,2,Memorial Coliseum (KY),False,True
+400593143,2015-02-13,2015,Virginia Cavaliers,Duke Blue Devils,45,71,Duke Blue Devils,116,26,John Paul Jones Arena,False,True
+400602289,2015-02-13,2015,Nebraska Cornhuskers,Iowa Hawkeyes,61,69,Iowa Hawkeyes,130,8,Pinnacle Bank Arena,False,True
+400594917,2015-02-13,2015,Texas A&M Aggies,Arkansas Razorbacks,59,55,Texas A&M Aggies,114,4,Reed Arena,False,True
+400593144,2015-02-13,2015,Syracuse Orange,Miami Hurricanes,71,85,Miami Hurricanes,156,14,JMA Wireless Dome,False,True
+400594953,2015-02-13,2015,Georgia Lady Bulldogs,Florida Gators,48,51,Florida Gators,99,3,Stegeman Coliseum,False,True
+400590522,2015-02-14,2015,Oregon State Beavers,Arizona State Sun Devils,70,64,Oregon State Beavers,134,6,Gill Coliseum,False,True
+400602880,2015-02-14,2015,Brown Bears,Princeton Tigers,58,86,Princeton Tigers,144,28,Pizzitola Sports Center,False,True
+400590523,2015-02-14,2015,Stanford Cardinal,USC Trojans,79,60,Stanford Cardinal,139,19,Maples Pavilion,False,True
+400597538,2015-02-14,2015,UConn Huskies,Tulane Green Wave,87,39,UConn Huskies,126,48,Gampel Pavilion,False,True
+400602884,2015-02-15,2015,Yale Bulldogs,Princeton Tigers,50,56,Princeton Tigers,106,6,John J. Lee Amphitheater,False,True
+400602296,2015-02-14,2015,Rutgers Scarlet Knights,Purdue Boilermakers,78,49,Rutgers Scarlet Knights,127,29,Jersey Mike’s Arena,False,True
+400595868,2015-02-14,2015,Chattanooga Mocs,UNC Greensboro Spartans,76,52,Chattanooga Mocs,128,24,McKenzie Arena,False,True
+400595046,2015-02-15,2015,South Carolina Gamecocks,Vanderbilt Commodores,89,59,South Carolina Gamecocks,148,30,Colonial Life Arena,False,True
+400592415,2015-02-15,2015,Baylor Bears,West Virginia Mountaineers,79,51,Baylor Bears,130,28,Ferrell Center,False,True
+400594991,2015-02-15,2015,Tennessee Lady Volunteers,Kentucky Wildcats,72,58,Tennessee Lady Volunteers,130,14,Food City Center,False,True
+400593148,2015-02-15,2015,Virginia Cavaliers,Florida State Seminoles,56,65,Florida State Seminoles,121,9,John Paul Jones Arena,False,True
+400590528,2015-02-15,2015,Oregon State Beavers,Arizona Wildcats,73,48,Oregon State Beavers,121,25,Gill Coliseum,False,True
+400593147,2015-02-15,2015,Louisville Cardinals,North Carolina Tar Heels,75,66,Louisville Cardinals,141,9,KFC Yum! Center,False,True
+400590530,2015-02-16,2015,Oregon Ducks,Arizona State Sun Devils,52,72,Arizona State Sun Devils,124,20,Matthew Knight Arena,False,True
+400594954,2015-02-15,2015,Mississippi State Bulldogs,Florida Gators,75,62,Mississippi State Bulldogs,137,13,Humphrey Coliseum,False,True
+400596737,2015-02-15,2015,Iowa Hawkeyes,Indiana Hoosiers,81,64,Iowa Hawkeyes,145,17,Carver-Hawkeye Arena,False,True
+400590529,2015-02-16,2015,Stanford Cardinal,UCLA Bruins,68,50,Stanford Cardinal,118,18,Maples Pavilion,False,True
+400592884,2015-02-15,2015,George Washington Revolutionaries,St. Bonaventure Bonnies,70,48,George Washington Revolutionaries,118,22,Charles E. Smith Center,False,True
+400596736,2015-02-15,2015,Nebraska Cornhuskers,Wisconsin Badgers,70,63,Nebraska Cornhuskers,133,7,Pinnacle Bank Arena,False,True
+400593149,2015-02-15,2015,Virginia Tech Hokies,Syracuse Orange,51,59,Syracuse Orange,110,8,Cassell Coliseum,False,True
+400597540,2015-02-15,2015,East Carolina Pirates,South Florida Bulls,65,64,East Carolina Pirates,129,1,Minges Coliseum,False,True
+400593153,2015-02-17,2015,Notre Dame Fighting Irish,Duke Blue Devils,63,50,Notre Dame Fighting Irish,113,13,Purcell Pavilion,False,True
+400596739,2015-02-17,2015,Michigan State Spartans,Maryland Terrapins,69,75,Maryland Terrapins,144,6,Breslin Center,False,True
+400594897,2015-02-17,2015,Texas A&M Aggies,Alabama Crimson Tide,70,49,Texas A&M Aggies,119,21,Reed Arena,False,True
+400595871,2015-02-17,2015,Western Carolina Catamounts,Chattanooga Mocs,41,66,Chattanooga Mocs,107,25,Ramsey Center,False,True
+400597541,2015-02-18,2015,UConn Huskies,Houston Cougars,85,26,UConn Huskies,111,59,PeoplesBank Arena,False,True
+400596741,2015-02-18,2015,Minnesota Golden Gophers,Iowa Hawkeyes,93,80,Minnesota Golden Gophers,173,13,Williams Arena,False,True
+400596742,2015-02-18,2015,Rutgers Scarlet Knights,Illinois Fighting Illini,80,56,Rutgers Scarlet Knights,136,24,Jersey Mike’s Arena,False,True
+400592419,2015-02-19,2015,Texas Tech Lady Raiders,Baylor Bears,60,67,Baylor Bears,127,7,United Supermarkets Arena,False,True
+400590533,2015-02-19,2015,California Golden Bears,Stanford Cardinal,47,59,Stanford Cardinal,106,12,Haas Pavilion,False,True
+400596743,2015-02-19,2015,Northwestern Wildcats,Nebraska Cornhuskers,59,51,Northwestern Wildcats,110,8,Welsh-Ryan Arena,False,True
+400592888,2015-02-19,2015,VCU Rams,George Washington Revolutionaries,57,65,George Washington Revolutionaries,122,8,Siegel Center,False,True
+400594919,2015-02-20,2015,Arkansas Razorbacks,South Carolina Gamecocks,56,73,South Carolina Gamecocks,129,17,Bud Walton Arena,False,True
+400593154,2015-02-20,2015,Georgia Tech Yellow Jackets,Notre Dame Fighting Irish,61,71,Notre Dame Fighting Irish,132,10,McCamish Pavilion,False,True
+400596745,2015-02-20,2015,Wisconsin Badgers,Maryland Terrapins,70,81,Maryland Terrapins,151,11,Kohl Center,False,True
+400594898,2015-02-20,2015,Tennessee Lady Volunteers,Alabama Crimson Tide,77,56,Tennessee Lady Volunteers,133,21,Food City Center,False,True
+400593156,2015-02-20,2015,Virginia Tech Hokies,Louisville Cardinals,49,69,Louisville Cardinals,118,20,Cassell Coliseum,False,True
+400593160,2015-02-20,2015,Florida State Seminoles,Clemson Tigers,81,38,Florida State Seminoles,119,43,Tucker Center,False,True
+400594992,2015-02-20,2015,Kentucky Wildcats,Texas A&M Aggies,69,81,Texas A&M Aggies,150,12,Memorial Coliseum (KY),False,True
+400593155,2015-02-20,2015,North Carolina Tar Heels,Wake Forest Demon Deacons,83,45,North Carolina Tar Heels,128,38,Carmichael Arena,False,True
+400588936,2015-02-20,2015,Kennesaw State Owls,Florida Gulf Coast Eagles,60,71,Florida Gulf Coast Eagles,131,11,KSU Convocation Center,False,True
+400598972,2015-02-20,2015,UNC Wilmington Seahawks,James Madison Dukes,49,85,James Madison Dukes,134,36,Trask Coliseum,False,True
+400593157,2015-02-20,2015,Syracuse Orange,Boston College Eagles,73,51,Syracuse Orange,124,22,JMA Wireless Dome,False,True
+400590534,2015-02-21,2015,Colorado Buffaloes,Oregon State Beavers,44,66,Oregon State Beavers,110,22,CU Events Center,False,True
+400590537,2015-02-21,2015,UCLA Bruins,Arizona State Sun Devils,56,68,Arizona State Sun Devils,124,12,Pauley Pavilion,False,True
+400602886,2015-02-20,2015,Princeton Tigers,Dartmouth Big Green,70,31,Princeton Tigers,101,39,Jadwin Gymnasium,False,True
+400597549,2015-02-21,2015,Tulsa Golden Hurricane,UConn Huskies,46,92,UConn Huskies,138,46,Reynolds Center,False,True
+400592421,2015-02-22,2015,Baylor Bears,TCU Horned Frogs,91,75,Baylor Bears,166,16,Ferrell Center,False,True
+400596747,2015-02-22,2015,Ohio State Buckeyes,Iowa Hawkeyes,100,82,Ohio State Buckeyes,182,18,Value City Arena,False,True
+400602890,2015-02-21,2015,Princeton Tigers,Harvard Crimson,78,57,Princeton Tigers,135,21,Jadwin Gymnasium,False,True
+400595877,2015-02-21,2015,Samford Bulldogs,Chattanooga Mocs,49,56,Chattanooga Mocs,105,7,Pete Hanna Center,False,True
+400596749,2015-02-21,2015,Indiana Hoosiers,Nebraska Cornhuskers,64,67,Nebraska Cornhuskers,131,3,Simon Skjodt Assembly Hall,False,True
+400588938,2015-02-21,2015,South Carolina Upstate Spartans,Florida Gulf Coast Eagles,59,75,Florida Gulf Coast Eagles,134,16,G.B. Hodge Center,False,True
+400592893,2015-02-21,2015,George Washington Revolutionaries,Fordham Rams,83,65,George Washington Revolutionaries,148,18,Charles E. Smith Center,False,True
+400590542,2015-02-22,2015,Utah Utes,Oregon State Beavers,42,52,Oregon State Beavers,94,10,Jon M. Huntsman Center,False,True
+400593162,2015-02-22,2015,Boston College Eagles,Florida State Seminoles,68,86,Florida State Seminoles,154,18,Conte Forum,False,True
+400593161,2015-02-22,2015,NC State Wolfpack,Duke Blue Devils,72,59,NC State Wolfpack,131,13,Reynolds Coliseum,False,True
+400590543,2015-02-22,2015,USC Trojans,Arizona State Sun Devils,73,76,Arizona State Sun Devils,149,3,Galen Center,False,True
+400594899,2015-02-22,2015,Alabama Crimson Tide,Mississippi State Bulldogs,55,57,Mississippi State Bulldogs,112,2,Foster Auditorium,False,True
+400594956,2015-02-22,2015,Texas A&M Aggies,Florida Gators,66,46,Texas A&M Aggies,112,20,Reed Arena,False,True
+400593166,2015-02-22,2015,Miami Hurricanes,North Carolina Tar Heels,65,66,North Carolina Tar Heels,131,1,Watsco Center,False,True
+400590541,2015-02-22,2015,Stanford Cardinal,California Golden Bears,53,63,California Golden Bears,116,10,Maples Pavilion,False,True
+400596751,2015-02-22,2015,Michigan State Spartans,Rutgers Scarlet Knights,60,50,Michigan State Spartans,110,10,Breslin Center,False,True
+400598973,2015-02-22,2015,James Madison Dukes,Hofstra Pride,62,63,Hofstra Pride,125,1,JMU Convocation Center,False,True
+400593164,2015-02-22,2015,Syracuse Orange,Pittsburgh Panthers,68,54,Syracuse Orange,122,14,JMA Wireless Dome,False,True
+400597551,2015-02-24,2015,Tulane Green Wave,UConn Huskies,47,94,UConn Huskies,141,47,Devlin Fieldhouse,False,True
+400595047,2015-02-24,2015,South Carolina Gamecocks,Tennessee Lady Volunteers,71,66,South Carolina Gamecocks,137,5,Colonial Life Arena,False,True
+400593167,2015-02-24,2015,Notre Dame Fighting Irish,Louisville Cardinals,68,52,Notre Dame Fighting Irish,120,16,Purcell Pavilion,False,True
+400596752,2015-02-24,2015,Maryland Terrapins,Penn State Lady Lions,65,34,Maryland Terrapins,99,31,XFINITY Center,False,True
+400594993,2015-02-24,2015,Ole Miss Rebels,Kentucky Wildcats,67,59,Ole Miss Rebels,126,8,C. M. Tad Smith Coliseum,False,True
+400595881,2015-02-24,2015,Mercer Bears,Chattanooga Mocs,51,56,Chattanooga Mocs,107,5,Hawkins Arena,False,True
+400592622,2015-02-24,2015,Canisius Golden Griffins,Niagara Purple Eagles,65,59,Canisius Golden Griffins,124,6,Koessler Athletic Center,False,True
+400755818,2015-02-25,2015,Manhattan Jaspers,Quinnipiac Bobcats,71,82,Quinnipiac Bobcats,153,11,Draddy Gymnasium,False,True
+400601937,2015-02-25,2015,Radford Highlanders,UNC Asheville Bulldogs,50,47,Radford Highlanders,97,3,The Dedmon Center,False,True
+400601630,2015-02-25,2015,Charleston Southern Buccaneers,Presbyterian Blue Hose,48,56,Presbyterian Blue Hose,104,8,Buccaneer Fieldhouse,False,True
+400601610,2015-02-25,2015,Liberty Flames,Winthrop Eagles,91,71,Liberty Flames,162,20,Vines Convocation Center,False,True
+400601591,2015-02-25,2015,Gardner-Webb Runnin' Bulldogs,High Point Panthers,58,74,High Point Panthers,132,16,Paul Porter Arena,False,True
+400601573,2015-02-25,2015,Campbell Fighting Camels,Coastal Carolina Chanticleers,78,69,Campbell Fighting Camels,147,9,John W. Pope Jr. Convocation Center,False,True
+400599161,2015-02-25,2015,NJIT Highlanders,Maryland Eastern Shore Hawks,70,41,NJIT Highlanders,111,29,Fleisher Center,False,False
+400597553,2015-02-25,2015,Cincinnati Bearcats,South Florida Bulls,44,74,South Florida Bulls,118,30,Fifth Third Arena,False,True
+400597552,2015-02-25,2015,UCF Knights,Houston Cougars,59,38,UCF Knights,97,21,Addition Financial Arena,False,True
+400596754,2015-02-25,2015,Michigan Wolverines,Purdue Boilermakers,81,50,Michigan Wolverines,131,31,Crisler Center,False,True
+400597554,2015-02-25,2015,Memphis Tigers,Tulsa Golden Hurricane,62,65,Tulsa Golden Hurricane,127,3,Elma Roane Fieldhouse,False,True
+400592427,2015-02-25,2015,Iowa State Cyclones,Texas Tech Lady Raiders,59,47,Iowa State Cyclones,106,12,Hilton Coliseum,False,True
+400592426,2015-02-25,2015,TCU Horned Frogs,West Virginia Mountaineers,73,63,TCU Horned Frogs,136,10,Schollmaier Arena,False,True
+400596753,2015-02-25,2015,Nebraska Cornhuskers,Minnesota Golden Gophers,74,50,Nebraska Cornhuskers,124,24,Pinnacle Bank Arena,False,True
+400592429,2015-02-26,2015,Oklahoma Sooners,Baylor Bears,68,64,Oklahoma Sooners,132,4,Lloyd Noble Center,False,True
+400588943,2015-02-26,2015,North Florida Ospreys,Florida Gulf Coast Eagles,24,56,Florida Gulf Coast Eagles,80,32,UNF Arena,False,True
+400595025,2015-02-27,2015,South Carolina Gamecocks,Mississippi State Bulldogs,69,50,South Carolina Gamecocks,119,19,Colonial Life Arena,False,True
+400593173,2015-02-27,2015,Notre Dame Fighting Irish,Pittsburgh Panthers,87,59,Notre Dame Fighting Irish,146,28,Purcell Pavilion,False,True
+400596757,2015-02-27,2015,Maryland Terrapins,Indiana Hoosiers,83,72,Maryland Terrapins,155,11,XFINITY Center,False,True
+400594977,2015-02-27,2015,Georgia Lady Bulldogs,Tennessee Lady Volunteers,59,70,Tennessee Lady Volunteers,129,11,Stegeman Coliseum,False,True
+400590545,2015-02-27,2015,Oregon State Beavers,Stanford Cardinal,58,69,Stanford Cardinal,127,11,Gill Coliseum,False,True
+400593170,2015-02-27,2015,Louisville Cardinals,Boston College Eagles,77,60,Louisville Cardinals,137,17,KFC Yum! Center,False,True
+400593171,2015-02-27,2015,Florida State Seminoles,NC State Wolfpack,72,52,Florida State Seminoles,124,20,Tucker Center,False,True
+400595036,2015-02-27,2015,Texas A&M Aggies,Missouri Tigers,69,70,Missouri Tigers,139,1,Reed Arena,False,True
+400594921,2015-02-27,2015,Arkansas Razorbacks,Kentucky Wildcats,51,56,Kentucky Wildcats,107,5,Bud Walton Arena,False,True
+400593168,2015-02-27,2015,North Carolina Tar Heels,Virginia Cavaliers,72,70,North Carolina Tar Heels,142,2,Carmichael Arena,False,True
+400593169,2015-02-27,2015,Georgia Tech Yellow Jackets,Duke Blue Devils,71,62,Georgia Tech Yellow Jackets,133,9,McCamish Pavilion,False,True
+400596756,2015-02-27,2015,Iowa Hawkeyes,Wisconsin Badgers,78,74,Iowa Hawkeyes,152,4,Carver-Hawkeye Arena,False,True
+400596759,2015-02-27,2015,Northwestern Wildcats,Rutgers Scarlet Knights,80,60,Northwestern Wildcats,140,20,Welsh-Ryan Arena,False,True
+400592903,2015-02-27,2015,Richmond Spiders,George Washington Revolutionaries,69,81,George Washington Revolutionaries,150,12,Robins Center,False,True
+400593174,2015-02-27,2015,Clemson Tigers,Syracuse Orange,55,60,Syracuse Orange,115,5,Littlejohn Coliseum,False,True
+400590548,2015-02-27,2015,Oregon Ducks,California Golden Bears,59,74,California Golden Bears,133,15,Matthew Knight Arena,False,True
+400590550,2015-02-28,2015,Arizona State Sun Devils,Utah Utes,46,42,Arizona State Sun Devils,88,4,Desert Financial Arena,False,True
+400602896,2015-02-28,2015,Princeton Tigers,Yale Bulldogs,67,49,Princeton Tigers,116,18,Jadwin Gymnasium,False,True
+400597558,2015-02-28,2015,UConn Huskies,Memphis Tigers,87,24,UConn Huskies,111,63,Gampel Pavilion,False,True
+400592434,2015-02-28,2015,Iowa State Cyclones,Baylor Bears,76,71,Iowa State Cyclones,147,5,Hilton Coliseum,False,True
+400590553,2015-02-28,2015,Oregon State Beavers,California Golden Bears,73,55,Oregon State Beavers,128,18,Gill Coliseum,False,True
+400602897,2015-02-28,2015,Princeton Tigers,Brown Bears,79,67,Princeton Tigers,146,12,Jadwin Gymnasium,False,True
+400595884,2015-02-28,2015,Chattanooga Mocs,East Tennessee State Bucs,64,42,Chattanooga Mocs,106,22,McKenzie Arena,False,True
+400588947,2015-03-01,2015,Florida Gulf Coast Eagles,Jacksonville Dolphins,78,47,Florida Gulf Coast Eagles,125,31,Alico Arena,False,True
+400594994,2015-03-01,2015,Kentucky Wildcats,South Carolina Gamecocks,67,56,Kentucky Wildcats,123,11,Memorial Coliseum (KY),False,True
+400593178,2015-03-01,2015,NC State Wolfpack,Notre Dame Fighting Irish,60,67,Notre Dame Fighting Irish,127,7,Reynolds Coliseum,False,True
+400596766,2015-03-01,2015,Northwestern Wildcats,Maryland Terrapins,48,69,Maryland Terrapins,117,21,Welsh-Ryan Arena,False,True
+400595057,2015-03-01,2015,Tennessee Lady Volunteers,Vanderbilt Commodores,79,49,Tennessee Lady Volunteers,128,30,Food City Center,False,True
+400593176,2015-03-01,2015,Virginia Cavaliers,Louisville Cardinals,75,59,Virginia Cavaliers,134,16,John Paul Jones Arena,False,True
+400593181,2015-03-01,2015,Miami Hurricanes,Florida State Seminoles,55,69,Florida State Seminoles,124,14,Watsco Center,False,True
+400590556,2015-03-01,2015,Arizona State Sun Devils,Colorado Buffaloes,59,46,Arizona State Sun Devils,105,13,Desert Financial Arena,False,True
+400595026,2015-03-01,2015,Mississippi State Bulldogs,Ole Miss Rebels,55,47,Mississippi State Bulldogs,102,8,Humphrey Coliseum,False,True
+400595011,2015-03-01,2015,LSU Tigers,Texas A&M Aggies,80,63,LSU Tigers,143,17,Pete Maravich Assembly Center,False,True
+400593180,2015-03-01,2015,Duke Blue Devils,North Carolina Tar Heels,81,80,Duke Blue Devils,161,1,Cameron Indoor Stadium,False,True
+400596765,2015-03-01,2015,Iowa Hawkeyes,Minnesota Golden Gophers,92,76,Iowa Hawkeyes,168,16,Carver-Hawkeye Arena,False,True
+400590554,2015-03-01,2015,Oregon Ducks,Stanford Cardinal,62,55,Oregon Ducks,117,7,Matthew Knight Arena,False,True
+400596764,2015-03-01,2015,Rutgers Scarlet Knights,Indiana Hoosiers,71,60,Rutgers Scarlet Knights,131,11,Jersey Mike’s Arena,False,True
+400592909,2015-03-01,2015,George Washington Revolutionaries,George Mason Patriots,80,45,George Washington Revolutionaries,125,35,Charles E. Smith Center,False,True
+400597561,2015-03-03,2015,South Florida Bulls,UConn Huskies,65,88,UConn Huskies,153,23,Yuengling Center,False,True
+400592437,2015-03-03,2015,Baylor Bears,Texas Tech Lady Raiders,75,65,Baylor Bears,140,10,Ferrell Center,False,True
+400765255,2015-03-03,2015,Gardner-Webb Runnin' Bulldogs,Longwood Lancers,63,55,Gardner-Webb Runnin' Bulldogs,118,8,The HTC Center,True,True
+400765256,2015-03-03,2015,Presbyterian Blue Hose,Charleston Southern Buccaneers,47,39,Presbyterian Blue Hose,86,8,The HTC Center,True,True
+400765254,2015-03-03,2015,UNC Asheville Bulldogs,Coastal Carolina Chanticleers,68,54,UNC Asheville Bulldogs,122,14,The HTC Center,True,True
+400601357,2015-03-04,2015,UMass Lowell River Hawks,NJIT Highlanders,60,51,UMass Lowell River Hawks,111,9,Kennedy Family Athletic Complex,False,False
+400592440,2015-03-04,2015,Texas Longhorns,TCU Horned Frogs,79,45,Texas Longhorns,124,34,Frank Erwin Center,False,True
+400592439,2015-03-04,2015,Kansas State Wildcats,West Virginia Mountaineers,59,55,Kansas State Wildcats,114,4,Bramlage Coliseum,False,True
+400601249,2015-03-04,2015,Utah State Aggies,Wyoming Cowgirls,57,61,Wyoming Cowgirls,118,4,Dee Glen Smith Spectrum,False,True
+400601217,2015-03-04,2015,San Diego State Aztecs,UNLV Lady Rebels,76,61,San Diego State Aztecs,137,15,Viejas Arena,False,True
+400601140,2015-03-04,2015,Colorado State Rams,Nevada Wolf Pack,68,61,Colorado State Rams,129,7,Moby Arena,False,True
+400601122,2015-03-04,2015,Boise State Broncos,San José State Spartans,91,76,Boise State Broncos,167,15,ExtraMile Arena,False,True
+400601105,2015-03-04,2015,Air Force Falcons,Fresno State Bulldogs,41,61,Fresno State Bulldogs,102,20,Clune Arena,False,True
+400594848,2015-03-04,2015,Northern Illinois Huskies,Toledo Rockets,68,64,Northern Illinois Huskies,132,4,NIU Convocation Center,False,True
+400765412,2015-03-04,2015,Boston College Eagles,Wake Forest Demon Deacons,53,69,Wake Forest Demon Deacons,122,16,First Horizon Coliseum,True,True
+400765249,2015-03-04,2015,UT Martin Skyhawks,Eastern Illinois Panthers,68,35,UT Martin Skyhawks,103,33,Municipal Auditorium (TN),True,True
+400765250,2015-03-04,2015,SIU Edwardsville Cougars,Austin Peay Governors,72,69,SIU Edwardsville Cougars,141,3,Municipal Auditorium (TN),True,True
+400765413,2015-03-04,2015,NC State Wolfpack,Virginia Tech Hokies,56,57,Virginia Tech Hokies,113,1,First Horizon Coliseum,True,True
+400765420,2015-03-04,2015,St. Bonaventure Bonnies,Massachusetts Minutemen,49,55,Massachusetts Minutemen,104,6,Richmond Coliseum,True,True
+400765432,2015-03-04,2015,Florida Gators,Auburn Tigers,49,71,Auburn Tigers,120,22,Simmons Bank Arena,True,True
+400765424,2015-03-04,2015,Indiana Hoosiers,Penn State Lady Lions,68,63,Indiana Hoosiers,131,5,Now Arena,True,True
+400765414,2015-03-04,2015,Georgia Tech Yellow Jackets,Clemson Tigers,80,53,Georgia Tech Yellow Jackets,133,27,First Horizon Coliseum,True,True
+400765421,2015-03-05,2015,La Salle Explorers,Davidson Wildcats,74,63,La Salle Explorers,137,11,Richmond Coliseum,True,True
+400765307,2015-03-05,2015,Lafayette Leopards,Loyola Maryland Greyhounds,58,46,Lafayette Leopards,104,12,Kirby Sports Center,False,True
+400765306,2015-03-05,2015,Colgate Raiders,Boston University Terriers,58,48,Colgate Raiders,106,10,Cotterell Court,False,True
+400598991,2015-03-05,2015,Elon Phoenix,Delaware Blue Hens,77,76,Elon Phoenix,153,1,Alumni Gym (Elon University),False,True
+400598990,2015-03-05,2015,James Madison Dukes,Charleston Cougars,107,58,James Madison Dukes,165,49,JMU Convocation Center,False,True
+400598989,2015-03-05,2015,UNC Wilmington Seahawks,Hofstra Pride,76,75,UNC Wilmington Seahawks,151,1,Trask Coliseum,False,True
+400598988,2015-03-05,2015,William & Mary Tribe,Towson Tigers,68,56,William & Mary Tribe,124,12,Kaplan Arena,False,True
+400598987,2015-03-05,2015,Northeastern Huskies,Drexel Dragons,42,58,Drexel Dragons,100,16,Solomon Court at Cabot Center,False,True
+400598781,2015-03-05,2015,Wright State Raiders,UIC Flames,74,54,Wright State Raiders,128,20,Nutter Center,False,True
+400598780,2015-03-05,2015,Cleveland State Vikings,Youngstown State Penguins,73,62,Cleveland State Vikings,135,11,Wolstein Center,False,True
+400594847,2015-03-05,2015,Kent State Golden Flashes,Ohio Bobcats,56,69,Ohio Bobcats,125,13,M.A.C. Center,False,True
+400594846,2015-03-05,2015,Eastern Michigan Eagles,Western Michigan Broncos,74,65,Eastern Michigan Eagles,139,9,Gervin GameAbove Center,False,True
+400594845,2015-03-05,2015,Central Michigan Chippewas,Ball State Cardinals,69,85,Ball State Cardinals,154,16,McGuirk Arena,False,True
+400594844,2015-03-05,2015,Bowling Green Falcons,Buffalo Bulls,47,55,Buffalo Bulls,102,8,Stroh Center,False,True
+400594843,2015-03-05,2015,Akron Zips,Miami (OH) RedHawks,67,55,Akron Zips,122,12,James A. Rhodes Arena,False,True
+400765433,2015-03-05,2015,Vanderbilt Commodores,Alabama Crimson Tide,66,56,Vanderbilt Commodores,122,10,Simmons Bank Arena,True,True
+400598779,2015-03-05,2015,Milwaukee Panthers,Detroit Mercy Titans,56,60,Detroit Mercy Titans,116,4,Klotsche Center,False,True
+400765425,2015-03-05,2015,Wisconsin Badgers,Purdue Boilermakers,56,58,Purdue Boilermakers,114,2,Now Arena,True,True
+400765436,2015-03-05,2015,Canisius Golden Griffins,Monmouth Hawks,56,68,Monmouth Hawks,124,12,MVP Arena,True,True
+400766075,2015-03-05,2015,Syracuse Orange,Wake Forest Demon Deacons,79,85,Wake Forest Demon Deacons,164,6,First Horizon Coliseum,True,True
+400765437,2015-03-05,2015,Rider Broncs,Saint Peter's Peacocks,54,62,Saint Peter's Peacocks,116,8,MVP Arena,True,True
+400765422,2015-03-05,2015,VCU Rams,Saint Louis Billikens,58,65,Saint Louis Billikens,123,7,Richmond Coliseum,True,True
+400765741,2015-03-05,2015,Liberty Flames,UNC Asheville Bulldogs,59,51,Liberty Flames,110,8,The HTC Center,True,True
+400765235,2015-03-05,2015,Chattanooga Mocs,UNC Greensboro Spartans,78,44,Chattanooga Mocs,122,34,Kimmel Arena,True,True
+400765426,2015-03-05,2015,Michigan Wolverines,Michigan State Spartans,49,69,Michigan State Spartans,118,20,Now Arena,True,True
+400765434,2015-03-05,2015,Ole Miss Rebels,Arkansas Razorbacks,61,72,Arkansas Razorbacks,133,11,Simmons Bank Arena,True,True
+400765438,2015-03-05,2015,Niagara Purple Eagles,Manhattan Jaspers,57,51,Niagara Purple Eagles,108,6,MVP Arena,True,True
+400766086,2015-03-05,2015,Richmond Spiders,Massachusetts Minutemen,67,63,Richmond Spiders,130,4,Richmond Coliseum,True,True
+400765415,2015-03-05,2015,Miami Hurricanes,Virginia Cavaliers,62,52,Miami Hurricanes,114,10,First Horizon Coliseum,True,True
+400765251,2015-03-05,2015,Belmont Bruins,Jacksonville State Gamecocks,55,45,Belmont Bruins,100,10,Municipal Auditorium (TN),True,True
+400599174,2015-03-05,2015,Maryland Eastern Shore Hawks,Morgan State Lady Bears,50,65,Morgan State Lady Bears,115,15,Hytche Center,False,True
+400765236,2015-03-05,2015,Samford Bulldogs,Furman Paladins,54,65,Furman Paladins,119,11,Kimmel Arena,True,True
+400765257,2015-03-05,2015,Winthrop Eagles,Campbell Fighting Camels,52,65,Campbell Fighting Camels,117,13,The HTC Center,True,True
+400765428,2015-03-05,2015,Washington State Cougars,Oregon Ducks,66,64,Washington State Cougars,130,2,KeyArena,True,True
+400766097,2015-03-05,2015,Rutgers Scarlet Knights,Indiana Hoosiers,63,52,Rutgers Scarlet Knights,115,11,Now Arena,True,True
+400765400,2015-03-05,2015,Loyola Marymount Lions,Pepperdine Waves,68,67,Loyola Marymount Lions,135,1,Orleans Arena,True,True
+400766087,2015-03-05,2015,Texas A&M Aggies,Auburn Tigers,57,47,Texas A&M Aggies,104,10,Simmons Bank Arena,True,True
+400765252,2015-03-05,2015,Tennessee State Lady Tigers,Morehead State Eagles,81,66,Tennessee State Lady Tigers,147,15,Municipal Auditorium (TN),True,True
+400765423,2015-03-05,2015,Saint Joseph's Hawks,George Mason Patriots,71,43,Saint Joseph's Hawks,114,28,Richmond Coliseum,True,True
+400765237,2015-03-05,2015,East Tennessee State Bucs,Western Carolina Catamounts,73,53,East Tennessee State Bucs,126,20,Kimmel Arena,True,True
+400765429,2015-03-05,2015,UCLA Bruins,Arizona Wildcats,80,62,UCLA Bruins,142,18,KeyArena,True,True
+400602089,2015-03-05,2015,Georgia Southern Eagles,UT Arlington Mavericks,41,66,UT Arlington Mavericks,107,25,Hanner Fieldhouse,False,True
+400602041,2015-03-05,2015,App State Mountaineers,Texas State Bobcats,61,55,App State Mountaineers,116,6,Holmes Convocation Center,False,True
+400590155,2015-03-05,2015,Middle Tennessee Blue Raiders,Florida International Panthers,79,30,Middle Tennessee Blue Raiders,109,49,Murphy Center,False,True
+400765401,2015-03-05,2015,Santa Clara Broncos,Portland Pilots,66,58,Santa Clara Broncos,124,8,Orleans Arena,True,True
+400599178,2015-03-05,2015,North Carolina Central Eagles,North Carolina A&T Aggies,46,67,North Carolina A&T Aggies,113,21,McDougald-McLendon Arena,False,True
+400599177,2015-03-05,2015,Hampton Lady Pirates,Norfolk State Spartans,64,49,Hampton Lady Pirates,113,15,Convocation Center (VA),False,True
+400599175,2015-03-05,2015,Bethune-Cookman Wildcats,South Carolina State Lady Bulldogs,56,57,South Carolina State Lady Bulldogs,113,1,Moore Gymnasium (FL),False,True
+400599173,2015-03-05,2015,Coppin State Eagles,Delaware State Hornets,79,51,Coppin State Eagles,130,28,Physical Education Complex,False,True
+400590156,2015-03-05,2015,UAB Blazers,Florida Atlantic Owls,59,56,UAB Blazers,115,3,Bartow Arena,False,True
+400766085,2015-03-05,2015,Pittsburgh Panthers,Virginia Tech Hokies,45,51,Virginia Tech Hokies,96,6,First Horizon Coliseum,True,True
+400765680,2015-03-05,2015,Radford Highlanders,Gardner-Webb Runnin' Bulldogs,56,70,Gardner-Webb Runnin' Bulldogs,126,14,The HTC Center,True,True
+400765435,2015-03-05,2015,Missouri Tigers,Georgia Lady Bulldogs,64,75,Georgia Lady Bulldogs,139,11,Simmons Bank Arena,True,True
+400602059,2015-03-05,2015,Louisiana Ragin' Cajuns,Little Rock Trojans,66,68,Little Rock Trojans,134,2,Earl K. Long Gym,False,True
+400599176,2015-03-05,2015,Florida A&M Rattlers,Savannah State Tigers,51,72,Savannah State Tigers,123,21,Al Lawson Center,False,True
+400592135,2015-03-05,2015,Texas A&M-Corpus Christi Islanders,Houston Christian Huskies,73,48,Texas A&M-Corpus Christi Islanders,121,25,American Bank Center,False,True
+400592134,2015-03-05,2015,Nicholls Colonels,Central Arkansas Sugar Bears,53,43,Nicholls Colonels,96,10,David R. Stopher Gymnasium,False,True
+400590157,2015-03-05,2015,Marshall Thundering Herd,Old Dominion Monarchs,55,67,Old Dominion Monarchs,122,12,Cam Henderson Center,False,True
+400602074,2015-03-05,2015,Arkansas State Red Wolves,South Alabama Jaguars,70,60,Arkansas State Red Wolves,130,10,First National Bank Arena,False,True
+400602106,2015-03-05,2015,UL Monroe Warhawks,Georgia State Panthers,61,66,Georgia State Panthers,127,5,Fant-Ewing Coliseum,False,True
+400603459,2015-03-05,2015,Prairie View A&M Lady Panthers,Southern Jaguars,50,78,Southern Jaguars,128,28,William Nicks Building,False,True
+400602018,2015-03-05,2015,Texas Southern Tigers,Alcorn State Lady Braves,73,55,Texas Southern Tigers,128,18,H&PE Arena,False,True
+400602016,2015-03-05,2015,Jackson State Lady Tigers,Alabama A&M Bulldogs,66,58,Jackson State Lady Tigers,124,8,Lee E. Williams Athletics and Assembly Center,False,True
+400602015,2015-03-05,2015,Grambling Lady Tigers,Alabama State Lady Hornets,62,68,Alabama State Lady Hornets,130,6,Fredrick C. Hobdy Assembly Center,False,True
+400592139,2015-03-05,2015,Lamar Cardinals,Sam Houston Bearkats,92,73,Lamar Cardinals,165,19,Montagne Center,False,True
+400592138,2015-03-05,2015,Stephen F. Austin Ladyjacks,Northwestern State Lady Demons,56,45,Stephen F. Austin Ladyjacks,101,11,William R. Johnson Coliseum,False,True
+400592136,2015-03-05,2015,New Orleans Privateers,SE Louisiana Lady Lions,84,75,New Orleans Privateers,159,9,Lakefront Arena,False,True
+400765238,2015-03-05,2015,Mercer Bears,Wofford Terriers,75,54,Mercer Bears,129,21,Kimmel Arena,True,True
+400766096,2015-03-06,2015,Rhode Island Rams,La Salle Explorers,65,60,Rhode Island Rams,125,5,Richmond Coliseum,True,True
+400765427,2015-03-06,2015,Nebraska Cornhuskers,Illinois Fighting Illini,86,71,Nebraska Cornhuskers,157,15,Now Arena,True,True
+400598782,2015-03-06,2015,Oakland Golden Grizzlies,Valparaiso Beacons,70,55,Oakland Golden Grizzlies,125,15,OU Credit Union O'rena,False,True
+400592137,2015-03-06,2015,Incarnate Word Cardinals,Abilene Christian Wildcats,62,72,Abilene Christian Wildcats,134,10,McDermott Center,False,True
+400590152,2015-03-06,2015,Rice Owls,UTSA Roadrunners,49,60,UTSA Roadrunners,109,11,Tudor Fieldhouse,False,True
+400589890,2015-03-06,2015,Indiana State Sycamores,Missouri State Bears,56,65,Missouri State Bears,121,9,Hulman Center,False,True
+400590154,2015-03-06,2015,Western Kentucky Lady Toppers,Charlotte 49ers,80,72,Western Kentucky Lady Toppers,152,8,E.A. Diddle Arena,False,True
+400590153,2015-03-06,2015,North Texas Mean Green,UTEP Miners,61,69,UTEP Miners,130,8,The Super Pit,False,True
+400589893,2015-03-06,2015,Evansville Purple Aces,Wichita State Shockers,63,77,Wichita State Shockers,140,14,Ford Center,False,True
+400589891,2015-03-06,2015,Northern Iowa Panthers,Loyola Chicago Ramblers,69,64,Northern Iowa Panthers,133,5,McLeod Center,False,True
+400589892,2015-03-06,2015,Drake Bulldogs,Bradley Braves,86,70,Drake Bulldogs,156,16,Knapp Center,False,True
+400766101,2015-03-06,2015,Kentucky Wildcats,Vanderbilt Commodores,67,61,Kentucky Wildcats,128,6,Simmons Bank Arena,True,True
+400766095,2015-03-06,2015,North Carolina Tar Heels,Georgia Tech Yellow Jackets,84,64,North Carolina Tar Heels,148,20,First Horizon Coliseum,True,True
+400765681,2015-03-06,2015,High Point Panthers,Presbyterian Blue Hose,75,62,High Point Panthers,137,13,The HTC Center,True,True
+400765430,2015-03-06,2015,USC Trojans,Colorado Buffaloes,63,75,Colorado Buffaloes,138,12,KeyArena,True,True
+400765402,2015-03-06,2015,Pacific Tigers,San Francisco Dons,64,74,San Francisco Dons,138,10,Orleans Arena,True,True
+400596954,2015-03-06,2015,Eastern Washington Eagles,Idaho State Bengals,62,58,Eastern Washington Eagles,120,4,Reese Court,False,True
+400596953,2015-03-06,2015,Idaho Vandals,Weber State Wildcats,71,42,Idaho Vandals,113,29,Cowan Spectrum,False,True
+400766110,2015-03-06,2015,Minnesota Golden Gophers,Purdue Boilermakers,82,78,Minnesota Golden Gophers,160,4,Now Arena,True,True
+400602255,2015-03-06,2015,Cal State Northridge Matadors,Long Beach State Beach,77,61,Cal State Northridge Matadors,138,16,Premier America Credit Union Arena,False,True
+400602215,2015-03-06,2015,UC Santa Barbara Gauchos,Hawai'i Rainbow Wahine,36,60,Hawai'i Rainbow Wahine,96,24,The Thunderdome,False,True
+400602188,2015-03-06,2015,Cal State Fullerton Titans,UC Irvine Anteaters,66,54,Cal State Fullerton Titans,120,12,Titan Gym,False,True
+400602170,2015-03-06,2015,UC Riverside Highlanders,UC Davis Aggies,61,56,UC Riverside Highlanders,117,5,SRC Arena,False,True
+400596956,2015-03-06,2015,Sacramento State Hornets,Southern Utah Thunderbirds,107,73,Sacramento State Hornets,180,34,The Nest,False,True
+400596955,2015-03-06,2015,Portland State Vikings,Northern Arizona Lumberjacks,62,79,Northern Arizona Lumberjacks,141,17,Peter W. Stott Center,False,True
+400765403,2015-03-06,2015,Saint Mary's Gaels,BYU Cougars,64,65,BYU Cougars,129,1,Orleans Arena,True,True
+400765431,2015-03-06,2015,Washington Huskies,Utah Utes,75,64,Washington Huskies,139,11,KeyArena,True,True
+400602904,2015-03-07,2015,Cornell Big Red,Princeton Tigers,37,70,Princeton Tigers,107,33,Newman Arena,False,True
+400602908,2015-03-08,2015,Columbia Lions,Princeton Tigers,44,63,Princeton Tigers,107,19,Levien Gymnasium,False,True
+400766504,2015-03-08,2015,Siena Saints,Quinnipiac Bobcats,47,64,Quinnipiac Bobcats,111,17,MVP Arena,True,True
+400766752,2015-03-08,2015,Seton Hall Pirates,Marquette Golden Eagles,77,51,Seton Hall Pirates,128,26,Allstate Arena,True,True
+400766747,2015-03-08,2015,Notre Dame Fighting Irish,Florida State Seminoles,71,58,Notre Dame Fighting Irish,129,13,First Horizon Coliseum,True,True
+400766743,2015-03-08,2015,George Washington Revolutionaries,Dayton Flyers,75,62,George Washington Revolutionaries,137,13,Richmond Coliseum,True,True
+400766500,2015-03-08,2015,Chattanooga Mocs,East Tennessee State Bucs,61,56,Chattanooga Mocs,117,5,Harrah's Cherokee Center,True,True
+400765600,2015-03-08,2015,Robert Morris Colonials,Fairleigh Dickinson Knights,89,61,Robert Morris Colonials,150,28,Charles L. Sewall Center,False,True
+400765599,2015-03-08,2015,Bryant Bulldogs,Mount St. Mary's Mountaineers,76,54,Bryant Bulldogs,130,22,Chace Athletic Center,False,True
+400765268,2015-03-08,2015,Western Illinois Leathernecks,IU Indianapolis Jaguars,59,66,IU Indianapolis Jaguars,125,7,Denny Sanford Premier Center,True,True
+400766615,2015-03-08,2015,Marist Red Foxes,Fairfield Stags,67,50,Marist Red Foxes,117,17,MVP Arena,True,True
+400766746,2015-03-08,2015,Maine Black Bears,Hartford Hawks,54,65,Hartford Hawks,119,11,Events Center (Binghamton),True,True
+400765601,2015-03-08,2015,Sacred Heart Pioneers,St. Francis Brooklyn Terriers,59,77,St. Francis Brooklyn Terriers,136,18,William H. Pitt Center,False,True
+400765598,2015-03-08,2015,Central Connecticut Blue Devils,LIU Brooklyn Blackbirds,72,51,Central Connecticut Blue Devils,123,21,Detrick Gymnasium,False,True
+400766748,2015-03-08,2015,Baylor Bears,Oklahoma State Cowgirls,69,52,Baylor Bears,121,17,American Airlines Center,True,True
+400766835,2015-03-08,2015,South Carolina Gamecocks,Tennessee Lady Volunteers,62,46,South Carolina Gamecocks,108,16,Simmons Bank Arena,True,True
+400765418,2015-03-08,2015,St. John's Red Storm,Creighton Bluejays,57,54,St. John's Red Storm,111,3,Allstate Arena,True,True
+400765269,2015-03-08,2015,Oral Roberts Golden Eagles,North Dakota State Bison,71,58,Oral Roberts Golden Eagles,129,13,Denny Sanford Premier Center,True,True
+400766882,2015-03-08,2015,UAlbany Great Danes,UMBC Retrievers,66,37,UAlbany Great Danes,103,29,Events Center (Binghamton),True,True
+400766907,2015-03-08,2015,Oklahoma Sooners,Texas Longhorns,46,59,Texas Longhorns,105,13,American Airlines Center,True,True
+400766878,2015-03-08,2015,Liberty Flames,High Point Panthers,74,64,Liberty Flames,138,10,The HTC Center,True,True
+400766745,2015-03-08,2015,UConn Huskies,East Carolina Pirates,106,56,UConn Huskies,162,50,Mohegan Sun Arena,True,True
+400766913,2015-03-08,2015,Maryland Terrapins,Ohio State Buckeyes,77,74,Maryland Terrapins,151,3,Now Arena,True,True
+400766806,2015-03-08,2015,DePaul Blue Demons,Xavier Musketeers,87,53,DePaul Blue Demons,140,34,Allstate Arena,True,True
+400766847,2015-03-09,2015,South Florida Bulls,Tulane Green Wave,78,69,South Florida Bulls,147,9,Mohegan Sun Arena,True,True
+400766985,2015-03-09,2015,Stanford Cardinal,California Golden Bears,61,60,Stanford Cardinal,121,1,KeyArena,True,True
+400765419,2015-03-09,2015,Villanova Wildcats,Butler Bulldogs,70,49,Villanova Wildcats,119,21,Allstate Arena,True,True
+400766578,2015-03-09,2015,Norfolk State Spartans,Delaware State Hornets,70,45,Norfolk State Spartans,115,25,Norfolk Scope Arena,True,True
+400767018,2015-03-09,2015,South Dakota Coyotes,IU Indianapolis Jaguars,69,58,South Dakota Coyotes,127,11,Denny Sanford Premier Center,True,True
+400766577,2015-03-09,2015,South Carolina State Lady Bulldogs,Howard Bison,57,70,Howard Bison,127,13,Norfolk Scope Arena,True,True
+400766506,2015-03-09,2015,Gonzaga Bulldogs,BYU Cougars,55,61,BYU Cougars,116,6,Orleans Arena,True,True
+400767025,2015-03-09,2015,South Dakota State Jackrabbits,Oral Roberts Golden Eagles,59,48,South Dakota State Jackrabbits,107,11,Denny Sanford Premier Center,True,True
+400766579,2015-03-09,2015,Bethune-Cookman Wildcats,Florida A&M Rattlers,53,41,Bethune-Cookman Wildcats,94,12,Norfolk Scope Arena,True,True
+400767019,2015-03-09,2015,Quinnipiac Bobcats,Marist Red Foxes,72,61,Quinnipiac Bobcats,133,11,MVP Arena,True,True
+400766797,2015-03-09,2015,San José State Spartans,Utah State Aggies,99,85,San José State Spartans,184,14,Thomas & Mack Center,True,True
+400766795,2015-03-09,2015,Eastern Michigan Eagles,Kent State Golden Flashes,70,52,Eastern Michigan Eagles,122,18,Gervin GameAbove Center,False,True
+400766794,2015-03-09,2015,Western Michigan Broncos,Bowling Green Falcons,65,42,Western Michigan Broncos,107,23,University Arena (MI),False,True
+400766596,2015-03-09,2015,San Diego Toreros,San Francisco Dons,57,65,San Francisco Dons,122,8,Orleans Arena,True,True
+400767026,2015-03-09,2015,Seton Hall Pirates,St. John's Red Storm,72,60,Seton Hall Pirates,132,12,Allstate Arena,True,True
+400766499,2015-03-09,2015,Northern Illinois Huskies,Central Michigan Chippewas,44,49,Central Michigan Chippewas,93,5,NIU Convocation Center,False,True
+400767060,2015-03-09,2015,UConn Huskies,South Florida Bulls,84,70,UConn Huskies,154,14,Mohegan Sun Arena,True,True
+400766796,2015-03-09,2015,Toledo Rockets,Miami (OH) RedHawks,62,47,Toledo Rockets,109,15,Savage Arena,False,True
+400766605,2015-03-09,2015,Army Black Knights,Lehigh Mountain Hawks,57,76,Lehigh Mountain Hawks,133,19,Christl Arena,False,True
+400766604,2015-03-09,2015,American University Eagles,Navy Midshipmen,60,53,American University Eagles,113,7,Bender Arena,False,True
+400766798,2015-03-09,2015,San Diego State Aztecs,Nevada Wolf Pack,70,48,San Diego State Aztecs,118,22,Thomas & Mack Center,True,True
+400766814,2015-03-10,2015,Milwaukee Panthers,Valparaiso Beacons,77,64,Milwaukee Panthers,141,13,Klotsche Center,False,True
+400767094,2015-03-10,2015,DePaul Blue Demons,Villanova Wildcats,58,55,DePaul Blue Demons,113,3,Allstate Arena,True,True
+400767033,2015-03-10,2015,Baylor Bears,Texas Longhorns,75,64,Baylor Bears,139,11,American Airlines Center,True,True
+400766799,2015-03-10,2015,Wyoming Cowgirls,Air Force Falcons,70,48,Wyoming Cowgirls,118,22,Thomas & Mack Center,True,True
+400602909,2015-03-10,2015,Pennsylvania Quakers,Princeton Tigers,42,55,Princeton Tigers,97,13,The Palestra,False,True
+400768120,2015-03-11,2015,Hampton Lady Pirates,Maryland Eastern Shore Hawks,50,52,Maryland Eastern Shore Hawks,102,2,Norfolk Scope Arena,True,True
+400768026,2015-03-11,2015,Western Michigan Broncos,Central Michigan Chippewas,81,68,Western Michigan Broncos,149,13,Rocket Arena,True,True
+400766908,2015-03-11,2015,UAB Blazers,UTEP Miners,63,52,UAB Blazers,115,11,Legacy Arena at BJCC,True,True
+400766807,2015-03-11,2015,Little Rock Trojans,Georgia State Panthers,71,54,Little Rock Trojans,125,17,Lakefront Arena,True,True
+400768118,2015-03-11,2015,Jackson State Lady Tigers,Alabama A&M Bulldogs,89,82,Jackson State Lady Tigers,171,7,Toyota Center (Houston),True,True
+400766976,2015-03-11,2015,Sacramento State Hornets,Montana State Bobcats,78,62,Sacramento State Hornets,140,16,Dahlberg Arena,True,True
+400768121,2015-03-11,2015,Savannah State Tigers,Coppin State Eagles,66,52,Savannah State Tigers,118,14,Norfolk Scope Arena,True,True
+400768031,2015-03-11,2015,Eastern Michigan Eagles,Toledo Rockets,74,57,Eastern Michigan Eagles,131,17,Rocket Arena,True,True
+400766910,2015-03-11,2015,Louisiana Tech Lady Techsters,Florida Atlantic Owls,84,74,Louisiana Tech Lady Techsters,158,10,Legacy Arena at BJCC,True,True
+400766808,2015-03-11,2015,Texas State Bobcats,UT Arlington Mavericks,52,46,Texas State Bobcats,98,6,Lakefront Arena,True,True
+400766977,2015-03-11,2015,Northern Colorado Bears,North Dakota Fighting Hawks,72,64,Northern Colorado Bears,136,8,Dahlberg Arena,True,True
+400766838,2015-03-11,2015,Seattle U Redhawks,Utah Valley Wolverines,64,62,Seattle U Redhawks,126,2,Orleans Arena,True,True
+400766911,2015-03-11,2015,Charlotte 49ers,Marshall Thundering Herd,67,52,Charlotte 49ers,119,15,Legacy Arena at BJCC,True,True
+400766809,2015-03-11,2015,Arkansas State Red Wolves,App State Mountaineers,67,52,Arkansas State Red Wolves,119,15,Lakefront Arena,True,True
+400767022,2015-03-11,2015,Bryant Bulldogs,Robert Morris Colonials,62,68,Robert Morris Colonials,130,6,Chace Athletic Center,False,True
+400767021,2015-03-11,2015,Central Connecticut Blue Devils,St. Francis Brooklyn Terriers,63,71,St. Francis Brooklyn Terriers,134,8,Detrick Gymnasium,False,True
+400766981,2015-03-11,2015,Southern Jaguars,Mississippi Valley State Devilettes,62,57,Southern Jaguars,119,5,Toyota Center (Houston),True,True
+400766817,2015-03-11,2015,Wright State Raiders,Oakland Golden Grizzlies,95,60,Wright State Raiders,155,35,Nutter Center,False,True
+400766816,2015-03-11,2015,Cleveland State Vikings,UIC Flames,76,70,Cleveland State Vikings,146,6,Wolstein Center,False,True
+400766815,2015-03-11,2015,Youngstown State Penguins,Detroit Mercy Titans,73,55,Youngstown State Penguins,128,18,Beeghly Center,False,True
+400766608,2015-03-11,2015,Florida Gulf Coast Eagles,Jacksonville Dolphins,62,42,Florida Gulf Coast Eagles,104,20,Alico Arena,False,True
+400766607,2015-03-11,2015,Stetson Hatters,Northern Kentucky Norse,52,53,Northern Kentucky Norse,105,1,Edmunds Center,False,True
+400766978,2015-03-11,2015,Eastern Washington Eagles,Northern Arizona Lumberjacks,73,57,Eastern Washington Eagles,130,16,Dahlberg Arena,True,True
+400766839,2015-03-11,2015,Cal State Bakersfield Roadrunners,Chicago State Cougars,77,53,Cal State Bakersfield Roadrunners,130,24,Orleans Arena,True,True
+400768036,2015-03-12,2015,Green Bay Phoenix,Milwaukee Panthers,74,62,Green Bay Phoenix,136,12,Kress Center,False,True
+400766912,2015-03-12,2015,Old Dominion Monarchs,Rice Owls,62,57,Old Dominion Monarchs,119,5,Legacy Arena at BJCC,True,True
+400766810,2015-03-12,2015,Troy Trojans,Louisiana Ragin' Cajuns,52,66,Louisiana Ragin' Cajuns,118,14,Lakefront Arena,True,True
+400768210,2015-03-12,2015,Cal Poly Mustangs,Cal State Fullerton Titans,48,55,Cal State Fullerton Titans,103,7,Titan Gym,True,True
+400768136,2015-03-12,2015,Boise State Broncos,San José State Spartans,76,67,Boise State Broncos,143,9,Thomas & Mack Center,True,True
+400766979,2015-03-12,2015,Montana Lady Griz,Idaho State Bengals,69,67,Montana Lady Griz,136,2,Dahlberg Arena,True,True
+400766840,2015-03-12,2015,UT Rio Grande Valley Vaqueros,Kansas City Roos,61,50,UT Rio Grande Valley Vaqueros,111,11,Orleans Arena,True,True
+400768209,2015-03-12,2015,New Mexico Lobos,Fresno State Bulldogs,64,53,New Mexico Lobos,117,11,Thomas & Mack Center,True,True
+400768175,2015-03-12,2015,Long Beach State Beach,UC Davis Aggies,67,70,UC Davis Aggies,137,3,Titan Gym,True,True
+400768334,2015-03-12,2015,Buffalo Bulls,Western Michigan Broncos,63,60,Buffalo Bulls,123,3,Rocket Arena,True,True
+400768332,2015-03-12,2015,Southern Miss Lady Eagles,UAB Blazers,80,66,Southern Miss Lady Eagles,146,14,Bartow Arena,True,True
+400768021,2015-03-12,2015,North Carolina A&T Aggies,Bethune-Cookman Wildcats,75,54,North Carolina A&T Aggies,129,21,Norfolk Scope Arena,True,True
+400766917,2015-03-12,2015,McNeese Cowgirls,Houston Christian Huskies,68,70,Houston Christian Huskies,138,2,Leonard E. Merrell Center,True,True
+400766106,2015-03-12,2015,Towson Tigers,Charleston Cougars,79,70,Towson Tigers,149,9,The Show Place Arena,True,True
+400766982,2015-03-12,2015,Alabama State Lady Hornets,Grambling Lady Tigers,65,62,Alabama State Lady Hornets,127,3,Toyota Center (Houston),True,True
+400768339,2015-03-12,2015,Middle Tennessee Blue Raiders,Louisiana Tech Lady Techsters,77,58,Middle Tennessee Blue Raiders,135,19,Bartow Arena,True,True
+400768338,2015-03-12,2015,Akron Zips,Eastern Michigan Eagles,66,95,Eastern Michigan Eagles,161,29,Rocket Arena,True,True
+400767897,2015-03-12,2015,Norfolk State Spartans,Howard Bison,67,55,Norfolk State Spartans,122,12,Norfolk Scope Arena,True,True
+400766918,2015-03-12,2015,Northwestern State Lady Demons,Central Arkansas Sugar Bears,63,49,Northwestern State Lady Demons,112,14,Leonard E. Merrell Center,True,True
+400766107,2015-03-12,2015,Delaware Blue Hens,Northeastern Huskies,73,61,Delaware Blue Hens,134,12,The Show Place Arena,True,True
+400766801,2015-03-12,2015,Bradley Braves,Loyola Chicago Ramblers,55,67,Loyola Chicago Ramblers,122,12,Family Arena,True,True
+400768415,2015-03-12,2015,Western Kentucky Lady Toppers,Charlotte 49ers,70,67,Western Kentucky Lady Toppers,137,3,Bartow Arena,True,True
+400766983,2015-03-12,2015,Prairie View A&M Lady Panthers,Alcorn State Lady Braves,66,59,Prairie View A&M Lady Panthers,125,7,Toyota Center (Houston),True,True
+400766802,2015-03-13,2015,Evansville Purple Aces,Illinois State Redbirds,55,51,Evansville Purple Aces,106,4,Family Arena,True,True
+400768438,2015-03-13,2015,UTSA Roadrunners,Old Dominion Monarchs,49,63,Old Dominion Monarchs,112,14,Bartow Arena,True,True
+400784964,2015-03-13,2015,Middle Tennessee Blue Raiders,Southern Miss Lady Eagles,53,65,Southern Miss Lady Eagles,118,12,Legacy Arena at BJCC,True,True
+400784959,2015-03-13,2015,Norfolk State Spartans,Maryland Eastern Shore Hawks,64,69,Maryland Eastern Shore Hawks,133,5,Norfolk Scope Arena,True,True
+400784937,2015-03-13,2015,James Madison Dukes,Towson Tigers,64,49,James Madison Dukes,113,15,The Show Place Arena,True,True
+400784935,2015-03-13,2015,Ohio Bobcats,Buffalo Bulls,63,55,Ohio Bobcats,118,8,Rocket Arena,True,True
+400784934,2015-03-13,2015,Texas A&M-Corpus Christi Islanders,Houston Christian Huskies,48,49,Houston Christian Huskies,97,1,Leonard E. Merrell Center,True,True
+400768340,2015-03-13,2015,Little Rock Trojans,Texas State Bobcats,87,44,Little Rock Trojans,131,43,Lakefront Arena,True,True
+400784971,2015-03-13,2015,Wichita State Shockers,Loyola Chicago Ramblers,59,42,Wichita State Shockers,101,17,Family Arena,True,True
+400784958,2015-03-13,2015,Jackson State Lady Tigers,Alabama State Lady Hornets,60,62,Alabama State Lady Hornets,122,2,Toyota Center (Houston),True,True
+400768345,2015-03-13,2015,Sacramento State Hornets,Northern Colorado Bears,79,81,Northern Colorado Bears,160,2,Dahlberg Arena,True,True
+400784998,2015-03-13,2015,Western Kentucky Lady Toppers,Old Dominion Monarchs,61,59,Western Kentucky Lady Toppers,120,2,Legacy Arena at BJCC,True,True
+400784962,2015-03-13,2015,Nicholls Colonels,Northwestern State Lady Demons,67,84,Northwestern State Lady Demons,151,17,Leonard E. Merrell Center,True,True
+400784960,2015-03-13,2015,Ball State Cardinals,Eastern Michigan Eagles,65,75,Eastern Michigan Eagles,140,10,Rocket Arena,True,True
+400766108,2015-03-13,2015,Elon Phoenix,UNC Wilmington Seahawks,60,48,Elon Phoenix,108,12,The Show Place Arena,True,True
+400784936,2015-03-13,2015,Savannah State Tigers,North Carolina A&T Aggies,62,59,Savannah State Tigers,121,3,Norfolk Scope Arena,True,True
+400768450,2015-03-13,2015,New Mexico Lobos,Boise State Broncos,60,66,Boise State Broncos,126,6,Thomas & Mack Center,True,True
+400768449,2015-03-13,2015,Hawai'i Rainbow Wahine,Cal State Fullerton Titans,73,64,Hawai'i Rainbow Wahine,137,9,Honda Center,True,True
+400768436,2015-03-13,2015,Arkansas State Red Wolves,Louisiana Ragin' Cajuns,63,61,Arkansas State Red Wolves,124,2,Lakefront Arena,True,True
+400768356,2015-03-13,2015,New Mexico State Aggies,Seattle U Redhawks,79,75,New Mexico State Aggies,154,4,Orleans Arena,True,True
+400768447,2015-03-13,2015,Montana Lady Griz,Eastern Washington Eagles,55,51,Montana Lady Griz,106,4,Dahlberg Arena,True,True
+400766803,2015-03-13,2015,Northern Iowa Panthers,Southern Illinois Salukis,59,50,Northern Iowa Panthers,109,9,Family Arena,True,True
+400767032,2015-03-13,2015,UAlbany Great Danes,Hartford Hawks,84,75,UAlbany Great Danes,159,9,Broadview Center,False,True
+400784963,2015-03-13,2015,Drexel Dragons,Delaware Blue Hens,48,55,Delaware Blue Hens,103,7,The Show Place Arena,True,True
+400768451,2015-03-13,2015,Cal State Northridge Matadors,UC Davis Aggies,61,47,Cal State Northridge Matadors,108,14,Honda Center,True,True
+400768448,2015-03-13,2015,Cal State Bakersfield Roadrunners,UT Rio Grande Valley Vaqueros,70,76,UT Rio Grande Valley Vaqueros,146,6,Orleans Arena,True,True
+400768435,2015-03-13,2015,Wright State Raiders,Cleveland State Vikings,99,87,Wright State Raiders,186,12,Kress Center,True,True
+400784994,2015-03-13,2015,Drake Bulldogs,Evansville Purple Aces,79,84,Evansville Purple Aces,163,5,Family Arena,True,True
+400784979,2015-03-13,2015,Southern Jaguars,Prairie View A&M Lady Panthers,64,40,Southern Jaguars,104,24,Toyota Center (Houston),True,True
+400766109,2015-03-13,2015,Hofstra Pride,William & Mary Tribe,64,51,Hofstra Pride,115,13,The Show Place Arena,True,True
+400768434,2015-03-14,2015,Green Bay Phoenix,Youngstown State Penguins,63,54,Green Bay Phoenix,117,9,Kress Center,False,True
+400766804,2015-03-14,2015,Missouri State Bears,Indiana State Sycamores,75,57,Missouri State Bears,132,18,Family Arena,True,True
+400785071,2015-03-14,2015,Ohio Bobcats,Eastern Michigan Eagles,60,44,Ohio Bobcats,104,16,Rocket Arena,True,True
+400785070,2015-03-14,2015,James Madison Dukes,Elon Phoenix,63,60,James Madison Dukes,123,3,The Show Place Arena,True,True
+400785061,2015-03-14,2015,Stephen F. Austin Ladyjacks,Houston Christian Huskies,81,88,Houston Christian Huskies,169,7,Leonard E. Merrell Center,True,True
+400785094,2015-03-14,2015,Wichita State Shockers,Northern Iowa Panthers,56,42,Wichita State Shockers,98,14,Family Arena,True,True
+400785104,2015-03-14,2015,Southern Jaguars,Alabama State Lady Hornets,55,73,Alabama State Lady Hornets,128,18,Toyota Center (Houston),True,True
+400785112,2015-03-14,2015,Hofstra Pride,Delaware Blue Hens,45,42,Hofstra Pride,87,3,The Show Place Arena,True,True
+400785073,2015-03-14,2015,Savannah State Tigers,Maryland Eastern Shore Hawks,65,47,Savannah State Tigers,112,18,Norfolk Scope Arena,True,True
+400785095,2015-03-14,2015,New Mexico State Aggies,UT Rio Grande Valley Vaqueros,70,52,New Mexico State Aggies,122,18,Orleans Arena,True,True
+400785074,2015-03-14,2015,Montana Lady Griz,Northern Colorado Bears,60,49,Montana Lady Griz,109,11,Dahlberg Arena,False,True
+400785072,2015-03-14,2015,Lamar Cardinals,Northwestern State Lady Demons,64,70,Northwestern State Lady Demons,134,6,Leonard E. Merrell Center,True,True
+400785120,2015-03-14,2015,Missouri State Bears,Evansville Purple Aces,75,66,Missouri State Bears,141,9,Family Arena,True,True
+400785096,2015-03-14,2015,Hawai'i Rainbow Wahine,Cal State Northridge Matadors,60,67,Cal State Northridge Matadors,127,7,Honda Center,True,True
+400768028,2015-03-14,2015,American University Eagles,Lehigh Mountain Hawks,66,50,American University Eagles,116,16,Bender Arena,False,True
+400785069,2015-03-15,2015,Little Rock Trojans,Arkansas State Red Wolves,78,72,Little Rock Trojans,150,6,Lakefront Arena,True,True
+400785067,2015-03-15,2015,Western Kentucky Lady Toppers,Southern Miss Lady Eagles,60,57,Western Kentucky Lady Toppers,117,3,Legacy Arena at BJCC,True,True
+400785335,2015-03-15,2015,Northwestern State Lady Demons,Houston Christian Huskies,58,50,Northwestern State Lady Demons,108,8,Leonard E. Merrell Center,True,True
+400785260,2015-03-15,2015,James Madison Dukes,Hofstra Pride,62,56,James Madison Dukes,118,6,The Show Place Arena,True,True
+400768424,2015-03-15,2015,Robert Morris Colonials,St. Francis Brooklyn Terriers,62,77,St. Francis Brooklyn Terriers,139,15,Charles L. Sewall Center,False,True
+400768423,2015-03-15,2015,Florida Gulf Coast Eagles,Northern Kentucky Norse,60,43,Florida Gulf Coast Eagles,103,17,Alico Arena,False,True
+400785336,2015-03-15,2015,Wichita State Shockers,Missouri State Bears,85,71,Wichita State Shockers,156,14,Family Arena,True,True
+400785114,2015-03-15,2015,Green Bay Phoenix,Wright State Raiders,86,77,Green Bay Phoenix,163,9,Kress Center,False,True
+400785735,2015-03-20,2015,Northwestern Wildcats,Arkansas Razorbacks,55,57,Arkansas Razorbacks,112,2,Ferrell Center,True,False
+400785732,2015-03-20,2015,Duke Blue Devils,UAlbany Great Danes,54,52,Duke Blue Devils,106,2,Cameron Indoor Stadium,True,False
+400785722,2015-03-20,2015,Washington Huskies,Miami Hurricanes,80,86,Miami Hurricanes,166,6,Carver-Hawkeye Arena,True,False
+400785717,2015-03-20,2015,Dayton Flyers,Iowa State Cyclones,78,66,Dayton Flyers,144,12,Memorial Coliseum (KY),True,False
+400785719,2015-03-20,2015,Kentucky Wildcats,Tennessee State Lady Tigers,97,52,Kentucky Wildcats,149,45,Memorial Coliseum (KY),True,False
+400785724,2015-03-20,2015,Baylor Bears,Northwestern State Lady Demons,77,36,Baylor Bears,113,41,Ferrell Center,True,False
+400785739,2015-03-20,2015,Mississippi State Bulldogs,Tulane Green Wave,57,47,Mississippi State Bulldogs,104,10,Cameron Indoor Stadium,True,False
+400785723,2015-03-20,2015,Iowa Hawkeyes,American University Eagles,75,67,Iowa Hawkeyes,142,8,Carver-Hawkeye Arena,True,False
+400785740,2015-03-20,2015,Oregon State Beavers,South Dakota State Jackrabbits,74,62,Oregon State Beavers,136,12,Gill Coliseum,True,False
+400785725,2015-03-20,2015,South Carolina Gamecocks,Savannah State Tigers,81,48,South Carolina Gamecocks,129,33,Colonial Life Arena,True,False
+400785720,2015-03-20,2015,Minnesota Golden Gophers,DePaul Blue Demons,72,79,DePaul Blue Demons,151,7,Purcell Pavilion,True,False
+400785691,2015-03-20,2015,Texas Longhorns,Western Kentucky Lady Toppers,66,64,Texas Longhorns,130,2,Haas Pavilion,True,False
+400785736,2015-03-20,2015,Syracuse Orange,Nebraska Cornhuskers,72,69,Syracuse Orange,141,3,Colonial Life Arena,True,False
+400785693,2015-03-20,2015,Notre Dame Fighting Irish,Montana Lady Griz,77,43,Notre Dame Fighting Irish,120,34,Purcell Pavilion,True,False
+400785733,2015-03-20,2015,George Washington Revolutionaries,Gonzaga Bulldogs,69,82,Gonzaga Bulldogs,151,13,Gill Coliseum,True,False
+400785716,2015-03-20,2015,California Golden Bears,Wichita State Shockers,78,66,California Golden Bears,144,12,Haas Pavilion,True,False
+400785754,2015-03-21,2015,Chattanooga Mocs,Pittsburgh Panthers,40,51,Pittsburgh Panthers,91,11,Food City Center,True,False
+400785731,2015-03-21,2015,Princeton Tigers,Green Bay Phoenix,80,70,Princeton Tigers,150,10,XFINITY Center,True,False
+400785729,2015-03-21,2015,Florida Gulf Coast Eagles,Oklahoma State Cowgirls,75,67,Florida Gulf Coast Eagles,142,8,Tucker Center,True,False
+400785727,2015-03-21,2015,North Carolina Tar Heels,Liberty Flames,71,65,North Carolina Tar Heels,136,6,Carmichael Arena,True,False
+400785755,2015-03-21,2015,Tennessee Lady Volunteers,Boise State Broncos,72,61,Tennessee Lady Volunteers,133,11,Food City Center,True,False
+400785738,2015-03-21,2015,Florida State Seminoles,Alabama State Lady Hornets,91,49,Florida State Seminoles,140,42,Tucker Center,True,False
+400785730,2015-03-21,2015,Maryland Terrapins,New Mexico State Aggies,75,57,Maryland Terrapins,132,18,XFINITY Center,True,False
+400785726,2015-03-21,2015,Ohio State Buckeyes,James Madison Dukes,90,80,Ohio State Buckeyes,170,10,Carmichael Arena,True,False
+400785737,2015-03-21,2015,Texas A&M Aggies,Little Rock Trojans,60,69,Little Rock Trojans,129,9,Desert Financial Arena,True,False
+400785721,2015-03-21,2015,Oklahoma Sooners,Quinnipiac Bobcats,111,84,Oklahoma Sooners,195,27,Maples Pavilion,True,False
+400785692,2015-03-21,2015,Louisville Cardinals,BYU Cougars,86,53,Louisville Cardinals,139,33,Yuengling Center,True,False
+400785728,2015-03-21,2015,Arizona State Sun Devils,Ohio Bobcats,74,55,Arizona State Sun Devils,129,19,Desert Financial Arena,True,False
+400785715,2015-03-21,2015,Rutgers Scarlet Knights,Seton Hall Pirates,79,66,Rutgers Scarlet Knights,145,13,Gampel Pavilion,True,False
+400785734,2015-03-21,2015,Stanford Cardinal,Cal State Northridge Matadors,73,60,Stanford Cardinal,133,13,Maples Pavilion,True,False
+400785718,2015-03-21,2015,South Florida Bulls,LSU Tigers,73,64,South Florida Bulls,137,9,Yuengling Center,True,False
+400785714,2015-03-22,2015,UConn Huskies,St. Francis Brooklyn Terriers,89,33,UConn Huskies,122,56,Gampel Pavilion,True,False
+400786303,2015-03-22,2015,Duke Blue Devils,Mississippi State Bulldogs,64,56,Duke Blue Devils,120,8,Cameron Indoor Stadium,True,False
+400786301,2015-03-22,2015,Iowa Hawkeyes,Miami Hurricanes,88,70,Iowa Hawkeyes,158,18,Carver-Hawkeye Arena,True,False
+400786302,2015-03-22,2015,Kentucky Wildcats,Dayton Flyers,94,99,Dayton Flyers,193,5,Memorial Coliseum (KY),True,False
+400786280,2015-03-22,2015,Baylor Bears,Arkansas Razorbacks,73,44,Baylor Bears,117,29,Ferrell Center,True,False
+400786319,2015-03-22,2015,Oregon State Beavers,Gonzaga Bulldogs,64,76,Gonzaga Bulldogs,140,12,Gill Coliseum,True,False
+400786315,2015-03-22,2015,South Carolina Gamecocks,Syracuse Orange,97,68,South Carolina Gamecocks,165,29,Colonial Life Arena,True,False
+400786318,2015-03-23,2015,California Golden Bears,Texas Longhorns,70,73,Texas Longhorns,143,3,Haas Pavilion,True,False
+400786313,2015-03-23,2015,Notre Dame Fighting Irish,DePaul Blue Demons,79,67,Notre Dame Fighting Irish,146,12,Purcell Pavilion,True,False
+400786367,2015-03-23,2015,Florida State Seminoles,Florida Gulf Coast Eagles,65,47,Florida State Seminoles,112,18,Tucker Center,True,False
+400786371,2015-03-23,2015,Stanford Cardinal,Oklahoma Sooners,86,76,Stanford Cardinal,162,10,Maples Pavilion,True,False
+400786368,2015-03-23,2015,North Carolina Tar Heels,Ohio State Buckeyes,86,84,North Carolina Tar Heels,170,2,Carmichael Arena,True,False
+400786366,2015-03-23,2015,Maryland Terrapins,Princeton Tigers,85,70,Maryland Terrapins,155,15,XFINITY Center,True,False
+400786365,2015-03-23,2015,Tennessee Lady Volunteers,Pittsburgh Panthers,77,67,Tennessee Lady Volunteers,144,10,Food City Center,True,False
+400786375,2015-03-24,2015,UConn Huskies,Rutgers Scarlet Knights,91,55,UConn Huskies,146,36,Gampel Pavilion,True,False
+400786373,2015-03-24,2015,Louisville Cardinals,South Florida Bulls,60,52,Louisville Cardinals,112,8,Yuengling Center,True,False
+400786372,2015-03-24,2015,Arizona State Sun Devils,Little Rock Trojans,57,54,Arizona State Sun Devils,111,3,Desert Financial Arena,True,False
+400786648,2015-03-27,2015,South Carolina Gamecocks,North Carolina Tar Heels,67,65,South Carolina Gamecocks,132,2,First Horizon Coliseum,True,False
+400786474,2015-03-27,2015,Baylor Bears,Iowa Hawkeyes,81,66,Baylor Bears,147,15,Paycom Center,True,False
+400786652,2015-03-28,2015,Notre Dame Fighting Irish,Stanford Cardinal,81,60,Notre Dame Fighting Irish,141,21,Paycom Center,True,False
+400786693,2015-03-28,2015,Florida State Seminoles,Arizona State Sun Devils,66,65,Florida State Seminoles,131,1,First Horizon Coliseum,True,False
+400786686,2015-03-28,2015,UConn Huskies,Texas Longhorns,105,54,UConn Huskies,159,51,MVP Arena,True,False
+400786692,2015-03-28,2015,Louisville Cardinals,Dayton Flyers,66,82,Dayton Flyers,148,16,MVP Arena,True,False
+400786647,2015-03-28,2015,Maryland Terrapins,Duke Blue Devils,65,55,Maryland Terrapins,120,10,Spokane Arena,True,False
+400786651,2015-03-28,2015,Tennessee Lady Volunteers,Gonzaga Bulldogs,73,69,Tennessee Lady Volunteers,142,4,Spokane Arena,True,False
+400787679,2015-03-29,2015,South Carolina Gamecocks,Florida State Seminoles,80,74,South Carolina Gamecocks,154,6,First Horizon Coliseum,True,False
+400787683,2015-03-30,2015,Notre Dame Fighting Irish,Baylor Bears,77,68,Notre Dame Fighting Irish,145,9,Paycom Center,True,False
+400787782,2015-03-30,2015,UConn Huskies,Dayton Flyers,91,70,UConn Huskies,161,21,MVP Arena,True,False
+400787765,2015-03-31,2015,Maryland Terrapins,Tennessee Lady Volunteers,58,48,Maryland Terrapins,106,10,Spokane Arena,True,False
+400787891,2015-04-05,2015,Notre Dame Fighting Irish,South Carolina Gamecocks,66,65,Notre Dame Fighting Irish,131,1,Benchmark International Arena,True,False
+400788020,2015-04-06,2015,UConn Huskies,Maryland Terrapins,81,58,UConn Huskies,139,23,Benchmark International Arena,True,False
+400789026,2015-04-08,2015,UConn Huskies,Notre Dame Fighting Irish,63,53,UConn Huskies,116,10,Benchmark International Arena,True,False

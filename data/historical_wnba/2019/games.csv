@@ -1,0 +1,237 @@
+game_id,date,season,home_team,away_team,home_score,away_score,winner,total_points,point_diff,venue,neutral_site,conference_game
+401129933,2019-05-09,2019,New York Liberty,CHINA,89,71,New York Liberty,160,18,Barclays Center,False,False
+401129934,2019-05-11,2019,Minnesota Lynx,Washington Mystics,86,79,Minnesota Lynx,165,7,Target Center,False,False
+401129935,2019-05-12,2019,Phoenix Mercury,Los Angeles Sparks,82,75,Phoenix Mercury,157,7,Mortgage Matchup Center,False,False
+401129936,2019-05-13,2019,Atlanta Dream,Dallas Wings,82,59,Atlanta Dream,141,23,Mohegan Sun Arena,True,False
+401129937,2019-05-13,2019,Connecticut Sun,New York Liberty,100,66,Connecticut Sun,166,34,Mohegan Sun Arena,False,False
+401129938,2019-05-14,2019,Chicago Sky,Indiana Fever,58,69,Indiana Fever,127,11,Wintrust Arena,False,False
+401129939,2019-05-14,2019,Atlanta Dream,New York Liberty,92,87,Atlanta Dream,179,5,Mohegan Sun Arena,True,False
+401129940,2019-05-14,2019,Connecticut Sun,Dallas Wings,67,71,Dallas Wings,138,4,Mohegan Sun Arena,False,False
+401129941,2019-05-16,2019,Seattle Storm,Phoenix Mercury,84,87,Phoenix Mercury,171,3,Angel of the Winds Arena,True,False
+401129942,2019-05-16,2019,Indiana Fever,Chicago Sky,76,65,Indiana Fever,141,11,Gainbridge Fieldhouse,False,False
+401129943,2019-05-17,2019,Atlanta Dream,Washington Mystics,64,75,Washington Mystics,139,11,Albany Civic Center,False,False
+401129944,2019-05-18,2019,Los Angeles Sparks,Seattle Storm,92,85,Los Angeles Sparks,177,7,Hutto-Patterson Gymnasium,True,False
+401129945,2019-05-19,2019,New York Liberty,Connecticut Sun,79,98,Connecticut Sun,177,19,MVP Arena,True,False
+401129946,2019-05-19,2019,Dallas Wings,Indiana Fever,66,71,Indiana Fever,137,5,College Park Center,False,False
+401129947,2019-05-19,2019,Las Vegas Aces,Minnesota Lynx,75,79,Minnesota Lynx,154,4,Cox Pavilion,True,False
+401104913,2019-05-24,2019,Atlanta Dream,Dallas Wings,76,72,Atlanta Dream,148,4,State Farm Arena,False,False
+401104914,2019-05-25,2019,New York Liberty,Indiana Fever,80,81,Indiana Fever,161,1,Westchester County Center,False,False
+401104915,2019-05-25,2019,Seattle Storm,Phoenix Mercury,77,68,Seattle Storm,145,9,Angel of the Winds Arena,False,False
+401104916,2019-05-25,2019,Connecticut Sun,Washington Mystics,84,69,Connecticut Sun,153,15,Mohegan Sun Arena,False,False
+401104917,2019-05-26,2019,Minnesota Lynx,Chicago Sky,89,71,Minnesota Lynx,160,18,Target Center,False,False
+401104918,2019-05-27,2019,Las Vegas Aces,Los Angeles Sparks,83,70,Las Vegas Aces,153,13,Michelob ULTRA Arena,False,False
+401104919,2019-05-28,2019,Connecticut Sun,Indiana Fever,88,77,Connecticut Sun,165,11,Mohegan Sun Arena,False,False
+401104920,2019-05-30,2019,Minnesota Lynx,Seattle Storm,72,61,Minnesota Lynx,133,11,Target Center,False,False
+401104921,2019-05-31,2019,Atlanta Dream,Seattle Storm,66,82,Seattle Storm,148,16,State Farm Arena,False,False
+401104922,2019-06-01,2019,Phoenix Mercury,Las Vegas Aces,86,84,Phoenix Mercury,170,2,Mortgage Matchup Center,False,False
+401104923,2019-06-01,2019,Los Angeles Sparks,Connecticut Sun,77,70,Los Angeles Sparks,147,7,crypto.com Arena,False,False
+401104924,2019-06-01,2019,Indiana Fever,New York Liberty,92,77,Indiana Fever,169,15,Gainbridge Fieldhouse,False,False
+401104925,2019-06-01,2019,Washington Mystics,Atlanta Dream,96,75,Washington Mystics,171,21,CareFirst Arena,False,False
+401104926,2019-06-02,2019,Chicago Sky,Seattle Storm,83,79,Chicago Sky,162,4,Wintrust Arena,False,False
+401104927,2019-06-02,2019,Dallas Wings,Minnesota Lynx,67,70,Minnesota Lynx,137,3,College Park Center,False,False
+401104928,2019-06-02,2019,Las Vegas Aces,Connecticut Sun,74,80,Connecticut Sun,154,6,Michelob ULTRA Arena,False,False
+401104929,2019-06-04,2019,New York Liberty,Los Angeles Sparks,73,78,Los Angeles Sparks,151,5,Westchester County Center,False,False
+401104930,2019-06-05,2019,Seattle Storm,Minnesota Lynx,84,77,Seattle Storm,161,7,Angel of the Winds Arena,False,False
+401104931,2019-06-05,2019,Washington Mystics,Chicago Sky,103,85,Washington Mystics,188,18,CareFirst Arena,False,False
+401104932,2019-06-06,2019,Atlanta Dream,Las Vegas Aces,69,92,Las Vegas Aces,161,23,State Farm Arena,False,False
+401104933,2019-06-06,2019,Connecticut Sun,Los Angeles Sparks,89,77,Connecticut Sun,166,12,Mohegan Sun Arena,False,False
+401104934,2019-06-07,2019,Minnesota Lynx,Phoenix Mercury,58,56,Minnesota Lynx,114,2,Target Center,False,False
+401104935,2019-06-07,2019,Indiana Fever,Dallas Wings,79,64,Indiana Fever,143,15,Gainbridge Fieldhouse,False,False
+401104936,2019-06-07,2019,New York Liberty,Washington Mystics,85,94,Washington Mystics,179,9,Westchester County Center,False,False
+401104937,2019-06-08,2019,Minnesota Lynx,Los Angeles Sparks,85,89,Los Angeles Sparks,174,4,Target Center,False,False
+401104938,2019-06-09,2019,Atlanta Dream,Connecticut Sun,59,65,Connecticut Sun,124,6,State Farm Arena,False,False
+401104939,2019-06-09,2019,New York Liberty,Las Vegas Aces,88,78,New York Liberty,166,10,Westchester County Center,False,False
+401104940,2019-06-09,2019,Washington Mystics,Dallas Wings,86,62,Washington Mystics,148,24,CareFirst Arena,False,False
+401104941,2019-06-09,2019,Indiana Fever,Phoenix Mercury,87,94,Phoenix Mercury,181,7,Gainbridge Fieldhouse,False,False
+401104942,2019-06-09,2019,Chicago Sky,Seattle Storm,78,71,Chicago Sky,149,7,Wintrust Arena,False,False
+401104943,2019-06-11,2019,Connecticut Sun,Washington Mystics,83,75,Connecticut Sun,158,8,Mohegan Sun Arena,False,False
+401104944,2019-06-11,2019,Indiana Fever,Seattle Storm,82,84,Seattle Storm,166,2,Gainbridge Fieldhouse,False,False
+401104945,2019-06-12,2019,Chicago Sky,Phoenix Mercury,82,75,Chicago Sky,157,7,Wintrust Arena,False,False
+401104946,2019-06-12,2019,New York Liberty,Minnesota Lynx,75,69,New York Liberty,144,6,Westchester County Center,False,False
+401104947,2019-06-14,2019,Dallas Wings,Indiana Fever,72,76,Indiana Fever,148,4,College Park Center,False,False
+401104948,2019-06-14,2019,Washington Mystics,Seattle Storm,71,74,Seattle Storm,145,3,CareFirst Arena,False,False
+401104949,2019-06-15,2019,Minnesota Lynx,Connecticut Sun,81,85,Connecticut Sun,166,4,Target Center,False,False
+401104950,2019-06-15,2019,Phoenix Mercury,Los Angeles Sparks,68,85,Los Angeles Sparks,153,17,Mortgage Matchup Center,False,False
+401104951,2019-06-15,2019,Las Vegas Aces,New York Liberty,100,65,Las Vegas Aces,165,35,Michelob ULTRA Arena,False,False
+401104952,2019-06-15,2019,Indiana Fever,Chicago Sky,64,70,Chicago Sky,134,6,Gainbridge Fieldhouse,False,False
+401104953,2019-06-16,2019,Dallas Wings,Atlanta Dream,71,61,Dallas Wings,132,10,College Park Center,False,False
+401104954,2019-06-16,2019,Los Angeles Sparks,New York Liberty,92,98,New York Liberty,190,6,crypto.com Arena,False,False
+401104955,2019-06-16,2019,Connecticut Sun,Seattle Storm,81,67,Connecticut Sun,148,14,Mohegan Sun Arena,False,False
+401104956,2019-06-16,2019,Minnesota Lynx,Las Vegas Aces,75,80,Las Vegas Aces,155,5,Target Center,False,False
+401104957,2019-06-19,2019,Los Angeles Sparks,Washington Mystics,52,81,Washington Mystics,133,29,crypto.com Arena,False,False
+401104958,2019-06-19,2019,Atlanta Dream,Indiana Fever,88,78,Atlanta Dream,166,10,State Farm Arena,False,False
+401104959,2019-06-19,2019,New York Liberty,Chicago Sky,83,91,Chicago Sky,174,8,Westchester County Center,False,False
+401104960,2019-06-21,2019,Dallas Wings,Phoenix Mercury,69,54,Dallas Wings,123,15,College Park Center,False,False
+401104961,2019-06-21,2019,Las Vegas Aces,Washington Mystics,72,95,Washington Mystics,167,23,Michelob ULTRA Arena,False,False
+401104962,2019-06-21,2019,Connecticut Sun,Atlanta Dream,86,76,Connecticut Sun,162,10,Mohegan Sun Arena,False,False
+401104963,2019-06-22,2019,Chicago Sky,Indiana Fever,69,76,Indiana Fever,145,7,Wintrust Arena,False,False
+401104964,2019-06-22,2019,Seattle Storm,Los Angeles Sparks,84,62,Seattle Storm,146,22,Angel of the Winds Arena,False,False
+401104965,2019-06-23,2019,Minnesota Lynx,New York Liberty,92,83,Minnesota Lynx,175,9,Target Center,False,False
+401104966,2019-06-23,2019,Las Vegas Aces,Dallas Wings,86,68,Las Vegas Aces,154,18,Michelob ULTRA Arena,False,False
+401104967,2019-06-23,2019,Atlanta Dream,Washington Mystics,73,89,Washington Mystics,162,16,State Farm Arena,False,False
+401104968,2019-06-23,2019,Chicago Sky,Connecticut Sun,93,75,Chicago Sky,168,18,Wintrust Arena,False,False
+401104969,2019-06-23,2019,Phoenix Mercury,Los Angeles Sparks,82,72,Phoenix Mercury,154,10,Mortgage Matchup Center,False,False
+401104970,2019-06-23,2019,Seattle Storm,Indiana Fever,65,61,Seattle Storm,126,4,Alaska Airlines Arena,False,False
+401104971,2019-06-25,2019,Indiana Fever,Minnesota Lynx,74,78,Minnesota Lynx,152,4,Gainbridge Fieldhouse,False,False
+401104972,2019-06-26,2019,Las Vegas Aces,Seattle Storm,60,56,Las Vegas Aces,116,4,Michelob ULTRA Arena,False,False
+401104973,2019-06-26,2019,Chicago Sky,Washington Mystics,74,81,Washington Mystics,155,7,Wintrust Arena,False,False
+401104974,2019-06-27,2019,Dallas Wings,Connecticut Sun,74,73,Dallas Wings,147,1,College Park Center,False,False
+401104975,2019-06-28,2019,Los Angeles Sparks,Las Vegas Aces,86,74,Los Angeles Sparks,160,12,crypto.com Arena,False,False
+401104976,2019-06-28,2019,New York Liberty,Dallas Wings,69,68,New York Liberty,137,1,Westchester County Center,False,False
+401104977,2019-06-29,2019,Phoenix Mercury,Indiana Fever,91,69,Phoenix Mercury,160,22,Mortgage Matchup Center,False,False
+401104978,2019-06-29,2019,Seattle Storm,Chicago Sky,79,76,Seattle Storm,155,3,Alaska Airlines Arena,False,False
+401104979,2019-06-29,2019,Washington Mystics,Connecticut Sun,102,59,Washington Mystics,161,43,CareFirst Arena,False,False
+401104980,2019-06-30,2019,Las Vegas Aces,Indiana Fever,102,97,Las Vegas Aces,199,5,Michelob ULTRA Arena,False,False
+401104981,2019-06-30,2019,Atlanta Dream,New York Liberty,58,74,New York Liberty,132,16,State Farm Arena,False,False
+401104982,2019-06-30,2019,Dallas Wings,Minnesota Lynx,89,86,Dallas Wings,175,3,College Park Center,False,False
+401104983,2019-06-30,2019,Los Angeles Sparks,Chicago Sky,94,69,Los Angeles Sparks,163,25,crypto.com Arena,False,False
+401104984,2019-06-30,2019,Seattle Storm,Phoenix Mercury,67,69,Phoenix Mercury,136,2,Alaska Airlines Arena,False,False
+401104985,2019-07-02,2019,Las Vegas Aces,Chicago Sky,90,82,Las Vegas Aces,172,8,Michelob ULTRA Arena,False,False
+401104986,2019-07-03,2019,Minnesota Lynx,Atlanta Dream,85,68,Minnesota Lynx,153,17,Target Center,False,False
+401104987,2019-07-03,2019,Seattle Storm,New York Liberty,83,84,New York Liberty,167,1,Alaska Airlines Arena,False,False
+401104988,2019-07-06,2019,Dallas Wings,Indiana Fever,56,76,Indiana Fever,132,20,College Park Center,False,False
+401104989,2019-07-06,2019,Phoenix Mercury,New York Liberty,76,80,New York Liberty,156,4,Mortgage Matchup Center,False,False
+401104990,2019-07-06,2019,Seattle Storm,Atlanta Dream,66,77,Atlanta Dream,143,11,Alaska Airlines Arena,False,False
+401104992,2019-07-06,2019,Connecticut Sun,Minnesota Lynx,71,74,Minnesota Lynx,145,3,Mohegan Sun Arena,False,False
+401104993,2019-07-07,2019,New York Liberty,Las Vegas Aces,58,90,Las Vegas Aces,148,32,Westchester County Center,False,False
+401104994,2019-07-07,2019,Los Angeles Sparks,Washington Mystics,98,81,Los Angeles Sparks,179,17,crypto.com Arena,False,False
+401104995,2019-07-07,2019,Chicago Sky,Dallas Wings,78,66,Chicago Sky,144,12,Wintrust Arena,False,False
+401104996,2019-07-07,2019,Phoenix Mercury,Atlanta Dream,65,63,Phoenix Mercury,128,2,Mortgage Matchup Center,False,False
+401104997,2019-07-09,2019,Dallas Wings,Los Angeles Sparks,74,62,Dallas Wings,136,12,College Park Center,False,False
+401104998,2019-07-10,2019,Atlanta Dream,Connecticut Sun,78,75,Atlanta Dream,153,3,State Farm Arena,False,False
+401104999,2019-07-10,2019,Washington Mystics,Phoenix Mercury,68,91,Phoenix Mercury,159,23,Capital One Arena,False,False
+401105000,2019-07-10,2019,Indiana Fever,Las Vegas Aces,71,74,Las Vegas Aces,145,3,Gainbridge Fieldhouse,False,False
+401105001,2019-07-11,2019,Chicago Sky,Minnesota Lynx,72,73,Minnesota Lynx,145,1,Wintrust Arena,False,False
+401105002,2019-07-12,2019,Indiana Fever,Los Angeles Sparks,84,90,Los Angeles Sparks,174,6,Gainbridge Fieldhouse,False,False
+401105003,2019-07-12,2019,Atlanta Dream,Minnesota Lynx,60,53,Atlanta Dream,113,7,State Farm Arena,False,False
+401105004,2019-07-13,2019,Connecticut Sun,Phoenix Mercury,79,64,Connecticut Sun,143,15,Mohegan Sun Arena,False,False
+401105005,2019-07-13,2019,Chicago Sky,New York Liberty,99,83,Chicago Sky,182,16,Wintrust Arena,False,False
+401105006,2019-07-13,2019,Seattle Storm,Dallas Wings,95,81,Seattle Storm,176,14,Alaska Airlines Arena,False,False
+401105007,2019-07-13,2019,Washington Mystics,Las Vegas Aces,81,85,Las Vegas Aces,166,4,CareFirst Arena,False,False
+401105008,2019-07-14,2019,Atlanta Dream,Los Angeles Sparks,71,76,Los Angeles Sparks,147,5,State Farm Arena,False,False
+401105009,2019-07-14,2019,Indiana Fever,Connecticut Sun,63,76,Connecticut Sun,139,13,Gainbridge Fieldhouse,False,False
+401105010,2019-07-14,2019,Dallas Wings,Chicago Sky,79,89,Chicago Sky,168,10,College Park Center,False,False
+401105011,2019-07-14,2019,Minnesota Lynx,Phoenix Mercury,75,62,Minnesota Lynx,137,13,Target Center,False,False
+401105012,2019-07-14,2019,Seattle Storm,New York Liberty,78,69,Seattle Storm,147,9,Alaska Airlines Arena,False,False
+401105013,2019-07-17,2019,Chicago Sky,Atlanta Dream,77,76,Chicago Sky,153,1,Wintrust Arena,False,False
+401105014,2019-07-17,2019,Phoenix Mercury,Dallas Wings,69,64,Phoenix Mercury,133,5,Mortgage Matchup Center,False,False
+401105015,2019-07-18,2019,Minnesota Lynx,Seattle Storm,79,90,Seattle Storm,169,11,Target Center,False,False
+401105016,2019-07-18,2019,Los Angeles Sparks,Dallas Wings,69,64,Los Angeles Sparks,133,5,crypto.com Arena,False,False
+401105017,2019-07-19,2019,Indiana Fever,Washington Mystics,88,95,Washington Mystics,183,7,Gainbridge Fieldhouse,False,False
+401105018,2019-07-19,2019,Connecticut Sun,Atlanta Dream,98,69,Connecticut Sun,167,29,Mohegan Sun Arena,False,False
+401105019,2019-07-20,2019,Seattle Storm,Las Vegas Aces,69,66,Seattle Storm,135,3,Alaska Airlines Arena,False,False
+401105020,2019-07-20,2019,New York Liberty,Los Angeles Sparks,83,78,New York Liberty,161,5,Westchester County Center,False,False
+401105021,2019-07-21,2019,Dallas Wings,Phoenix Mercury,66,70,Phoenix Mercury,136,4,College Park Center,False,False
+401105022,2019-07-21,2019,Washington Mystics,Atlanta Dream,93,65,Washington Mystics,158,28,CareFirst Arena,False,False
+401105023,2019-07-21,2019,Chicago Sky,Indiana Fever,78,70,Chicago Sky,148,8,Wintrust Arena,False,False
+401105024,2019-07-21,2019,Las Vegas Aces,Minnesota Lynx,79,74,Las Vegas Aces,153,5,Michelob ULTRA Arena,False,False
+401105025,2019-07-23,2019,Atlanta Dream,Los Angeles Sparks,66,78,Los Angeles Sparks,144,12,State Farm Arena,False,False
+401105026,2019-07-24,2019,Las Vegas Aces,Seattle Storm,79,62,Las Vegas Aces,141,17,Michelob ULTRA Arena,False,False
+401105027,2019-07-24,2019,Phoenix Mercury,Indiana Fever,95,77,Phoenix Mercury,172,18,Mortgage Matchup Center,False,False
+401105028,2019-07-24,2019,Connecticut Sun,New York Liberty,70,63,Connecticut Sun,133,7,Mohegan Sun Arena,False,False
+401105029,2019-07-24,2019,Minnesota Lynx,Washington Mystics,71,79,Washington Mystics,150,8,Target Center,False,False
+401151757,2019-07-27,2019,Team Wilson,Team Delle Donne,129,126,Team Wilson,255,3,Michelob ULTRA Arena,True,False
+401105030,2019-07-30,2019,Connecticut Sun,Chicago Sky,100,94,Connecticut Sun,194,6,Mohegan Sun Arena,False,False
+401105031,2019-07-30,2019,Washington Mystics,Phoenix Mercury,99,93,Washington Mystics,192,6,CareFirst Arena,False,False
+401105032,2019-07-31,2019,Las Vegas Aces,Dallas Wings,86,54,Las Vegas Aces,140,32,Michelob ULTRA Arena,False,False
+401105033,2019-07-31,2019,Indiana Fever,Atlanta Dream,61,59,Indiana Fever,120,2,Gainbridge Fieldhouse,False,False
+401105034,2019-08-01,2019,Connecticut Sun,Phoenix Mercury,68,62,Connecticut Sun,130,6,Mohegan Sun Arena,False,False
+401105035,2019-08-02,2019,Dallas Wings,New York Liberty,87,64,Dallas Wings,151,23,College Park Center,False,False
+401105036,2019-08-02,2019,Los Angeles Sparks,Las Vegas Aces,76,68,Los Angeles Sparks,144,8,crypto.com Arena,False,False
+401105037,2019-08-03,2019,Seattle Storm,Washington Mystics,79,99,Washington Mystics,178,20,Angel of the Winds Arena,False,False
+401105038,2019-08-03,2019,Atlanta Dream,Chicago Sky,75,87,Chicago Sky,162,12,State Farm Arena,False,False
+401105039,2019-08-03,2019,Indiana Fever,Minnesota Lynx,86,75,Indiana Fever,161,11,Gainbridge Fieldhouse,False,False
+401105040,2019-08-04,2019,Dallas Wings,Las Vegas Aces,70,75,Las Vegas Aces,145,5,College Park Center,False,False
+401105041,2019-08-04,2019,New York Liberty,Connecticut Sun,79,94,Connecticut Sun,173,15,Westchester County Center,False,False
+401105042,2019-08-04,2019,Los Angeles Sparks,Seattle Storm,83,75,Los Angeles Sparks,158,8,crypto.com Arena,False,False
+401105043,2019-08-04,2019,Phoenix Mercury,Washington Mystics,103,82,Phoenix Mercury,185,21,Mortgage Matchup Center,False,False
+401156333,2019-08-06,2019,Las Vegas Aces,Washington Mystics,70,99,Washington Mystics,169,29,T-Mobile Arena,False,False
+401105044,2019-08-06,2019,Atlanta Dream,Minnesota Lynx,69,85,Minnesota Lynx,154,16,State Farm Arena,False,False
+401105045,2019-08-08,2019,Chicago Sky,New York Liberty,101,92,Chicago Sky,193,9,Wintrust Arena,False,False
+401105046,2019-08-08,2019,Washington Mystics,Indiana Fever,91,78,Washington Mystics,169,13,CareFirst Arena,False,False
+401105047,2019-08-09,2019,Los Angeles Sparks,Phoenix Mercury,84,74,Los Angeles Sparks,158,10,crypto.com Arena,False,False
+401105048,2019-08-09,2019,Seattle Storm,Dallas Wings,69,57,Seattle Storm,126,12,Angel of the Winds Arena,False,False
+401105049,2019-08-10,2019,Minnesota Lynx,Connecticut Sun,89,57,Minnesota Lynx,146,32,Target Center,False,False
+401105050,2019-08-10,2019,Las Vegas Aces,Chicago Sky,84,87,Chicago Sky,171,3,Michelob ULTRA Arena,False,False
+401105051,2019-08-10,2019,Indiana Fever,Atlanta Dream,87,82,Indiana Fever,169,5,Gainbridge Fieldhouse,False,False
+401105052,2019-08-11,2019,Phoenix Mercury,Dallas Wings,77,80,Dallas Wings,157,3,Mortgage Matchup Center,False,False
+401105053,2019-08-11,2019,New York Liberty,Seattle Storm,69,84,Seattle Storm,153,15,Barclays Center,False,False
+401105054,2019-08-11,2019,Washington Mystics,Minnesota Lynx,101,78,Washington Mystics,179,23,CareFirst Arena,False,False
+401105055,2019-08-11,2019,Los Angeles Sparks,Chicago Sky,84,81,Los Angeles Sparks,165,3,crypto.com Arena,False,False
+401105056,2019-08-11,2019,Las Vegas Aces,Connecticut Sun,89,81,Las Vegas Aces,170,8,Michelob ULTRA Arena,False,False
+401105057,2019-08-13,2019,New York Liberty,Minnesota Lynx,73,89,Minnesota Lynx,162,16,Westchester County Center,False,False
+401105058,2019-08-14,2019,Las Vegas Aces,Atlanta Dream,94,90,Las Vegas Aces,184,4,Michelob ULTRA Arena,False,False
+401105059,2019-08-15,2019,Washington Mystics,Seattle Storm,88,59,Washington Mystics,147,29,CareFirst Arena,False,False
+401105060,2019-08-15,2019,Dallas Wings,Los Angeles Sparks,84,78,Dallas Wings,162,6,College Park Center,False,False
+401105061,2019-08-15,2019,Phoenix Mercury,Connecticut Sun,71,78,Connecticut Sun,149,7,Mortgage Matchup Center,False,False
+401105062,2019-08-16,2019,Connecticut Sun,Seattle Storm,79,78,Connecticut Sun,157,1,Mohegan Sun Arena,False,False
+401105063,2019-08-17,2019,Chicago Sky,Los Angeles Sparks,91,81,Chicago Sky,172,10,Wintrust Arena,False,False
+401105064,2019-08-17,2019,Dallas Wings,New York Liberty,83,77,Dallas Wings,160,6,College Park Center,False,False
+401105065,2019-08-17,2019,Minnesota Lynx,Washington Mystics,79,86,Washington Mystics,165,7,Target Center,False,False
+401105066,2019-08-17,2019,Phoenix Mercury,Atlanta Dream,77,68,Phoenix Mercury,145,9,Mortgage Matchup Center,False,False
+401105067,2019-08-18,2019,Connecticut Sun,Dallas Wings,78,68,Connecticut Sun,146,10,Mohegan Sun Arena,False,False
+401105068,2019-08-18,2019,Washington Mystics,Indiana Fever,107,68,Washington Mystics,175,39,CareFirst Arena,False,False
+401105069,2019-08-18,2019,Chicago Sky,Las Vegas Aces,85,100,Las Vegas Aces,185,15,Wintrust Arena,False,False
+401105070,2019-08-18,2019,Phoenix Mercury,New York Liberty,78,72,Phoenix Mercury,150,6,Mortgage Matchup Center,False,False
+401105071,2019-08-18,2019,Seattle Storm,Minnesota Lynx,82,74,Seattle Storm,156,8,Alaska Airlines Arena,False,False
+401105072,2019-08-20,2019,Atlanta Dream,Chicago Sky,83,87,Chicago Sky,170,4,State Farm Arena,False,False
+401105073,2019-08-20,2019,Indiana Fever,New York Liberty,76,82,New York Liberty,158,6,Gainbridge Fieldhouse,False,False
+401105074,2019-08-21,2019,Las Vegas Aces,Phoenix Mercury,84,79,Las Vegas Aces,163,5,Michelob ULTRA Arena,False,False
+401105075,2019-08-21,2019,Los Angeles Sparks,Minnesota Lynx,81,71,Los Angeles Sparks,152,10,crypto.com Arena,False,False
+401105076,2019-08-23,2019,Minnesota Lynx,Dallas Wings,86,70,Minnesota Lynx,156,16,Target Center,False,False
+401105077,2019-08-23,2019,Los Angeles Sparks,Indiana Fever,98,65,Los Angeles Sparks,163,33,crypto.com Arena,False,False
+401105078,2019-08-23,2019,Connecticut Sun,Las Vegas Aces,89,85,Connecticut Sun,174,4,Mohegan Sun Arena,False,False
+401105079,2019-08-23,2019,New York Liberty,Atlanta Dream,87,90,Atlanta Dream,177,3,Westchester County Center,False,False
+401105080,2019-08-24,2019,Chicago Sky,Washington Mystics,85,78,Chicago Sky,163,7,Wintrust Arena,False,False
+401105081,2019-08-25,2019,Washington Mystics,New York Liberty,101,72,Washington Mystics,173,29,CareFirst Arena,False,False
+401105082,2019-08-25,2019,Dallas Wings,Atlanta Dream,73,77,Atlanta Dream,150,4,College Park Center,False,False
+401105083,2019-08-25,2019,Los Angeles Sparks,Connecticut Sun,84,72,Los Angeles Sparks,156,12,crypto.com Arena,False,False
+401105084,2019-08-25,2019,Phoenix Mercury,Chicago Sky,86,94,Chicago Sky,180,8,Mortgage Matchup Center,False,False
+401105085,2019-08-25,2019,Minnesota Lynx,Las Vegas Aces,98,77,Minnesota Lynx,175,21,Target Center,False,False
+401105086,2019-08-25,2019,Seattle Storm,Indiana Fever,54,63,Indiana Fever,117,9,Alaska Airlines Arena,False,False
+401105087,2019-08-27,2019,Indiana Fever,Las Vegas Aces,86,71,Indiana Fever,157,15,Gainbridge Fieldhouse,False,False
+401105088,2019-08-27,2019,New York Liberty,Phoenix Mercury,82,95,Phoenix Mercury,177,13,Westchester County Center,False,False
+401105089,2019-08-27,2019,Washington Mystics,Los Angeles Sparks,95,66,Washington Mystics,161,29,CareFirst Arena,False,False
+401105090,2019-08-28,2019,Minnesota Lynx,Chicago Sky,93,85,Minnesota Lynx,178,8,Target Center,False,False
+401105091,2019-08-28,2019,Seattle Storm,Connecticut Sun,70,89,Connecticut Sun,159,19,Alaska Airlines Arena,False,False
+401105092,2019-08-29,2019,Indiana Fever,Los Angeles Sparks,83,87,Los Angeles Sparks,170,4,Gainbridge Fieldhouse,False,False
+401105094,2019-08-29,2019,Atlanta Dream,Phoenix Mercury,58,65,Phoenix Mercury,123,7,State Farm Arena,False,False
+401105093,2019-08-30,2019,Chicago Sky,Dallas Wings,83,88,Dallas Wings,171,5,Wintrust Arena,False,False
+401105095,2019-08-30,2019,New York Liberty,Connecticut Sun,84,94,Connecticut Sun,178,10,Westchester County Center,False,False
+401105096,2019-09-01,2019,Dallas Wings,Washington Mystics,85,91,Washington Mystics,176,6,College Park Center,False,False
+401105097,2019-09-01,2019,Las Vegas Aces,Los Angeles Sparks,92,86,Las Vegas Aces,178,6,Michelob ULTRA Arena,False,False
+401105098,2019-09-01,2019,Chicago Sky,Phoenix Mercury,105,78,Chicago Sky,183,27,Wintrust Arena,False,False
+401105099,2019-09-01,2019,Minnesota Lynx,Indiana Fever,81,73,Minnesota Lynx,154,8,Target Center,False,False
+401105100,2019-09-01,2019,Seattle Storm,Atlanta Dream,92,75,Seattle Storm,167,17,Alaska Airlines Arena,False,False
+401105101,2019-09-03,2019,New York Liberty,Washington Mystics,77,93,Washington Mystics,170,16,Westchester County Center,False,False
+401105102,2019-09-04,2019,Phoenix Mercury,Seattle Storm,70,82,Seattle Storm,152,12,Mortgage Matchup Center,False,False
+401105103,2019-09-04,2019,Los Angeles Sparks,Atlanta Dream,70,60,Los Angeles Sparks,130,10,crypto.com Arena,False,False
+401105104,2019-09-04,2019,Connecticut Sun,Dallas Wings,102,72,Connecticut Sun,174,30,Mohegan Sun Arena,False,False
+401105105,2019-09-05,2019,Atlanta Dream,Las Vegas Aces,78,74,Atlanta Dream,152,4,State Farm Arena,False,False
+401105106,2019-09-06,2019,Los Angeles Sparks,Seattle Storm,102,68,Los Angeles Sparks,170,34,crypto.com Arena,False,False
+401105107,2019-09-06,2019,Washington Mystics,Dallas Wings,86,73,Washington Mystics,159,13,CareFirst Arena,False,False
+401105109,2019-09-06,2019,New York Liberty,Indiana Fever,81,86,Indiana Fever,167,5,Westchester County Center,False,False
+401105108,2019-09-06,2019,Connecticut Sun,Chicago Sky,104,109,Chicago Sky,213,5,Mohegan Sun Arena,False,False
+401105110,2019-09-07,2019,Phoenix Mercury,Minnesota Lynx,69,83,Minnesota Lynx,152,14,Mortgage Matchup Center,False,False
+401105111,2019-09-08,2019,Atlanta Dream,New York Liberty,63,71,New York Liberty,134,8,State Farm Arena,False,False
+401105112,2019-09-08,2019,Indiana Fever,Connecticut Sun,104,76,Indiana Fever,180,28,Gainbridge Fieldhouse,False,False
+401105113,2019-09-08,2019,Washington Mystics,Chicago Sky,100,86,Washington Mystics,186,14,CareFirst Arena,False,False
+401105114,2019-09-08,2019,Dallas Wings,Seattle Storm,64,78,Seattle Storm,142,14,College Park Center,False,False
+401105115,2019-09-08,2019,Phoenix Mercury,Las Vegas Aces,89,98,Las Vegas Aces,187,9,Mortgage Matchup Center,False,False
+401105116,2019-09-08,2019,Los Angeles Sparks,Minnesota Lynx,77,68,Los Angeles Sparks,145,9,crypto.com Arena,False,False
+401165793,2019-09-12,2019,Chicago Sky,Phoenix Mercury,105,76,Chicago Sky,181,29,Wintrust Arena,False,False
+401165794,2019-09-12,2019,Seattle Storm,Minnesota Lynx,84,74,Seattle Storm,158,10,Angel of the Winds Arena,False,False
+401165795,2019-09-15,2019,Los Angeles Sparks,Seattle Storm,92,69,Los Angeles Sparks,161,23,crypto.com Arena,False,False
+401165796,2019-09-15,2019,Las Vegas Aces,Chicago Sky,93,92,Las Vegas Aces,185,1,Thomas & Mack Center,False,False
+401165802,2019-09-17,2019,Connecticut Sun,Los Angeles Sparks,84,75,Connecticut Sun,159,9,Mohegan Sun Arena,False,False
+401165797,2019-09-18,2019,Washington Mystics,Las Vegas Aces,97,95,Washington Mystics,192,2,CareFirst Arena,False,False
+401165803,2019-09-19,2019,Connecticut Sun,Los Angeles Sparks,94,68,Connecticut Sun,162,26,Mohegan Sun Arena,False,False
+401165798,2019-09-20,2019,Washington Mystics,Las Vegas Aces,103,91,Washington Mystics,194,12,CareFirst Arena,False,False
+401165887,2019-09-22,2019,Las Vegas Aces,Washington Mystics,92,75,Las Vegas Aces,167,17,Michelob ULTRA Arena,False,False
+401165892,2019-09-22,2019,Los Angeles Sparks,Connecticut Sun,56,78,Connecticut Sun,134,22,Walter Pyramid,False,False
+401165888,2019-09-25,2019,Las Vegas Aces,Washington Mystics,90,94,Washington Mystics,184,4,Michelob ULTRA Arena,False,False
+401165807,2019-09-29,2019,Washington Mystics,Connecticut Sun,95,86,Washington Mystics,181,9,CareFirst Arena,False,False
+401165808,2019-10-02,2019,Washington Mystics,Connecticut Sun,87,99,Connecticut Sun,186,12,CareFirst Arena,False,False
+401165809,2019-10-06,2019,Connecticut Sun,Washington Mystics,81,94,Washington Mystics,175,13,Mohegan Sun Arena,False,False
+401165810,2019-10-09,2019,Connecticut Sun,Washington Mystics,90,86,Connecticut Sun,176,4,Mohegan Sun Arena,False,False
+401165811,2019-10-11,2019,Washington Mystics,Connecticut Sun,89,78,Washington Mystics,167,11,CareFirst Arena,False,False

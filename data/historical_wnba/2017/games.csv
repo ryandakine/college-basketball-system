@@ -1,0 +1,233 @@
+game_id,date,season,home_team,away_team,home_score,away_score,winner,total_points,point_diff,venue,neutral_site,conference_game
+400949827,2017-05-02,2017,Indiana Fever,Washington Mystics,67,87,Washington Mystics,154,20,Corteva Coliseum,False,False
+400949828,2017-05-02,2017,New York Liberty,Los Angeles Sparks,81,65,New York Liberty,146,16,Mohegan Sun Arena,True,False
+400949829,2017-05-02,2017,Connecticut Sun,Chicago Sky,81,72,Connecticut Sun,153,9,Mohegan Sun Arena,False,False
+400949830,2017-05-03,2017,Seattle Storm,Phoenix Mercury,86,64,Seattle Storm,150,22,KeyArena,False,False
+400949831,2017-05-03,2017,New York Liberty,Chicago Sky,75,86,Chicago Sky,161,11,Mohegan Sun Arena,True,False
+400949832,2017-05-03,2017,Connecticut Sun,Los Angeles Sparks,79,62,Connecticut Sun,141,17,Mohegan Sun Arena,False,False
+400949808,2017-05-06,2017,Minnesota Lynx,Atlanta Dream,113,67,Minnesota Lynx,180,46,Grand Casino Arena,False,False
+400949809,2017-05-06,2017,Los Angeles Sparks,San Antonio Stars,73,59,Los Angeles Sparks,132,14,Hutto-Patterson Gymnasium,False,False
+400949810,2017-05-07,2017,Dallas Wings,Indiana Fever,80,75,Dallas Wings,155,5,College Park Center,False,False
+400949811,2017-05-07,2017,New York Liberty,Connecticut Sun,57,79,Connecticut Sun,136,22,Levien Gymnasium,True,False
+400949812,2017-05-07,2017,Phoenix Mercury,Seattle Storm,72,55,Phoenix Mercury,127,17,Mortgage Matchup Center,False,False
+400949813,2017-05-08,2017,Washington Mystics,Minnesota Lynx,59,74,Minnesota Lynx,133,15,Capital One Arena,False,False
+400927392,2017-05-13,2017,New York Liberty,San Antonio Stars,73,64,New York Liberty,137,9,Madison Square Garden,False,False
+400927393,2017-05-13,2017,Los Angeles Sparks,Seattle Storm,78,68,Los Angeles Sparks,146,10,crypto.com Arena,False,False
+400927394,2017-05-13,2017,Connecticut Sun,Atlanta Dream,74,81,Atlanta Dream,155,7,Mohegan Sun Arena,False,False
+400927395,2017-05-14,2017,Washington Mystics,San Antonio Stars,89,74,Washington Mystics,163,15,Capital One Arena,False,False
+400927396,2017-05-14,2017,Phoenix Mercury,Dallas Wings,58,68,Dallas Wings,126,10,Mortgage Matchup Center,False,False
+400927397,2017-05-14,2017,Seattle Storm,Indiana Fever,87,82,Seattle Storm,169,5,KeyArena,False,False
+400927398,2017-05-14,2017,Minnesota Lynx,Chicago Sky,70,61,Minnesota Lynx,131,9,Grand Casino Arena,False,False
+400927399,2017-05-18,2017,Phoenix Mercury,Indiana Fever,85,62,Phoenix Mercury,147,23,Mortgage Matchup Center,False,False
+400927400,2017-05-18,2017,New York Liberty,Minnesota Lynx,71,90,Minnesota Lynx,161,19,Madison Square Garden,False,False
+400927401,2017-05-20,2017,San Antonio Stars,Phoenix Mercury,72,78,Phoenix Mercury,150,6,Frost Bank Center,False,False
+400927402,2017-05-20,2017,Chicago Sky,Atlanta Dream,83,91,Atlanta Dream,174,8,Allstate Arena,False,False
+400927403,2017-05-20,2017,Los Angeles Sparks,Washington Mystics,99,89,Los Angeles Sparks,188,10,crypto.com Arena,False,False
+400927404,2017-05-20,2017,Indiana Fever,Connecticut Sun,81,79,Indiana Fever,160,2,Gainbridge Fieldhouse,False,False
+400927405,2017-05-21,2017,Dallas Wings,Minnesota Lynx,87,89,Minnesota Lynx,176,2,College Park Center,False,False
+400927406,2017-05-21,2017,Atlanta Dream,Chicago Sky,71,75,Chicago Sky,146,4,McCamish Pavilion,False,False
+400927407,2017-05-21,2017,Seattle Storm,Washington Mystics,81,71,Seattle Storm,152,10,KeyArena,False,False
+400927408,2017-05-24,2017,Minnesota Lynx,Connecticut Sun,80,78,Minnesota Lynx,158,2,Grand Casino Arena,False,False
+400927409,2017-05-24,2017,Phoenix Mercury,New York Liberty,67,69,New York Liberty,136,2,Mortgage Matchup Center,False,False
+400927410,2017-05-24,2017,Chicago Sky,Washington Mystics,67,82,Washington Mystics,149,15,Allstate Arena,False,False
+400927411,2017-05-24,2017,Indiana Fever,Los Angeles Sparks,93,90,Indiana Fever,183,3,Gainbridge Fieldhouse,False,False
+400927412,2017-05-25,2017,San Antonio Stars,Dallas Wings,82,94,Dallas Wings,176,12,Frost Bank Center,False,False
+400927413,2017-05-26,2017,Connecticut Sun,Minnesota Lynx,68,82,Minnesota Lynx,150,14,Mohegan Sun Arena,False,False
+400927414,2017-05-26,2017,Washington Mystics,Chicago Sky,88,79,Washington Mystics,167,9,Capital One Arena,False,False
+400927415,2017-05-27,2017,Seattle Storm,New York Liberty,87,81,Seattle Storm,168,6,KeyArena,False,False
+400927416,2017-05-27,2017,Atlanta Dream,Los Angeles Sparks,75,73,Atlanta Dream,148,2,McCamish Pavilion,False,False
+400927417,2017-05-28,2017,Phoenix Mercury,Dallas Wings,107,65,Phoenix Mercury,172,42,Mortgage Matchup Center,False,False
+400927418,2017-05-28,2017,Chicago Sky,Connecticut Sun,79,97,Connecticut Sun,176,18,Allstate Arena,False,False
+400927419,2017-05-28,2017,Seattle Storm,Indiana Fever,94,70,Seattle Storm,164,24,KeyArena,False,False
+400927420,2017-05-28,2017,Minnesota Lynx,San Antonio Stars,80,66,Minnesota Lynx,146,14,Grand Casino Arena,False,False
+400927421,2017-05-30,2017,New York Liberty,Los Angeles Sparks,75,90,Los Angeles Sparks,165,15,Madison Square Garden,False,False
+400927422,2017-05-31,2017,Dallas Wings,Indiana Fever,89,62,Dallas Wings,151,27,College Park Center,False,False
+400927423,2017-05-31,2017,Washington Mystics,Connecticut Sun,78,76,Washington Mystics,154,2,Capital One Arena,False,False
+400927424,2017-05-31,2017,Atlanta Dream,San Antonio Stars,77,70,Atlanta Dream,147,7,McCamish Pavilion,False,False
+400927425,2017-06-02,2017,Chicago Sky,Phoenix Mercury,91,99,Phoenix Mercury,190,8,Allstate Arena,False,False
+400927426,2017-06-02,2017,New York Liberty,Dallas Wings,93,89,New York Liberty,182,4,Madison Square Garden,False,False
+400927427,2017-06-03,2017,Indiana Fever,Dallas Wings,91,85,Indiana Fever,176,6,Gainbridge Fieldhouse,False,False
+400927428,2017-06-04,2017,San Antonio Stars,Connecticut Sun,77,85,Connecticut Sun,162,8,Frost Bank Center,False,False
+400927429,2017-06-04,2017,Seattle Storm,Minnesota Lynx,77,100,Minnesota Lynx,177,23,KeyArena,False,False
+400927430,2017-06-04,2017,New York Liberty,Phoenix Mercury,88,72,New York Liberty,160,16,Madison Square Garden,False,False
+400927431,2017-06-04,2017,Washington Mystics,Atlanta Dream,78,72,Washington Mystics,150,6,Capital One Arena,False,False
+400927432,2017-06-07,2017,Dallas Wings,Washington Mystics,89,101,Washington Mystics,190,12,College Park Center,False,False
+400927433,2017-06-07,2017,San Antonio Stars,Seattle Storm,76,85,Seattle Storm,161,9,Frost Bank Center,False,False
+400927434,2017-06-07,2017,Los Angeles Sparks,Chicago Sky,79,70,Los Angeles Sparks,149,9,crypto.com Arena,False,False
+400927435,2017-06-07,2017,New York Liberty,Atlanta Dream,76,61,New York Liberty,137,15,Madison Square Garden,False,False
+400927436,2017-06-07,2017,Indiana Fever,Phoenix Mercury,90,98,Phoenix Mercury,188,8,Gainbridge Fieldhouse,False,False
+400927437,2017-06-09,2017,Washington Mystics,Minnesota Lynx,73,98,Minnesota Lynx,171,25,Capital One Arena,False,False
+400927438,2017-06-09,2017,Indiana Fever,Seattle Storm,83,80,Indiana Fever,163,3,Gainbridge Fieldhouse,False,False
+400927439,2017-06-10,2017,Dallas Wings,Los Angeles Sparks,96,90,Dallas Wings,186,6,College Park Center,False,False
+400927440,2017-06-10,2017,Connecticut Sun,Atlanta Dream,104,71,Connecticut Sun,175,33,Mohegan Sun Arena,False,False
+400927441,2017-06-11,2017,San Antonio Stars,Chicago Sky,81,85,Chicago Sky,166,4,Frost Bank Center,False,False
+400927442,2017-06-11,2017,Phoenix Mercury,Los Angeles Sparks,87,89,Los Angeles Sparks,176,2,Mortgage Matchup Center,False,False
+400927443,2017-06-11,2017,New York Liberty,Seattle Storm,94,86,New York Liberty,180,8,Madison Square Garden,False,False
+400927444,2017-06-11,2017,Washington Mystics,Indiana Fever,88,70,Washington Mystics,158,18,Capital One Arena,False,False
+400927445,2017-06-11,2017,Dallas Wings,Minnesota Lynx,74,91,Minnesota Lynx,165,17,College Park Center,False,False
+400927446,2017-06-14,2017,Seattle Storm,Atlanta Dream,86,91,Atlanta Dream,177,5,KeyArena,False,False
+400927447,2017-06-14,2017,Los Angeles Sparks,Dallas Wings,97,87,Los Angeles Sparks,184,10,crypto.com Arena,False,False
+400927448,2017-06-14,2017,Connecticut Sun,New York Liberty,96,76,Connecticut Sun,172,20,Mohegan Sun Arena,False,False
+400927449,2017-06-15,2017,Indiana Fever,Atlanta Dream,85,74,Indiana Fever,159,11,Gainbridge Fieldhouse,False,False
+400927450,2017-06-16,2017,Los Angeles Sparks,San Antonio Stars,80,75,Los Angeles Sparks,155,5,crypto.com Arena,False,False
+400927451,2017-06-17,2017,Dallas Wings,New York Liberty,93,102,New York Liberty,195,9,College Park Center,False,False
+400927452,2017-06-17,2017,Phoenix Mercury,Chicago Sky,86,78,Phoenix Mercury,164,8,Mortgage Matchup Center,False,False
+400927453,2017-06-18,2017,Minnesota Lynx,Connecticut Sun,93,98,Connecticut Sun,191,5,Grand Casino Arena,False,False
+400927454,2017-06-18,2017,Washington Mystics,Dallas Wings,83,87,Dallas Wings,170,4,Capital One Arena,False,False
+400927455,2017-06-18,2017,Los Angeles Sparks,Phoenix Mercury,90,59,Los Angeles Sparks,149,31,crypto.com Arena,False,False
+400927456,2017-06-18,2017,Chicago Sky,Indiana Fever,79,91,Indiana Fever,170,12,Allstate Arena,False,False
+400927457,2017-06-18,2017,Seattle Storm,San Antonio Stars,75,57,Seattle Storm,132,18,KeyArena,False,False
+400927458,2017-06-21,2017,Dallas Wings,San Antonio Stars,81,78,Dallas Wings,159,3,College Park Center,False,False
+400927459,2017-06-23,2017,New York Liberty,Connecticut Sun,89,94,Connecticut Sun,183,5,Madison Square Garden,False,False
+400927460,2017-06-23,2017,Atlanta Dream,Chicago Sky,78,82,Chicago Sky,160,4,McCamish Pavilion,False,False
+400927461,2017-06-24,2017,Minnesota Lynx,Washington Mystics,93,76,Minnesota Lynx,169,17,Grand Casino Arena,False,False
+400927462,2017-06-24,2017,San Antonio Stars,Dallas Wings,69,81,Dallas Wings,150,12,Frost Bank Center,False,False
+400927463,2017-06-24,2017,Seattle Storm,Phoenix Mercury,82,85,Phoenix Mercury,167,3,KeyArena,False,False
+400927464,2017-06-24,2017,Indiana Fever,Los Angeles Sparks,73,84,Los Angeles Sparks,157,11,Gainbridge Fieldhouse,False,False
+400927465,2017-06-25,2017,Dallas Wings,Connecticut Sun,96,82,Dallas Wings,178,14,College Park Center,False,False
+400927466,2017-06-25,2017,Chicago Sky,Washington Mystics,63,97,Washington Mystics,160,34,Allstate Arena,False,False
+400927467,2017-06-25,2017,Minnesota Lynx,San Antonio Stars,87,78,Minnesota Lynx,165,9,Grand Casino Arena,False,False
+400927468,2017-06-27,2017,Washington Mystics,Seattle Storm,100,70,Washington Mystics,170,30,Capital One Arena,False,False
+400927469,2017-06-27,2017,Connecticut Sun,Los Angeles Sparks,79,87,Los Angeles Sparks,166,8,Mohegan Sun Arena,False,False
+400927470,2017-06-28,2017,Chicago Sky,Indiana Fever,75,82,Indiana Fever,157,7,Allstate Arena,False,False
+400927471,2017-06-29,2017,Washington Mystics,New York Liberty,67,54,Washington Mystics,121,13,Capital One Arena,False,False
+400927472,2017-06-30,2017,Connecticut Sun,Seattle Storm,96,89,Connecticut Sun,185,7,Mohegan Sun Arena,False,False
+400927473,2017-06-30,2017,Atlanta Dream,Los Angeles Sparks,76,85,Los Angeles Sparks,161,9,McCamish Pavilion,False,False
+400927474,2017-07-01,2017,San Antonio Stars,Chicago Sky,89,82,San Antonio Stars,171,7,Frost Bank Center,False,False
+400927475,2017-07-01,2017,Phoenix Mercury,Minnesota Lynx,83,91,Minnesota Lynx,174,8,Mortgage Matchup Center,False,False
+400927476,2017-07-01,2017,Indiana Fever,Connecticut Sun,85,91,Connecticut Sun,176,6,Gainbridge Fieldhouse,False,False
+400927477,2017-07-02,2017,Dallas Wings,Seattle Storm,69,89,Seattle Storm,158,20,College Park Center,False,False
+400927478,2017-07-02,2017,Los Angeles Sparks,Washington Mystics,76,69,Los Angeles Sparks,145,7,crypto.com Arena,False,False
+400927479,2017-07-02,2017,Atlanta Dream,New York Liberty,81,72,Atlanta Dream,153,9,McCamish Pavilion,False,False
+400927480,2017-07-06,2017,Dallas Wings,Atlanta Dream,94,84,Dallas Wings,178,10,College Park Center,False,False
+400927481,2017-07-06,2017,San Antonio Stars,Connecticut Sun,56,89,Connecticut Sun,145,33,Frost Bank Center,False,False
+400927482,2017-07-06,2017,Phoenix Mercury,Washington Mystics,88,80,Phoenix Mercury,168,8,Mortgage Matchup Center,False,False
+400927483,2017-07-07,2017,Minnesota Lynx,Los Angeles Sparks,88,77,Minnesota Lynx,165,11,Grand Casino Arena,False,False
+400927484,2017-07-07,2017,Seattle Storm,New York Liberty,70,79,New York Liberty,149,9,KeyArena,False,False
+400927485,2017-07-07,2017,Atlanta Dream,Indiana Fever,89,68,Atlanta Dream,157,21,McCamish Pavilion,False,False
+400927486,2017-07-08,2017,San Antonio Stars,Phoenix Mercury,77,92,Phoenix Mercury,169,15,Frost Bank Center,False,False
+400927487,2017-07-08,2017,Connecticut Sun,Washington Mystics,96,92,Connecticut Sun,188,4,Mohegan Sun Arena,False,False
+400927488,2017-07-09,2017,Chicago Sky,Minnesota Lynx,100,76,Chicago Sky,176,24,Allstate Arena,False,False
+400927489,2017-07-09,2017,Seattle Storm,Los Angeles Sparks,81,69,Seattle Storm,150,12,KeyArena,False,False
+400927490,2017-07-09,2017,Atlanta Dream,Dallas Wings,98,78,Atlanta Dream,176,20,McCamish Pavilion,False,False
+400927491,2017-07-09,2017,Phoenix Mercury,New York Liberty,81,69,Phoenix Mercury,150,12,Mortgage Matchup Center,False,False
+400927492,2017-07-12,2017,Indiana Fever,San Antonio Stars,72,79,San Antonio Stars,151,7,Gainbridge Fieldhouse,False,False
+400927493,2017-07-12,2017,Chicago Sky,Dallas Wings,90,84,Chicago Sky,174,6,Allstate Arena,False,False
+400927494,2017-07-12,2017,Seattle Storm,Connecticut Sun,79,83,Connecticut Sun,162,4,KeyArena,False,False
+400927495,2017-07-13,2017,Phoenix Mercury,Atlanta Dream,89,84,Phoenix Mercury,173,5,Mortgage Matchup Center,False,False
+400927496,2017-07-14,2017,Los Angeles Sparks,Connecticut Sun,87,77,Los Angeles Sparks,164,10,crypto.com Arena,False,False
+400927497,2017-07-14,2017,Indiana Fever,Washington Mystics,58,72,Washington Mystics,130,14,Gainbridge Fieldhouse,False,False
+400927498,2017-07-14,2017,New York Liberty,Chicago Sky,68,78,Chicago Sky,146,10,Madison Square Garden,False,False
+400927499,2017-07-15,2017,Phoenix Mercury,Minnesota Lynx,71,88,Minnesota Lynx,159,17,Mortgage Matchup Center,False,False
+400927500,2017-07-16,2017,Seattle Storm,Atlanta Dream,90,84,Seattle Storm,174,6,KeyArena,False,False
+400927501,2017-07-16,2017,Connecticut Sun,San Antonio Stars,89,75,Connecticut Sun,164,14,Mohegan Sun Arena,False,False
+400927502,2017-07-16,2017,New York Liberty,Washington Mystics,85,55,New York Liberty,140,30,Madison Square Garden,False,False
+400927503,2017-07-16,2017,Dallas Wings,Chicago Sky,112,106,Dallas Wings,218,6,College Park Center,False,False
+400927504,2017-07-16,2017,Minnesota Lynx,Phoenix Mercury,81,66,Minnesota Lynx,147,15,Grand Casino Arena,False,False
+400927505,2017-07-18,2017,Los Angeles Sparks,Indiana Fever,80,62,Los Angeles Sparks,142,18,crypto.com Arena,False,False
+400927506,2017-07-18,2017,Atlanta Dream,San Antonio Stars,88,75,Atlanta Dream,163,13,McCamish Pavilion,False,False
+400927507,2017-07-19,2017,Seattle Storm,Chicago Sky,83,94,Chicago Sky,177,11,KeyArena,False,False
+400927508,2017-07-19,2017,New York Liberty,Connecticut Sun,96,80,New York Liberty,176,16,Madison Square Garden,False,False
+400927509,2017-07-19,2017,Washington Mystics,Atlanta Dream,100,96,Washington Mystics,196,4,Capital One Arena,False,False
+400927510,2017-07-19,2017,Minnesota Lynx,Dallas Wings,100,74,Minnesota Lynx,174,26,Grand Casino Arena,False,False
+400927511,2017-07-19,2017,Phoenix Mercury,Indiana Fever,77,84,Indiana Fever,161,7,Mortgage Matchup Center,False,False
+400927512,2017-07-20,2017,Los Angeles Sparks,Chicago Sky,80,82,Chicago Sky,162,2,crypto.com Arena,False,False
+400927513,2017-07-21,2017,San Antonio Stars,Indiana Fever,85,61,San Antonio Stars,146,24,Frost Bank Center,False,False
+400968106,2017-07-22,2017,WEST,EAST,130,121,WEST,251,9,KeyArena,True,False
+400927514,2017-07-25,2017,San Antonio Stars,Washington Mystics,76,85,Washington Mystics,161,9,Frost Bank Center,False,False
+400927515,2017-07-25,2017,Connecticut Sun,Chicago Sky,93,72,Connecticut Sun,165,21,Mohegan Sun Arena,False,False
+400927516,2017-07-25,2017,Atlanta Dream,Phoenix Mercury,99,91,Atlanta Dream,190,8,McCamish Pavilion,False,False
+400927517,2017-07-26,2017,Minnesota Lynx,New York Liberty,76,75,Minnesota Lynx,151,1,Grand Casino Arena,False,False
+400927518,2017-07-26,2017,Dallas Wings,Indiana Fever,84,82,Dallas Wings,166,2,College Park Center,False,False
+400927519,2017-07-26,2017,Los Angeles Sparks,Seattle Storm,68,60,Los Angeles Sparks,128,8,crypto.com Arena,False,False
+400927521,2017-07-28,2017,Indiana Fever,New York Liberty,84,85,New York Liberty,169,1,Gainbridge Fieldhouse,False,False
+400927522,2017-07-28,2017,Atlanta Dream,Minnesota Lynx,80,90,Minnesota Lynx,170,10,McCamish Pavilion,False,False
+400927523,2017-07-29,2017,San Antonio Stars,Los Angeles Sparks,73,85,Los Angeles Sparks,158,12,Frost Bank Center,False,False
+400927524,2017-07-29,2017,Chicago Sky,Phoenix Mercury,80,86,Phoenix Mercury,166,6,Allstate Arena,False,False
+400927525,2017-07-29,2017,Seattle Storm,Dallas Wings,109,93,Seattle Storm,202,16,KeyArena,False,False
+400927526,2017-07-30,2017,Connecticut Sun,Indiana Fever,89,73,Connecticut Sun,162,16,Mohegan Sun Arena,False,False
+400927527,2017-07-30,2017,Atlanta Dream,Washington Mystics,70,77,Washington Mystics,147,7,McCamish Pavilion,False,False
+400927528,2017-07-30,2017,Los Angeles Sparks,Dallas Wings,95,74,Los Angeles Sparks,169,21,crypto.com Arena,False,False
+400927529,2017-07-30,2017,Phoenix Mercury,San Antonio Stars,81,64,Phoenix Mercury,145,17,Mortgage Matchup Center,False,False
+400927530,2017-07-30,2017,Chicago Sky,New York Liberty,82,86,New York Liberty,168,4,Allstate Arena,False,False
+400927531,2017-07-30,2017,Minnesota Lynx,Seattle Storm,93,82,Minnesota Lynx,175,11,Grand Casino Arena,False,False
+400927532,2017-08-02,2017,San Antonio Stars,New York Liberty,93,81,San Antonio Stars,174,12,Frost Bank Center,False,False
+400927533,2017-08-04,2017,Minnesota Lynx,Atlanta Dream,69,54,Minnesota Lynx,123,15,Grand Casino Arena,False,False
+400927534,2017-08-04,2017,Connecticut Sun,Phoenix Mercury,93,92,Connecticut Sun,185,1,Mohegan Sun Arena,False,False
+400927535,2017-08-04,2017,Indiana Fever,Chicago Sky,70,81,Chicago Sky,151,11,Gainbridge Fieldhouse,False,False
+400927536,2017-08-05,2017,Dallas Wings,Seattle Storm,93,80,Dallas Wings,173,13,College Park Center,False,False
+400927537,2017-08-05,2017,San Antonio Stars,Washington Mystics,76,74,San Antonio Stars,150,2,Frost Bank Center,False,False
+400927538,2017-08-05,2017,Los Angeles Sparks,New York Liberty,87,74,Los Angeles Sparks,161,13,crypto.com Arena,False,False
+400927539,2017-08-06,2017,Chicago Sky,Atlanta Dream,91,86,Chicago Sky,177,5,Allstate Arena,False,False
+400927540,2017-08-06,2017,San Antonio Stars,Seattle Storm,87,80,San Antonio Stars,167,7,Frost Bank Center,False,False
+400927541,2017-08-06,2017,Washington Mystics,Phoenix Mercury,85,80,Washington Mystics,165,5,Capital One Arena,False,False
+400927542,2017-08-06,2017,Dallas Wings,Los Angeles Sparks,85,79,Dallas Wings,164,6,College Park Center,False,False
+400927543,2017-08-06,2017,Indiana Fever,Minnesota Lynx,84,82,Indiana Fever,166,2,Gainbridge Fieldhouse,False,False
+400927544,2017-08-08,2017,New York Liberty,Indiana Fever,81,76,New York Liberty,157,5,Madison Square Garden,False,False
+400927545,2017-08-08,2017,Connecticut Sun,Seattle Storm,84,71,Connecticut Sun,155,13,Mohegan Sun Arena,False,False
+400927546,2017-08-08,2017,Atlanta Dream,Minnesota Lynx,72,81,Minnesota Lynx,153,9,McCamish Pavilion,False,False
+400927547,2017-08-11,2017,Chicago Sky,San Antonio Stars,94,74,Chicago Sky,168,20,Allstate Arena,False,False
+400927548,2017-08-11,2017,Dallas Wings,Phoenix Mercury,100,101,Phoenix Mercury,201,1,College Park Center,False,False
+400927549,2017-08-11,2017,Atlanta Dream,New York Liberty,77,83,New York Liberty,160,6,McCamish Pavilion,False,False
+400927550,2017-08-12,2017,Minnesota Lynx,Los Angeles Sparks,64,70,Los Angeles Sparks,134,6,Grand Casino Arena,False,False
+400927551,2017-08-12,2017,Connecticut Sun,Dallas Wings,96,88,Connecticut Sun,184,8,Mohegan Sun Arena,False,False
+400927552,2017-08-12,2017,Washington Mystics,Indiana Fever,100,80,Washington Mystics,180,20,Capital One Arena,False,False
+400927553,2017-08-13,2017,San Antonio Stars,Atlanta Dream,84,68,San Antonio Stars,152,16,Frost Bank Center,False,False
+400927554,2017-08-13,2017,Phoenix Mercury,Seattle Storm,89,98,Seattle Storm,187,9,Mortgage Matchup Center,False,False
+400927555,2017-08-13,2017,New York Liberty,Los Angeles Sparks,83,69,New York Liberty,152,14,Madison Square Garden,False,False
+400927556,2017-08-15,2017,Atlanta Dream,Connecticut Sun,75,96,Connecticut Sun,171,21,McCamish Pavilion,False,False
+400927557,2017-08-16,2017,Washington Mystics,Los Angeles Sparks,62,95,Los Angeles Sparks,157,33,Capital One Arena,False,False
+400927558,2017-08-17,2017,Seattle Storm,Minnesota Lynx,62,61,Seattle Storm,123,1,KeyArena,False,False
+400927559,2017-08-18,2017,Connecticut Sun,New York Liberty,70,82,New York Liberty,152,12,Mohegan Sun Arena,False,False
+400927560,2017-08-18,2017,Washington Mystics,Phoenix Mercury,79,89,Phoenix Mercury,168,10,Capital One Arena,False,False
+400927561,2017-08-19,2017,Minnesota Lynx,Indiana Fever,111,52,Minnesota Lynx,163,59,Grand Casino Arena,False,False
+400927562,2017-08-19,2017,Chicago Sky,Los Angeles Sparks,106,115,Los Angeles Sparks,221,9,Allstate Arena,False,False
+400927563,2017-08-19,2017,Seattle Storm,San Antonio Stars,79,78,Seattle Storm,157,1,KeyArena,False,False
+400927564,2017-08-20,2017,Dallas Wings,Atlanta Dream,90,86,Dallas Wings,176,4,College Park Center,False,False
+400927565,2017-08-20,2017,Connecticut Sun,Phoenix Mercury,94,66,Connecticut Sun,160,28,Mohegan Sun Arena,False,False
+400927566,2017-08-20,2017,New York Liberty,Minnesota Lynx,70,61,New York Liberty,131,9,Madison Square Garden,False,False
+400927567,2017-08-20,2017,Indiana Fever,Washington Mystics,82,87,Washington Mystics,169,5,Gainbridge Fieldhouse,False,False
+400927568,2017-08-20,2017,Chicago Sky,Seattle Storm,66,103,Seattle Storm,169,37,Allstate Arena,False,False
+400927569,2017-08-23,2017,Minnesota Lynx,Phoenix Mercury,105,69,Minnesota Lynx,174,36,Grand Casino Arena,False,False
+400927570,2017-08-23,2017,Los Angeles Sparks,San Antonio Stars,75,55,Los Angeles Sparks,130,20,crypto.com Arena,False,False
+400927571,2017-08-23,2017,Connecticut Sun,Dallas Wings,93,87,Connecticut Sun,180,6,Mohegan Sun Arena,False,False
+400927572,2017-08-23,2017,Atlanta Dream,Seattle Storm,89,83,Atlanta Dream,172,6,McCamish Pavilion,False,False
+400927573,2017-08-23,2017,Indiana Fever,New York Liberty,50,71,New York Liberty,121,21,Gainbridge Fieldhouse,False,False
+400927574,2017-08-25,2017,Phoenix Mercury,Los Angeles Sparks,67,82,Los Angeles Sparks,149,15,Mortgage Matchup Center,False,False
+400927575,2017-08-25,2017,Connecticut Sun,Chicago Sky,83,96,Chicago Sky,179,13,Mohegan Sun Arena,False,False
+400927577,2017-08-25,2017,San Antonio Stars,Minnesota Lynx,70,89,Minnesota Lynx,159,19,Frost Bank Center,False,False
+400927576,2017-08-25,2017,New York Liberty,Washington Mystics,74,66,New York Liberty,140,8,Madison Square Garden,False,False
+400927578,2017-08-26,2017,Atlanta Dream,Indiana Fever,79,74,Atlanta Dream,153,5,McCamish Pavilion,False,False
+400927579,2017-08-26,2017,Washington Mystics,Dallas Wings,78,83,Dallas Wings,161,5,Capital One Arena,False,False
+400927580,2017-08-27,2017,New York Liberty,Chicago Sky,92,62,New York Liberty,154,30,Madison Square Garden,False,False
+400927581,2017-08-27,2017,Los Angeles Sparks,Minnesota Lynx,78,67,Los Angeles Sparks,145,11,crypto.com Arena,False,False
+400927582,2017-08-28,2017,Seattle Storm,Phoenix Mercury,71,75,Phoenix Mercury,146,4,KeyArena,False,False
+400973288,2017-08-29,2017,Washington Mystics,Connecticut Sun,76,86,Connecticut Sun,162,10,Capital One Arena,False,False
+400927583,2017-08-30,2017,Indiana Fever,Minnesota Lynx,69,80,Minnesota Lynx,149,11,Gainbridge Fieldhouse,False,False
+400927584,2017-08-31,2017,Chicago Sky,Dallas Wings,96,99,Dallas Wings,195,3,Allstate Arena,False,False
+400927585,2017-09-01,2017,Washington Mystics,Seattle Storm,110,106,Washington Mystics,216,4,Capital One Arena,False,False
+400927586,2017-09-01,2017,New York Liberty,San Antonio Stars,81,69,New York Liberty,150,12,Madison Square Garden,False,False
+400927587,2017-09-02,2017,Minnesota Lynx,Chicago Sky,110,87,Minnesota Lynx,197,23,Grand Casino Arena,False,False
+400927588,2017-09-02,2017,Phoenix Mercury,Connecticut Sun,86,66,Phoenix Mercury,152,20,Mortgage Matchup Center,False,False
+400927589,2017-09-02,2017,Los Angeles Sparks,Atlanta Dream,81,56,Los Angeles Sparks,137,25,crypto.com Arena,False,False
+400927590,2017-09-02,2017,Indiana Fever,San Antonio Stars,71,75,San Antonio Stars,146,4,Gainbridge Fieldhouse,False,False
+400927591,2017-09-03,2017,Dallas Wings,New York Liberty,81,82,New York Liberty,163,1,College Park Center,False,False
+400927592,2017-09-03,2017,Los Angeles Sparks,Connecticut Sun,81,70,Los Angeles Sparks,151,11,crypto.com Arena,False,False
+400927593,2017-09-03,2017,Phoenix Mercury,Atlanta Dream,84,70,Phoenix Mercury,154,14,Mortgage Matchup Center,False,False
+400927595,2017-09-03,2017,Minnesota Lynx,Washington Mystics,86,72,Minnesota Lynx,158,14,Grand Casino Arena,False,False
+400927594,2017-09-03,2017,Chicago Sky,Seattle Storm,80,85,Seattle Storm,165,5,Allstate Arena,False,False
+400981090,2017-09-07,2017,Washington Mystics,Dallas Wings,86,76,Washington Mystics,162,10,Capital One Arena,False,False
+400981091,2017-09-07,2017,Phoenix Mercury,Seattle Storm,79,69,Phoenix Mercury,148,10,Desert Financial Arena,False,False
+400981092,2017-09-10,2017,Connecticut Sun,Phoenix Mercury,83,88,Phoenix Mercury,171,5,Mohegan Sun Arena,False,False
+400981093,2017-09-10,2017,New York Liberty,Washington Mystics,68,82,Washington Mystics,150,14,Madison Square Garden,False,False
+400981094,2017-09-13,2017,Minnesota Lynx,Washington Mystics,101,81,Minnesota Lynx,182,20,Williams Arena,False,False
+400981099,2017-09-13,2017,Los Angeles Sparks,Phoenix Mercury,79,66,Los Angeles Sparks,145,13,crypto.com Arena,False,False
+400981095,2017-09-15,2017,Minnesota Lynx,Washington Mystics,93,83,Minnesota Lynx,176,10,Williams Arena,False,False
+400981100,2017-09-15,2017,Los Angeles Sparks,Phoenix Mercury,86,72,Los Angeles Sparks,158,14,Walter Pyramid,False,False
+400981096,2017-09-17,2017,Washington Mystics,Minnesota Lynx,70,81,Minnesota Lynx,151,11,Capital One Arena,False,False
+400981101,2017-09-17,2017,Phoenix Mercury,Los Angeles Sparks,87,89,Los Angeles Sparks,176,2,Mortgage Matchup Center,False,False
+400981428,2017-09-24,2017,Minnesota Lynx,Los Angeles Sparks,84,85,Los Angeles Sparks,169,1,Williams Arena,False,False
+400981429,2017-09-27,2017,Minnesota Lynx,Los Angeles Sparks,70,68,Minnesota Lynx,138,2,Williams Arena,False,False
+400981430,2017-09-30,2017,Los Angeles Sparks,Minnesota Lynx,75,64,Los Angeles Sparks,139,11,crypto.com Arena,False,False
+400981431,2017-10-02,2017,Los Angeles Sparks,Minnesota Lynx,69,80,Minnesota Lynx,149,11,crypto.com Arena,False,False
+400981432,2017-10-05,2017,Minnesota Lynx,Los Angeles Sparks,85,76,Minnesota Lynx,161,9,Williams Arena,False,False

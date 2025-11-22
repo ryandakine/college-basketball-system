@@ -44,7 +44,7 @@ class WomensBasketballScraper:
         self.wcbb_dir.mkdir(parents=True, exist_ok=True)
         self.wnba_dir.mkdir(parents=True, exist_ok=True)
 
-        self.request_delay = 1.0
+        self.request_delay = 0.2 # Reduced delay to speed up logging
 
     def scrape_wcbb_season(self, year: int) -> List[Dict]:
         """Scrape Women's College Basketball season"""
@@ -73,6 +73,10 @@ class WomensBasketballScraper:
 
         while current_date <= end_date:
             date_str = current_date.strftime("%Y%m%d")
+
+            # Add progress logging every 30 days to show activity
+            if current_date.day == 1:
+                logger.info(f"Scanning month: {current_date.strftime('%Y-%m')}")
 
             try:
                 url = f"{base_url}/scoreboard?dates={date_str}"
@@ -219,6 +223,13 @@ def main():
         print("\n⚡ Quick scrape (2024 only)\n")
         wcbb = scraper.scrape_wcbb_season(2024)
         wnba = scraper.scrape_wnba_season(2024)
+        
+        # Save data even for quick scrape
+        if wcbb:
+            pd.DataFrame(wcbb).to_csv(scraper.wcbb_dir / 'all_games_wcbb.csv', index=False)
+        if wnba:
+            pd.DataFrame(wnba).to_csv(scraper.wnba_dir / 'all_games_wnba.csv', index=False)
+
         print(f"\nWCBB 2024: {len(wcbb)} games")
         print(f"WNBA 2024: {len(wnba)} games")
 

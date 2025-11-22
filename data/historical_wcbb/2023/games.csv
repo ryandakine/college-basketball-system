@@ -1,0 +1,1061 @@
+game_id,date,season,home_team,away_team,home_score,away_score,winner,total_points,point_diff,venue,neutral_site,conference_game
+401494706,2022-11-08,2023,South Carolina Gamecocks,East Tennessee State Bucs,101,31,South Carolina Gamecocks,132,70,Colonial Life Arena,False,False
+401483583,2022-11-08,2023,Stanford Cardinal,San Diego State Aztecs,86,48,Stanford Cardinal,134,38,Maples Pavilion,False,False
+401483863,2022-11-08,2023,Iowa Hawkeyes,Southern Jaguars,87,34,Iowa Hawkeyes,121,53,Carver-Hawkeye Arena,False,False
+401486274,2022-11-07,2023,Louisville Cardinals,Cincinnati Bearcats,87,68,Louisville Cardinals,155,19,KFC Yum! Center,False,False
+401483552,2022-11-07,2023,Iowa State Cyclones,Cleveland State Vikings,87,54,Iowa State Cyclones,141,33,Hilton Coliseum,False,False
+401480274,2022-11-08,2023,Notre Dame Fighting Irish,Northern Illinois Huskies,88,48,Notre Dame Fighting Irish,136,40,Purcell Pavilion,False,False
+401480209,2022-11-07,2023,NC State Wolfpack,Quinnipiac Bobcats,82,45,NC State Wolfpack,127,37,Reynolds Coliseum,False,False
+401493851,2022-11-07,2023,Virginia Tech Hokies,Mount St. Mary's Mountaineers,101,45,Virginia Tech Hokies,146,56,Cassell Coliseum,False,False
+401493689,2022-11-07,2023,Oklahoma Sooners,Oral Roberts Golden Eagles,105,94,Oklahoma Sooners,199,11,Lloyd Noble Center,False,False
+401480088,2022-11-08,2023,LSU Tigers,Bellarmine Knights,125,50,LSU Tigers,175,75,Pete Maravich Assembly Center,False,False
+401483869,2022-11-08,2023,George Mason Patriots,Maryland Terrapins,51,88,Maryland Terrapins,139,37,EagleBank Arena,False,False
+401480314,2022-11-08,2023,Baylor Bears,Lamar Cardinals,88,50,Baylor Bears,138,38,Ferrell Center,False,False
+401483903,2022-11-07,2023,Oregon Ducks,Northwestern Wildcats,100,57,Oregon Ducks,157,43,Matthew Knight Arena,False,False
+401485711,2022-11-08,2023,South Dakota State Jackrabbits,Creighton Bluejays,69,78,Creighton Bluejays,147,9,Frost Arena,False,False
+401483896,2022-11-07,2023,Nebraska Cornhuskers,Omaha Mavericks,100,36,Nebraska Cornhuskers,136,64,Pinnacle Bank Arena,False,False
+401486371,2022-11-07,2023,Princeton Tigers,Temple Owls,67,49,Princeton Tigers,116,18,Jadwin Gymnasium,False,False
+401480175,2022-11-09,2023,Ohio State Buckeyes,Tennessee Lady Volunteers,87,75,Ohio State Buckeyes,162,12,Value City Arena,False,False
+401486921,2022-11-09,2023,Indiana Hoosiers,Vermont Catamounts,86,49,Indiana Hoosiers,135,37,Simon Skjodt Assembly Hall,False,False
+401502072,2022-11-10,2023,Stanford Cardinal,Cal State Northridge Matadors,104,40,Stanford Cardinal,144,64,Maples Pavilion,False,False
+401480264,2022-11-10,2023,North Carolina Tar Heels,Jackson State Lady Tigers,91,59,North Carolina Tar Heels,150,32,Carmichael Arena,False,False
+401491425,2022-11-09,2023,Michigan Wolverines,Delaware State Hornets,83,30,Michigan Wolverines,113,53,Crisler Center,False,False
+401483864,2022-11-11,2023,Iowa Hawkeyes,Evansville Purple Aces,115,62,Iowa Hawkeyes,177,53,Carver-Hawkeye Arena,False,False
+401480176,2022-11-10,2023,Tennessee Lady Volunteers,Massachusetts Minutemen,74,65,Tennessee Lady Volunteers,139,9,Food City Center,False,False
+401484359,2022-11-11,2023,UConn Huskies,Northeastern Huskies,98,39,UConn Huskies,137,59,Gampel Pavilion,False,False
+401486275,2022-11-11,2023,Louisville Cardinals,IU Indianapolis Jaguars,84,62,Louisville Cardinals,146,22,KFC Yum! Center,False,False
+401483553,2022-11-11,2023,Iowa State Cyclones,Southern Jaguars,79,55,Iowa State Cyclones,134,24,Hilton Coliseum,False,False
+401480210,2022-11-11,2023,NC State Wolfpack,Elon Phoenix,89,55,NC State Wolfpack,144,34,Reynolds Coliseum,False,False
+401480315,2022-11-11,2023,Baylor Bears,Incarnate Word Cardinals,71,42,Baylor Bears,113,29,Ferrell Center,False,False
+401483816,2022-11-11,2023,Arizona Wildcats,Northern Arizona Lumberjacks,113,56,Arizona Wildcats,169,57,McKale Memorial Center,False,False
+401485712,2022-11-11,2023,South Dakota Coyotes,Creighton Bluejays,51,74,Creighton Bluejays,125,23,Sanford Coyote Sports Center,False,False
+401479987,2022-11-11,2023,Maryland Terrapins,South Carolina Gamecocks,56,81,South Carolina Gamecocks,137,25,XFINITY Center,False,False
+401483584,2022-11-12,2023,Pacific Tigers,Stanford Cardinal,44,98,Stanford Cardinal,142,54,Alex G. Spanos Center,False,False
+401494121,2022-11-12,2023,Texas Longhorns,Louisiana Ragin' Cajuns,68,45,Texas Longhorns,113,23,Moody Center,False,False
+401492457,2022-11-12,2023,Indiana Hoosiers,UMass Lowell River Hawks,93,37,Indiana Hoosiers,130,56,Simon Skjodt Assembly Hall,False,False
+401488039,2022-11-12,2023,Virginia Tech Hokies,Bucknell Bison,67,41,Virginia Tech Hokies,108,26,Cassell Coliseum,False,False
+401486351,2022-11-11,2023,Oklahoma Sooners,SMU Mustangs,97,74,Oklahoma Sooners,171,23,Lloyd Noble Center,False,False
+401480089,2022-11-12,2023,LSU Tigers,Mississippi Valley State Devilettes,111,41,LSU Tigers,152,70,Pete Maravich Assembly Center,False,False
+401481289,2022-11-12,2023,Nebraska Cornhuskers,Houston Christian Huskies,79,48,Nebraska Cornhuskers,127,31,Pinnacle Bank Arena,False,False
+401487805,2022-11-12,2023,South Dakota State Jackrabbits,Lehigh Mountain Hawks,91,73,South Dakota State Jackrabbits,164,18,Frost Arena,False,False
+401487500,2022-11-12,2023,Princeton Tigers,Villanova Wildcats,59,69,Villanova Wildcats,128,10,Jadwin Gymnasium,False,False
+401488164,2022-11-12,2023,Michigan Wolverines,Saint Francis Red Flash,91,36,Michigan Wolverines,127,55,Crisler Center,False,False
+401492465,2022-11-12,2023,Notre Dame Fighting Irish,California Golden Bears,90,79,Notre Dame Fighting Irish,169,11,Enterprise Center,True,False
+401480265,2022-11-12,2023,North Carolina Tar Heels,TCU Horned Frogs,75,48,North Carolina Tar Heels,123,27,Carmichael Arena,False,False
+401487916,2022-11-12,2023,Oregon Ducks,Seattle U Redhawks,90,47,Oregon Ducks,137,43,Matthew Knight Arena,False,False
+401483585,2022-11-13,2023,Portland Pilots,Stanford Cardinal,47,87,Stanford Cardinal,134,40,Chiles Center,False,False
+401483865,2022-11-13,2023,Drake Bulldogs,Iowa Hawkeyes,86,92,Iowa Hawkeyes,178,6,Knapp Center,False,False
+401486276,2022-11-13,2023,Belmont Bruins,Louisville Cardinals,70,75,Louisville Cardinals,145,5,Curb Event Center Arena,False,False
+401480211,2022-11-13,2023,NC State Wolfpack,Mount St. Mary's Mountaineers,86,38,NC State Wolfpack,124,48,Reynolds Coliseum,False,False
+401483912,2022-11-13,2023,Boston College Eagles,Ohio State Buckeyes,64,82,Ohio State Buckeyes,146,18,Conte Forum,False,False
+401480090,2022-11-13,2023,LSU Tigers,Western Carolina Catamounts,107,34,LSU Tigers,141,73,Pete Maravich Assembly Center,False,False
+401483890,2022-11-13,2023,Maryland Terrapins,Fordham Rams,83,76,Maryland Terrapins,159,7,XFINITY Center,False,False
+401483817,2022-11-14,2023,Arizona Wildcats,Cal State Northridge Matadors,87,47,Arizona Wildcats,134,40,McKale Memorial Center,False,False
+401484360,2022-11-14,2023,UConn Huskies,Texas Longhorns,83,76,UConn Huskies,159,7,Gampel Pavilion,False,False
+401480177,2022-11-14,2023,Tennessee Lady Volunteers,Indiana Hoosiers,67,79,Indiana Hoosiers,146,12,Food City Center,False,False
+401487799,2022-11-15,2023,Virginia Tech Hokies,South Carolina Upstate Spartans,79,24,Virginia Tech Hokies,103,55,Cassell Coliseum,False,False
+401492491,2022-11-15,2023,BYU Cougars,Oklahoma Sooners,66,77,Oklahoma Sooners,143,11,Marriott Center,False,False
+401480316,2022-11-16,2023,Baylor Bears,SMU Mustangs,58,55,Baylor Bears,113,3,Ferrell Center,False,False
+401483897,2022-11-16,2023,Creighton Bluejays,Nebraska Cornhuskers,77,51,Creighton Bluejays,128,26,D.J. Sokol Arena,False,False
+401483586,2022-11-17,2023,Stanford Cardinal,Cal Poly Mustangs,80,43,Stanford Cardinal,123,37,Maples Pavilion,False,False
+401483554,2022-11-17,2023,Northern Iowa Panthers,Iowa State Cyclones,85,88,Iowa State Cyclones,173,3,McLeod Center,False,False
+401480275,2022-11-17,2023,Northwestern Wildcats,Notre Dame Fighting Irish,58,92,Notre Dame Fighting Irish,150,34,Welsh-Ryan Arena,False,False
+401480212,2022-11-17,2023,NC State Wolfpack,Charlotte 49ers,96,48,NC State Wolfpack,144,48,Reynolds Coliseum,False,False
+401480266,2022-11-16,2023,North Carolina Tar Heels,South Carolina State Lady Bulldogs,93,25,North Carolina Tar Heels,118,68,Carmichael Arena,False,False
+401480091,2022-11-16,2023,LSU Tigers,Houston Christian Huskies,101,47,LSU Tigers,148,54,Pete Maravich Assembly Center,False,False
+401483834,2022-11-17,2023,Utah Utes,Oklahoma Sooners,124,78,Utah Utes,202,46,Jon M. Huntsman Center,False,False
+401483891,2022-11-16,2023,Maryland Terrapins,Davidson Wildcats,70,52,Maryland Terrapins,122,18,XFINITY Center,False,False
+401491396,2022-11-17,2023,Michigan Wolverines,Western Michigan Broncos,99,67,Michigan Wolverines,166,32,Crisler Center,False,False
+401479988,2022-11-17,2023,Clemson Tigers,South Carolina Gamecocks,31,85,South Carolina Gamecocks,116,54,Littlejohn Coliseum,False,False
+401480335,2022-11-18,2023,Kansas State Wildcats,Iowa Hawkeyes,84,83,Kansas State Wildcats,167,1,Bramlage Coliseum,False,False
+401483913,2022-11-18,2023,Ohio Bobcats,Ohio State Buckeyes,56,86,Ohio State Buckeyes,142,30,Convocation Center (OH),False,False
+401491331,2022-11-18,2023,Indiana Hoosiers,Bowling Green Falcons,96,61,Indiana Hoosiers,157,35,Simon Skjodt Assembly Hall,False,False
+401487549,2022-11-18,2023,Pennsylvania Quakers,Villanova Wildcats,41,67,Villanova Wildcats,108,26,The Palestra,False,False
+401483818,2022-11-19,2023,Arizona Wildcats,Loyola Marymount Lions,87,51,Arizona Wildcats,138,36,McKale Memorial Center,False,False
+401483898,2022-11-19,2023,Drake Bulldogs,Nebraska Cornhuskers,80,62,Drake Bulldogs,142,18,Knapp Center,False,False
+401479989,2022-11-20,2023,Stanford Cardinal,South Carolina Gamecocks,71,76,South Carolina Gamecocks,147,5,Maples Pavilion,False,False
+401483866,2022-11-20,2023,Iowa Hawkeyes,Belmont Bruins,73,62,Iowa Hawkeyes,135,11,Carver-Hawkeye Arena,False,False
+401480213,2022-11-20,2023,UConn Huskies,NC State Wolfpack,91,69,UConn Huskies,160,22,PeoplesBank Arena,False,False
+401483555,2022-11-20,2023,Iowa State Cyclones,Columbia Lions,99,76,Iowa State Cyclones,175,23,Hilton Coliseum,False,False
+401481366,2022-11-20,2023,Ohio State Buckeyes,McNeese Cowgirls,99,43,Ohio State Buckeyes,142,56,Value City Arena,False,False
+401480276,2022-11-20,2023,Notre Dame Fighting Irish,Ball State Cardinals,95,60,Notre Dame Fighting Irish,155,35,Purcell Pavilion,False,False
+401488772,2022-11-20,2023,Indiana Hoosiers,Quinnipiac Bobcats,92,55,Indiana Hoosiers,147,37,Simon Skjodt Assembly Hall,False,False
+401480267,2022-11-20,2023,James Madison Dukes,North Carolina Tar Heels,65,76,North Carolina Tar Heels,141,11,Atlantic Union Bank Center,False,False
+401480092,2022-11-20,2023,LSU Tigers,Northwestern State Lady Demons,100,45,LSU Tigers,145,55,Pete Maravich Assembly Center,False,False
+401480317,2022-11-20,2023,Baylor Bears,Maryland Terrapins,68,73,Maryland Terrapins,141,5,Ferrell Center,False,False
+401483819,2022-11-20,2023,Arizona Wildcats,Long Beach State Beach,86,64,Arizona Wildcats,150,22,McKale Memorial Center,False,False
+401485713,2022-11-20,2023,Northern Iowa Panthers,Creighton Bluejays,66,85,Creighton Bluejays,151,19,McLeod Center,False,False
+401488735,2022-11-20,2023,Fairfield Stags,Michigan Wolverines,53,69,Michigan Wolverines,122,16,Leo D. Mahoney Arena,False,False
+401486373,2022-11-20,2023,Temple Owls,Villanova Wildcats,71,74,Villanova Wildcats,145,3,Liacouras Center,False,False
+401494327,2022-11-22,2023,Oregon Ducks,Southern Utah Thunderbirds,66,54,Oregon Ducks,120,12,Matthew Knight Arena,False,False
+401480030,2022-11-23,2023,Cal Poly Mustangs,South Carolina Gamecocks,36,79,South Carolina Gamecocks,115,43,Mott Athletics Center,False,False
+401485714,2022-11-23,2023,Omaha Mavericks,Creighton Bluejays,71,93,Creighton Bluejays,164,22,Baxter Arena,False,False
+401483914,2022-11-23,2023,Ohio State Buckeyes,Wright State Raiders,105,52,Ohio State Buckeyes,157,53,Value City Arena,False,False
+401480241,2022-11-24,2023,Florida State Seminoles,Oklahoma State Cowgirls,77,79,Oklahoma State Cowgirls,156,2,Hard Rock Hotel Riviera Maya,True,False
+401480081,2022-11-24,2023,Georgia Lady Bulldogs,Wisconsin Badgers,68,60,Georgia Lady Bulldogs,128,8,UVI Sports & Fitness Center,True,False
+401483934,2022-11-24,2023,Harvard Crimson,Purdue Boilermakers,63,85,Purdue Boilermakers,148,22,Hard Rock Hotel Riviera Maya,True,False
+401481437,2022-11-24,2023,Texas A&M-Corpus Christi Islanders,Stony Brook Seawolves,58,63,Stony Brook Seawolves,121,5,Roberto Clemente Coliseum,True,False
+401480093,2022-11-24,2023,George Mason Patriots,LSU Tigers,52,80,LSU Tigers,132,28,Gateway Christian Academy,True,False
+401480068,2022-11-24,2023,Florida Gators,Green Bay Phoenix,61,52,Florida Gators,113,9,McArthur Center,True,False
+401485944,2022-11-24,2023,Seton Hall Pirates,VCU Rams,61,62,VCU Rams,123,1,UVI Sports & Fitness Center,True,False
+401497552,2022-11-24,2023,Stephen F. Austin Ladyjacks,Morgan State Lady Bears,60,36,Stephen F. Austin Ladyjacks,96,24,Roberto Clemente Coliseum,True,False
+401480201,2022-11-24,2023,NC State Wolfpack,Vanderbilt Commodores,82,73,NC State Wolfpack,155,9,Hard Rock Hotel Riviera Maya,True,False
+401480277,2022-11-24,2023,American University Eagles,Notre Dame Fighting Irish,65,90,Notre Dame Fighting Irish,155,25,Gateway Christian Academy,True,False
+401480268,2022-11-24,2023,Oregon Ducks,North Carolina Tar Heels,79,85,North Carolina Tar Heels,164,6,Chiles Center,True,False
+401486344,2022-11-24,2023,Portland Pilots,Houston Cougars,66,60,Portland Pilots,126,6,McArthur Center,True,False
+401480043,2022-11-24,2023,Arkansas Razorbacks,Northern Arizona Lumberjacks,82,73,Arkansas Razorbacks,155,9,UVI Sports & Fitness Center,True,False
+401491347,2022-11-24,2023,Central Michigan Chippewas,West Virginia Mountaineers,33,64,West Virginia Mountaineers,97,31,Hard Rock Hotel Riviera Maya,True,False
+401483556,2022-11-25,2023,Michigan State Spartans,Iowa State Cyclones,49,80,Iowa State Cyclones,129,31,Chiles Center,True,False
+401480221,2022-11-25,2023,Clemson Tigers,Kansas State Wildcats,38,76,Kansas State Wildcats,114,38,UVI Sports & Fitness Center,True,False
+401486386,2022-11-25,2023,Northern Iowa Panthers,Tulane Green Wave,82,60,Northern Iowa Panthers,142,22,Hard Rock Hotel Riviera Maya,True,False
+401486277,2022-11-25,2023,Louisville Cardinals,Longwood Lancers,100,37,Louisville Cardinals,137,63,KFC Yum! Center,False,False
+401487071,2022-11-25,2023,Xavier Musketeers,Creighton Bluejays,51,57,Creighton Bluejays,108,6,Cintas Center,False,True
+401488832,2022-11-25,2023,UCLA Bruins,Jackson State Lady Tigers,72,60,UCLA Bruins,132,12,Pauley Pavilion,False,False
+401494704,2022-11-26,2023,Tennessee Lady Volunteers,Colorado Buffaloes,69,51,Tennessee Lady Volunteers,120,18,Food City Center,False,False
+401497532,2022-11-26,2023,Saint Louis Billikens,Belmont Bruins,68,78,Belmont Bruins,146,10,Hertz Arena,True,False
+401487507,2022-11-26,2023,High Point Panthers,Georgetown Hoyas,60,67,Georgetown Hoyas,127,7,Roberto Clemente Coliseum,True,False
+401483925,2022-11-26,2023,Fresno State Bulldogs,Penn State Lady Lions,49,68,Penn State Lady Lions,117,19,Ocean Center,True,False
+401480243,2022-11-26,2023,Florida State Seminoles,Harvard Crimson,88,57,Florida State Seminoles,145,31,Hard Rock Hotel Riviera Maya,True,False
+401483893,2022-11-26,2023,Towson Tigers,Maryland Terrapins,70,81,Maryland Terrapins,151,11,Suncoast Credit Union Arena,True,False
+401495105,2022-11-26,2023,Lehigh Mountain Hawks,Southern Illinois Salukis,81,87,Southern Illinois Salukis,168,6,Stabler Arena,False,False
+401487774,2022-11-26,2023,Arkansas State Red Wolves,Kansas City Roos,79,68,Arkansas State Red Wolves,147,11,First National Bank Arena,False,False
+401486926,2022-11-26,2023,Vermont Catamounts,Stonehill Skyhawks,70,48,Vermont Catamounts,118,22,Patrick Gymnasium,False,False
+401486826,2022-11-26,2023,Central Arkansas Sugar Bears,Hendrix College Warriors,65,54,Central Arkansas Sugar Bears,119,11,Farris Center,False,False
+401486039,2022-11-26,2023,Rhode Island Rams,Southeast Missouri State Redhawks,66,49,Rhode Island Rams,115,17,Addition Financial Arena,True,False
+401480069,2022-11-26,2023,Houston Cougars,Florida Gators,73,77,Florida Gators,150,4,McArthur Center,True,False
+401494291,2022-11-26,2023,Chattanooga Mocs,King (TN) Tornado,62,47,Chattanooga Mocs,109,15,McKenzie Arena,False,False
+401493127,2022-11-26,2023,Bryant Bulldogs,Hartford Hawks,74,46,Bryant Bulldogs,120,28,Alumni Hall (RI),True,False
+401491515,2022-11-26,2023,Alabama A&M Bulldogs,Murray State Racers,36,57,Murray State Racers,93,21,T.M. Elmore Gymnasium,False,False
+401491386,2022-11-26,2023,Indiana State Sycamores,Ohio Bobcats,62,74,Ohio Bobcats,136,12,Hulman Center,False,False
+401488652,2022-11-26,2023,Robert Morris Colonials,Canisius Golden Griffins,62,52,Robert Morris Colonials,114,10,UPMC Events Center,False,False
+401487867,2022-11-26,2023,Georgia State Panthers,Bellarmine Knights,66,52,Georgia State Panthers,118,14,Wolstein Center,True,False
+401483950,2022-11-26,2023,Wisconsin Badgers,VCU Rams,67,75,VCU Rams,142,8,UVI Sports & Fitness Center,True,False
+401487927,2022-11-26,2023,Toledo Rockets,UT Arlington Mavericks,80,70,Toledo Rockets,150,10,Ocean Center,True,False
+401497533,2022-11-26,2023,Air Force Falcons,Georgia Tech Yellow Jackets,59,65,Georgia Tech Yellow Jackets,124,6,Hertz Arena,True,False
+401488098,2022-11-26,2023,Navy Midshipmen,Northern Illinois Huskies,50,87,Northern Illinois Huskies,137,37,Alumni Hall (Navy),False,False
+401480350,2022-11-26,2023,Oklahoma State Cowgirls,Purdue Boilermakers,65,71,Purdue Boilermakers,136,6,Hard Rock Hotel Riviera Maya,True,False
+401480108,2022-11-26,2023,Nebraska Cornhuskers,Mississippi State Bulldogs,73,65,Nebraska Cornhuskers,138,8,Roberto Clemente Coliseum,True,False
+401497538,2022-11-26,2023,UAlbany Great Danes,East Tennessee State Bucs,44,48,East Tennessee State Bucs,92,4,Cox Pavilion,True,False
+401497466,2022-11-26,2023,LSU Tigers,UAB Blazers,99,64,LSU Tigers,163,35,Gateway Christian Academy,True,False
+401493827,2022-11-26,2023,Virginia Cavaliers,Minnesota Golden Gophers,73,70,Virginia Cavaliers,143,3,John Paul Jones Arena,False,False
+401492983,2022-11-26,2023,Southern Utah Thunderbirds,UC Santa Barbara Gauchos,96,102,UC Santa Barbara Gauchos,198,6,America First Events Center,False,False
+401492896,2022-11-26,2023,UCF Knights,Samford Bulldogs,79,74,UCF Knights,153,5,Addition Financial Arena,False,False
+401491512,2022-11-26,2023,Missouri State Bears,Middle Tennessee Blue Raiders,54,79,Middle Tennessee Blue Raiders,133,25,The Mirage,True,False
+401491362,2022-11-26,2023,Evansville Purple Aces,Miami (OH) RedHawks,97,72,Evansville Purple Aces,169,25,Meeks Family Fieldhouse,False,False
+401488751,2022-11-26,2023,Manhattan Jaspers,North Dakota Fighting Hawks,59,65,North Dakota Fighting Hawks,124,6,Global Credit Union Arena,True,False
+401488077,2022-11-26,2023,Loyola Maryland Greyhounds,Delaware State Hornets,60,51,Loyola Maryland Greyhounds,111,9,Reitz Arena,False,False
+401487764,2022-11-26,2023,Denver Pioneers,New Mexico State Aggies,60,51,Denver Pioneers,111,9,Hamilton Gymnasium,False,False
+401487742,2022-11-26,2023,Morehead State Eagles,Presbyterian Blue Hose,59,54,Morehead State Eagles,113,5,Ellis T. Johnson Arena,False,False
+401486886,2022-11-26,2023,Butler Bulldogs,Binghamton Bearcats,78,51,Butler Bulldogs,129,27,Eleanor R. Baldwin Arena,True,False
+401486875,2022-11-26,2023,Queens University Royals,Toccoa Falls Eagles,57,34,Queens University Royals,91,23,Curry Arena,False,False
+401485999,2022-11-26,2023,South Dakota Coyotes,Fordham Rams,65,78,Fordham Rams,143,13,Orleans Arena,True,False
+401481405,2022-11-26,2023,Northwestern State Lady Demons,Arkansas Baptist Buffaloes,79,41,Northwestern State Lady Demons,120,38,Prather Coliseum,False,False
+401480288,2022-11-26,2023,DePaul Blue Demons,Pittsburgh Panthers,74,59,DePaul Blue Demons,133,15,Suncoast Credit Union Arena,True,False
+401488773,2022-11-26,2023,Kent State Golden Flashes,Quinnipiac Bobcats,58,55,Kent State Golden Flashes,113,3,Stabler Arena,True,False
+401487975,2022-11-26,2023,Northeastern Huskies,Portland Pilots,41,67,Portland Pilots,108,26,McArthur Center,True,False
+401497542,2022-11-26,2023,UNLV Lady Rebels,George Washington Revolutionaries,73,63,UNLV Lady Rebels,136,10,Thomas & Mack Center,False,False
+401494087,2022-11-26,2023,Siena Saints,Oakland Golden Grizzlies,78,71,Siena Saints,149,7,Patrick Gymnasium,True,False
+401492488,2022-11-26,2023,Wagner Seahawks,Hofstra Pride,76,68,Wagner Seahawks,144,8,Spiro Sports Center,False,False
+401491755,2022-11-26,2023,Sacramento State Hornets,UTEP Miners,63,50,Sacramento State Hornets,113,13,Mott Athletics Center,True,False
+401486896,2022-11-26,2023,Niagara Purple Eagles,Maine Black Bears,57,73,Maine Black Bears,130,16,University Credit Union Pavilion,True,False
+401486414,2022-11-26,2023,South Carolina State Lady Bulldogs,Tulsa Golden Hurricane,57,92,Tulsa Golden Hurricane,149,35,The Sobrato Center,True,False
+401486353,2022-11-26,2023,Oral Roberts Golden Eagles,SMU Mustangs,55,72,SMU Mustangs,127,17,Mabee Center,False,False
+401485936,2022-11-26,2023,Providence Friars,Weber State Wildcats,62,55,Providence Friars,117,7,Alumni Hall (RI),False,False
+401481452,2022-11-26,2023,East Texas A&M Lions,New Mexico Lobos,71,78,New Mexico Lobos,149,7,The Field House,False,False
+401480083,2022-11-26,2023,Georgia Lady Bulldogs,Seton Hall Pirates,80,86,Seton Hall Pirates,166,6,UVI Sports & Fitness Center,True,False
+401483859,2022-11-26,2023,Delaware Blue Hens,Illinois Fighting Illini,83,80,Delaware Blue Hens,163,3,Ocean Center,True,False
+401494354,2022-11-26,2023,Utah Tech Trailblazers,La Verne Leopards,112,61,Utah Tech Trailblazers,173,51,Burns Arena,False,False
+401493759,2022-11-26,2023,Mississippi Valley State Devilettes,Nicholls Colonels,74,84,Nicholls Colonels,158,10,Reed Green Coliseum,True,False
+401492943,2022-11-26,2023,Northern Colorado Bears,Adams State Grizzlies,67,61,Northern Colorado Bears,128,6,Bank of Colorado Arena,False,False
+401492773,2022-11-26,2023,Cleveland State Vikings,St. Bonaventure Bonnies,64,40,Cleveland State Vikings,104,24,Wolstein Center,False,False
+401491544,2022-11-26,2023,UC Davis Aggies,Wyoming Cowgirls,48,67,Wyoming Cowgirls,115,19,Alex G. Spanos Center,True,False
+401491539,2022-11-26,2023,USC Trojans,Utah State Aggies,79,48,USC Trojans,127,31,Galen Center,False,False
+401491324,2022-11-26,2023,BYU Cougars,Ball State Cardinals,56,61,Ball State Cardinals,117,5,Marriott Center,False,False
+401488154,2022-11-26,2023,Florida Atlantic Owls,Sacred Heart Pioneers,68,66,Florida Atlantic Owls,134,2,Eleanor R. Baldwin Arena,False,False
+401486049,2022-11-26,2023,Idaho Vandals,Richmond Spiders,49,80,Richmond Spiders,129,31,Alumni Hall (Navy),True,False
+401497467,2022-11-26,2023,Arizona State Sun Devils,Notre Dame Fighting Irish,65,85,Notre Dame Fighting Irish,150,20,Gateway Christian Academy,True,False
+401491932,2022-11-26,2023,St. John's Red Storm,UTSA Roadrunners,69,64,St. John's Red Storm,133,5,The Mirage,True,False
+401497539,2022-11-26,2023,Stetson Hatters,UC San Diego Tritons,48,53,UC San Diego Tritons,101,5,Cox Pavilion,True,False
+401495447,2022-11-26,2023,Washington Huskies,Santa Clara Broncos,58,71,Santa Clara Broncos,129,13,Orleans Arena,True,False
+401487909,2022-11-26,2023,Grand Canyon Lopes,Lindenwood Lions,97,46,Grand Canyon Lopes,143,51,Global Credit Union Arena,False,False
+401481291,2022-11-26,2023,Yale Bulldogs,Houston Christian Huskies,61,68,Houston Christian Huskies,129,7,Hamilton Gymnasium,True,False
+401497530,2022-11-26,2023,Baylor Bears,Villanova Wildcats,75,70,Baylor Bears,145,5,Hertz Arena,True,False
+401488123,2022-11-26,2023,UC Riverside Highlanders,Long Island University Sharks,49,47,UC Riverside Highlanders,96,2,SRC Arena,False,False
+401487938,2022-11-26,2023,Portland State Vikings,Utah Valley Wolverines,73,55,Portland State Vikings,128,18,Viking Pavilion,False,False
+401487899,2022-11-26,2023,California Baptist Lancers,Idaho State Bengals,55,61,Idaho State Bengals,116,6,Jenny Craig Pavilion,True,False
+401486108,2022-11-26,2023,Boston College Eagles,Stephen F. Austin Ladyjacks,53,67,Stephen F. Austin Ladyjacks,120,14,Roberto Clemente Coliseum,True,False
+401483588,2022-11-26,2023,Stanford Cardinal,Grambling Lady Tigers,87,50,Stanford Cardinal,137,37,Stan Sheriff Center,True,False
+401483534,2022-11-26,2023,East Carolina Pirates,Liberty Flames,72,64,East Carolina Pirates,136,8,John Paul Jones Arena,True,False
+401497543,2022-11-26,2023,Louisiana Tech Lady Techsters,Illinois State Redbirds,53,70,Illinois State Redbirds,123,17,Thomas & Mack Center,True,False
+401491507,2022-11-26,2023,Cal Poly Mustangs,San José State Spartans,62,53,Cal Poly Mustangs,115,9,Mott Athletics Center,False,False
+401480327,2022-11-26,2023,Saint Mary's Gaels,Kansas Jayhawks,53,73,Kansas Jayhawks,126,20,University Credit Union Pavilion,False,False
+401480222,2022-11-26,2023,Northern Arizona Lumberjacks,Clemson Tigers,62,80,Clemson Tigers,142,18,UVI Sports & Fitness Center,True,False
+401486324,2022-11-26,2023,Charlotte 49ers,Cincinnati Bearcats,59,58,Charlotte 49ers,117,1,Ocean Center,True,False
+401481342,2022-11-26,2023,Southern Miss Lady Eagles,Lamar Cardinals,56,48,Southern Miss Lady Eagles,104,8,Reed Green Coliseum,False,False
+401497956,2022-11-26,2023,San Francisco Dons,Long Beach State Beach,74,50,San Francisco Dons,124,24,The Sobrato Center,False,False
+401480056,2022-11-26,2023,Colorado State Rams,Auburn Tigers,73,74,Auburn Tigers,147,1,The Mirage,True,False
+401492802,2022-11-27,2023,Furman Paladins,Charleston Southern Buccaneers,71,58,Furman Paladins,129,13,Timmons Arena,False,False
+401492467,2022-11-27,2023,California Golden Bears,Montana Lady Griz,65,44,California Golden Bears,109,21,Gersten Pavilion,True,False
+401488159,2022-11-27,2023,Youngstown State Penguins,St. Francis Brooklyn Terriers,70,41,Youngstown State Penguins,111,29,Beeghly Center,False,False
+401483821,2022-11-27,2023,San Diego Toreros,Arizona Wildcats,60,86,Arizona Wildcats,146,26,Jenny Craig Pavilion,False,False
+401497531,2022-11-27,2023,Michigan Wolverines,South Florida Bulls,63,58,Michigan Wolverines,121,5,Hertz Arena,True,False
+401486836,2022-11-27,2023,Hawai'i Rainbow Wahine,Florida Gulf Coast Eagles,50,63,Florida Gulf Coast Eagles,113,13,Stan Sheriff Center,False,False
+401480045,2022-11-27,2023,Arkansas Razorbacks,Kansas State Wildcats,69,53,Arkansas Razorbacks,122,16,UVI Sports & Fitness Center,True,False
+401486426,2022-11-27,2023,Loyola Marymount Lions,Wichita State Shockers,57,69,Wichita State Shockers,126,12,Gersten Pavilion,False,False
+401492459,2022-11-27,2023,Indiana Hoosiers,Memphis Tigers,79,64,Indiana Hoosiers,143,15,The Mirage,True,False
+401492808,2022-11-27,2023,Mercer Bears,Texas Tech Lady Raiders,66,78,Texas Tech Lady Raiders,144,12,The Mirage,True,False
+401480031,2022-11-27,2023,South Carolina Gamecocks,Hampton Lady Pirates,85,38,South Carolina Gamecocks,123,47,Colonial Life Arena,False,False
+401483915,2022-11-27,2023,Ohio State Buckeyes,North Alabama Lions,105,67,Ohio State Buckeyes,172,38,Value City Arena,False,False
+401487732,2022-11-27,2023,Virginia Tech Hokies,Longwood Lancers,89,28,Virginia Tech Hokies,117,61,Cassell Coliseum,False,False
+401493095,2022-11-27,2023,Texas Longhorns,Princeton Tigers,74,50,Texas Longhorns,124,24,Moody Center,False,False
+401480178,2022-11-27,2023,Tennessee Lady Volunteers,Eastern Kentucky Colonels,105,71,Tennessee Lady Volunteers,176,34,Food City Center,False,False
+401486897,2022-11-29,2023,Gonzaga Bulldogs,Maine Black Bears,62,43,Gonzaga Bulldogs,105,19,McCarthey Athletic Center,False,False
+401480032,2022-11-30,2023,South Carolina Gamecocks,UCLA Bruins,73,64,South Carolina Gamecocks,137,9,Colonial Life Arena,False,False
+401483557,2022-11-30,2023,Iowa State Cyclones,SIU Edwardsville Cougars,93,43,Iowa State Cyclones,136,50,Hilton Coliseum,False,False
+401480095,2022-11-30,2023,LSU Tigers,SE Louisiana Lady Lions,63,55,LSU Tigers,118,8,Pete Maravich Assembly Center,False,False
+401483810,2022-12-01,2023,Stanford Cardinal,Santa Clara Broncos,82,69,Stanford Cardinal,151,13,Maples Pavilion,False,False
+401487947,2022-12-01,2023,Stephen F. Austin Ladyjacks,Gonzaga Bulldogs,59,71,Gonzaga Bulldogs,130,12,William R. Johnson Coliseum,False,False
+401487072,2022-12-03,2023,UConn Huskies,Providence Friars,98,53,UConn Huskies,151,45,Gampel Pavilion,False,True
+401487073,2022-12-03,2023,Villanova Wildcats,Creighton Bluejays,46,67,Creighton Bluejays,113,21,Finneran Pavilion,False,True
+401486366,2022-12-03,2023,Texas Longhorns,South Florida Bulls,65,70,South Florida Bulls,135,5,Moody Center,False,False
+401487076,2022-12-02,2023,Georgetown Hoyas,Marquette Golden Eagles,57,78,Marquette Golden Eagles,135,21,McDonough Arena,False,True
+401480033,2022-12-03,2023,South Carolina Gamecocks,Memphis Tigers,79,54,South Carolina Gamecocks,133,25,Colonial Life Arena,False,False
+401488833,2022-12-04,2023,UC Santa Barbara Gauchos,UCLA Bruins,57,68,UCLA Bruins,125,11,The Thunderdome,False,False
+401487977,2022-12-03,2023,Oregon Ducks,Portland Pilots,90,51,Oregon Ducks,141,39,Matthew Knight Arena,False,False
+401483811,2022-12-04,2023,Stanford Cardinal,Gonzaga Bulldogs,84,63,Stanford Cardinal,147,21,Maples Pavilion,False,False
+401484659,2022-12-04,2023,Rutgers Scarlet Knights,Ohio State Buckeyes,70,82,Ohio State Buckeyes,152,12,Jersey Mike’s Arena,False,True
+401484655,2022-12-04,2023,Indiana Hoosiers,Illinois Fighting Illini,65,61,Indiana Hoosiers,126,4,Simon Skjodt Assembly Hall,False,True
+401484656,2022-12-04,2023,Wisconsin Badgers,Iowa Hawkeyes,71,102,Iowa Hawkeyes,173,31,Kohl Center,False,True
+401480096,2022-12-04,2023,Tulane Green Wave,LSU Tigers,72,85,LSU Tigers,157,13,Devlin Fieldhouse,False,False
+401487081,2022-12-04,2023,St. John's Red Storm,Creighton Bluejays,66,62,St. John's Red Storm,128,4,Carnesecca Arena,False,True
+401483822,2022-12-04,2023,New Mexico Lobos,Arizona Wildcats,60,77,Arizona Wildcats,137,17,The Pit,False,False
+401484658,2022-12-04,2023,Michigan Wolverines,Northwestern Wildcats,77,66,Michigan Wolverines,143,11,Crisler Center,False,True
+401486278,2022-12-04,2023,Middle Tennessee Blue Raiders,Louisville Cardinals,67,49,Middle Tennessee Blue Raiders,116,18,Murphy Center,False,False
+401484657,2022-12-04,2023,Maryland Terrapins,Nebraska Cornhuskers,67,90,Nebraska Cornhuskers,157,23,XFINITY Center,False,True
+401480319,2022-12-04,2023,Baylor Bears,Houston Christian Huskies,79,35,Baylor Bears,114,44,Ferrell Center,False,False
+401495461,2022-12-04,2023,Texas Longhorns,Southern Jaguars,92,43,Texas Longhorns,135,49,Moody Center,False,False
+401487078,2022-12-04,2023,Seton Hall Pirates,Marquette Golden Eagles,82,78,Seton Hall Pirates,160,4,Walsh Gymnasium,False,True
+401487077,2022-12-04,2023,Providence Friars,Villanova Wildcats,54,79,Villanova Wildcats,133,25,Alumni Hall (RI),False,True
+401480085,2022-12-06,2023,Georgia Lady Bulldogs,NC State Wolfpack,54,65,NC State Wolfpack,119,11,Stegeman Coliseum,False,False
+401486878,2022-12-07,2023,Gonzaga Bulldogs,Queens University Royals,73,49,Gonzaga Bulldogs,122,24,McCarthey Athletic Center,False,False
+401487501,2022-12-07,2023,Villanova Wildcats,American University Eagles,83,42,Villanova Wildcats,125,41,Finneran Pavilion,False,False
+401488845,2022-12-07,2023,Boston College Eagles,Virginia Tech Hokies,58,73,Virginia Tech Hokies,131,15,Conte Forum,False,True
+401480270,2022-12-07,2023,North Carolina Tar Heels,UNC Wilmington Seahawks,64,42,North Carolina Tar Heels,106,22,Carmichael Arena,False,False
+401483558,2022-12-08,2023,Iowa Hawkeyes,Iowa State Cyclones,70,57,Iowa Hawkeyes,127,13,Carver-Hawkeye Arena,False,False
+401480340,2022-12-08,2023,Kansas State Wildcats,Kansas City Roos,72,45,Kansas State Wildcats,117,27,Bramlage Coliseum,False,False
+401483917,2022-12-08,2023,Ohio State Buckeyes,New Hampshire Wildcats,92,36,Ohio State Buckeyes,128,56,Value City Arena,False,False
+401484663,2022-12-09,2023,Penn State Lady Lions,Indiana Hoosiers,58,67,Indiana Hoosiers,125,9,Bryce Jordan Center,False,True
+401484361,2022-12-09,2023,UConn Huskies,Princeton Tigers,69,64,UConn Huskies,133,5,Gampel Pavilion,False,False
+401480329,2022-12-09,2023,Arizona Wildcats,Kansas Jayhawks,50,77,Kansas Jayhawks,127,27,McKale Memorial Center,False,False
+401491393,2022-12-09,2023,Michigan Wolverines,Toledo Rockets,68,71,Toledo Rockets,139,3,Crisler Center,False,False
+401484664,2022-12-08,2023,Purdue Boilermakers,Maryland Terrapins,74,77,Maryland Terrapins,151,3,Mackey Arena,False,True
+401480048,2022-12-09,2023,Arkansas Razorbacks,Lamar Cardinals,63,50,Arkansas Razorbacks,113,13,Bud Walton Arena,False,False
+401494301,2022-12-09,2023,Georgia Southern Eagles,Chicago State Cougars,93,71,Georgia Southern Eagles,164,22,Hanner Fieldhouse,False,False
+401485945,2022-12-09,2023,Seton Hall Pirates,Rider Broncs,78,40,Seton Hall Pirates,118,38,Walsh Gymnasium,False,False
+401480159,2022-12-09,2023,Missouri Tigers,Omaha Mavericks,83,36,Missouri Tigers,119,47,Mizzou Arena,False,False
+401494310,2022-12-09,2023,Marshall Thundering Herd,Wright State Raiders,72,47,Marshall Thundering Herd,119,25,Cam Henderson Center,False,False
+401488752,2022-12-09,2023,George Washington Revolutionaries,Manhattan Jaspers,68,56,George Washington Revolutionaries,124,12,Charles E. Smith Center,False,False
+401495462,2022-12-10,2023,Southern Jaguars,Spring Hill Badgers,84,54,Southern Jaguars,138,30,F.G. Clark Activity Center,False,False
+401487827,2022-12-10,2023,Western Illinois Leathernecks,Valparaiso Beacons,83,67,Western Illinois Leathernecks,150,16,Western Hall,False,False
+401487508,2022-12-10,2023,Fairleigh Dickinson Knights,Georgetown Hoyas,60,74,Georgetown Hoyas,134,14,Bogota Savings Bank Center,False,False
+401486891,2022-12-10,2023,St. Bonaventure Bonnies,Binghamton Bearcats,50,48,St. Bonaventure Bonnies,98,2,Reilly Center,False,False
+401486868,2022-12-10,2023,North Florida Ospreys,Trinity Baptist Eagles,112,38,North Florida Ospreys,150,74,UNF Arena,False,False
+401485960,2022-12-10,2023,Xavier Musketeers,Cincinnati Bearcats,48,35,Xavier Musketeers,83,13,Cintas Center,False,False
+401480362,2022-12-10,2023,TCU Horned Frogs,Missouri State Bears,59,63,Missouri State Bears,122,4,Schollmaier Arena,False,False
+401480281,2022-12-10,2023,Notre Dame Fighting Irish,Merrimack Warriors,108,44,Notre Dame Fighting Irish,152,64,Purcell Pavilion,False,False
+401488834,2022-12-11,2023,UCLA Bruins,Cal State Fullerton Titans,64,41,UCLA Bruins,105,23,Pauley Pavilion,False,False
+401483837,2022-12-11,2023,BYU Cougars,Utah Utes,59,76,Utah Utes,135,17,Marriott Center,False,False
+401484665,2022-12-11,2023,Iowa Hawkeyes,Minnesota Golden Gophers,87,64,Iowa Hawkeyes,151,23,Carver-Hawkeye Arena,False,True
+401485715,2022-12-11,2023,Creighton Bluejays,Drake Bulldogs,75,71,Creighton Bluejays,146,4,D.J. Sokol Arena,False,False
+401480341,2022-12-10,2023,Kansas State Wildcats,South Dakota State Jackrabbits,78,82,South Dakota State Jackrabbits,160,4,Municipal Auditorium (MO),True,False
+401486064,2022-12-10,2023,Villanova Wildcats,Saint Joseph's Hawks,82,59,Villanova Wildcats,141,23,Finneran Pavilion,False,False
+401480034,2022-12-11,2023,South Carolina Gamecocks,Liberty Flames,88,39,South Carolina Gamecocks,127,49,Colonial Life Arena,False,False
+401484666,2022-12-11,2023,Ohio State Buckeyes,Michigan State Spartans,74,68,Ohio State Buckeyes,142,6,Value City Arena,False,True
+401487844,2022-12-11,2023,Virginia Tech Hokies,UNC Asheville Bulldogs,86,48,Virginia Tech Hokies,134,38,Cassell Coliseum,False,False
+401480271,2022-12-11,2023,North Carolina Tar Heels,Wofford Terriers,99,67,North Carolina Tar Heels,166,32,Carmichael Arena,False,False
+401480216,2022-12-11,2023,NC State Wolfpack,South Florida Bulls,65,57,NC State Wolfpack,122,8,Reynolds Coliseum,False,False
+401483559,2022-12-11,2023,Iowa State Cyclones,Jacksonville Dolphins,84,50,Iowa State Cyclones,134,34,Hilton Coliseum,False,False
+401488839,2022-12-12,2023,Oregon Ducks,Oregon State Beavers,75,67,Oregon Ducks,142,8,Matthew Knight Arena,False,True
+401480049,2022-12-11,2023,Arkansas Razorbacks,Arkansas State Red Wolves,77,63,Arkansas Razorbacks,140,14,Bud Walton Arena,False,False
+401487948,2022-12-11,2023,Gonzaga Bulldogs,UC Davis Aggies,73,55,Gonzaga Bulldogs,128,18,McCarthey Athletic Center,False,False
+401492795,2022-12-11,2023,Oklahoma Sooners,Robert Morris Colonials,94,65,Oklahoma Sooners,159,29,Lloyd Noble Center,False,False
+401487803,2022-12-12,2023,South Carolina Upstate Spartans,Morehead State Eagles,64,59,South Carolina Upstate Spartans,123,5,G.B. Hodge Center,False,False
+401485721,2022-12-12,2023,DePaul Blue Demons,Howard Bison,81,56,DePaul Blue Demons,137,25,Wintrust Arena,False,False
+401481319,2022-12-12,2023,Incarnate Word Cardinals,Schreiner Mountaineers,92,41,Incarnate Word Cardinals,133,51,McDermott Center,False,False
+401491479,2022-12-12,2023,Boise State Broncos,Evergreen State Geoducks,97,31,Boise State Broncos,128,66,ExtraMile Arena,False,False
+401492904,2022-12-12,2023,South Carolina State Lady Bulldogs,UNC Greensboro Spartans,64,53,South Carolina State Lady Bulldogs,117,11,Smith-Hammond-Middleton Memorial Center,False,False
+401494055,2022-12-12,2023,Florida A&M Rattlers,Tuskegee Golden Tigers,77,75,Florida A&M Rattlers,152,2,Al Lawson Center,False,False
+401486094,2022-12-12,2023,VCU Rams,Gardner-Webb Runnin' Bulldogs,56,61,Gardner-Webb Runnin' Bulldogs,117,5,Siegel Center,False,False
+401486821,2022-12-12,2023,Bellarmine Knights,Franklin Grizzlies,76,49,Bellarmine Knights,125,27,Freedom Hall (KY),False,False
+401497720,2022-12-13,2023,North Dakota Fighting Hawks,Mayville State Comets,87,66,North Dakota Fighting Hawks,153,21,Betty Engelstad Sioux Center,False,False
+401495446,2022-12-13,2023,Louisiana Tech Lady Techsters,South Alabama Jaguars,73,50,Louisiana Tech Lady Techsters,123,23,Thomas Assembly Center,False,False
+401487809,2022-12-13,2023,South Dakota State Jackrabbits,UT Martin Skyhawks,75,36,South Dakota State Jackrabbits,111,39,Frost Arena,False,False
+401493989,2022-12-13,2023,Minnesota Golden Gophers,Chicago State Cougars,105,54,Minnesota Golden Gophers,159,51,Williams Arena,False,False
+401488593,2022-12-13,2023,Lindenwood Lions,Northern Illinois Huskies,56,67,Northern Illinois Huskies,123,11,Hyland Arena,False,False
+401487767,2022-12-13,2023,Denver Pioneers,Colorado Christian Cougars,104,74,Denver Pioneers,178,30,Hamilton Gymnasium,False,False
+401481441,2022-12-13,2023,Texas A&M-Corpus Christi Islanders,St. Thomas (TX) Celts,80,23,Texas A&M-Corpus Christi Islanders,103,57,American Bank Center,False,True
+401487985,2022-12-13,2023,Montana State Bobcats,Saint Mary's Gaels,91,56,Montana State Bobcats,147,35,Worthington Arena,False,False
+401492530,2022-12-13,2023,Towson Tigers,Memphis Tigers,71,73,Memphis Tigers,144,2,SECU Arena,False,False
+401486271,2022-12-13,2023,Boston College Eagles,Eastern Kentucky Colonels,76,65,Boston College Eagles,141,11,Conte Forum,False,False
+401494281,2022-12-13,2023,Tennessee Tech Golden Eagles,Tennessee Wesleyan Bulldogs,85,52,Tennessee Tech Golden Eagles,137,33,Hooper Eblen Center,False,False
+401492416,2022-12-13,2023,Dartmouth Big Green,Drexel Dragons,49,64,Drexel Dragons,113,15,Leede Arena,False,False
+401492874,2022-12-13,2023,Iona Gaels,Bethune-Cookman Wildcats,60,57,Iona Gaels,117,3,Hynes Athletics Center,False,False
+401493804,2022-12-13,2023,George Washington Revolutionaries,Wilmington (DE) Wildcats,88,40,George Washington Revolutionaries,128,48,Charles E. Smith Center,False,False
+401495450,2022-12-13,2023,Alcorn State Lady Braves,Tougaloo Bulldogs,88,48,Alcorn State Lady Braves,136,40,Davey L. Whitney Complex,False,False
+401488022,2022-12-13,2023,Yale Bulldogs,Boston University Terriers,58,46,Yale Bulldogs,104,12,John J. Lee Amphitheater,False,False
+401486815,2022-12-13,2023,Murray State Racers,Austin Peay Governors,67,71,Austin Peay Governors,138,4,CFSB Center,False,False
+401481425,2022-12-13,2023,SE Louisiana Lady Lions,Prairie View A&M Lady Panthers,84,57,SE Louisiana Lady Lions,141,27,University Center,False,False
+401492590,2022-12-14,2023,Florida Atlantic Owls,Florida International Panthers,70,60,Florida Atlantic Owls,130,10,Eleanor R. Baldwin Arena,False,True
+401492522,2022-12-14,2023,Charleston Cougars,Berry Vikings,84,38,Charleston Cougars,122,46,TD Arena,False,False
+401491972,2022-12-14,2023,UAB Blazers,Miles Golden Bears,88,49,UAB Blazers,137,39,Bartow Arena,False,False
+401491509,2022-12-14,2023,Santa Clara Broncos,San José State Spartans,81,49,Santa Clara Broncos,130,32,Leavey Center,False,False
+401488127,2022-12-14,2023,Long Island University Sharks,Columbia Lions,47,90,Columbia Lions,137,43,Steinberg Wellness Center,False,False
+401486319,2022-12-14,2023,Ohio Bobcats,Cincinnati Bearcats,44,77,Cincinnati Bearcats,121,33,Convocation Center (OH),False,False
+401491757,2022-12-14,2023,New Mexico State Aggies,UTEP Miners,52,57,UTEP Miners,109,5,Pan American Center,False,False
+401483579,2022-12-14,2023,Seattle U Redhawks,Eastern Washington Eagles,60,66,Eastern Washington Eagles,126,6,Redhawk Center,False,False
+401480098,2022-12-15,2023,LSU Tigers,Lamar Cardinals,88,42,LSU Tigers,130,46,Pete Maravich Assembly Center,False,False
+401488841,2022-12-14,2023,Utah Utes,Colorado Buffaloes,85,58,Utah Utes,143,27,Jon M. Huntsman Center,False,True
+401480035,2022-12-16,2023,South Dakota State Jackrabbits,South Carolina Gamecocks,44,62,South Carolina Gamecocks,106,18,Sanford Pentagon,True,False
+401480217,2022-12-16,2023,NC State Wolfpack,Davidson Wildcats,81,47,NC State Wolfpack,128,34,Reynolds Coliseum,False,False
+401488835,2022-12-16,2023,USC Trojans,UCLA Bruins,56,59,UCLA Bruins,115,3,Galen Center,False,True
+401483580,2022-12-16,2023,Oregon Ducks,Eastern Washington Eagles,88,38,Oregon Ducks,126,50,Matthew Knight Arena,False,False
+401480320,2022-12-15,2023,Baylor Bears,Tennessee State Lady Tigers,93,27,Baylor Bears,120,66,Ferrell Center,False,False
+401483918,2022-12-16,2023,Ohio State Buckeyes,UAlbany Great Danes,82,57,Ohio State Buckeyes,139,25,Value City Arena,False,False
+401480272,2022-12-16,2023,North Carolina Tar Heels,South Carolina Upstate Spartans,89,47,North Carolina Tar Heels,136,42,Carmichael Arena,False,False
+401486418,2022-12-17,2023,Kansas Jayhawks,Tulsa Golden Hurricane,81,62,Kansas Jayhawks,143,19,Allen Fieldhouse,False,False
+401488836,2022-12-17,2023,UCLA Bruins,Cal State Bakersfield Roadrunners,75,47,UCLA Bruins,122,28,Pauley Pavilion,False,False
+401483838,2022-12-17,2023,Utah Utes,UC Riverside Highlanders,92,45,Utah Utes,137,47,Jon M. Huntsman Center,False,False
+401480050,2022-12-17,2023,Creighton Bluejays,Arkansas Razorbacks,75,83,Arkansas Razorbacks,158,8,D.J. Sokol Arena,False,False
+401487838,2022-12-17,2023,Michigan Wolverines,App State Mountaineers,77,49,Michigan Wolverines,126,28,Crisler Center,False,False
+401480036,2022-12-18,2023,South Carolina Gamecocks,Charleston Southern Buccaneers,87,23,South Carolina Gamecocks,110,64,Colonial Life Arena,False,False
+401480182,2022-12-18,2023,Stanford Cardinal,Tennessee Lady Volunteers,77,70,Stanford Cardinal,147,7,Maples Pavilion,False,False
+401488613,2022-12-18,2023,Indiana Hoosiers,Morehead State Eagles,87,24,Indiana Hoosiers,111,63,Simon Skjodt Assembly Hall,False,False
+401488849,2022-12-18,2023,Virginia Tech Hokies,Notre Dame Fighting Irish,52,63,Notre Dame Fighting Irish,115,11,Cassell Coliseum,False,True
+401488850,2022-12-18,2023,NC State Wolfpack,Clemson Tigers,77,59,NC State Wolfpack,136,18,Reynolds Coliseum,False,True
+401483867,2022-12-18,2023,Iowa Hawkeyes,Northern Iowa Panthers,88,74,Iowa Hawkeyes,162,14,Carver-Hawkeye Arena,False,False
+401492524,2022-12-18,2023,Oregon Ducks,Charleston Cougars,97,33,Oregon Ducks,130,64,Matthew Knight Arena,False,False
+401493690,2022-12-18,2023,Oklahoma Sooners,Southern Jaguars,76,50,Oklahoma Sooners,126,26,Lloyd Noble Center,False,False
+401474701,2022-12-20,2023,Gonzaga Bulldogs,San Diego Toreros,70,59,Gonzaga Bulldogs,129,11,McCarthey Athletic Center,False,True
+401483812,2022-12-21,2023,Stanford Cardinal,Creighton Bluejays,72,59,Stanford Cardinal,131,13,Maples Pavilion,False,False
+401488837,2022-12-21,2023,UCLA Bruins,Fresno State Bulldogs,82,48,UCLA Bruins,130,34,Pauley Pavilion,False,False
+401483839,2022-12-21,2023,Weber State Wildcats,Utah Utes,52,88,Utah Utes,140,36,Dee Events Center,False,False
+401480037,2022-12-21,2023,South Carolina Gamecocks,Coastal Carolina Chanticleers,102,39,South Carolina Gamecocks,141,63,Colonial Life Arena,False,False
+401492460,2022-12-21,2023,Indiana Hoosiers,Butler Bulldogs,67,50,Indiana Hoosiers,117,17,Simon Skjodt Assembly Hall,False,False
+401480282,2022-12-21,2023,Notre Dame Fighting Irish,Western Michigan Broncos,85,57,Notre Dame Fighting Irish,142,28,Purcell Pavilion,False,False
+401487607,2022-12-22,2023,High Point Panthers,Virginia Tech Hokies,66,86,Virginia Tech Hokies,152,20,Qubein Center,False,False
+401487085,2022-12-21,2023,UConn Huskies,Seton Hall Pirates,98,73,UConn Huskies,171,25,PeoplesBank Arena,False,True
+401483868,2022-12-21,2023,Iowa Hawkeyes,Dartmouth Big Green,92,54,Iowa Hawkeyes,146,38,Carver-Hawkeye Arena,False,False
+401483895,2022-12-21,2023,Purdue Fort Wayne Mastodons,Maryland Terrapins,51,88,Maryland Terrapins,139,37,Hilliard Gates Sports Center,False,False
+401483824,2022-12-21,2023,UT Arlington Mavericks,Arizona Wildcats,59,78,Arizona Wildcats,137,19,College Park Center,False,False
+401480332,2022-12-22,2023,Nebraska Cornhuskers,Kansas Jayhawks,85,79,Nebraska Cornhuskers,164,6,Pinnacle Bank Arena,False,False
+401487949,2022-12-22,2023,Gonzaga Bulldogs,Montana Lady Griz,82,67,Gonzaga Bulldogs,149,15,McCarthey Athletic Center,False,False
+401480322,2022-12-21,2023,Baylor Bears,Long Beach State Beach,73,52,Baylor Bears,125,21,Ferrell Center,False,False
+401485954,2022-12-21,2023,St. John's Red Storm,Wagner Seahawks,80,51,St. John's Red Storm,131,29,Carnesecca Arena,False,False
+401483840,2022-12-23,2023,Utah Utes,Southern Utah Thunderbirds,90,56,Utah Utes,146,34,Jon M. Huntsman Center,False,False
+401488842,2022-12-23,2023,Stanford Cardinal,California Golden Bears,90,69,Stanford Cardinal,159,21,Maples Pavilion,False,True
+401493698,2022-12-27,2023,Texas Tech Lady Raiders,Mississippi Valley State Devilettes,68,45,Texas Tech Lady Raiders,113,23,United Supermarkets Arena,False,False
+401480455,2022-12-27,2023,Tennessee Lady Volunteers,Wofford Terriers,92,53,Tennessee Lady Volunteers,145,39,Food City Center,False,False
+401486430,2022-12-28,2023,Wichita State Shockers,South Carolina State Lady Bulldogs,105,38,Wichita State Shockers,143,67,Charles Koch Arena,False,False
+401494289,2022-12-28,2023,Oregon State Beavers,North Carolina Central Eagles,89,52,Oregon State Beavers,141,37,Gill Coliseum,False,False
+401484668,2022-12-29,2023,Northwestern Wildcats,Ohio State Buckeyes,48,81,Ohio State Buckeyes,129,33,Welsh-Ryan Arena,False,True
+401487170,2022-12-29,2023,Creighton Bluejays,UConn Huskies,47,72,UConn Huskies,119,25,D.J. Sokol Arena,False,True
+401484667,2022-12-29,2023,Nebraska Cornhuskers,Michigan Wolverines,59,76,Michigan Wolverines,135,17,Pinnacle Bank Arena,False,True
+401468169,2022-12-30,2023,South Carolina Gamecocks,Texas A&M Aggies,76,34,South Carolina Gamecocks,110,42,Colonial Life Arena,False,True
+401484670,2022-12-29,2023,Michigan State Spartans,Indiana Hoosiers,83,78,Michigan State Spartans,161,5,Breslin Center,False,True
+401488854,2022-12-29,2023,Miami Hurricanes,Notre Dame Fighting Irish,63,66,Notre Dame Fighting Irish,129,3,Watsco Center,False,True
+401488858,2022-12-30,2023,NC State Wolfpack,Duke Blue Devils,58,72,Duke Blue Devils,130,14,Reynolds Coliseum,False,True
+401488853,2022-12-29,2023,Clemson Tigers,Virginia Tech Hokies,64,59,Clemson Tigers,123,5,Littlejohn Coliseum,False,True
+401468165,2022-12-30,2023,Arkansas Razorbacks,LSU Tigers,45,69,LSU Tigers,114,24,Bud Walton Arena,False,True
+401484671,2022-12-30,2023,Iowa Hawkeyes,Purdue Boilermakers,83,68,Iowa Hawkeyes,151,15,Carver-Hawkeye Arena,False,True
+401488859,2022-12-30,2023,North Carolina Tar Heels,Florida State Seminoles,71,78,Florida State Seminoles,149,7,Carmichael Arena,False,True
+401488843,2022-12-30,2023,Arizona Wildcats,Arizona State Sun Devils,84,66,Arizona Wildcats,150,18,McKale Memorial Center,False,True
+401474706,2022-12-30,2023,Pepperdine Waves,Gonzaga Bulldogs,63,77,Gonzaga Bulldogs,140,14,Firestone Fieldhouse,False,True
+401498562,2022-12-31,2023,Oregon Ducks,UCLA Bruins,74,82,UCLA Bruins,156,8,Matthew Knight Arena,False,True
+401498561,2022-12-31,2023,Washington State Cougars,Utah Utes,66,71,Utah Utes,137,5,Beasley Coliseum,False,True
+401484672,2022-12-30,2023,Maryland Terrapins,Minnesota Golden Gophers,107,85,Maryland Terrapins,192,22,XFINITY Center,False,True
+401498564,2023-01-01,2023,Stanford Cardinal,Arizona State Sun Devils,101,69,Stanford Cardinal,170,32,Maples Pavilion,False,True
+401484674,2022-12-31,2023,Ohio State Buckeyes,Michigan Wolverines,66,57,Ohio State Buckeyes,123,9,Value City Arena,False,True
+401487171,2022-12-31,2023,UConn Huskies,Marquette Golden Eagles,61,48,UConn Huskies,109,13,Gampel Pavilion,False,True
+401494130,2022-12-31,2023,Texas Tech Lady Raiders,Iowa State Cyclones,58,81,Iowa State Cyclones,139,23,United Supermarkets Arena,False,True
+401498565,2023-01-01,2023,California Golden Bears,Arizona Wildcats,56,63,Arizona Wildcats,119,7,Haas Pavilion,False,True
+401474710,2022-12-31,2023,Loyola Marymount Lions,Gonzaga Bulldogs,51,96,Gonzaga Bulldogs,147,45,Gersten Pavilion,False,True
+401494133,2022-12-31,2023,West Virginia Mountaineers,Oklahoma Sooners,77,98,Oklahoma Sooners,175,21,WVU Coliseum,False,True
+401487172,2022-12-31,2023,DePaul Blue Demons,Creighton Bluejays,82,92,Creighton Bluejays,174,10,Wintrust Arena,False,True
+401494131,2022-12-31,2023,Oklahoma State Cowgirls,Kansas Jayhawks,65,80,Kansas Jayhawks,145,15,Gallagher-Iba Arena,False,True
+401494134,2022-12-31,2023,Baylor Bears,TCU Horned Frogs,64,42,Baylor Bears,106,22,Ferrell Center,False,True
+401487173,2022-12-31,2023,Georgetown Hoyas,St. John's Red Storm,48,68,St. John's Red Storm,116,20,McDonough Arena,False,True
+401484676,2023-01-01,2023,Indiana Hoosiers,Nebraska Cornhuskers,74,62,Indiana Hoosiers,136,12,Simon Skjodt Assembly Hall,False,True
+401488861,2023-01-01,2023,Notre Dame Fighting Irish,Boston College Eagles,85,48,Notre Dame Fighting Irish,133,37,Purcell Pavilion,False,True
+401488866,2023-01-02,2023,Syracuse Orange,NC State Wolfpack,54,56,NC State Wolfpack,110,2,JMA Wireless Dome,False,True
+401488865,2023-01-01,2023,Virginia Tech Hokies,North Carolina Tar Heels,68,65,Virginia Tech Hokies,133,3,Cassell Coliseum,False,True
+401469393,2023-01-01,2023,LSU Tigers,Vanderbilt Commodores,88,63,LSU Tigers,151,25,Pete Maravich Assembly Center,False,True
+401498567,2023-01-01,2023,Oregon State Beavers,UCLA Bruins,77,72,Oregon State Beavers,149,5,Gill Coliseum,False,True
+401498566,2023-01-01,2023,Washington Huskies,Utah Utes,53,61,Utah Utes,114,8,Alaska Airlines Arena,False,True
+401484675,2023-01-01,2023,Illinois Fighting Illini,Iowa Hawkeyes,90,86,Illinois Fighting Illini,176,4,State Farm Center,False,True
+401498568,2023-01-01,2023,Oregon Ducks,USC Trojans,73,45,Oregon Ducks,118,28,Matthew Knight Arena,False,True
+401469392,2023-01-01,2023,Kentucky Wildcats,Arkansas Razorbacks,50,71,Arkansas Razorbacks,121,21,Memorial Coliseum (KY),False,True
+401469397,2023-01-03,2023,Georgia Lady Bulldogs,South Carolina Gamecocks,51,68,South Carolina Gamecocks,119,17,Stegeman Coliseum,False,True
+401498630,2023-01-02,2023,Stanford Cardinal,Arizona Wildcats,73,57,Stanford Cardinal,130,16,Maples Pavilion,False,True
+401484678,2023-01-02,2023,Rutgers Scarlet Knights,Maryland Terrapins,67,78,Maryland Terrapins,145,11,Jersey Mike’s Arena,False,True
+401487176,2023-01-04,2023,Butler Bulldogs,UConn Huskies,47,80,UConn Huskies,127,33,Hinkle Fieldhouse,False,True
+401484680,2023-01-03,2023,Michigan Wolverines,Penn State Lady Lions,82,72,Michigan Wolverines,154,10,Crisler Center,False,True
+401494135,2023-01-04,2023,Oklahoma Sooners,Baylor Bears,70,81,Baylor Bears,151,11,Lloyd Noble Center,False,True
+401494139,2023-01-05,2023,Iowa State Cyclones,West Virginia Mountaineers,70,50,Iowa State Cyclones,120,20,Hilton Coliseum,False,True
+401494138,2023-01-05,2023,Kansas Jayhawks,Texas Tech Lady Raiders,77,59,Kansas Jayhawks,136,18,Allen Fieldhouse,False,True
+401487180,2023-01-05,2023,Seton Hall Pirates,St. John's Red Storm,72,51,Seton Hall Pirates,123,21,Walsh Gymnasium,False,True
+401487179,2023-01-05,2023,Creighton Bluejays,Providence Friars,75,79,Providence Friars,154,4,D.J. Sokol Arena,False,True
+401469403,2023-01-06,2023,South Carolina Gamecocks,Auburn Tigers,94,42,South Carolina Gamecocks,136,52,Colonial Life Arena,False,True
+401484682,2023-01-06,2023,Minnesota Golden Gophers,Ohio State Buckeyes,71,83,Ohio State Buckeyes,154,12,Williams Arena,False,True
+401487181,2023-01-06,2023,Xavier Musketeers,UConn Huskies,37,73,UConn Huskies,110,36,Cintas Center,False,True
+401469401,2023-01-06,2023,LSU Tigers,Texas A&M Aggies,74,34,LSU Tigers,108,40,Pete Maravich Assembly Center,False,True
+401488872,2023-01-06,2023,Virginia Tech Hokies,Virginia Cavaliers,74,66,Virginia Tech Hokies,140,8,Cassell Coliseum,False,True
+401488871,2023-01-06,2023,NC State Wolfpack,Boston College Eagles,71,79,Boston College Eagles,150,8,Reynolds Coliseum,False,True
+401488870,2023-01-05,2023,Wake Forest Demon Deacons,Duke Blue Devils,50,60,Duke Blue Devils,110,10,LJVM Coliseum,False,True
+401474715,2023-01-06,2023,Gonzaga Bulldogs,San Francisco Dons,63,52,Gonzaga Bulldogs,115,11,McCarthey Athletic Center,False,True
+401488868,2023-01-05,2023,Miami Hurricanes,North Carolina Tar Heels,62,58,Miami Hurricanes,120,4,Watsco Center,False,True
+401498633,2023-01-07,2023,Colorado Buffaloes,Utah Utes,77,67,Colorado Buffaloes,144,10,CU Events Center,False,True
+401498634,2023-01-07,2023,Arizona Wildcats,Oregon State Beavers,72,69,Arizona Wildcats,141,3,McKale Memorial Center,False,True
+401498632,2023-01-07,2023,Arizona State Sun Devils,Oregon Ducks,62,82,Oregon Ducks,144,20,Desert Financial Arena,False,True
+401484684,2023-01-07,2023,Maryland Terrapins,Michigan State Spartans,94,85,Maryland Terrapins,179,9,XFINITY Center,False,True
+401484683,2023-01-07,2023,Michigan Wolverines,Iowa Hawkeyes,85,94,Iowa Hawkeyes,179,9,Crisler Center,False,True
+401474718,2023-01-07,2023,Gonzaga Bulldogs,Santa Clara Broncos,78,61,Gonzaga Bulldogs,139,17,McCarthey Athletic Center,False,True
+401494140,2023-01-07,2023,Kansas Jayhawks,Baylor Bears,62,75,Baylor Bears,137,13,Allen Fieldhouse,False,True
+401469408,2023-01-08,2023,Mississippi State Bulldogs,South Carolina Gamecocks,51,58,South Carolina Gamecocks,109,7,Humphrey Coliseum,False,True
+401498638,2023-01-09,2023,California Golden Bears,Stanford Cardinal,56,60,Stanford Cardinal,116,4,Haas Pavilion,False,True
+401484687,2023-01-08,2023,Ohio State Buckeyes,Illinois Fighting Illini,87,81,Ohio State Buckeyes,168,6,Value City Arena,False,True
+401488880,2023-01-08,2023,North Carolina Tar Heels,Notre Dame Fighting Irish,60,50,North Carolina Tar Heels,110,10,Carmichael Arena,False,True
+401484688,2023-01-08,2023,Northwestern Wildcats,Indiana Hoosiers,50,72,Indiana Hoosiers,122,22,Welsh-Ryan Arena,False,True
+401469407,2023-01-08,2023,Kentucky Wildcats,LSU Tigers,48,67,LSU Tigers,115,19,Memorial Coliseum (KY),False,True
+401488875,2023-01-08,2023,Miami Hurricanes,Virginia Tech Hokies,77,66,Miami Hurricanes,143,11,Watsco Center,False,True
+401488879,2023-01-08,2023,NC State Wolfpack,Virginia Cavaliers,87,62,NC State Wolfpack,149,25,Reynolds Coliseum,False,True
+401498637,2023-01-08,2023,UCLA Bruins,USC Trojans,61,60,UCLA Bruins,121,1,Pauley Pavilion,False,True
+401498639,2023-01-09,2023,Arizona Wildcats,Oregon Ducks,79,71,Arizona Wildcats,150,8,McKale Memorial Center,False,True
+401487186,2023-01-08,2023,St. John's Red Storm,Xavier Musketeers,71,52,St. John's Red Storm,123,19,Carnesecca Arena,False,True
+401487185,2023-01-08,2023,Creighton Bluejays,Marquette Golden Eagles,68,42,Creighton Bluejays,110,26,D.J. Sokol Arena,False,True
+401493113,2023-01-09,2023,Maryland Eastern Shore Hawks,Howard Bison,47,56,Howard Bison,103,9,Hytche Center,False,True
+401491435,2023-01-09,2023,Delaware State Hornets,Norfolk State Spartans,26,40,Norfolk State Spartans,66,14,Memorial Hall (DE),False,True
+401491411,2023-01-09,2023,Coppin State Eagles,North Carolina Central Eagles,72,67,Coppin State Eagles,139,5,Physical Education Complex,False,True
+401492993,2023-01-09,2023,Grambling Lady Tigers,Florida A&M Rattlers,71,68,Grambling Lady Tigers,139,3,Fredrick C. Hobdy Assembly Center,False,True
+401495477,2023-01-09,2023,Arkansas-Pine Bluff Golden Lions,Prairie View A&M Lady Panthers,60,62,Prairie View A&M Lady Panthers,122,2,H.O. Clemmons Arena,False,True
+401492878,2023-01-09,2023,Southern Jaguars,Bethune-Cookman Wildcats,65,63,Southern Jaguars,128,2,F.G. Clark Activity Center,False,True
+401492081,2023-01-09,2023,Jackson State Lady Tigers,Alabama A&M Bulldogs,63,35,Jackson State Lady Tigers,98,28,Lee E. Williams Athletics and Assembly Center,False,True
+401492062,2023-01-09,2023,Alcorn State Lady Braves,Alabama State Lady Hornets,91,93,Alabama State Lady Hornets,184,2,Davey L. Whitney Complex,False,True
+401492028,2023-01-09,2023,Mississippi Valley State Devilettes,Texas Southern Tigers,61,77,Texas Southern Tigers,138,16,R.W. Harrison HPER Complex,False,True
+401484690,2023-01-10,2023,Purdue Boilermakers,Michigan Wolverines,59,80,Michigan Wolverines,139,21,Mackey Arena,False,True
+401494145,2023-01-11,2023,Texas Longhorns,Kansas Jayhawks,72,59,Texas Longhorns,131,13,Moody Center,False,True
+401487188,2023-01-12,2023,St. John's Red Storm,UConn Huskies,52,82,UConn Huskies,134,30,UBS Arena,False,True
+401484691,2023-01-12,2023,Iowa Hawkeyes,Northwestern Wildcats,93,64,Iowa Hawkeyes,157,29,Carver-Hawkeye Arena,False,True
+401494147,2023-01-12,2023,Iowa State Cyclones,Kansas State Wildcats,67,56,Iowa State Cyclones,123,11,Hilton Coliseum,False,True
+401494149,2023-01-12,2023,Baylor Bears,Oklahoma State Cowgirls,65,70,Oklahoma State Cowgirls,135,5,Ferrell Center,False,True
+401494148,2023-01-12,2023,Texas Tech Lady Raiders,Oklahoma Sooners,79,89,Oklahoma Sooners,168,10,United Supermarkets Arena,False,True
+401487187,2023-01-12,2023,DePaul Blue Demons,Villanova Wildcats,64,71,Villanova Wildcats,135,7,Wintrust Arena,False,True
+401469413,2023-01-13,2023,Kentucky Wildcats,South Carolina Gamecocks,66,95,South Carolina Gamecocks,161,29,Memorial Coliseum (KY),False,True
+401469414,2023-01-13,2023,Missouri Tigers,LSU Tigers,57,77,LSU Tigers,134,20,Mizzou Arena,False,True
+401484694,2023-01-12,2023,Indiana Hoosiers,Maryland Terrapins,68,61,Indiana Hoosiers,129,7,Simon Skjodt Assembly Hall,False,True
+401488884,2023-01-13,2023,Notre Dame Fighting Irish,Wake Forest Demon Deacons,86,47,Notre Dame Fighting Irish,133,39,Purcell Pavilion,False,True
+401488881,2023-01-12,2023,Florida State Seminoles,NC State Wolfpack,91,72,Florida State Seminoles,163,19,Tucker Center,False,True
+401488886,2023-01-13,2023,Virginia Tech Hokies,Louisville Cardinals,81,79,Virginia Tech Hokies,160,2,Cassell Coliseum,False,True
+401488883,2023-01-13,2023,Duke Blue Devils,Clemson Tigers,66,56,Duke Blue Devils,122,10,Cameron Indoor Stadium,False,True
+401488885,2023-01-13,2023,Virginia Cavaliers,North Carolina Tar Heels,59,70,North Carolina Tar Heels,129,11,John Paul Jones Arena,False,True
+401498645,2023-01-14,2023,UCLA Bruins,Stanford Cardinal,59,72,Stanford Cardinal,131,13,Pauley Pavilion,False,True
+401498641,2023-01-14,2023,Utah Utes,Arizona State Sun Devils,2,0,Utah Utes,2,2,Jon M. Huntsman Center,False,True
+401498640,2023-01-14,2023,Colorado Buffaloes,Arizona Wildcats,72,65,Colorado Buffaloes,137,7,CU Events Center,False,True
+401498643,2023-01-14,2023,Oregon Ducks,Washington Huskies,65,58,Oregon Ducks,123,7,Matthew Knight Arena,False,True
+401484698,2023-01-14,2023,Nebraska Cornhuskers,Ohio State Buckeyes,67,76,Ohio State Buckeyes,143,9,Pinnacle Bank Arena,False,True
+401484696,2023-01-14,2023,Iowa Hawkeyes,Penn State Lady Lions,108,67,Iowa Hawkeyes,175,41,Carver-Hawkeye Arena,False,True
+401484697,2023-01-14,2023,Michigan Wolverines,Michigan State Spartans,70,55,Michigan Wolverines,125,15,Crisler Center,False,True
+401494150,2023-01-14,2023,Oklahoma Sooners,Kansas Jayhawks,80,74,Oklahoma Sooners,154,6,Lloyd Noble Center,False,True
+401474728,2023-01-15,2023,Portland Pilots,Gonzaga Bulldogs,66,73,Gonzaga Bulldogs,139,7,Chiles Center,False,True
+401487192,2023-01-14,2023,Villanova Wildcats,St. John's Red Storm,64,61,Villanova Wildcats,125,3,Finneran Pavilion,False,True
+401469419,2023-01-15,2023,South Carolina Gamecocks,Missouri Tigers,81,50,South Carolina Gamecocks,131,31,Colonial Life Arena,False,True
+401498651,2023-01-15,2023,USC Trojans,Stanford Cardinal,55,46,USC Trojans,101,9,Galen Center,False,True
+401487196,2023-01-15,2023,UConn Huskies,Georgetown Hoyas,65,50,UConn Huskies,115,15,PeoplesBank Arena,False,True
+401469417,2023-01-15,2023,LSU Tigers,Auburn Tigers,84,54,LSU Tigers,138,30,Pete Maravich Assembly Center,False,True
+401484701,2023-01-15,2023,Indiana Hoosiers,Wisconsin Badgers,93,56,Indiana Hoosiers,149,37,Simon Skjodt Assembly Hall,False,True
+401488892,2023-01-15,2023,Syracuse Orange,Notre Dame Fighting Irish,56,72,Notre Dame Fighting Irish,128,16,JMA Wireless Dome,False,True
+401498648,2023-01-15,2023,UCLA Bruins,California Golden Bears,87,70,UCLA Bruins,157,17,Pauley Pavilion,False,True
+401484702,2023-01-15,2023,Maryland Terrapins,Rutgers Scarlet Knights,80,56,Maryland Terrapins,136,24,XFINITY Center,False,True
+401498646,2023-01-15,2023,Utah Utes,Arizona Wildcats,80,79,Utah Utes,159,1,Jon M. Huntsman Center,False,True
+401488894,2023-01-15,2023,North Carolina Tar Heels,NC State Wolfpack,56,47,North Carolina Tar Heels,103,9,Carmichael Arena,False,True
+401494154,2023-01-15,2023,Texas Longhorns,Iowa State Cyclones,68,53,Texas Longhorns,121,15,Moody Center,False,True
+401488893,2023-01-15,2023,Georgia Tech Yellow Jackets,Duke Blue Devils,47,65,Duke Blue Devils,112,18,McCamish Pavilion,False,True
+401494153,2023-01-15,2023,West Virginia Mountaineers,Baylor Bears,74,65,West Virginia Mountaineers,139,9,WVU Coliseum,False,True
+401498649,2023-01-15,2023,Oregon Ducks,Washington State Cougars,84,85,Washington State Cougars,169,1,Matthew Knight Arena,False,True
+401484700,2023-01-15,2023,Minnesota Golden Gophers,Illinois Fighting Illini,57,70,Illinois Fighting Illini,127,13,Williams Arena,False,True
+401493178,2023-01-16,2023,George Mason Patriots,George Washington Revolutionaries,67,57,George Mason Patriots,124,10,EagleBank Arena,False,True
+401488262,2023-01-16,2023,Bryant Bulldogs,New Hampshire Wildcats,65,44,Bryant Bulldogs,109,21,Chace Athletic Center,False,True
+401492388,2023-01-16,2023,Cornell Big Red,Columbia Lions,64,91,Columbia Lions,155,27,Newman Arena,False,True
+401492063,2023-01-16,2023,Alabama A&M Bulldogs,Alabama State Lady Hornets,60,46,Alabama A&M Bulldogs,106,14,T.M. Elmore Gymnasium,False,True
+401487561,2023-01-16,2023,Princeton Tigers,Pennsylvania Quakers,55,40,Princeton Tigers,95,15,Jadwin Gymnasium,False,True
+401473630,2023-01-16,2023,Fairleigh Dickinson Knights,Stonehill Skyhawks,70,36,Fairleigh Dickinson Knights,106,34,Bogota Savings Bank Center,False,True
+401473627,2023-01-16,2023,St. Francis Brooklyn Terriers,Long Island University Sharks,66,60,St. Francis Brooklyn Terriers,126,6,Pope Physical Education Center,False,True
+401493762,2023-01-16,2023,Florida A&M Rattlers,Mississippi Valley State Devilettes,69,53,Florida A&M Rattlers,122,16,Al Lawson Center,False,True
+401493103,2023-01-16,2023,Brown Bears,Yale Bulldogs,59,72,Yale Bulldogs,131,13,Pizzitola Sports Center,False,True
+401491764,2023-01-16,2023,UTEP Miners,Charlotte 49ers,68,60,UTEP Miners,128,8,Don Haskins Center,False,True
+401474483,2023-01-16,2023,Denver Pioneers,Omaha Mavericks,64,75,Omaha Mavericks,139,11,Hamilton Gymnasium,False,True
+401492564,2023-01-16,2023,North Texas Mean Green,Florida International Panthers,71,45,North Texas Mean Green,116,26,The Super Pit,False,True
+401487536,2023-01-16,2023,Dartmouth Big Green,Harvard Crimson,52,68,Harvard Crimson,120,16,Leede Arena,False,True
+401473628,2023-01-16,2023,Merrimack Warriors,Wagner Seahawks,63,69,Wagner Seahawks,132,6,Hammel Court,False,True
+401495471,2023-01-16,2023,Prairie View A&M Lady Panthers,Alcorn State Lady Braves,56,55,Prairie View A&M Lady Panthers,111,1,William Nicks Building,False,True
+401492880,2023-01-16,2023,Bethune-Cookman Wildcats,Arkansas-Pine Bluff Golden Lions,63,61,Bethune-Cookman Wildcats,124,2,Moore Gymnasium (FL),False,True
+401474083,2023-01-16,2023,UC Davis Aggies,UC San Diego Tritons,63,65,UC San Diego Tritons,128,2,University Credit Union Center,False,True
+401473629,2023-01-16,2023,Saint Francis Red Flash,Sacred Heart Pioneers,60,73,Sacred Heart Pioneers,133,13,DeGol Arena,False,True
+401492030,2023-01-16,2023,Texas Southern Tigers,Jackson State Lady Tigers,58,87,Jackson State Lady Tigers,145,29,H&PE Arena,False,True
+401491979,2023-01-17,2023,UAB Blazers,Middle Tennessee Blue Raiders,54,76,Middle Tennessee Blue Raiders,130,22,Bartow Arena,False,True
+401491958,2023-01-17,2023,Florida Atlantic Owls,Western Kentucky Lady Toppers,66,76,Western Kentucky Lady Toppers,142,10,Eleanor R. Baldwin Arena,False,True
+401474322,2023-01-17,2023,Youngstown State Penguins,IU Indianapolis Jaguars,61,64,IU Indianapolis Jaguars,125,3,Beeghly Center,False,True
+401469422,2023-01-17,2023,Arkansas Razorbacks,Vanderbilt Commodores,84,81,Arkansas Razorbacks,165,3,Bud Walton Arena,False,True
+401485645,2023-01-17,2023,Fresno State Bulldogs,Utah State Aggies,58,68,Utah State Aggies,126,10,Save Mart Center,False,True
+401491939,2023-01-17,2023,Rice Owls,UTSA Roadrunners,78,76,Rice Owls,154,2,Tudor Fieldhouse,False,True
+401474081,2023-01-17,2023,Cal Poly Mustangs,UC Riverside Highlanders,49,47,Cal Poly Mustangs,96,2,Mott Athletics Center,False,True
+401485644,2023-01-17,2023,Colorado State Rams,San Diego State Aztecs,71,58,Colorado State Rams,129,13,Moby Arena,False,True
+401485642,2023-01-17,2023,Air Force Falcons,San José State Spartans,77,70,Air Force Falcons,147,7,Clune Arena,False,True
+401473990,2023-01-17,2023,Montana State Bobcats,Idaho Vandals,72,65,Montana State Bobcats,137,7,Worthington Arena,False,True
+401473989,2023-01-17,2023,Montana Lady Griz,Eastern Washington Eagles,60,87,Eastern Washington Eagles,147,27,Dahlberg Arena,False,True
+401485646,2023-01-17,2023,Nevada Wolf Pack,Wyoming Cowgirls,53,57,Wyoming Cowgirls,110,4,Lawlor Events Center,False,True
+401474085,2023-01-17,2023,Cal State Northridge Matadors,Hawai'i Rainbow Wahine,60,76,Hawai'i Rainbow Wahine,136,16,Premier America Credit Union Arena,False,True
+401474084,2023-01-17,2023,UC Santa Barbara Gauchos,UC Irvine Anteaters,60,70,UC Irvine Anteaters,130,10,The Thunderdome,False,True
+401474082,2023-01-17,2023,Cal State Bakersfield Roadrunners,Cal State Fullerton Titans,64,58,Cal State Bakersfield Roadrunners,122,6,Icardo Center,False,True
+401485643,2023-01-17,2023,UNLV Lady Rebels,Boise State Broncos,73,61,UNLV Lady Rebels,134,12,Cox Pavilion,False,True
+401487201,2023-01-18,2023,Seton Hall Pirates,UConn Huskies,58,103,UConn Huskies,161,45,Walsh Gymnasium,False,True
+401487197,2023-01-18,2023,Villanova Wildcats,Xavier Musketeers,76,38,Villanova Wildcats,114,38,Finneran Pavilion,False,True
+401484703,2023-01-19,2023,Illinois Fighting Illini,Indiana Hoosiers,72,83,Indiana Hoosiers,155,11,State Farm Center,False,True
+401484704,2023-01-19,2023,Michigan State Spartans,Iowa Hawkeyes,81,84,Iowa Hawkeyes,165,3,Breslin Center,False,True
+401494156,2023-01-19,2023,TCU Horned Frogs,Oklahoma Sooners,66,93,Oklahoma Sooners,159,27,Schollmaier Arena,False,True
+401494157,2023-01-19,2023,Iowa State Cyclones,Oklahoma State Cowgirls,69,64,Iowa State Cyclones,133,5,Hilton Coliseum,False,True
+401494158,2023-01-19,2023,Texas Tech Lady Raiders,Texas Longhorns,68,64,Texas Tech Lady Raiders,132,4,United Supermarkets Arena,False,True
+401484709,2023-01-19,2023,Ohio State Buckeyes,Northwestern Wildcats,84,54,Ohio State Buckeyes,138,30,Value City Arena,False,True
+401488897,2023-01-20,2023,Clemson Tigers,Notre Dame Fighting Irish,54,57,Notre Dame Fighting Irish,111,3,Littlejohn Coliseum,False,True
+401484707,2023-01-20,2023,Wisconsin Badgers,Maryland Terrapins,64,77,Maryland Terrapins,141,13,Kohl Center,False,True
+401488896,2023-01-19,2023,Pittsburgh Panthers,Virginia Tech Hokies,62,69,Virginia Tech Hokies,131,7,Petersen Events Center,False,True
+401488901,2023-01-20,2023,North Carolina Tar Heels,Duke Blue Devils,61,56,North Carolina Tar Heels,117,5,Carmichael Arena,False,True
+401484708,2023-01-20,2023,Rutgers Scarlet Knights,Michigan Wolverines,58,81,Michigan Wolverines,139,23,Jersey Mike’s Arena,False,True
+401474733,2023-01-19,2023,Pacific Tigers,Gonzaga Bulldogs,78,81,Gonzaga Bulldogs,159,3,Alex G. Spanos Center,False,True
+401488895,2023-01-19,2023,NC State Wolfpack,Miami Hurricanes,71,61,NC State Wolfpack,132,10,Reynolds Coliseum,False,True
+401498653,2023-01-21,2023,Stanford Cardinal,Utah Utes,74,62,Stanford Cardinal,136,12,Maples Pavilion,False,True
+401498655,2023-01-21,2023,Washington Huskies,UCLA Bruins,47,51,UCLA Bruins,98,4,Alaska Airlines Arena,False,True
+401487202,2023-01-21,2023,Creighton Bluejays,Villanova Wildcats,57,73,Villanova Wildcats,130,16,D.J. Sokol Arena,False,True
+401498656,2023-01-21,2023,Oregon State Beavers,Oregon Ducks,68,65,Oregon State Beavers,133,3,Gill Coliseum,False,True
+401498652,2023-01-20,2023,California Golden Bears,Colorado Buffaloes,66,73,Colorado Buffaloes,139,7,Haas Pavilion,False,True
+401487205,2023-01-21,2023,UConn Huskies,Butler Bulldogs,79,39,UConn Huskies,118,40,Gampel Pavilion,False,True
+401494161,2023-01-22,2023,Oklahoma Sooners,Oklahoma State Cowgirls,97,93,Oklahoma Sooners,190,4,Lloyd Noble Center,False,True
+401474737,2023-01-21,2023,Saint Mary's Gaels,Gonzaga Bulldogs,57,82,Gonzaga Bulldogs,139,25,University Credit Union Pavilion,False,True
+401494160,2023-01-21,2023,Iowa State Cyclones,Kansas Jayhawks,64,50,Iowa State Cyclones,114,14,Hilton Coliseum,False,True
+401498660,2023-01-22,2023,Stanford Cardinal,Colorado Buffaloes,62,49,Stanford Cardinal,111,13,Maples Pavilion,False,True
+401488906,2023-01-22,2023,Notre Dame Fighting Irish,Virginia Cavaliers,76,54,Notre Dame Fighting Irish,130,22,Purcell Pavilion,False,True
+401498661,2023-01-23,2023,California Golden Bears,Utah Utes,62,87,Utah Utes,149,25,Haas Pavilion,False,True
+401498657,2023-01-22,2023,Washington State Cougars,UCLA Bruins,66,73,UCLA Bruins,139,7,Beasley Coliseum,False,True
+401484712,2023-01-22,2023,Nebraska Cornhuskers,Maryland Terrapins,54,69,Maryland Terrapins,123,15,Pinnacle Bank Arena,False,True
+401488903,2023-01-22,2023,Virginia Tech Hokies,Wake Forest Demon Deacons,74,57,Virginia Tech Hokies,131,17,Cassell Coliseum,False,True
+401488902,2023-01-22,2023,Duke Blue Devils,Syracuse Orange,62,50,Duke Blue Devils,112,12,Cameron Indoor Stadium,False,True
+401488907,2023-01-22,2023,North Carolina Tar Heels,Georgia Tech Yellow Jackets,70,57,North Carolina Tar Heels,127,13,Carmichael Arena,False,True
+401498659,2023-01-22,2023,Arizona State Sun Devils,Arizona Wildcats,67,80,Arizona Wildcats,147,13,Desert Financial Arena,False,True
+401484711,2023-01-22,2023,Northwestern Wildcats,Illinois Fighting Illini,64,67,Illinois Fighting Illini,131,3,Welsh-Ryan Arena,False,True
+401519414,2023-01-24,2023,UConn Huskies,DePaul Blue Demons,94,51,UConn Huskies,145,43,Gampel Pavilion,False,True
+401484715,2023-01-24,2023,Michigan Wolverines,Indiana Hoosiers,83,92,Indiana Hoosiers,175,9,Crisler Center,False,True
+401497671,2023-01-25,2023,Bryant Bulldogs,Hartford Hawks,75,52,Bryant Bulldogs,127,23,Chace Athletic Center,False,False
+401487207,2023-01-25,2023,Providence Friars,Creighton Bluejays,46,64,Creighton Bluejays,110,18,Alumni Hall (RI),False,True
+401496635,2023-01-25,2023,Chicago State Cougars,St. Francis (IL) Fighting Saints,62,72,St. Francis (IL) Fighting Saints,134,10,Jones Convocation Center,False,False
+401494167,2023-01-26,2023,Texas Longhorns,Oklahoma Sooners,78,58,Texas Longhorns,136,20,Moody Center,False,True
+401494165,2023-01-26,2023,TCU Horned Frogs,Iowa State Cyclones,35,75,Iowa State Cyclones,110,40,Schollmaier Arena,False,True
+401484718,2023-01-27,2023,Indiana Hoosiers,Ohio State Buckeyes,78,65,Indiana Hoosiers,143,13,Simon Skjodt Assembly Hall,False,True
+401488915,2023-01-27,2023,Notre Dame Fighting Irish,Florida State Seminoles,70,47,Notre Dame Fighting Irish,117,23,Purcell Pavilion,False,True
+401484719,2023-01-26,2023,Maryland Terrapins,Michigan Wolverines,72,64,Maryland Terrapins,136,8,XFINITY Center,False,True
+401488914,2023-01-27,2023,Duke Blue Devils,Virginia Tech Hokies,66,55,Duke Blue Devils,121,11,Cameron Indoor Stadium,False,True
+401488910,2023-01-26,2023,Pittsburgh Panthers,North Carolina Tar Heels,57,72,North Carolina Tar Heels,129,15,Petersen Events Center,False,True
+401474742,2023-01-27,2023,Gonzaga Bulldogs,Loyola Marymount Lions,66,55,Gonzaga Bulldogs,121,11,McCarthey Athletic Center,False,True
+401484717,2023-01-27,2023,Illinois Fighting Illini,Purdue Boilermakers,52,62,Purdue Boilermakers,114,10,State Farm Center,False,True
+401492549,2023-01-27,2023,Middle Tennessee Blue Raiders,Florida Atlantic Owls,63,48,Middle Tennessee Blue Raiders,111,15,Murphy Center,False,True
+401498667,2023-01-28,2023,Stanford Cardinal,Oregon State Beavers,63,60,Stanford Cardinal,123,3,Maples Pavilion,False,True
+401498664,2023-01-28,2023,Colorado Buffaloes,UCLA Bruins,73,70,Colorado Buffaloes,143,3,CU Events Center,False,True
+401498665,2023-01-28,2023,Utah Utes,USC Trojans,83,73,Utah Utes,156,10,Jon M. Huntsman Center,False,True
+401498663,2023-01-28,2023,Arizona Wildcats,Washington Huskies,61,54,Arizona Wildcats,115,7,McKale Memorial Center,False,True
+401484721,2023-01-28,2023,Iowa Hawkeyes,Nebraska Cornhuskers,80,76,Iowa Hawkeyes,156,4,Carver-Hawkeye Arena,False,True
+401494169,2023-01-28,2023,Iowa State Cyclones,Oklahoma Sooners,86,78,Iowa State Cyclones,164,8,Hilton Coliseum,False,True
+401474746,2023-01-28,2023,Gonzaga Bulldogs,Pepperdine Waves,67,49,Gonzaga Bulldogs,116,18,McCarthey Athletic Center,False,True
+401492550,2023-01-28,2023,Middle Tennessee Blue Raiders,Florida International Panthers,67,41,Middle Tennessee Blue Raiders,108,26,Murphy Center,False,True
+401469439,2023-01-29,2023,Alabama Crimson Tide,South Carolina Gamecocks,52,65,South Carolina Gamecocks,117,13,Coleman Coliseum,False,True
+401484726,2023-01-29,2023,Ohio State Buckeyes,Purdue Boilermakers,65,73,Purdue Boilermakers,138,8,Value City Arena,False,True
+401498673,2023-01-29,2023,Stanford Cardinal,Oregon Ducks,62,54,Stanford Cardinal,116,8,Maples Pavilion,False,True
+401487215,2023-01-29,2023,UConn Huskies,Villanova Wildcats,63,58,UConn Huskies,121,5,PeoplesBank Arena,False,True
+401484723,2023-01-29,2023,Indiana Hoosiers,Rutgers Scarlet Knights,91,68,Indiana Hoosiers,159,23,Simon Skjodt Assembly Hall,False,True
+401488922,2023-01-29,2023,NC State Wolfpack,Notre Dame Fighting Irish,69,65,NC State Wolfpack,134,4,Reynolds Coliseum,False,True
+401498671,2023-01-29,2023,Utah Utes,UCLA Bruins,71,69,Utah Utes,140,2,Jon M. Huntsman Center,False,True
+401488921,2023-01-29,2023,Virginia Cavaliers,Virginia Tech Hokies,60,72,Virginia Tech Hokies,132,12,John Paul Jones Arena,False,True
+401484724,2023-01-29,2023,Minnesota Golden Gophers,Michigan Wolverines,41,77,Michigan Wolverines,118,36,Williams Arena,False,True
+401488920,2023-01-29,2023,Clemson Tigers,North Carolina Tar Heels,58,69,North Carolina Tar Heels,127,11,Littlejohn Coliseum,False,True
+401488918,2023-01-29,2023,Florida State Seminoles,Duke Blue Devils,70,57,Florida State Seminoles,127,13,Tucker Center,False,True
+401498668,2023-01-29,2023,Arizona Wildcats,Washington State Cougars,59,70,Washington State Cougars,129,11,McKale Memorial Center,False,True
+401484722,2023-01-29,2023,Illinois Fighting Illini,Michigan State Spartans,86,76,Illinois Fighting Illini,162,10,State Farm Center,False,True
+401498670,2023-01-29,2023,Colorado Buffaloes,USC Trojans,54,71,USC Trojans,125,17,CU Events Center,False,True
+401469444,2023-01-31,2023,LSU Tigers,Tennessee Lady Volunteers,76,68,LSU Tigers,144,8,Pete Maravich Assembly Center,False,True
+401484727,2023-01-30,2023,Maryland Terrapins,Penn State Lady Lions,87,66,Maryland Terrapins,153,21,XFINITY Center,False,True
+401494173,2023-02-01,2023,Oklahoma Sooners,TCU Horned Frogs,101,78,Oklahoma Sooners,179,23,Lloyd Noble Center,False,True
+401493049,2023-02-01,2023,South Florida Bulls,East Carolina Pirates,72,48,South Florida Bulls,120,24,Yuengling Center,False,True
+401484728,2023-02-02,2023,Minnesota Golden Gophers,Indiana Hoosiers,54,77,Indiana Hoosiers,131,23,Williams Arena,False,True
+401487218,2023-02-02,2023,Providence Friars,UConn Huskies,54,64,UConn Huskies,118,10,Alumni Hall (RI),False,True
+401484729,2023-02-02,2023,Wisconsin Badgers,Ohio State Buckeyes,67,90,Ohio State Buckeyes,157,23,Kohl Center,False,True
+401494174,2023-02-02,2023,Kansas State Wildcats,Iowa State Cyclones,78,77,Kansas State Wildcats,155,1,Bramlage Coliseum,False,True
+401487219,2023-02-01,2023,Villanova Wildcats,Marquette Golden Eagles,73,54,Villanova Wildcats,127,19,Finneran Pavilion,False,True
+401494176,2023-02-02,2023,West Virginia Mountaineers,Texas Longhorns,56,69,Texas Longhorns,125,13,WVU Coliseum,False,True
+401469449,2023-02-03,2023,South Carolina Gamecocks,Kentucky Wildcats,87,69,South Carolina Gamecocks,156,18,Colonial Life Arena,False,True
+401469447,2023-02-03,2023,LSU Tigers,Georgia Lady Bulldogs,82,77,LSU Tigers,159,5,Pete Maravich Assembly Center,False,True
+401484731,2023-02-03,2023,Iowa Hawkeyes,Maryland Terrapins,96,82,Iowa Hawkeyes,178,14,Carver-Hawkeye Arena,False,True
+401488926,2023-02-03,2023,Boston College Eagles,Notre Dame Fighting Irish,59,72,Notre Dame Fighting Irish,131,13,Conte Forum,False,True
+401488925,2023-02-02,2023,North Carolina Tar Heels,Virginia Cavaliers,73,62,North Carolina Tar Heels,135,11,Carmichael Arena,False,True
+401488927,2023-02-03,2023,Virginia Tech Hokies,Syracuse Orange,78,64,Virginia Tech Hokies,142,14,Cassell Coliseum,False,True
+401488929,2023-02-03,2023,Georgia Tech Yellow Jackets,NC State Wolfpack,68,62,Georgia Tech Yellow Jackets,130,6,McCamish Pavilion,False,True
+401488923,2023-02-02,2023,Duke Blue Devils,Pittsburgh Panthers,53,44,Duke Blue Devils,97,9,Cameron Indoor Stadium,False,True
+401474749,2023-02-03,2023,Santa Clara Broncos,Gonzaga Bulldogs,77,72,Santa Clara Broncos,149,5,Leavey Center,False,True
+401484730,2023-02-02,2023,Michigan Wolverines,Illinois Fighting Illini,74,57,Michigan Wolverines,131,17,Crisler Center,False,True
+401491768,2023-02-03,2023,UTEP Miners,Middle Tennessee Blue Raiders,65,62,UTEP Miners,127,3,Don Haskins Center,False,True
+401488924,2023-02-02,2023,Florida State Seminoles,Wake Forest Demon Deacons,72,44,Florida State Seminoles,116,28,Tucker Center,False,True
+401498677,2023-02-04,2023,Washington State Cougars,Stanford Cardinal,38,71,Stanford Cardinal,109,33,Beasley Coliseum,False,True
+401498674,2023-02-04,2023,Oregon State Beavers,Utah Utes,73,75,Utah Utes,148,2,Gill Coliseum,False,True
+401498679,2023-02-04,2023,UCLA Bruins,Arizona Wildcats,66,71,Arizona Wildcats,137,5,Pauley Pavilion,False,True
+401494178,2023-02-04,2023,Iowa State Cyclones,Baylor Bears,70,76,Baylor Bears,146,6,Hilton Coliseum,False,True
+401474754,2023-02-04,2023,San Francisco Dons,Gonzaga Bulldogs,56,78,Gonzaga Bulldogs,134,22,The Sobrato Center,False,True
+401487223,2023-02-04,2023,Butler Bulldogs,Villanova Wildcats,58,78,Villanova Wildcats,136,20,Hinkle Fieldhouse,False,True
+401494181,2023-02-04,2023,Oklahoma Sooners,West Virginia Mountaineers,93,68,Oklahoma Sooners,161,25,Lloyd Noble Center,False,True
+401491945,2023-02-04,2023,UTSA Roadrunners,Middle Tennessee Blue Raiders,58,53,UTSA Roadrunners,111,5,UTSA Convocation Center,False,True
+401494179,2023-02-04,2023,Kansas Jayhawks,Texas Longhorns,65,68,Texas Longhorns,133,3,Allen Fieldhouse,False,True
+401493056,2023-02-04,2023,SMU Mustangs,South Florida Bulls,63,65,South Florida Bulls,128,2,Moody Coliseum (Dallas),False,True
+401484358,2023-02-05,2023,UConn Huskies,South Carolina Gamecocks,77,81,South Carolina Gamecocks,158,4,PeoplesBank Arena,False,False
+401498683,2023-02-05,2023,Washington Huskies,Stanford Cardinal,72,67,Washington Huskies,139,5,Alaska Airlines Arena,False,True
+401484735,2023-02-05,2023,Purdue Boilermakers,Indiana Hoosiers,46,69,Indiana Hoosiers,115,23,Mackey Arena,False,True
+401484779,2023-02-05,2023,Penn State Lady Lions,Iowa Hawkeyes,51,95,Iowa Hawkeyes,146,44,Bryce Jordan Center,False,True
+401498685,2023-02-05,2023,Oregon Ducks,Utah Utes,92,100,Utah Utes,192,8,Matthew Knight Arena,False,True
+401488931,2023-02-05,2023,Notre Dame Fighting Irish,Duke Blue Devils,52,57,Duke Blue Devils,109,5,Purcell Pavilion,False,True
+401498681,2023-02-05,2023,UCLA Bruins,Arizona State Sun Devils,82,63,UCLA Bruins,145,19,Pauley Pavilion,False,True
+401484737,2023-02-05,2023,Michigan State Spartans,Michigan Wolverines,67,77,Michigan Wolverines,144,10,Breslin Center,False,True
+401498680,2023-02-05,2023,USC Trojans,Arizona Wildcats,75,81,Arizona Wildcats,156,6,Galen Center,False,True
+401481233,2023-02-06,2023,UT Arlington Mavericks,Southern Utah Thunderbirds,60,58,UT Arlington Mavericks,118,2,College Park Center,False,True
+401481232,2023-02-06,2023,Tarleton State Texans,Stephen F. Austin Ladyjacks,54,68,Stephen F. Austin Ladyjacks,122,14,Wisdom Gym,False,True
+401481231,2023-02-06,2023,Abilene Christian Wildcats,Utah Valley Wolverines,73,46,Abilene Christian Wildcats,119,27,Moody Coliseum (Abilene),False,True
+401526111,2023-02-06,2023,Norfolk State Spartans,North Carolina Central Eagles,68,73,North Carolina Central Eagles,141,5,Joseph G. Echols Hall,False,True
+401524708,2023-02-06,2023,Morgan State Lady Bears,South Carolina State Lady Bulldogs,76,64,Morgan State Lady Bears,140,12,Hill Field House,False,True
+401526112,2023-02-06,2023,Coppin State Eagles,Delaware State Hornets,64,63,Coppin State Eagles,127,1,Physical Education Complex,False,True
+401492086,2023-02-06,2023,Alabama A&M Bulldogs,Grambling Lady Tigers,57,53,Alabama A&M Bulldogs,110,4,T.M. Elmore Gymnasium,False,True
+401492035,2023-02-06,2023,Texas Southern Tigers,Bethune-Cookman Wildcats,62,66,Bethune-Cookman Wildcats,128,4,H&PE Arena,False,True
+401488936,2023-02-06,2023,NC State Wolfpack,Virginia Tech Hokies,61,73,Virginia Tech Hokies,134,12,Reynolds Coliseum,False,True
+401495479,2023-02-06,2023,Jackson State Lady Tigers,Arkansas-Pine Bluff Golden Lions,88,53,Jackson State Lady Tigers,141,35,Lee E. Williams Athletics and Assembly Center,False,True
+401494061,2023-02-06,2023,Prairie View A&M Lady Panthers,Florida A&M Rattlers,51,49,Prairie View A&M Lady Panthers,100,2,William Nicks Building,False,True
+401493766,2023-02-06,2023,Alcorn State Lady Braves,Mississippi Valley State Devilettes,74,51,Alcorn State Lady Braves,125,23,Davey L. Whitney Complex,False,True
+401492068,2023-02-06,2023,Alabama State Lady Hornets,Southern Jaguars,48,43,Alabama State Lady Hornets,91,5,Dunn-Oliver Acadome,False,True
+401523291,2023-02-07,2023,Evansville Purple Aces,UT Martin Skyhawks,60,80,UT Martin Skyhawks,140,20,Meeks Family Fieldhouse,False,False
+401484739,2023-02-07,2023,Northwestern Wildcats,Nebraska Cornhuskers,66,78,Nebraska Cornhuskers,144,12,Welsh-Ryan Arena,False,True
+401474355,2023-02-07,2023,Northern Kentucky Norse,IU Indianapolis Jaguars,79,69,Northern Kentucky Norse,148,10,Truist Arena,False,True
+401469456,2023-02-07,2023,Mississippi State Bulldogs,Tennessee Lady Volunteers,91,90,Mississippi State Bulldogs,181,1,Humphrey Coliseum,False,True
+401474019,2023-02-07,2023,Weber State Wildcats,Northern Colorado Bears,60,73,Northern Colorado Bears,133,13,Dee Events Center,False,True
+401474018,2023-02-07,2023,Idaho State Bengals,Northern Arizona Lumberjacks,54,64,Northern Arizona Lumberjacks,118,10,Reed Gym,False,True
+401512150,2023-02-07,2023,Cleveland State Vikings,Chicago State Cougars,88,49,Cleveland State Vikings,137,39,Wolstein Center,False,False
+401487226,2023-02-08,2023,Seton Hall Pirates,Creighton Bluejays,64,77,Creighton Bluejays,141,13,Walsh Gymnasium,False,True
+401494184,2023-02-08,2023,Oklahoma State Cowgirls,West Virginia Mountaineers,76,65,Oklahoma State Cowgirls,141,11,Gallagher-Iba Arena,False,True
+401494183,2023-02-08,2023,Baylor Bears,Oklahoma Sooners,92,98,Oklahoma Sooners,190,6,Ferrell Center,False,True
+401493059,2023-02-08,2023,SMU Mustangs,Tulsa Golden Hurricane,81,58,SMU Mustangs,139,23,Moody Coliseum (Dallas),False,True
+401487227,2023-02-09,2023,Marquette Golden Eagles,UConn Huskies,59,52,Marquette Golden Eagles,111,7,Al McGuire Center,False,True
+401484741,2023-02-09,2023,Ohio State Buckeyes,Minnesota Golden Gophers,93,63,Ohio State Buckeyes,156,30,Value City Arena,False,True
+401487230,2023-02-09,2023,Georgetown Hoyas,Villanova Wildcats,53,82,Villanova Wildcats,135,29,McDonough Arena,False,True
+401494186,2023-02-09,2023,Texas Longhorns,Texas Tech Lady Raiders,80,71,Texas Longhorns,151,9,Moody Center,False,True
+401469457,2023-02-10,2023,Auburn Tigers,South Carolina Gamecocks,48,83,South Carolina Gamecocks,131,35,Neville Arena,False,True
+401484743,2023-02-09,2023,Indiana Hoosiers,Iowa Hawkeyes,87,78,Indiana Hoosiers,165,9,Simon Skjodt Assembly Hall,False,True
+401498686,2023-02-10,2023,Arizona Wildcats,Stanford Cardinal,60,84,Stanford Cardinal,144,24,McKale Memorial Center,False,True
+401484744,2023-02-10,2023,Northwestern Wildcats,Maryland Terrapins,54,79,Maryland Terrapins,133,25,Welsh-Ryan Arena,False,True
+401488939,2023-02-10,2023,Boston College Eagles,Duke Blue Devils,27,68,Duke Blue Devils,95,41,Conte Forum,False,True
+401488938,2023-02-09,2023,Notre Dame Fighting Irish,Pittsburgh Panthers,69,63,Notre Dame Fighting Irish,132,6,Purcell Pavilion,False,True
+401488940,2023-02-10,2023,Syracuse Orange,North Carolina Tar Heels,75,67,Syracuse Orange,142,8,JMA Wireless Dome,False,True
+401488937,2023-02-09,2023,Miami Hurricanes,Florida State Seminoles,86,82,Miami Hurricanes,168,4,Watsco Center,False,True
+401488943,2023-02-10,2023,Wake Forest Demon Deacons,NC State Wolfpack,42,51,NC State Wolfpack,93,9,LJVM Coliseum,False,True
+401498690,2023-02-11,2023,Utah Utes,Washington Huskies,92,69,Utah Utes,161,23,Jon M. Huntsman Center,False,True
+401498687,2023-02-11,2023,UCLA Bruins,Oregon State Beavers,62,54,UCLA Bruins,116,8,Pauley Pavilion,False,True
+401498689,2023-02-11,2023,Colorado Buffaloes,Washington State Cougars,71,68,Colorado Buffaloes,139,3,CU Events Center,False,True
+401487232,2023-02-11,2023,Georgetown Hoyas,UConn Huskies,59,67,UConn Huskies,126,8,CareFirst Arena,False,True
+401487234,2023-02-11,2023,Villanova Wildcats,Seton Hall Pirates,99,65,Villanova Wildcats,164,34,Finneran Pavilion,False,True
+401494190,2023-02-11,2023,Texas Longhorns,TCU Horned Frogs,70,50,Texas Longhorns,120,20,Moody Center,False,True
+401494188,2023-02-11,2023,West Virginia Mountaineers,Iowa State Cyclones,73,60,West Virginia Mountaineers,133,13,WVU Coliseum,False,True
+401474764,2023-02-11,2023,Gonzaga Bulldogs,Portland Pilots,63,53,Gonzaga Bulldogs,116,10,McCarthey Athletic Center,False,True
+401469465,2023-02-12,2023,South Carolina Gamecocks,LSU Tigers,88,64,South Carolina Gamecocks,152,24,Colonial Life Arena,False,True
+401484748,2023-02-12,2023,Iowa Hawkeyes,Rutgers Scarlet Knights,111,57,Iowa Hawkeyes,168,54,Carver-Hawkeye Arena,False,True
+401498693,2023-02-12,2023,Arizona State Sun Devils,Stanford Cardinal,64,96,Stanford Cardinal,160,32,Desert Financial Arena,False,True
+401498695,2023-02-12,2023,Utah Utes,Washington State Cougars,73,59,Utah Utes,132,14,Jon M. Huntsman Center,False,True
+401484747,2023-02-12,2023,Maryland Terrapins,Illinois Fighting Illini,82,71,Maryland Terrapins,153,11,XFINITY Center,False,True
+401488946,2023-02-12,2023,Duke Blue Devils,Miami Hurricanes,50,40,Duke Blue Devils,90,10,Cameron Indoor Stadium,False,True
+401488949,2023-02-12,2023,Notre Dame Fighting Irish,Syracuse Orange,73,64,Notre Dame Fighting Irish,137,9,Purcell Pavilion,False,True
+401488948,2023-02-12,2023,Virginia Tech Hokies,Florida State Seminoles,84,70,Virginia Tech Hokies,154,14,Cassell Coliseum,False,True
+401484749,2023-02-12,2023,Michigan Wolverines,Nebraska Cornhuskers,80,75,Michigan Wolverines,155,5,Crisler Center,False,True
+401488944,2023-02-12,2023,North Carolina Tar Heels,Boston College Eagles,73,55,North Carolina Tar Heels,128,18,Carmichael Arena,False,True
+401494191,2023-02-12,2023,Kansas State Wildcats,Oklahoma Sooners,68,85,Oklahoma Sooners,153,17,Bramlage Coliseum,False,True
+401498692,2023-02-12,2023,Arizona Wildcats,California Golden Bears,80,57,Arizona Wildcats,137,23,McKale Memorial Center,False,True
+401498697,2023-02-12,2023,UCLA Bruins,Oregon Ducks,67,57,UCLA Bruins,124,10,Pauley Pavilion,False,True
+401488945,2023-02-12,2023,Virginia Cavaliers,NC State Wolfpack,71,59,Virginia Cavaliers,130,12,John Paul Jones Arena,False,True
+401493067,2023-02-12,2023,South Florida Bulls,Houston Cougars,69,71,Houston Cougars,140,2,Yuengling Center,False,True
+401498694,2023-02-12,2023,Colorado Buffaloes,Washington Huskies,65,43,Colorado Buffaloes,108,22,CU Events Center,False,True
+401484752,2023-02-14,2023,Ohio State Buckeyes,Indiana Hoosiers,59,83,Indiana Hoosiers,142,24,Value City Arena,False,True
+401494192,2023-02-14,2023,Iowa State Cyclones,Texas Longhorns,66,61,Iowa State Cyclones,127,5,Hilton Coliseum,False,True
+401487236,2023-02-16,2023,UConn Huskies,Creighton Bluejays,62,60,UConn Huskies,122,2,Gampel Pavilion,False,True
+401484753,2023-02-16,2023,Iowa Hawkeyes,Wisconsin Badgers,91,61,Iowa Hawkeyes,152,30,Carver-Hawkeye Arena,False,True
+401487240,2023-02-16,2023,St. John's Red Storm,Villanova Wildcats,57,73,Villanova Wildcats,130,16,Carnesecca Arena,False,True
+401494195,2023-02-16,2023,Oklahoma Sooners,Texas Tech Lady Raiders,84,57,Oklahoma Sooners,141,27,Lloyd Noble Center,False,True
+401469474,2023-02-17,2023,South Carolina Gamecocks,Florida Gators,87,56,South Carolina Gamecocks,143,31,Colonial Life Arena,False,True
+401484757,2023-02-17,2023,Indiana Hoosiers,Michigan Wolverines,68,52,Indiana Hoosiers,120,16,Simon Skjodt Assembly Hall,False,True
+401469472,2023-02-17,2023,LSU Tigers,Ole Miss Rebels,69,60,LSU Tigers,129,9,Pete Maravich Assembly Center,False,True
+401488955,2023-02-17,2023,Virginia Tech Hokies,Duke Blue Devils,61,45,Virginia Tech Hokies,106,16,Cassell Coliseum,False,True
+401488957,2023-02-17,2023,Notre Dame Fighting Irish,Louisville Cardinals,78,76,Notre Dame Fighting Irish,154,2,Purcell Pavilion,False,True
+401484758,2023-02-17,2023,Penn State Lady Lions,Ohio State Buckeyes,55,67,Ohio State Buckeyes,122,12,Bryce Jordan Center,False,True
+401488956,2023-02-17,2023,NC State Wolfpack,North Carolina Tar Heels,77,66,NC State Wolfpack,143,11,Reynolds Coliseum,False,True
+401474769,2023-02-17,2023,Gonzaga Bulldogs,Pacific Tigers,69,58,Gonzaga Bulldogs,127,11,McCarthey Athletic Center,False,True
+401485691,2023-02-17,2023,UNLV Lady Rebels,San José State Spartans,77,60,UNLV Lady Rebels,137,17,Cox Pavilion,False,True
+401488951,2023-02-16,2023,Florida State Seminoles,Syracuse Orange,78,65,Florida State Seminoles,143,13,Tucker Center,False,True
+401498703,2023-02-18,2023,Stanford Cardinal,USC Trojans,50,47,Stanford Cardinal,97,3,Maples Pavilion,False,True
+401498699,2023-02-18,2023,Arizona Wildcats,Utah Utes,82,72,Arizona Wildcats,154,10,McKale Memorial Center,False,True
+401498700,2023-02-18,2023,California Golden Bears,UCLA Bruins,54,67,UCLA Bruins,121,13,Haas Pavilion,False,True
+401498698,2023-02-17,2023,Arizona State Sun Devils,Colorado Buffaloes,62,70,Colorado Buffaloes,132,8,Desert Financial Arena,False,True
+401487243,2023-02-18,2023,Villanova Wildcats,UConn Huskies,51,60,UConn Huskies,111,9,Finneran Pavilion,False,True
+401484759,2023-02-18,2023,Nebraska Cornhuskers,Iowa Hawkeyes,60,80,Iowa Hawkeyes,140,20,Pinnacle Bank Arena,False,True
+401484760,2023-02-18,2023,Michigan State Spartans,Maryland Terrapins,61,66,Maryland Terrapins,127,5,Breslin Center,False,True
+401474773,2023-02-18,2023,Gonzaga Bulldogs,Saint Mary's Gaels,65,51,Gonzaga Bulldogs,116,14,McCarthey Athletic Center,False,True
+401494196,2023-02-18,2023,Baylor Bears,Iowa State Cyclones,77,81,Iowa State Cyclones,158,4,Ferrell Center,False,True
+401469477,2023-02-19,2023,Ole Miss Rebels,South Carolina Gamecocks,57,64,South Carolina Gamecocks,121,7,The Sandy and John Black Pavilion at Ole Miss,False,True
+401484763,2023-02-19,2023,Indiana Hoosiers,Purdue Boilermakers,83,60,Indiana Hoosiers,143,23,Simon Skjodt Assembly Hall,False,True
+401498705,2023-02-19,2023,Arizona State Sun Devils,Utah Utes,69,74,Utah Utes,143,5,Desert Financial Arena,False,True
+401469475,2023-02-19,2023,Florida Gators,LSU Tigers,79,90,LSU Tigers,169,11,Stephen C. O'Connell Center,False,True
+401488962,2023-02-19,2023,Virginia Cavaliers,Duke Blue Devils,52,56,Duke Blue Devils,108,4,John Paul Jones Arena,False,True
+401488961,2023-02-19,2023,Pittsburgh Panthers,Notre Dame Fighting Irish,43,83,Notre Dame Fighting Irish,126,40,Petersen Events Center,False,True
+401488964,2023-02-19,2023,Virginia Tech Hokies,NC State Wolfpack,75,62,Virginia Tech Hokies,137,13,Cassell Coliseum,False,True
+401494199,2023-02-19,2023,Kansas Jayhawks,Oklahoma Sooners,80,86,Oklahoma Sooners,166,6,Allen Fieldhouse,False,True
+401494200,2023-02-19,2023,Texas Longhorns,West Virginia Mountaineers,74,48,Texas Longhorns,122,26,Moody Center,False,True
+401488963,2023-02-19,2023,North Carolina Tar Heels,Wake Forest Demon Deacons,71,58,North Carolina Tar Heels,129,13,Carmichael Arena,False,True
+401488960,2023-02-19,2023,Florida State Seminoles,Georgia Tech Yellow Jackets,80,66,Florida State Seminoles,146,14,Tucker Center,False,True
+401498707,2023-02-19,2023,California Golden Bears,USC Trojans,81,78,California Golden Bears,159,3,Haas Pavilion,False,True
+401498709,2023-02-21,2023,Stanford Cardinal,UCLA Bruins,71,66,Stanford Cardinal,137,5,Maples Pavilion,False,True
+401484764,2023-02-21,2023,Michigan Wolverines,Ohio State Buckeyes,61,74,Ohio State Buckeyes,135,13,Crisler Center,False,True
+401487246,2023-02-22,2023,UConn Huskies,St. John's Red Storm,64,69,St. John's Red Storm,133,5,PeoplesBank Arena,False,True
+401484766,2023-02-22,2023,Maryland Terrapins,Iowa Hawkeyes,96,68,Maryland Terrapins,164,28,XFINITY Center,False,True
+401487247,2023-02-22,2023,Villanova Wildcats,DePaul Blue Demons,67,64,Villanova Wildcats,131,3,Finneran Pavilion,False,True
+401494202,2023-02-23,2023,Oklahoma State Cowgirls,Iowa State Cyclones,73,68,Oklahoma State Cowgirls,141,5,Gallagher-Iba Arena,False,True
+401484767,2023-02-23,2023,Illinois Fighting Illini,Nebraska Cornhuskers,57,90,Nebraska Cornhuskers,147,33,State Farm Center,False,True
+401469486,2023-02-24,2023,Tennessee Lady Volunteers,South Carolina Gamecocks,60,73,South Carolina Gamecocks,133,13,Food City Center,False,True
+401498710,2023-02-23,2023,Colorado Buffaloes,Stanford Cardinal,62,73,Stanford Cardinal,135,11,CU Events Center,False,True
+401469488,2023-02-24,2023,Vanderbilt Commodores,LSU Tigers,63,82,LSU Tigers,145,19,Memorial Gymnasium (TN),False,True
+401498711,2023-02-24,2023,Utah Utes,California Golden Bears,101,76,Utah Utes,177,25,Jon M. Huntsman Center,False,True
+401488971,2023-02-24,2023,North Carolina Tar Heels,Virginia Tech Hokies,59,61,Virginia Tech Hokies,120,2,Carmichael Arena,False,True
+401488966,2023-02-23,2023,Notre Dame Fighting Irish,Georgia Tech Yellow Jackets,76,53,Notre Dame Fighting Irish,129,23,Purcell Pavilion,False,True
+401488970,2023-02-24,2023,Duke Blue Devils,NC State Wolfpack,77,62,Duke Blue Devils,139,15,Cameron Indoor Stadium,False,True
+401484770,2023-02-24,2023,Michigan Wolverines,Rutgers Scarlet Knights,71,53,Michigan Wolverines,124,18,Crisler Center,False,True
+401498713,2023-02-24,2023,Oregon Ducks,Arizona Wildcats,73,59,Oregon Ducks,132,14,Matthew Knight Arena,False,True
+401498712,2023-02-24,2023,UCLA Bruins,Washington State Cougars,55,62,Washington State Cougars,117,7,Pauley Pavilion,False,True
+401474777,2023-02-24,2023,San Diego Toreros,Gonzaga Bulldogs,61,73,Gonzaga Bulldogs,134,12,Jenny Craig Pavilion,False,True
+401488968,2023-02-23,2023,Wake Forest Demon Deacons,Florida State Seminoles,60,61,Florida State Seminoles,121,1,LJVM Coliseum,False,True
+401485700,2023-02-24,2023,UNLV Lady Rebels,Utah State Aggies,86,32,UNLV Lady Rebels,118,54,Cox Pavilion,False,True
+401492945,2023-02-24,2023,Ohio State Buckeyes,Maryland Terrapins,74,76,Maryland Terrapins,150,2,Value City Arena,False,True
+401487251,2023-02-25,2023,Villanova Wildcats,Providence Friars,67,50,Villanova Wildcats,117,17,Finneran Pavilion,False,True
+401498717,2023-02-25,2023,Utah Utes,Stanford Cardinal,84,78,Utah Utes,162,6,Jon M. Huntsman Center,False,True
+401487254,2023-02-25,2023,DePaul Blue Demons,UConn Huskies,69,72,UConn Huskies,141,3,Wintrust Arena,False,True
+401494207,2023-02-25,2023,Oklahoma Sooners,Texas Longhorns,45,67,Texas Longhorns,112,22,Lloyd Noble Center,False,True
+401498718,2023-02-25,2023,Oregon State Beavers,Arizona Wildcats,78,70,Oregon State Beavers,148,8,Gill Coliseum,False,True
+401498719,2023-02-25,2023,UCLA Bruins,Washington Huskies,70,62,UCLA Bruins,132,8,Pauley Pavilion,False,True
+401474780,2023-02-25,2023,BYU Cougars,Gonzaga Bulldogs,51,58,Gonzaga Bulldogs,109,7,Marriott Center,False,True
+401494206,2023-02-25,2023,Iowa State Cyclones,TCU Horned Frogs,84,56,Iowa State Cyclones,140,28,Hilton Coliseum,False,True
+401498716,2023-02-25,2023,Colorado Buffaloes,California Golden Bears,95,69,Colorado Buffaloes,164,26,CU Events Center,False,True
+401485705,2023-02-25,2023,UNLV Lady Rebels,San Diego State Aztecs,65,59,UNLV Lady Rebels,124,6,Cox Pavilion,False,True
+401492553,2023-02-25,2023,Louisiana Tech Lady Techsters,Middle Tennessee Blue Raiders,59,61,Middle Tennessee Blue Raiders,120,2,Thomas Assembly Center,False,True
+401469495,2023-02-26,2023,South Carolina Gamecocks,Georgia Lady Bulldogs,73,63,South Carolina Gamecocks,136,10,Colonial Life Arena,False,True
+401484775,2023-02-26,2023,Iowa Hawkeyes,Indiana Hoosiers,86,85,Iowa Hawkeyes,171,1,Carver-Hawkeye Arena,False,True
+401469493,2023-02-26,2023,LSU Tigers,Mississippi State Bulldogs,74,59,LSU Tigers,133,15,Pete Maravich Assembly Center,False,True
+401488977,2023-02-26,2023,Georgia Tech Yellow Jackets,Virginia Tech Hokies,52,65,Virginia Tech Hokies,117,13,McCamish Pavilion,False,True
+401488978,2023-02-26,2023,Louisville Cardinals,Notre Dame Fighting Irish,65,68,Notre Dame Fighting Irish,133,3,KFC Yum! Center,False,True
+401488972,2023-02-26,2023,Duke Blue Devils,North Carolina Tar Heels,41,45,North Carolina Tar Heels,86,4,Cameron Indoor Stadium,False,True
+401484776,2023-02-26,2023,Wisconsin Badgers,Michigan Wolverines,78,70,Wisconsin Badgers,148,8,Kohl Center,False,True
+401488974,2023-02-26,2023,Clemson Tigers,Florida State Seminoles,74,61,Clemson Tigers,135,13,Littlejohn Coliseum,False,True
+401484774,2023-02-26,2023,Rutgers Scarlet Knights,Illinois Fighting Illini,53,75,Illinois Fighting Illini,128,22,Jersey Mike’s Arena,False,True
+401487259,2023-02-28,2023,UConn Huskies,Xavier Musketeers,60,51,UConn Huskies,111,9,Gampel Pavilion,False,True
+401487257,2023-02-28,2023,Seton Hall Pirates,Villanova Wildcats,56,83,Villanova Wildcats,139,27,Walsh Gymnasium,False,True
+401494210,2023-02-28,2023,Texas Longhorns,Baylor Bears,54,63,Baylor Bears,117,9,Moody Center,False,True
+401485709,2023-03-01,2023,Nevada Wolf Pack,UNLV Lady Rebels,66,71,UNLV Lady Rebels,137,5,Lawlor Events Center,False,True
+401494212,2023-03-02,2023,Oklahoma Sooners,Kansas State Wildcats,90,86,Oklahoma Sooners,176,4,Lloyd Noble Center,False,True
+401494211,2023-03-02,2023,Kansas Jayhawks,Iowa State Cyclones,98,93,Kansas Jayhawks,191,5,Allen Fieldhouse,False,True
+401493088,2023-03-02,2023,Cincinnati Bearcats,South Florida Bulls,55,85,South Florida Bulls,140,30,Fifth Third Arena,False,True
+401492554,2023-03-03,2023,Middle Tennessee Blue Raiders,North Texas Mean Green,72,45,Middle Tennessee Blue Raiders,117,27,Murphy Center,False,True
+401513699,2023-03-03,2023,Wofford Terriers,UNC Greensboro Spartans,68,63,Wofford Terriers,131,5,Harrah's Cherokee Center,True,True
+401513483,2023-03-03,2023,Butler Bulldogs,Georgetown Hoyas,46,53,Georgetown Hoyas,99,7,Mohegan Sun Arena,True,True
+401513415,2023-03-03,2023,Massachusetts Minutemen,George Mason Patriots,63,50,Massachusetts Minutemen,113,13,Chase Fieldhouse,True,True
+401513341,2023-03-03,2023,Louisville Cardinals,Wake Forest Demon Deacons,74,48,Louisville Cardinals,122,26,First Horizon Coliseum,True,True
+401513688,2023-03-03,2023,South Carolina Gamecocks,Arkansas Razorbacks,93,66,South Carolina Gamecocks,159,27,Bon Secours Wellness Arena,True,True
+401516441,2023-03-03,2023,Indiana Hoosiers,Michigan State Spartans,94,85,Indiana Hoosiers,179,9,Target Center,True,True
+401513717,2023-03-03,2023,James Madison Dukes,Marshall Thundering Herd,62,43,James Madison Dukes,105,19,Pensacola Bay Center,True,True
+401513702,2023-03-03,2023,St. Thomas-Minnesota Tommies,Western Illinois Leathernecks,61,50,St. Thomas-Minnesota Tommies,111,11,Denny Sanford Premier Center,True,True
+401513700,2023-03-03,2023,Chattanooga Mocs,East Tennessee State Bucs,69,40,Chattanooga Mocs,109,29,Harrah's Cherokee Center,True,True
+401513485,2023-03-03,2023,DePaul Blue Demons,Providence Friars,67,54,DePaul Blue Demons,121,13,Mohegan Sun Arena,True,True
+401513416,2023-03-03,2023,Fordham Rams,Richmond Spiders,65,70,Richmond Spiders,135,5,Chase Fieldhouse,True,True
+401513668,2023-03-03,2023,Little Rock Trojans,Southeast Missouri State Redhawks,49,35,Little Rock Trojans,84,14,Ford Center,True,True
+401513340,2023-03-03,2023,Notre Dame Fighting Irish,NC State Wolfpack,66,60,Notre Dame Fighting Irish,126,6,First Horizon Coliseum,True,True
+401513690,2023-03-03,2023,Ole Miss Rebels,Texas A&M Aggies,77,60,Ole Miss Rebels,137,17,Bon Secours Wellness Arena,True,True
+401513737,2023-03-03,2023,BYU Cougars,Pepperdine Waves,74,59,BYU Cougars,133,15,Orleans Arena,True,True
+401513718,2023-03-03,2023,Troy Trojans,Old Dominion Monarchs,83,86,Old Dominion Monarchs,169,3,Pensacola Bay Center,True,True
+401516443,2023-03-03,2023,Ohio State Buckeyes,Michigan Wolverines,81,79,Ohio State Buckeyes,160,2,Target Center,True,True
+401513703,2023-03-03,2023,Denver Pioneers,Kansas City Roos,65,66,Kansas City Roos,131,1,Denny Sanford Premier Center,True,True
+401513484,2023-03-03,2023,Seton Hall Pirates,Xavier Musketeers,84,58,Seton Hall Pirates,142,26,Mohegan Sun Arena,True,True
+401513669,2023-03-03,2023,Eastern Illinois Panthers,Tennessee Tech Golden Eagles,61,66,Tennessee Tech Golden Eagles,127,5,Ford Center,True,True
+401513418,2023-03-03,2023,Rhode Island Rams,George Washington Revolutionaries,68,56,Rhode Island Rams,124,12,Chase Fieldhouse,True,True
+401513738,2023-03-03,2023,Pacific Tigers,Saint Mary's Gaels,82,77,Pacific Tigers,159,5,Orleans Arena,True,True
+401513691,2023-03-03,2023,LSU Tigers,Georgia Lady Bulldogs,83,66,LSU Tigers,149,17,Bon Secours Wellness Arena,True,True
+401513343,2023-03-03,2023,Duke Blue Devils,North Carolina Tar Heels,44,40,Duke Blue Devils,84,4,First Horizon Coliseum,True,True
+401513719,2023-03-03,2023,Southern Miss Lady Eagles,Arkansas State Red Wolves,79,72,Southern Miss Lady Eagles,151,7,Pensacola Bay Center,True,True
+401516444,2023-03-03,2023,Iowa Hawkeyes,Purdue Boilermakers,69,58,Iowa Hawkeyes,127,11,Target Center,True,True
+401487568,2023-03-04,2023,Pennsylvania Quakers,Princeton Tigers,52,71,Princeton Tigers,123,19,The Palestra,False,True
+401513417,2023-03-04,2023,Saint Louis Billikens,Saint Joseph's Hawks,59,44,Saint Louis Billikens,103,15,Chase Fieldhouse,True,True
+401513689,2023-03-04,2023,Tennessee Lady Volunteers,Kentucky Wildcats,80,71,Tennessee Lady Volunteers,151,9,Bon Secours Wellness Arena,True,True
+401513342,2023-03-04,2023,Virginia Tech Hokies,Miami Hurricanes,68,42,Virginia Tech Hokies,110,26,First Horizon Coliseum,True,True
+401516446,2023-03-04,2023,Maryland Terrapins,Illinois Fighting Illini,73,58,Maryland Terrapins,131,15,Target Center,True,True
+401513720,2023-03-04,2023,Texas State Bobcats,App State Mountaineers,56,47,Texas State Bobcats,103,9,Pensacola Bay Center,True,True
+401513679,2023-03-04,2023,Stanford Cardinal,UCLA Bruins,65,69,UCLA Bruins,134,4,Michelob ULTRA Arena,True,True
+401513680,2023-03-04,2023,Colorado Buffaloes,Washington State Cougars,49,61,Washington State Cougars,110,12,Michelob ULTRA Arena,True,True
+401494217,2023-03-04,2023,Kansas State Wildcats,Texas Longhorns,52,80,Texas Longhorns,132,28,Bramlage Coliseum,False,True
+401494216,2023-03-04,2023,Oklahoma State Cowgirls,Oklahoma Sooners,71,80,Oklahoma Sooners,151,9,Gallagher-Iba Arena,False,True
+401494218,2023-03-04,2023,Iowa State Cyclones,Texas Tech Lady Raiders,76,52,Iowa State Cyclones,128,24,Hilton Coliseum,False,True
+401491917,2023-03-04,2023,Middle Tennessee Blue Raiders,UTEP Miners,72,68,Middle Tennessee Blue Raiders,140,4,Murphy Center,False,True
+401513701,2023-03-05,2023,Wofford Terriers,Chattanooga Mocs,53,63,Chattanooga Mocs,116,10,Harrah's Cherokee Center,True,True
+401513421,2023-03-05,2023,Massachusetts Minutemen,Saint Louis Billikens,85,91,Saint Louis Billikens,176,6,Chase Fieldhouse,True,True
+401513721,2023-03-05,2023,James Madison Dukes,Old Dominion Monarchs,70,64,James Madison Dukes,134,6,Pensacola Bay Center,True,True
+401523984,2023-03-05,2023,Vermont Catamounts,UMBC Retrievers,75,63,Vermont Catamounts,138,12,Patrick Gymnasium,False,True
+401513346,2023-03-05,2023,Virginia Tech Hokies,Louisville Cardinals,75,67,Virginia Tech Hokies,142,8,First Horizon Coliseum,True,True
+401513706,2023-03-05,2023,South Dakota Coyotes,Oral Roberts Golden Eagles,69,92,Oral Roberts Golden Eagles,161,23,Denny Sanford Premier Center,True,True
+401524086,2023-03-05,2023,Northern Arizona Lumberjacks,Northern Colorado Bears,64,48,Northern Arizona Lumberjacks,112,16,Idaho Central Arena,True,True
+401523983,2023-03-05,2023,UAlbany Great Danes,Maine Black Bears,72,64,UAlbany Great Danes,136,8,Broadview Center,False,True
+401513694,2023-03-05,2023,South Carolina Gamecocks,Tennessee Lady Volunteers,74,58,South Carolina Gamecocks,132,16,Bon Secours Wellness Arena,True,True
+401513490,2023-03-05,2023,UConn Huskies,Marquette Golden Eagles,81,52,UConn Huskies,133,29,Mohegan Sun Arena,True,True
+401513722,2023-03-05,2023,Texas State Bobcats,Southern Miss Lady Eagles,85,57,Texas State Bobcats,142,28,Pensacola Bay Center,True,True
+401513707,2023-03-05,2023,North Dakota Fighting Hawks,Omaha Mavericks,81,84,Omaha Mavericks,165,3,Denny Sanford Premier Center,True,True
+401513403,2023-03-05,2023,Austin Peay Governors,Eastern Kentucky Colonels,73,55,Austin Peay Governors,128,18,Winfield Dunn Center,False,True
+401513401,2023-03-05,2023,Liberty Flames,Kennesaw State Owls,91,70,Liberty Flames,161,21,Liberty Arena (VA),False,True
+401524087,2023-03-05,2023,Montana State Bobcats,Portland State Vikings,65,77,Portland State Vikings,142,12,Idaho Central Arena,True,True
+401516455,2023-03-05,2023,Nevada Wolf Pack,Fresno State Bulldogs,65,53,Nevada Wolf Pack,118,12,Thomas & Mack Center,True,True
+401513404,2023-03-05,2023,Florida Gulf Coast Eagles,Stetson Hatters,66,48,Florida Gulf Coast Eagles,114,18,Alico Arena,False,True
+401516450,2023-03-05,2023,Iowa Hawkeyes,Ohio State Buckeyes,105,72,Iowa Hawkeyes,177,33,Target Center,True,True
+401513681,2023-03-05,2023,UCLA Bruins,Washington State Cougars,61,65,Washington State Cougars,126,4,Michelob ULTRA Arena,True,True
+401513491,2023-03-05,2023,Villanova Wildcats,Creighton Bluejays,63,61,Villanova Wildcats,124,2,Mohegan Sun Arena,True,True
+401513501,2023-03-05,2023,Gardner-Webb Runnin' Bulldogs,High Point Panthers,74,61,Gardner-Webb Runnin' Bulldogs,135,13,Bojangles Coliseum,True,True
+401513402,2023-03-06,2023,Lipscomb Bisons,North Alabama Lions,63,53,Lipscomb Bisons,116,10,Allen Arena,False,True
+401516456,2023-03-06,2023,Air Force Falcons,San José State Spartans,51,62,San José State Spartans,113,11,Thomas & Mack Center,True,True
+401516457,2023-03-06,2023,Boise State Broncos,Utah State Aggies,66,58,Boise State Broncos,124,8,Thomas & Mack Center,True,True
+401524195,2023-03-06,2023,East Texas A&M Lions,Northwestern State Lady Demons,79,66,East Texas A&M Lions,145,13,Townsley Law Arena,True,True
+401513570,2023-03-06,2023,Green Bay Phoenix,Purdue Fort Wayne Mastodons,69,65,Green Bay Phoenix,134,4,Corteva Coliseum,True,True
+401513708,2023-03-06,2023,South Dakota State Jackrabbits,Oral Roberts Golden Eagles,87,60,South Dakota State Jackrabbits,147,27,Denny Sanford Premier Center,True,True
+401524088,2023-03-06,2023,Eastern Washington Eagles,Montana Lady Griz,72,64,Eastern Washington Eagles,136,8,Idaho Central Arena,True,True
+401516410,2023-03-06,2023,Wichita State Shockers,Temple Owls,71,61,Wichita State Shockers,132,10,Dickies Arena,True,True
+401513723,2023-03-06,2023,James Madison Dukes,Texas State Bobcats,81,51,James Madison Dukes,132,30,Pensacola Bay Center,True,True
+401524196,2023-03-06,2023,McNeese Cowgirls,New Orleans Privateers,87,82,McNeese Cowgirls,169,5,Townsley Law Arena,False,True
+401513571,2023-03-06,2023,Cleveland State Vikings,Northern Kentucky Norse,63,60,Cleveland State Vikings,123,3,Corteva Coliseum,True,True
+401516458,2023-03-06,2023,UNLV Lady Rebels,Nevada Wolf Pack,84,47,UNLV Lady Rebels,131,37,Thomas & Mack Center,False,True
+401513741,2023-03-06,2023,Gonzaga Bulldogs,BYU Cougars,79,64,Gonzaga Bulldogs,143,15,Orleans Arena,True,True
+401513724,2023-03-06,2023,Abilene Christian Wildcats,Sam Houston Bearkats,81,82,Sam Houston Bearkats,163,1,Michelob ULTRA Arena,True,True
+401513709,2023-03-06,2023,Omaha Mavericks,Kansas City Roos,69,60,Omaha Mavericks,129,9,Denny Sanford Premier Center,True,True
+401516411,2023-03-06,2023,Tulsa Golden Hurricane,UCF Knights,53,69,UCF Knights,122,16,Dickies Arena,True,True
+401524089,2023-03-06,2023,Sacramento State Hornets,Idaho Vandals,73,58,Sacramento State Hornets,131,15,Idaho Central Arena,True,True
+401516459,2023-03-06,2023,New Mexico Lobos,San Diego State Aztecs,68,69,San Diego State Aztecs,137,1,Thomas & Mack Center,True,True
+401513747,2023-03-06,2023,Portland Pilots,Pacific Tigers,75,72,Portland Pilots,147,3,Orleans Arena,True,True
+401513725,2023-03-06,2023,Utah Tech Trailblazers,Utah Valley Wolverines,72,68,Utah Tech Trailblazers,140,4,Michelob ULTRA Arena,True,True
+401519458,2023-03-06,2023,Boston University Terriers,Loyola Maryland Greyhounds,66,52,Boston University Terriers,118,14,Case Gym,False,True
+401519455,2023-03-06,2023,Lehigh Mountain Hawks,Bucknell Bison,63,55,Lehigh Mountain Hawks,118,8,Stabler Arena,False,True
+401516412,2023-03-06,2023,Tulane Green Wave,Cincinnati Bearcats,61,52,Tulane Green Wave,113,9,Dickies Arena,True,True
+401519456,2023-03-07,2023,Colgate Raiders,Army Black Knights,50,55,Army Black Knights,105,5,Cotterell Court,False,True
+401519454,2023-03-07,2023,Holy Cross Crusaders,American University Eagles,73,44,Holy Cross Crusaders,117,29,Hart Center,False,True
+401513660,2023-03-07,2023,Fairleigh Dickinson Knights,Central Connecticut Blue Devils,74,48,Fairleigh Dickinson Knights,122,26,Bogota Savings Bank Center,False,True
+401513659,2023-03-07,2023,Sacred Heart Pioneers,Long Island University Sharks,63,44,Sacred Heart Pioneers,107,19,William H. Pitt Center,False,True
+401513658,2023-03-07,2023,Merrimack Warriors,Saint Francis Red Flash,66,60,Merrimack Warriors,126,6,Hammel Court,False,True
+401513657,2023-03-07,2023,St. Francis Brooklyn Terriers,Wagner Seahawks,58,51,St. Francis Brooklyn Terriers,109,7,Pope Physical Education Center,False,True
+401513492,2023-03-07,2023,UConn Huskies,Villanova Wildcats,67,56,UConn Huskies,123,11,Mohegan Sun Arena,True,True
+401516460,2023-03-07,2023,Wyoming Cowgirls,San José State Spartans,72,57,Wyoming Cowgirls,129,15,Thomas & Mack Center,True,True
+401513727,2023-03-07,2023,New Mexico State Aggies,UT Rio Grande Valley Vaqueros,65,49,New Mexico State Aggies,114,16,Michelob ULTRA Arena,True,True
+401516461,2023-03-07,2023,Colorado State Rams,Boise State Broncos,59,52,Colorado State Rams,111,7,Thomas & Mack Center,True,True
+401513726,2023-03-07,2023,UT Arlington Mavericks,Seattle U Redhawks,78,80,Seattle U Redhawks,158,2,Michelob ULTRA Arena,True,True
+401513576,2023-03-07,2023,Mount St. Mary's Mountaineers,Canisius Golden Griffins,54,41,Mount St. Mary's Mountaineers,95,13,Jim Whelan Boardwalk Hall,True,True
+401524197,2023-03-07,2023,Incarnate Word Cardinals,East Texas A&M Lions,62,65,East Texas A&M Lions,127,3,Townsley Law Arena,True,True
+401513572,2023-03-07,2023,Green Bay Phoenix,Cleveland State Vikings,61,73,Cleveland State Vikings,134,12,Corteva Coliseum,True,True
+401513578,2023-03-07,2023,Marist Red Foxes,Rider Broncs,50,63,Rider Broncs,113,13,Jim Whelan Boardwalk Hall,True,True
+401516413,2023-03-07,2023,South Florida Bulls,Wichita State Shockers,53,65,Wichita State Shockers,118,12,Dickies Arena,True,True
+401524090,2023-03-07,2023,Northern Arizona Lumberjacks,Eastern Washington Eagles,74,57,Northern Arizona Lumberjacks,131,17,Idaho Central Arena,True,True
+401513710,2023-03-07,2023,South Dakota State Jackrabbits,Omaha Mavericks,93,51,South Dakota State Jackrabbits,144,42,Denny Sanford Premier Center,True,True
+401524198,2023-03-07,2023,Lamar Cardinals,McNeese Cowgirls,80,75,Lamar Cardinals,155,5,Townsley Law Arena,True,True
+401513577,2023-03-07,2023,Manhattan Jaspers,Saint Peter's Peacocks,59,56,Manhattan Jaspers,115,3,Jim Whelan Boardwalk Hall,True,True
+401513502,2023-03-07,2023,Cal State Northridge Matadors,Cal State Bakersfield Roadrunners,52,55,Cal State Bakersfield Roadrunners,107,3,Lee's Family Forum,True,True
+401516414,2023-03-07,2023,Houston Cougars,SMU Mustangs,52,33,Houston Cougars,85,19,Dickies Arena,True,True
+401513789,2023-03-07,2023,Gonzaga Bulldogs,Portland Pilots,60,64,Portland Pilots,124,4,Orleans Arena,True,True
+401524091,2023-03-07,2023,Sacramento State Hornets,Portland State Vikings,60,42,Sacramento State Hornets,102,18,Idaho Central Arena,True,True
+401513503,2023-03-07,2023,Cal Poly Mustangs,UC Riverside Highlanders,54,63,UC Riverside Highlanders,117,9,Lee's Family Forum,True,True
+401516415,2023-03-08,2023,Memphis Tigers,UCF Knights,48,46,Memphis Tigers,94,2,Dickies Arena,True,True
+401516462,2023-03-08,2023,UNLV Lady Rebels,San Diego State Aztecs,71,68,UNLV Lady Rebels,139,3,Thomas & Mack Center,True,True
+401516416,2023-03-08,2023,East Carolina Pirates,Tulane Green Wave,69,58,East Carolina Pirates,127,11,Dickies Arena,True,True
+401516463,2023-03-08,2023,Wyoming Cowgirls,Colorado State Rams,65,56,Wyoming Cowgirls,121,9,Thomas & Mack Center,True,True
+401524072,2023-03-08,2023,Toledo Rockets,Buffalo Bulls,75,74,Toledo Rockets,149,1,Rocket Arena,True,True
+401527472,2023-03-08,2023,Alabama A&M Bulldogs,Arkansas-Pine Bluff Golden Lions,55,62,Arkansas-Pine Bluff Golden Lions,117,7,Bartow Arena,True,True
+401524199,2023-03-08,2023,SE Louisiana Lady Lions,East Texas A&M Lions,60,58,SE Louisiana Lady Lions,118,2,Townsley Law Arena,True,True
+401516420,2023-03-08,2023,Florida International Panthers,Charlotte 49ers,59,72,Charlotte 49ers,131,13,Ford Center At The Star,True,True
+401513590,2023-03-08,2023,Norfolk State Spartans,South Carolina State Lady Bulldogs,61,37,Norfolk State Spartans,98,24,Norfolk Scope Arena,True,True
+401513579,2023-03-08,2023,Iona Gaels,Mount St. Mary's Mountaineers,39,37,Iona Gaels,76,2,Jim Whelan Boardwalk Hall,True,True
+401524074,2023-03-08,2023,Kent State Golden Flashes,Northern Illinois Huskies,75,68,Kent State Golden Flashes,143,7,Rocket Arena,True,True
+401519418,2023-03-08,2023,Hofstra Pride,UNC Wilmington Seahawks,61,58,Hofstra Pride,119,3,SECU Arena,True,True
+401513591,2023-03-08,2023,Morgan State Lady Bears,Maryland Eastern Shore Hawks,46,49,Maryland Eastern Shore Hawks,95,3,Norfolk Scope Arena,True,True
+401524200,2023-03-08,2023,Texas A&M-Corpus Christi Islanders,Lamar Cardinals,53,65,Lamar Cardinals,118,12,Townsley Law Arena,True,False
+401516421,2023-03-08,2023,North Texas Mean Green,UAB Blazers,71,75,UAB Blazers,146,4,Ford Center At The Star,True,True
+401516422,2023-03-08,2023,UTSA Roadrunners,Florida Atlantic Owls,69,68,UTSA Roadrunners,137,1,Ford Center At The Star,True,True
+401513728,2023-03-08,2023,Stephen F. Austin Ladyjacks,Sam Houston Bearkats,74,59,Stephen F. Austin Ladyjacks,133,15,Orleans Arena,True,True
+401513504,2023-03-08,2023,UC Irvine Anteaters,Cal State Bakersfield Roadrunners,59,61,Cal State Bakersfield Roadrunners,120,2,Lee's Family Forum,True,True
+401513580,2023-03-08,2023,Niagara Purple Eagles,Rider Broncs,67,64,Niagara Purple Eagles,131,3,Jim Whelan Boardwalk Hall,True,True
+401524076,2023-03-08,2023,Bowling Green Falcons,Eastern Michigan Eagles,70,36,Bowling Green Falcons,106,34,Rocket Arena,True,True
+401524092,2023-03-08,2023,Northern Arizona Lumberjacks,Sacramento State Hornets,63,76,Sacramento State Hornets,139,13,Idaho Central Arena,True,True
+401516417,2023-03-08,2023,Houston Cougars,Wichita State Shockers,72,64,Houston Cougars,136,8,Dickies Arena,True,True
+401513729,2023-03-08,2023,California Baptist Lancers,Utah Tech Trailblazers,81,72,California Baptist Lancers,153,9,Orleans Arena,True,True
+401513505,2023-03-08,2023,UC Davis Aggies,UC Santa Barbara Gauchos,36,70,UC Santa Barbara Gauchos,106,34,Lee's Family Forum,True,True
+401527473,2023-03-08,2023,Jackson State Lady Tigers,Grambling Lady Tigers,59,50,Jackson State Lady Tigers,109,9,Bartow Arena,True,True
+401524077,2023-03-08,2023,Ball State Cardinals,Akron Zips,92,68,Ball State Cardinals,160,24,Rocket Arena,True,True
+401513406,2023-03-09,2023,Liberty Flames,Lipscomb Bisons,84,56,Liberty Flames,140,28,Liberty Arena (VA),False,True
+401513405,2023-03-09,2023,Florida Gulf Coast Eagles,Austin Peay Governors,51,34,Florida Gulf Coast Eagles,85,17,Alico Arena,False,True
+401516418,2023-03-09,2023,Memphis Tigers,East Carolina Pirates,60,69,East Carolina Pirates,129,9,Dickies Arena,True,True
+401513731,2023-03-09,2023,Southern Utah Thunderbirds,New Mexico State Aggies,62,61,Southern Utah Thunderbirds,123,1,Orleans Arena,True,True
+401513507,2023-03-09,2023,Long Beach State Beach,UC Riverside Highlanders,55,49,Long Beach State Beach,104,6,Lee's Family Forum,True,True
+401516464,2023-03-09,2023,UNLV Lady Rebels,Wyoming Cowgirls,71,60,UNLV Lady Rebels,131,11,Thomas & Mack Center,True,True
+401513730,2023-03-09,2023,Grand Canyon Lopes,Seattle U Redhawks,85,80,Grand Canyon Lopes,165,5,Orleans Arena,True,True
+401513506,2023-03-09,2023,Hawai'i Rainbow Wahine,Cal State Fullerton Titans,82,75,Hawai'i Rainbow Wahine,157,7,Lee's Family Forum,True,True
+401527474,2023-03-09,2023,Alabama State Lady Hornets,Bethune-Cookman Wildcats,70,61,Alabama State Lady Hornets,131,9,Bartow Arena,True,True
+401519419,2023-03-09,2023,Delaware Blue Hens,Hampton Lady Pirates,67,78,Hampton Lady Pirates,145,11,SECU Arena,True,True
+401516423,2023-03-09,2023,Middle Tennessee Blue Raiders,Charlotte 49ers,84,53,Middle Tennessee Blue Raiders,137,31,Ford Center At The Star,True,True
+401513592,2023-03-09,2023,North Carolina Central Eagles,Coppin State Eagles,57,50,North Carolina Central Eagles,107,7,Norfolk Scope Arena,True,True
+401516425,2023-03-09,2023,UTEP Miners,Louisiana Tech Lady Techsters,64,54,UTEP Miners,118,10,Ford Center At The Star,True,True
+401513646,2023-03-09,2023,Murray State Racers,Evansville Purple Aces,88,46,Murray State Racers,134,42,Vibrant Arena at The MARK,True,True
+401513582,2023-03-09,2023,Quinnipiac Bobcats,Manhattan Jaspers,43,50,Manhattan Jaspers,93,7,Jim Whelan Boardwalk Hall,True,True
+401513593,2023-03-09,2023,Howard Bison,Delaware State Hornets,67,35,Howard Bison,102,32,Norfolk Scope Arena,True,True
+401519420,2023-03-09,2023,North Carolina A&T Aggies,Hofstra Pride,59,66,Hofstra Pride,125,7,SECU Arena,True,True
+401516424,2023-03-09,2023,Western Kentucky Lady Toppers,UAB Blazers,71,67,Western Kentucky Lady Toppers,138,4,Ford Center At The Star,True,True
+401516426,2023-03-09,2023,Rice Owls,UTSA Roadrunners,54,62,UTSA Roadrunners,116,8,Ford Center At The Star,True,True
+401513647,2023-03-09,2023,Missouri State Bears,Bradley Braves,71,53,Missouri State Bears,124,18,Vibrant Arena at The MARK,True,True
+401513583,2023-03-09,2023,Siena Saints,Fairfield Stags,59,53,Siena Saints,112,6,Jim Whelan Boardwalk Hall,True,True
+401524201,2023-03-09,2023,SE Louisiana Lady Lions,Lamar Cardinals,66,57,SE Louisiana Lady Lions,123,9,Townsley Law Arena,True,True
+401519421,2023-03-09,2023,Monmouth Hawks,Charleston Cougars,69,54,Monmouth Hawks,123,15,SECU Arena,True,True
+401519460,2023-03-09,2023,Boston University Terriers,Army Black Knights,84,68,Boston University Terriers,152,16,Case Gym,False,True
+401513474,2023-03-09,2023,Texas Tech Lady Raiders,Kansas State Wildcats,69,79,Kansas State Wildcats,148,10,Municipal Auditorium (MO),True,True
+401527475,2023-03-09,2023,Southern Jaguars,Prairie View A&M Lady Panthers,64,37,Southern Jaguars,101,27,Bartow Arena,True,True
+401519459,2023-03-10,2023,Holy Cross Crusaders,Lehigh Mountain Hawks,71,54,Holy Cross Crusaders,125,17,Hart Center,False,True
+401513662,2023-03-10,2023,Fairleigh Dickinson Knights,St. Francis Brooklyn Terriers,59,40,Fairleigh Dickinson Knights,99,19,Bogota Savings Bank Center,False,True
+401513661,2023-03-10,2023,Sacred Heart Pioneers,Merrimack Warriors,68,61,Sacred Heart Pioneers,129,7,William H. Pitt Center,False,True
+401513649,2023-03-10,2023,Southern Illinois Salukis,Indiana State Sycamores,81,79,Southern Illinois Salukis,160,2,Vibrant Arena at The MARK,True,True
+401519422,2023-03-10,2023,Stony Brook Seawolves,Elon Phoenix,54,51,Stony Brook Seawolves,105,3,SECU Arena,True,True
+401513475,2023-03-10,2023,Kansas Jayhawks,TCU Horned Frogs,52,57,TCU Horned Frogs,109,5,Municipal Auditorium (MO),True,True
+401516419,2023-03-10,2023,East Carolina Pirates,Houston Cougars,46,44,East Carolina Pirates,90,2,Dickies Arena,True,True
+401513648,2023-03-10,2023,UIC Flames,Valparaiso Beacons,72,47,UIC Flames,119,25,Vibrant Arena at The MARK,True,True
+401524079,2023-03-10,2023,Toledo Rockets,Kent State Golden Flashes,68,58,Toledo Rockets,126,10,Rocket Arena,True,True
+401513585,2023-03-10,2023,Iona Gaels,Siena Saints,67,66,Iona Gaels,133,1,Jim Whelan Boardwalk Hall,True,True
+401527476,2023-03-10,2023,Alabama State Lady Hornets,Arkansas-Pine Bluff Golden Lions,66,71,Arkansas-Pine Bluff Golden Lions,137,5,Bartow Arena,True,True
+401519423,2023-03-10,2023,Towson Tigers,Hampton Lady Pirates,87,65,Towson Tigers,152,22,SECU Arena,False,True
+401513594,2023-03-10,2023,Norfolk State Spartans,North Carolina Central Eagles,81,59,Norfolk State Spartans,140,22,Norfolk Scope Arena,True,True
+401513477,2023-03-10,2023,Oklahoma State Cowgirls,West Virginia Mountaineers,62,61,Oklahoma State Cowgirls,123,1,Municipal Auditorium (MO),True,True
+401524080,2023-03-10,2023,Bowling Green Falcons,Ball State Cardinals,70,61,Bowling Green Falcons,131,9,Rocket Arena,True,True
+401513650,2023-03-10,2023,Illinois State Redbirds,Murray State Racers,75,73,Illinois State Redbirds,148,2,Vibrant Arena at The MARK,True,True
+401513586,2023-03-10,2023,Niagara Purple Eagles,Manhattan Jaspers,68,81,Manhattan Jaspers,149,13,Jim Whelan Boardwalk Hall,True,True
+401519424,2023-03-10,2023,William & Mary Tribe,Hofstra Pride,74,64,William & Mary Tribe,138,10,SECU Arena,True,True
+401513476,2023-03-10,2023,Texas Longhorns,Kansas State Wildcats,60,42,Texas Longhorns,102,18,Municipal Auditorium (MO),True,True
+401513595,2023-03-10,2023,Howard Bison,Maryland Eastern Shore Hawks,62,60,Howard Bison,122,2,Norfolk Scope Arena,True,True
+401513732,2023-03-10,2023,Stephen F. Austin Ladyjacks,California Baptist Lancers,64,69,California Baptist Lancers,133,5,Orleans Arena,True,True
+401513508,2023-03-10,2023,UC Santa Barbara Gauchos,Cal State Bakersfield Roadrunners,75,66,UC Santa Barbara Gauchos,141,9,Lee's Family Forum,True,True
+401513651,2023-03-10,2023,Drake Bulldogs,Missouri State Bears,73,70,Drake Bulldogs,143,3,Vibrant Arena at The MARK,True,True
+401513573,2023-03-10,2023,Princeton Tigers,Pennsylvania Quakers,60,47,Princeton Tigers,107,13,Jadwin Gymnasium,True,True
+401523985,2023-03-10,2023,Vermont Catamounts,UAlbany Great Danes,38,36,Vermont Catamounts,74,2,Patrick Gymnasium,False,True
+401519425,2023-03-10,2023,Drexel Dragons,Monmouth Hawks,59,65,Monmouth Hawks,124,6,SECU Arena,True,True
+401513509,2023-03-10,2023,Long Beach State Beach,Hawai'i Rainbow Wahine,62,67,Hawai'i Rainbow Wahine,129,5,Lee's Family Forum,True,True
+401513733,2023-03-10,2023,Southern Utah Thunderbirds,Grand Canyon Lopes,64,51,Southern Utah Thunderbirds,115,13,Orleans Arena,True,True
+401516427,2023-03-10,2023,Middle Tennessee Blue Raiders,UTEP Miners,68,62,Middle Tennessee Blue Raiders,130,6,Ford Center At The Star,True,True
+401513479,2023-03-10,2023,Oklahoma Sooners,TCU Horned Frogs,77,76,Oklahoma Sooners,153,1,Municipal Auditorium (MO),True,True
+401527477,2023-03-10,2023,Jackson State Lady Tigers,Southern Jaguars,64,65,Southern Jaguars,129,1,Bartow Arena,True,True
+401513653,2023-03-11,2023,Belmont Bruins,Southern Illinois Salukis,70,64,Belmont Bruins,134,6,Vibrant Arena at The MARK,True,True
+401513574,2023-03-11,2023,Columbia Lions,Harvard Crimson,65,72,Harvard Crimson,137,7,Jadwin Gymnasium,True,True
+401519426,2023-03-11,2023,Northeastern Huskies,Stony Brook Seawolves,85,68,Northeastern Huskies,153,17,SECU Arena,True,True
+401513478,2023-03-11,2023,Iowa State Cyclones,Baylor Bears,74,63,Iowa State Cyclones,137,11,Municipal Auditorium (MO),True,True
+401516428,2023-03-11,2023,Western Kentucky Lady Toppers,UTSA Roadrunners,70,55,Western Kentucky Lady Toppers,125,15,Ford Center At The Star,True,True
+401513652,2023-03-11,2023,Northern Iowa Panthers,UIC Flames,73,57,Northern Iowa Panthers,130,16,Vibrant Arena at The MARK,True,True
+401524082,2023-03-11,2023,Toledo Rockets,Bowling Green Falcons,73,58,Toledo Rockets,131,15,Rocket Arena,True,True
+401513480,2023-03-11,2023,Texas Longhorns,Oklahoma State Cowgirls,64,57,Texas Longhorns,121,7,Municipal Auditorium (MO),True,True
+401527478,2023-03-11,2023,Southern Jaguars,Arkansas-Pine Bluff Golden Lions,62,53,Southern Jaguars,115,9,Bartow Arena,True,True
+401519427,2023-03-11,2023,Towson Tigers,William & Mary Tribe,76,59,Towson Tigers,135,17,SECU Arena,False,True
+401513655,2023-03-11,2023,Illinois State Redbirds,Drake Bulldogs,54,74,Drake Bulldogs,128,20,Vibrant Arena at The MARK,True,True
+401513587,2023-03-11,2023,Iona Gaels,Manhattan Jaspers,73,60,Iona Gaels,133,13,Jim Whelan Boardwalk Hall,True,True
+401513481,2023-03-11,2023,Oklahoma Sooners,Iowa State Cyclones,72,82,Iowa State Cyclones,154,10,Municipal Auditorium (MO),True,True
+401513596,2023-03-11,2023,Norfolk State Spartans,Howard Bison,56,52,Norfolk State Spartans,108,4,Norfolk Scope Arena,True,True
+401519428,2023-03-11,2023,Northeastern Huskies,Monmouth Hawks,60,73,Monmouth Hawks,133,13,SECU Arena,True,True
+401513654,2023-03-11,2023,Belmont Bruins,Northern Iowa Panthers,69,62,Belmont Bruins,131,7,Vibrant Arena at The MARK,True,True
+401513575,2023-03-11,2023,Princeton Tigers,Harvard Crimson,54,48,Princeton Tigers,102,6,Jadwin Gymnasium,True,True
+401516429,2023-03-11,2023,Middle Tennessee Blue Raiders,Western Kentucky Lady Toppers,82,70,Middle Tennessee Blue Raiders,152,12,Ford Center At The Star,True,True
+401513510,2023-03-11,2023,Hawai'i Rainbow Wahine,UC Santa Barbara Gauchos,61,59,Hawai'i Rainbow Wahine,120,2,Lee's Family Forum,True,True
+401513734,2023-03-11,2023,Southern Utah Thunderbirds,California Baptist Lancers,82,73,Southern Utah Thunderbirds,155,9,Orleans Arena,True,True
+401513407,2023-03-12,2023,Florida Gulf Coast Eagles,Liberty Flames,84,60,Florida Gulf Coast Eagles,144,24,Alico Arena,False,True
+401519461,2023-03-12,2023,Boston University Terriers,Holy Cross Crusaders,61,66,Holy Cross Crusaders,127,5,Case Gym,False,True
+401513663,2023-03-12,2023,Fairleigh Dickinson Knights,Sacred Heart Pioneers,60,72,Sacred Heart Pioneers,132,12,Bogota Savings Bank Center,False,True
+401519429,2023-03-12,2023,Towson Tigers,Monmouth Hawks,55,80,Monmouth Hawks,135,25,SECU Arena,False,True
+401513656,2023-03-12,2023,Belmont Bruins,Drake Bulldogs,71,89,Drake Bulldogs,160,18,Vibrant Arena at The MARK,True,True
+401513482,2023-03-12,2023,Texas Longhorns,Iowa State Cyclones,51,61,Iowa State Cyclones,112,10,Municipal Auditorium (MO),True,True
+401527963,2023-03-15,2023,Illinois Fighting Illini,Mississippi State Bulldogs,56,70,Mississippi State Bulldogs,126,14,Purcell Pavilion,True,False
+401527965,2023-03-16,2023,Southern Jaguars,Sacred Heart Pioneers,47,57,Sacred Heart Pioneers,104,10,Maples Pavilion,True,False
+401527962,2023-03-16,2023,Purdue Boilermakers,St. John's Red Storm,64,66,St. John's Red Storm,130,2,Value City Arena,True,False
+401527964,2023-03-17,2023,Tennessee Tech Golden Eagles,Monmouth Hawks,79,69,Tennessee Tech Golden Eagles,148,10,Simon Skjodt Assembly Hall,True,False
+401527980,2023-03-17,2023,South Florida Bulls,Marquette Golden Eagles,67,65,South Florida Bulls,132,2,Colonial Life Arena,True,False
+401527971,2023-03-17,2023,Arizona Wildcats,West Virginia Mountaineers,75,62,Arizona Wildcats,137,13,XFINITY Center,True,False
+401527966,2023-03-17,2023,Florida State Seminoles,Georgia Lady Bulldogs,54,66,Georgia Lady Bulldogs,120,12,Carver-Hawkeye Arena,True,False
+401527981,2023-03-17,2023,South Carolina Gamecocks,Norfolk State Spartans,72,40,South Carolina Gamecocks,112,32,Colonial Life Arena,False,False
+401527968,2023-03-17,2023,Maryland Terrapins,Holy Cross Crusaders,93,61,Maryland Terrapins,154,32,XFINITY Center,False,False
+401527977,2023-03-17,2023,Michigan Wolverines,UNLV Lady Rebels,71,59,Michigan Wolverines,130,12,Pete Maravich Assembly Center,True,False
+401527976,2023-03-17,2023,Notre Dame Fighting Irish,Southern Utah Thunderbirds,82,56,Notre Dame Fighting Irish,138,26,Purcell Pavilion,False,False
+401527967,2023-03-17,2023,Iowa Hawkeyes,SE Louisiana Lady Lions,95,43,Iowa Hawkeyes,138,52,Carver-Hawkeye Arena,False,False
+401527978,2023-03-17,2023,LSU Tigers,Hawai'i Rainbow Wahine,73,50,LSU Tigers,123,23,Pete Maravich Assembly Center,False,False
+401527973,2023-03-17,2023,Virginia Tech Hokies,Chattanooga Mocs,58,33,Virginia Tech Hokies,91,25,Cassell Coliseum,False,False
+401527979,2023-03-17,2023,Creighton Bluejays,Mississippi State Bulldogs,66,81,Mississippi State Bulldogs,147,15,Purcell Pavilion,True,False
+401527975,2023-03-17,2023,Utah Utes,Gardner-Webb Runnin' Bulldogs,103,77,Utah Utes,180,26,Jon M. Huntsman Center,False,False
+401527970,2023-03-17,2023,Stanford Cardinal,Sacred Heart Pioneers,92,49,Stanford Cardinal,141,43,Maples Pavilion,False,False
+401527972,2023-03-18,2023,USC Trojans,South Dakota State Jackrabbits,57,62,South Dakota State Jackrabbits,119,5,Cassell Coliseum,True,False
+401527974,2023-03-18,2023,NC State Wolfpack,Princeton Tigers,63,64,Princeton Tigers,127,1,Jon M. Huntsman Center,True,False
+401527969,2023-03-18,2023,Ole Miss Rebels,Gonzaga Bulldogs,71,48,Ole Miss Rebels,119,23,Maples Pavilion,True,False
+401527995,2023-03-18,2023,Indiana Hoosiers,Tennessee Tech Golden Eagles,77,47,Indiana Hoosiers,124,30,Simon Skjodt Assembly Hall,False,False
+401527989,2023-03-18,2023,Tennessee Lady Volunteers,Saint Louis Billikens,95,50,Tennessee Lady Volunteers,145,45,Food City Center,False,False
+401527991,2023-03-18,2023,Ohio State Buckeyes,James Madison Dukes,80,66,Ohio State Buckeyes,146,14,Value City Arena,False,False
+401527994,2023-03-18,2023,Oklahoma State Cowgirls,Miami Hurricanes,61,62,Miami Hurricanes,123,1,Simon Skjodt Assembly Hall,True,False
+401527992,2023-03-18,2023,Washington State Cougars,Florida Gulf Coast Eagles,63,74,Florida Gulf Coast Eagles,137,11,Finneran Pavilion,True,False
+401527987,2023-03-18,2023,UConn Huskies,Vermont Catamounts,95,52,UConn Huskies,147,43,Gampel Pavilion,False,False
+401527990,2023-03-18,2023,Iowa State Cyclones,Toledo Rockets,73,80,Toledo Rockets,153,7,Food City Center,True,False
+401527988,2023-03-18,2023,North Carolina Tar Heels,St. John's Red Storm,61,59,North Carolina Tar Heels,120,2,Value City Arena,True,False
+401527993,2023-03-18,2023,Villanova Wildcats,Cleveland State Vikings,76,59,Villanova Wildcats,135,17,Finneran Pavilion,False,False
+401527986,2023-03-18,2023,Baylor Bears,Alabama Crimson Tide,78,74,Baylor Bears,152,4,Gampel Pavilion,True,False
+401527982,2023-03-18,2023,Colorado Buffaloes,Middle Tennessee Blue Raiders,82,60,Colorado Buffaloes,142,22,Cameron Indoor Stadium,True,False
+401527984,2023-03-18,2023,Louisville Cardinals,Drake Bulldogs,83,81,Louisville Cardinals,164,2,Moody Center,True,False
+401527996,2023-03-19,2023,Oklahoma Sooners,Portland Pilots,85,63,Oklahoma Sooners,148,22,Pauley Pavilion,True,False
+401527983,2023-03-19,2023,Duke Blue Devils,Iona Gaels,89,49,Duke Blue Devils,138,40,Cameron Indoor Stadium,False,False
+401527985,2023-03-19,2023,Texas Longhorns,East Carolina Pirates,79,40,Texas Longhorns,119,39,Moody Center,False,False
+401527997,2023-03-19,2023,UCLA Bruins,Sacramento State Hornets,67,45,UCLA Bruins,112,22,Pauley Pavilion,False,False
+401528003,2023-03-19,2023,South Carolina Gamecocks,South Florida Bulls,76,45,South Carolina Gamecocks,121,31,Colonial Life Arena,False,False
+401527998,2023-03-19,2023,Iowa Hawkeyes,Georgia Lady Bulldogs,74,66,Iowa Hawkeyes,140,8,Carver-Hawkeye Arena,False,False
+401528005,2023-03-19,2023,Notre Dame Fighting Irish,Mississippi State Bulldogs,53,48,Notre Dame Fighting Irish,101,5,Purcell Pavilion,False,False
+401528000,2023-03-19,2023,Virginia Tech Hokies,South Dakota State Jackrabbits,72,60,Virginia Tech Hokies,132,12,Cassell Coliseum,False,False
+401528004,2023-03-19,2023,Maryland Terrapins,Arizona Wildcats,77,64,Maryland Terrapins,141,13,XFINITY Center,False,False
+401528001,2023-03-19,2023,Utah Utes,Princeton Tigers,63,56,Utah Utes,119,7,Jon M. Huntsman Center,False,False
+401528002,2023-03-19,2023,LSU Tigers,Michigan Wolverines,66,42,LSU Tigers,108,24,Pete Maravich Assembly Center,False,False
+401527999,2023-03-20,2023,Stanford Cardinal,Ole Miss Rebels,49,54,Ole Miss Rebels,103,5,Maples Pavilion,False,False
+401528009,2023-03-20,2023,Ohio State Buckeyes,North Carolina Tar Heels,71,69,Ohio State Buckeyes,140,2,Value City Arena,False,False
+401528010,2023-03-20,2023,Tennessee Lady Volunteers,Toledo Rockets,94,47,Tennessee Lady Volunteers,141,47,Food City Center,False,False
+401528011,2023-03-20,2023,Villanova Wildcats,Florida Gulf Coast Eagles,76,57,Villanova Wildcats,133,19,Finneran Pavilion,False,False
+401528007,2023-03-20,2023,Texas Longhorns,Louisville Cardinals,51,73,Louisville Cardinals,124,22,Moody Center,False,False
+401528012,2023-03-21,2023,Indiana Hoosiers,Miami Hurricanes,68,70,Miami Hurricanes,138,2,Simon Skjodt Assembly Hall,False,False
+401528008,2023-03-21,2023,UConn Huskies,Baylor Bears,77,58,UConn Huskies,135,19,Gampel Pavilion,False,False
+401528006,2023-03-21,2023,Duke Blue Devils,Colorado Buffaloes,53,61,Colorado Buffaloes,114,8,Cameron Indoor Stadium,False,False
+401528013,2023-03-21,2023,UCLA Bruins,Oklahoma Sooners,82,73,UCLA Bruins,155,9,Pauley Pavilion,False,False
+401528016,2023-03-24,2023,Villanova Wildcats,Miami Hurricanes,65,70,Miami Hurricanes,135,5,Bon Secours Wellness Arena,True,False
+401528017,2023-03-24,2023,Utah Utes,LSU Tigers,63,66,LSU Tigers,129,3,Bon Secours Wellness Arena,True,False
+401528015,2023-03-24,2023,Iowa Hawkeyes,Colorado Buffaloes,87,77,Iowa Hawkeyes,164,10,Climate Pledge Arena,True,False
+401528014,2023-03-25,2023,Louisville Cardinals,Ole Miss Rebels,72,62,Louisville Cardinals,134,10,Climate Pledge Arena,True,False
+401528020,2023-03-25,2023,Maryland Terrapins,Notre Dame Fighting Irish,76,59,Maryland Terrapins,135,17,Bon Secours Wellness Arena,True,False
+401528021,2023-03-25,2023,South Carolina Gamecocks,UCLA Bruins,59,43,South Carolina Gamecocks,102,16,Bon Secours Wellness Arena,True,False
+401528018,2023-03-25,2023,UConn Huskies,Ohio State Buckeyes,61,73,Ohio State Buckeyes,134,12,Climate Pledge Arena,True,False
+401528019,2023-03-25,2023,Virginia Tech Hokies,Tennessee Lady Volunteers,73,64,Virginia Tech Hokies,137,9,Climate Pledge Arena,True,False
+401528023,2023-03-26,2023,LSU Tigers,Miami Hurricanes,54,42,LSU Tigers,96,12,Bon Secours Wellness Arena,True,False
+401528022,2023-03-27,2023,Iowa Hawkeyes,Louisville Cardinals,97,83,Iowa Hawkeyes,180,14,Climate Pledge Arena,True,False
+401528025,2023-03-27,2023,South Carolina Gamecocks,Maryland Terrapins,86,75,South Carolina Gamecocks,161,11,Bon Secours Wellness Arena,True,False
+401528024,2023-03-28,2023,Virginia Tech Hokies,Ohio State Buckeyes,84,74,Virginia Tech Hokies,158,10,Climate Pledge Arena,True,False
+401528026,2023-03-31,2023,Virginia Tech Hokies,LSU Tigers,72,79,LSU Tigers,151,7,American Airlines Center,True,False
+401528027,2023-04-01,2023,South Carolina Gamecocks,Iowa Hawkeyes,73,77,Iowa Hawkeyes,150,4,American Airlines Center,True,False
+401528028,2023-04-02,2023,Iowa Hawkeyes,LSU Tigers,85,102,LSU Tigers,187,17,American Airlines Center,True,False

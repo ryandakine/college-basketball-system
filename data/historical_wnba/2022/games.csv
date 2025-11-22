@@ -1,0 +1,245 @@
+game_id,date,season,home_team,away_team,home_score,away_score,winner,total_points,point_diff,venue,neutral_site,conference_game
+401430482,2022-05-01,2022,Connecticut Sun,Atlanta Dream,94,78,Connecticut Sun,172,16,Mohegan Sun Arena,False,False
+401430483,2022-05-01,2022,Minnesota Lynx,Las Vegas Aces,89,86,Minnesota Lynx,175,3,Target Center,False,False
+401430484,2022-05-02,2022,Dallas Wings,Indiana Fever,101,89,Dallas Wings,190,12,College Park Center,False,False
+401391650,2022-05-06,2022,Washington Mystics,Indiana Fever,84,70,Washington Mystics,154,14,CareFirst Arena,False,False
+401391651,2022-05-07,2022,Chicago Sky,Los Angeles Sparks,91,98,Los Angeles Sparks,189,7,Wintrust Arena,False,False
+401391652,2022-05-07,2022,Phoenix Mercury,Las Vegas Aces,88,106,Las Vegas Aces,194,18,Mortgage Matchup Center,False,False
+401391653,2022-05-07,2022,Seattle Storm,Minnesota Lynx,97,74,Seattle Storm,171,23,Climate Pledge Arena,False,False
+401391654,2022-05-07,2022,New York Liberty,Connecticut Sun,81,79,New York Liberty,160,2,Barclays Center,False,False
+401391655,2022-05-08,2022,Dallas Wings,Atlanta Dream,59,66,Atlanta Dream,125,7,College Park Center,False,False
+401391656,2022-05-08,2022,Indiana Fever,Los Angeles Sparks,77,87,Los Angeles Sparks,164,10,Gainbridge Fieldhouse,False,False
+401391658,2022-05-09,2022,Minnesota Lynx,Washington Mystics,66,78,Washington Mystics,144,12,Target Center,False,False
+401391657,2022-05-09,2022,Las Vegas Aces,Seattle Storm,85,74,Las Vegas Aces,159,11,Michelob ULTRA Arena,False,False
+401391659,2022-05-10,2022,Washington Mystics,Las Vegas Aces,89,76,Washington Mystics,165,13,CareFirst Arena,False,False
+401391660,2022-05-10,2022,Indiana Fever,Minnesota Lynx,82,76,Indiana Fever,158,6,Gainbridge Fieldhouse,False,False
+401391661,2022-05-11,2022,Atlanta Dream,Los Angeles Sparks,77,75,Atlanta Dream,152,2,Gateway Center,False,False
+401391662,2022-05-12,2022,Chicago Sky,New York Liberty,83,50,Chicago Sky,133,33,Wintrust Arena,False,False
+401391663,2022-05-12,2022,Phoenix Mercury,Seattle Storm,97,77,Phoenix Mercury,174,20,Mortgage Matchup Center,False,False
+401391664,2022-05-13,2022,Washington Mystics,Dallas Wings,86,94,Dallas Wings,180,8,CareFirst Arena,False,False
+401391665,2022-05-13,2022,Atlanta Dream,Las Vegas Aces,73,96,Las Vegas Aces,169,23,Gateway Center,False,False
+401391666,2022-05-14,2022,New York Liberty,Indiana Fever,86,92,Indiana Fever,178,6,Barclays Center,False,False
+401391667,2022-05-14,2022,Seattle Storm,Phoenix Mercury,64,69,Phoenix Mercury,133,5,Climate Pledge Arena,False,False
+401391668,2022-05-14,2022,Connecticut Sun,Los Angeles Sparks,77,60,Connecticut Sun,137,17,Mohegan Sun Arena,False,False
+401391669,2022-05-15,2022,Minnesota Lynx,Chicago Sky,78,82,Chicago Sky,160,4,Target Center,False,False
+401391670,2022-05-15,2022,New York Liberty,Dallas Wings,71,81,Dallas Wings,152,10,Barclays Center,False,False
+401391671,2022-05-15,2022,Indiana Fever,Atlanta Dream,79,85,Atlanta Dream,164,6,Gainbridge Fieldhouse,False,False
+401391672,2022-05-17,2022,New York Liberty,Connecticut Sun,65,92,Connecticut Sun,157,27,Barclays Center,False,False
+401391673,2022-05-17,2022,Indiana Fever,Atlanta Dream,79,101,Atlanta Dream,180,22,Gainbridge Fieldhouse,False,False
+401391674,2022-05-18,2022,Dallas Wings,Washington Mystics,68,84,Washington Mystics,152,16,College Park Center,False,False
+401391675,2022-05-18,2022,Las Vegas Aces,Phoenix Mercury,86,74,Las Vegas Aces,160,12,Michelob ULTRA Arena,False,False
+401391676,2022-05-18,2022,Los Angeles Sparks,Minnesota Lynx,84,87,Minnesota Lynx,171,3,crypto.com Arena,False,False
+401391677,2022-05-19,2022,Seattle Storm,Chicago Sky,74,71,Seattle Storm,145,3,Climate Pledge Arena,False,False
+401391678,2022-05-20,2022,Las Vegas Aces,Minnesota Lynx,93,87,Las Vegas Aces,180,6,Michelob ULTRA Arena,False,False
+401391679,2022-05-20,2022,Phoenix Mercury,Dallas Wings,84,94,Dallas Wings,178,10,Mortgage Matchup Center,False,False
+401391680,2022-05-20,2022,Connecticut Sun,Indiana Fever,94,85,Connecticut Sun,179,9,Mohegan Sun Arena,False,False
+401391681,2022-05-20,2022,Atlanta Dream,Washington Mystics,73,78,Washington Mystics,151,5,Gateway Center,False,False
+401391682,2022-05-21,2022,Seattle Storm,Los Angeles Sparks,83,80,Seattle Storm,163,3,Climate Pledge Arena,False,False
+401391683,2022-05-21,2022,Las Vegas Aces,Phoenix Mercury,100,80,Las Vegas Aces,180,20,Michelob ULTRA Arena,False,False
+401391684,2022-05-22,2022,Dallas Wings,Minnesota Lynx,94,78,Dallas Wings,172,16,College Park Center,False,False
+401391685,2022-05-22,2022,Indiana Fever,Connecticut Sun,70,92,Connecticut Sun,162,22,Gainbridge Fieldhouse,False,False
+401391686,2022-05-22,2022,Washington Mystics,Chicago Sky,73,82,Chicago Sky,155,9,CareFirst Arena,False,False
+401391687,2022-05-24,2022,Las Vegas Aces,Los Angeles Sparks,104,76,Las Vegas Aces,180,28,Michelob ULTRA Arena,False,False
+401391688,2022-05-24,2022,Connecticut Sun,Dallas Wings,77,85,Dallas Wings,162,8,Mohegan Sun Arena,False,False
+401391689,2022-05-24,2022,Washington Mystics,Atlanta Dream,70,50,Washington Mystics,120,20,CareFirst Arena,False,False
+401391690,2022-05-25,2022,Chicago Sky,Indiana Fever,95,90,Chicago Sky,185,5,Wintrust Arena,False,False
+401391691,2022-05-25,2022,Minnesota Lynx,New York Liberty,84,78,Minnesota Lynx,162,6,Target Center,False,False
+401391692,2022-05-26,2022,Los Angeles Sparks,Phoenix Mercury,99,94,Los Angeles Sparks,193,5,crypto.com Arena,False,False
+401391693,2022-05-26,2022,Connecticut Sun,Dallas Wings,99,68,Connecticut Sun,167,31,Mohegan Sun Arena,False,False
+401391694,2022-05-27,2022,Indiana Fever,Los Angeles Sparks,101,96,Indiana Fever,197,5,Corteva Coliseum,False,False
+401391695,2022-05-28,2022,Seattle Storm,New York Liberty,79,71,Seattle Storm,150,8,Climate Pledge Arena,False,False
+401391696,2022-05-28,2022,Chicago Sky,Las Vegas Aces,76,83,Las Vegas Aces,159,7,Wintrust Arena,False,False
+401391697,2022-05-28,2022,Connecticut Sun,Washington Mystics,79,71,Connecticut Sun,150,8,Mohegan Sun Arena,False,False
+401391698,2022-05-29,2022,Atlanta Dream,Phoenix Mercury,81,54,Atlanta Dream,135,27,Gateway Center,False,False
+401391699,2022-05-29,2022,Seattle Storm,New York Liberty,92,61,Seattle Storm,153,31,Climate Pledge Arena,False,False
+401391700,2022-05-29,2022,Minnesota Lynx,Los Angeles Sparks,83,85,Los Angeles Sparks,168,2,Target Center,False,False
+401391701,2022-05-31,2022,Indiana Fever,Washington Mystics,75,87,Washington Mystics,162,12,Corteva Coliseum,False,False
+401391702,2022-05-31,2022,Chicago Sky,Phoenix Mercury,73,70,Chicago Sky,143,3,Wintrust Arena,False,False
+401391703,2022-06-01,2022,Las Vegas Aces,Connecticut Sun,89,81,Las Vegas Aces,170,8,Michelob ULTRA Arena,False,False
+401391704,2022-06-01,2022,Los Angeles Sparks,Dallas Wings,93,91,Los Angeles Sparks,184,2,crypto.com Arena,False,False
+401391705,2022-06-01,2022,Atlanta Dream,Minnesota Lynx,84,76,Atlanta Dream,160,8,Gateway Center,False,False
+401391706,2022-06-01,2022,New York Liberty,Indiana Fever,87,74,New York Liberty,161,13,Barclays Center,False,False
+401391707,2022-06-03,2022,Las Vegas Aces,Connecticut Sun,90,97,Connecticut Sun,187,7,Michelob ULTRA Arena,False,False
+401391708,2022-06-03,2022,Washington Mystics,New York Liberty,70,74,New York Liberty,144,4,CareFirst Arena,False,False
+401391709,2022-06-03,2022,Atlanta Dream,Chicago Sky,65,73,Chicago Sky,138,8,Gateway Center,False,False
+401391710,2022-06-04,2022,Phoenix Mercury,Connecticut Sun,88,92,Connecticut Sun,180,4,Mortgage Matchup Center,False,False
+401391711,2022-06-04,2022,Seattle Storm,Dallas Wings,51,68,Dallas Wings,119,17,Climate Pledge Arena,False,False
+401391712,2022-06-05,2022,New York Liberty,Minnesota Lynx,77,84,Minnesota Lynx,161,7,Barclays Center,False,False
+401391713,2022-06-05,2022,Atlanta Dream,Indiana Fever,75,66,Atlanta Dream,141,9,Gateway Center,False,False
+401391714,2022-06-05,2022,Chicago Sky,Washington Mystics,91,82,Chicago Sky,173,9,Wintrust Arena,False,False
+401391715,2022-06-05,2022,Las Vegas Aces,Dallas Wings,84,78,Las Vegas Aces,162,6,Michelob ULTRA Arena,False,False
+401391716,2022-06-05,2022,Phoenix Mercury,Los Angeles Sparks,81,74,Phoenix Mercury,155,7,Mortgage Matchup Center,False,False
+401391717,2022-06-05,2022,Seattle Storm,Connecticut Sun,86,93,Connecticut Sun,179,7,Climate Pledge Arena,False,False
+401391718,2022-06-08,2022,New York Liberty,Minnesota Lynx,88,69,New York Liberty,157,19,Barclays Center,False,False
+401391719,2022-06-08,2022,Seattle Storm,Atlanta Dream,72,60,Seattle Storm,132,12,Climate Pledge Arena,False,False
+401391720,2022-06-08,2022,Connecticut Sun,Indiana Fever,88,69,Connecticut Sun,157,19,Mohegan Sun Arena,False,False
+401391721,2022-06-09,2022,Washington Mystics,Chicago Sky,84,82,Washington Mystics,166,2,CareFirst Arena,False,False
+401391722,2022-06-10,2022,Connecticut Sun,Chicago Sky,79,83,Chicago Sky,162,4,Mohegan Sun Arena,False,False
+401391723,2022-06-10,2022,Indiana Fever,New York Liberty,83,97,New York Liberty,180,14,Corteva Coliseum,False,False
+401391724,2022-06-11,2022,Dallas Wings,Seattle Storm,88,89,Seattle Storm,177,1,College Park Center,False,False
+401391725,2022-06-11,2022,Minnesota Lynx,Washington Mystics,59,76,Washington Mystics,135,17,Target Center,False,False
+401391726,2022-06-11,2022,Phoenix Mercury,Atlanta Dream,90,88,Phoenix Mercury,178,2,Mortgage Matchup Center,False,False
+401391727,2022-06-12,2022,Los Angeles Sparks,Las Vegas Aces,72,89,Las Vegas Aces,161,17,crypto.com Arena,False,False
+401391728,2022-06-12,2022,New York Liberty,Chicago Sky,86,88,Chicago Sky,174,2,Barclays Center,False,False
+401391729,2022-06-12,2022,Dallas Wings,Seattle Storm,79,84,Seattle Storm,163,5,College Park Center,False,False
+401391730,2022-06-12,2022,Washington Mystics,Phoenix Mercury,90,99,Phoenix Mercury,189,9,CareFirst Arena,False,False
+401391731,2022-06-12,2022,Minnesota Lynx,Indiana Fever,80,84,Indiana Fever,164,4,Target Center,False,False
+401391732,2022-06-14,2022,Washington Mystics,Phoenix Mercury,83,65,Washington Mystics,148,18,CareFirst Arena,False,False
+401391733,2022-06-15,2022,Minnesota Lynx,Seattle Storm,79,81,Seattle Storm,160,2,Target Center,False,False
+401391734,2022-06-15,2022,Dallas Wings,Las Vegas Aces,84,92,Las Vegas Aces,176,8,College Park Center,False,False
+401391735,2022-06-15,2022,Connecticut Sun,Atlanta Dream,105,92,Connecticut Sun,197,13,Mohegan Sun Arena,False,False
+401391736,2022-06-15,2022,Indiana Fever,Phoenix Mercury,80,93,Phoenix Mercury,173,13,Corteva Coliseum,False,False
+401391737,2022-06-16,2022,New York Liberty,Washington Mystics,77,65,New York Liberty,142,12,Barclays Center,False,False
+401391738,2022-06-17,2022,Connecticut Sun,Seattle Storm,82,71,Connecticut Sun,153,11,Mohegan Sun Arena,False,False
+401391739,2022-06-18,2022,Dallas Wings,Phoenix Mercury,93,88,Dallas Wings,181,5,College Park Center,False,False
+401391740,2022-06-18,2022,Chicago Sky,Atlanta Dream,106,100,Chicago Sky,206,6,Wintrust Arena,False,False
+401391741,2022-06-19,2022,New York Liberty,Seattle Storm,72,81,Seattle Storm,153,9,Barclays Center,False,False
+401391743,2022-06-19,2022,Washington Mystics,Connecticut Sun,71,63,Washington Mystics,134,8,CareFirst Arena,False,False
+401391742,2022-06-19,2022,Indiana Fever,Chicago Sky,89,87,Indiana Fever,176,2,Corteva Coliseum,False,False
+401391744,2022-06-19,2022,Dallas Wings,Los Angeles Sparks,92,82,Dallas Wings,174,10,College Park Center,False,False
+401391745,2022-06-19,2022,Las Vegas Aces,Minnesota Lynx,96,95,Las Vegas Aces,191,1,Michelob ULTRA Arena,False,False
+401391746,2022-06-21,2022,Atlanta Dream,Dallas Wings,80,75,Atlanta Dream,155,5,Gateway Center,False,False
+401391747,2022-06-22,2022,Las Vegas Aces,Chicago Sky,95,104,Chicago Sky,199,9,Michelob ULTRA Arena,False,False
+401391748,2022-06-22,2022,Phoenix Mercury,Minnesota Lynx,71,84,Minnesota Lynx,155,13,Mortgage Matchup Center,False,False
+401391749,2022-06-22,2022,Los Angeles Sparks,Washington Mystics,84,82,Los Angeles Sparks,166,2,crypto.com Arena,False,False
+401391750,2022-06-22,2022,Connecticut Sun,New York Liberty,77,81,New York Liberty,158,4,Mohegan Sun Arena,False,False
+401391751,2022-06-24,2022,Dallas Wings,Indiana Fever,94,68,Dallas Wings,162,26,College Park Center,False,False
+401391752,2022-06-24,2022,Minnesota Lynx,Phoenix Mercury,100,88,Minnesota Lynx,188,12,Target Center,False,False
+401391753,2022-06-24,2022,Seattle Storm,Washington Mystics,85,71,Seattle Storm,156,14,Climate Pledge Arena,False,False
+401391754,2022-06-24,2022,Los Angeles Sparks,Chicago Sky,59,82,Chicago Sky,141,23,crypto.com Arena,False,False
+401391755,2022-06-24,2022,Atlanta Dream,New York Liberty,77,89,New York Liberty,166,12,Gateway Center,False,False
+401391756,2022-06-26,2022,Dallas Wings,Phoenix Mercury,72,83,Phoenix Mercury,155,11,College Park Center,False,False
+401391757,2022-06-26,2022,Seattle Storm,Los Angeles Sparks,77,85,Los Angeles Sparks,162,8,Climate Pledge Arena,False,False
+401391758,2022-06-26,2022,Las Vegas Aces,Washington Mystics,86,87,Washington Mystics,173,1,Michelob ULTRA Arena,False,False
+401391759,2022-06-26,2022,Atlanta Dream,Connecticut Sun,61,72,Connecticut Sun,133,11,Gateway Center,False,False
+401391760,2022-06-26,2022,Chicago Sky,Minnesota Lynx,88,85,Chicago Sky,173,3,Wintrust Arena,False,False
+401391761,2022-06-28,2022,Phoenix Mercury,Indiana Fever,83,71,Phoenix Mercury,154,12,Mortgage Matchup Center,False,False
+401391762,2022-06-28,2022,Los Angeles Sparks,Las Vegas Aces,73,79,Las Vegas Aces,152,6,crypto.com Arena,False,False
+401391763,2022-06-28,2022,Washington Mystics,Atlanta Dream,92,74,Washington Mystics,166,18,CareFirst Arena,False,False
+401391764,2022-06-29,2022,Minnesota Lynx,Dallas Wings,92,64,Minnesota Lynx,156,28,Target Center,False,False
+401391765,2022-06-29,2022,Chicago Sky,Connecticut Sun,91,83,Chicago Sky,174,8,Wintrust Arena,False,False
+401391766,2022-06-30,2022,Phoenix Mercury,Indiana Fever,99,78,Phoenix Mercury,177,21,Mortgage Matchup Center,False,False
+401391767,2022-06-30,2022,Seattle Storm,Las Vegas Aces,88,78,Seattle Storm,166,10,Climate Pledge Arena,False,False
+401391768,2022-06-30,2022,New York Liberty,Atlanta Dream,81,92,Atlanta Dream,173,11,Barclays Center,False,False
+401391769,2022-07-02,2022,Dallas Wings,Los Angeles Sparks,89,97,Los Angeles Sparks,186,8,College Park Center,False,False
+401391770,2022-07-02,2022,Minnesota Lynx,Las Vegas Aces,85,91,Las Vegas Aces,176,6,Target Center,False,False
+401391771,2022-07-02,2022,Seattle Storm,Indiana Fever,73,57,Seattle Storm,130,16,Climate Pledge Arena,False,False
+401391772,2022-07-02,2022,Chicago Sky,Phoenix Mercury,91,75,Chicago Sky,166,16,Wintrust Arena,False,False
+401391773,2022-07-03,2022,Connecticut Sun,Washington Mystics,74,72,Connecticut Sun,146,2,Mohegan Sun Arena,False,False
+401391774,2022-07-03,2022,Atlanta Dream,Seattle Storm,90,76,Atlanta Dream,166,14,Gateway Center,False,False
+401391776,2022-07-03,2022,Los Angeles Sparks,New York Liberty,84,74,Los Angeles Sparks,158,10,crypto.com Arena,False,False
+401391775,2022-07-03,2022,Minnesota Lynx,Las Vegas Aces,102,71,Minnesota Lynx,173,31,Target Center,False,False
+401391777,2022-07-04,2022,Los Angeles Sparks,Phoenix Mercury,78,75,Los Angeles Sparks,153,3,crypto.com Arena,False,False
+401391778,2022-07-05,2022,Indiana Fever,Seattle Storm,73,95,Seattle Storm,168,22,Corteva Coliseum,False,False
+401391779,2022-07-06,2022,Dallas Wings,Connecticut Sun,82,71,Dallas Wings,153,11,College Park Center,False,False
+401391780,2022-07-06,2022,Minnesota Lynx,Chicago Sky,81,78,Minnesota Lynx,159,3,Target Center,False,False
+401391781,2022-07-07,2022,Atlanta Dream,Washington Mystics,66,85,Washington Mystics,151,19,Gateway Center,False,False
+401391782,2022-07-07,2022,Las Vegas Aces,New York Liberty,107,116,New York Liberty,223,9,Michelob ULTRA Arena,False,False
+401391783,2022-07-07,2022,Indiana Fever,Chicago Sky,84,93,Chicago Sky,177,9,Corteva Coliseum,False,False
+401391784,2022-07-08,2022,Phoenix Mercury,New York Liberty,84,81,Phoenix Mercury,165,3,Mortgage Matchup Center,False,False
+401391785,2022-07-08,2022,Los Angeles Sparks,Seattle Storm,69,106,Seattle Storm,175,37,crypto.com Arena,False,False
+401455978,2022-07-10,2022,Team Wilson,TEAM STEWART,134,112,Team Wilson,246,22,Wintrust Arena,True,False
+401391786,2022-07-12,2022,Seattle Storm,Dallas Wings,83,74,Seattle Storm,157,9,Climate Pledge Arena,False,False
+401391787,2022-07-12,2022,New York Liberty,Las Vegas Aces,101,107,Las Vegas Aces,208,6,Barclays Center,False,False
+401391788,2022-07-13,2022,Chicago Sky,Atlanta Dream,90,75,Chicago Sky,165,15,Wintrust Arena,False,False
+401391789,2022-07-13,2022,Minnesota Lynx,Phoenix Mercury,118,107,Minnesota Lynx,225,11,Target Center,False,False
+401391790,2022-07-13,2022,Los Angeles Sparks,Washington Mystics,81,94,Washington Mystics,175,13,crypto.com Arena,False,False
+401391791,2022-07-13,2022,Indiana Fever,Connecticut Sun,81,89,Connecticut Sun,170,8,Corteva Coliseum,False,False
+401391792,2022-07-14,2022,New York Liberty,Las Vegas Aces,74,108,Las Vegas Aces,182,34,Barclays Center,False,False
+401391793,2022-07-15,2022,Minnesota Lynx,Dallas Wings,87,92,Dallas Wings,179,5,Target Center,False,False
+401391794,2022-07-15,2022,Phoenix Mercury,Washington Mystics,80,75,Phoenix Mercury,155,5,Mortgage Matchup Center,False,False
+401391795,2022-07-15,2022,Los Angeles Sparks,Chicago Sky,68,80,Chicago Sky,148,12,crypto.com Arena,False,False
+401391796,2022-07-15,2022,Indiana Fever,Minnesota Lynx,77,87,Minnesota Lynx,164,10,Corteva Coliseum,False,False
+401391797,2022-07-15,2022,Atlanta Dream,Connecticut Sun,68,93,Connecticut Sun,161,25,Gateway Center,False,False
+401391798,2022-07-17,2022,Dallas Wings,Chicago Sky,81,89,Chicago Sky,170,8,College Park Center,False,False
+401391799,2022-07-17,2022,Connecticut Sun,Las Vegas Aces,83,91,Las Vegas Aces,174,8,Mohegan Sun Arena,False,False
+401391800,2022-07-17,2022,Washington Mystics,Minnesota Lynx,70,57,Washington Mystics,127,13,CareFirst Arena,False,False
+401391801,2022-07-17,2022,Phoenix Mercury,Atlanta Dream,75,85,Atlanta Dream,160,10,Mortgage Matchup Center,False,False
+401391802,2022-07-17,2022,Seattle Storm,Indiana Fever,81,65,Seattle Storm,146,16,Climate Pledge Arena,False,False
+401391803,2022-07-19,2022,Connecticut Sun,New York Liberty,82,63,Connecticut Sun,145,19,Mohegan Sun Arena,False,False
+401391804,2022-07-20,2022,Las Vegas Aces,Atlanta Dream,76,92,Atlanta Dream,168,16,Michelob ULTRA Arena,False,False
+401391805,2022-07-20,2022,Los Angeles Sparks,Indiana Fever,86,79,Los Angeles Sparks,165,7,crypto.com Arena,False,False
+401391806,2022-07-20,2022,Chicago Sky,Seattle Storm,78,74,Chicago Sky,152,4,Wintrust Arena,False,False
+401391807,2022-07-21,2022,Washington Mystics,New York Liberty,78,69,Washington Mystics,147,9,Capital One Arena,False,False
+401391808,2022-07-21,2022,Los Angeles Sparks,Atlanta Dream,85,78,Los Angeles Sparks,163,7,crypto.com Arena,False,False
+401391809,2022-07-22,2022,Las Vegas Aces,Indiana Fever,90,77,Las Vegas Aces,167,13,Michelob ULTRA Arena,False,False
+401391810,2022-07-23,2022,Minnesota Lynx,Connecticut Sun,84,94,Connecticut Sun,178,10,Target Center,False,False
+401391811,2022-07-23,2022,Chicago Sky,Dallas Wings,89,83,Chicago Sky,172,6,Wintrust Arena,False,False
+401391812,2022-07-23,2022,Phoenix Mercury,Seattle Storm,94,78,Phoenix Mercury,172,16,Mortgage Matchup Center,False,False
+401391813,2022-07-23,2022,New York Liberty,Chicago Sky,83,80,New York Liberty,163,3,Barclays Center,False,False
+401391814,2022-07-24,2022,Las Vegas Aces,Los Angeles Sparks,84,66,Las Vegas Aces,150,18,Michelob ULTRA Arena,False,False
+401391815,2022-07-24,2022,Indiana Fever,Dallas Wings,86,96,Dallas Wings,182,10,Hinkle Fieldhouse,False,False
+401391816,2022-07-24,2022,Seattle Storm,Atlanta Dream,82,72,Seattle Storm,154,10,Climate Pledge Arena,False,False
+401391817,2022-07-24,2022,Minnesota Lynx,Connecticut Sun,79,86,Connecticut Sun,165,7,Target Center,False,False
+401430112,2022-07-27,2022,Chicago Sky,Las Vegas Aces,83,93,Las Vegas Aces,176,10,Wintrust Arena,False,False
+401391818,2022-07-28,2022,Atlanta Dream,Minnesota Lynx,85,92,Minnesota Lynx,177,7,Gateway Center,False,False
+401391819,2022-07-28,2022,Connecticut Sun,Seattle Storm,88,83,Connecticut Sun,171,5,Mohegan Sun Arena,False,False
+401391820,2022-07-29,2022,Dallas Wings,Washington Mystics,77,87,Washington Mystics,164,10,College Park Center,False,False
+401391821,2022-07-29,2022,Phoenix Mercury,Los Angeles Sparks,90,80,Phoenix Mercury,170,10,Mortgage Matchup Center,False,False
+401391822,2022-07-29,2022,Indiana Fever,Las Vegas Aces,72,93,Las Vegas Aces,165,21,Hinkle Fieldhouse,False,False
+401391823,2022-07-30,2022,Chicago Sky,New York Liberty,89,81,Chicago Sky,170,8,Wintrust Arena,False,False
+401391824,2022-07-30,2022,Washington Mystics,Seattle Storm,77,82,Seattle Storm,159,5,CareFirst Arena,False,False
+401391825,2022-07-30,2022,Atlanta Dream,Dallas Wings,68,81,Dallas Wings,149,13,Gateway Center,False,False
+401391826,2022-07-31,2022,Connecticut Sun,Chicago Sky,92,95,Chicago Sky,187,3,Mohegan Sun Arena,False,False
+401391827,2022-07-31,2022,New York Liberty,Phoenix Mercury,89,69,New York Liberty,158,20,Barclays Center,False,False
+401391828,2022-07-31,2022,Indiana Fever,Las Vegas Aces,69,94,Las Vegas Aces,163,25,Hinkle Fieldhouse,False,False
+401391829,2022-07-31,2022,Washington Mystics,Seattle Storm,78,75,Washington Mystics,153,3,CareFirst Arena,False,False
+401391830,2022-07-31,2022,Los Angeles Sparks,Minnesota Lynx,77,84,Minnesota Lynx,161,7,crypto.com Arena,False,False
+401391831,2022-08-02,2022,Connecticut Sun,Phoenix Mercury,87,63,Connecticut Sun,150,24,Mohegan Sun Arena,False,False
+401391832,2022-08-02,2022,New York Liberty,Los Angeles Sparks,102,73,New York Liberty,175,29,Barclays Center,False,False
+401391833,2022-08-02,2022,Washington Mystics,Las Vegas Aces,83,73,Washington Mystics,156,10,CareFirst Arena,False,False
+401391834,2022-08-03,2022,Chicago Sky,Dallas Wings,78,84,Dallas Wings,162,6,Wintrust Arena,False,False
+401391835,2022-08-03,2022,Atlanta Dream,Indiana Fever,91,81,Atlanta Dream,172,10,Gateway Center,False,False
+401391836,2022-08-03,2022,New York Liberty,Los Angeles Sparks,64,61,New York Liberty,125,3,Barclays Center,False,False
+401391837,2022-08-04,2022,Seattle Storm,Minnesota Lynx,89,77,Seattle Storm,166,12,Climate Pledge Arena,False,False
+401391838,2022-08-04,2022,Connecticut Sun,Phoenix Mercury,77,64,Connecticut Sun,141,13,Mohegan Sun Arena,False,False
+401391839,2022-08-05,2022,Dallas Wings,Las Vegas Aces,82,80,Dallas Wings,162,2,College Park Center,False,False
+401391840,2022-08-05,2022,Atlanta Dream,Los Angeles Sparks,88,86,Atlanta Dream,174,2,Gateway Center,False,False
+401391841,2022-08-06,2022,Chicago Sky,Washington Mystics,93,83,Chicago Sky,176,10,Wintrust Arena,False,False
+401391842,2022-08-07,2022,Dallas Wings,Indiana Fever,95,91,Dallas Wings,186,4,College Park Center,False,False
+401391843,2022-08-07,2022,Phoenix Mercury,New York Liberty,76,62,Phoenix Mercury,138,14,Mortgage Matchup Center,False,False
+401391844,2022-08-07,2022,Chicago Sky,Connecticut Sun,94,91,Chicago Sky,185,3,Wintrust Arena,False,False
+401391845,2022-08-07,2022,Washington Mystics,Los Angeles Sparks,76,79,Los Angeles Sparks,155,3,CareFirst Arena,False,False
+401391846,2022-08-07,2022,Seattle Storm,Las Vegas Aces,81,89,Las Vegas Aces,170,8,Climate Pledge Arena,False,False
+401391847,2022-08-07,2022,Minnesota Lynx,Atlanta Dream,81,71,Minnesota Lynx,152,10,Target Center,False,False
+401391848,2022-08-09,2022,Dallas Wings,New York Liberty,86,77,Dallas Wings,163,9,College Park Center,False,False
+401391849,2022-08-10,2022,Chicago Sky,Seattle Storm,100,111,Seattle Storm,211,11,Wintrust Arena,False,False
+401391850,2022-08-10,2022,Las Vegas Aces,Atlanta Dream,97,90,Las Vegas Aces,187,7,Michelob ULTRA Arena,False,False
+401391851,2022-08-10,2022,Los Angeles Sparks,Connecticut Sun,71,97,Connecticut Sun,168,26,crypto.com Arena,False,False
+401391852,2022-08-11,2022,Dallas Wings,New York Liberty,73,91,New York Liberty,164,18,College Park Center,False,False
+401391853,2022-08-11,2022,Phoenix Mercury,Minnesota Lynx,77,86,Minnesota Lynx,163,9,Mortgage Matchup Center,False,False
+401391854,2022-08-12,2022,Las Vegas Aces,Chicago Sky,89,78,Las Vegas Aces,167,11,Michelob ULTRA Arena,False,False
+401391855,2022-08-12,2022,Los Angeles Sparks,Connecticut Sun,69,93,Connecticut Sun,162,24,crypto.com Arena,False,False
+401391856,2022-08-12,2022,Indiana Fever,Washington Mystics,70,82,Washington Mystics,152,12,Hinkle Fieldhouse,False,False
+401391857,2022-08-12,2022,Atlanta Dream,New York Liberty,70,80,New York Liberty,150,10,Gateway Center,False,False
+401391858,2022-08-13,2022,Minnesota Lynx,Seattle Storm,69,96,Seattle Storm,165,27,Target Center,False,False
+401391859,2022-08-13,2022,Phoenix Mercury,Dallas Wings,86,74,Phoenix Mercury,160,12,Mortgage Matchup Center,False,False
+401391860,2022-08-14,2022,Connecticut Sun,Minnesota Lynx,90,83,Connecticut Sun,173,7,Mohegan Sun Arena,False,False
+401391861,2022-08-14,2022,New York Liberty,Atlanta Dream,87,83,New York Liberty,170,4,Barclays Center,False,False
+401391862,2022-08-14,2022,Washington Mystics,Indiana Fever,95,83,Washington Mystics,178,12,CareFirst Arena,False,False
+401391864,2022-08-14,2022,Las Vegas Aces,Seattle Storm,109,100,Las Vegas Aces,209,9,Michelob ULTRA Arena,False,False
+401391863,2022-08-14,2022,Phoenix Mercury,Chicago Sky,67,82,Chicago Sky,149,15,Mortgage Matchup Center,False,False
+401391865,2022-08-14,2022,Los Angeles Sparks,Dallas Wings,88,116,Dallas Wings,204,28,crypto.com Arena,False,False
+401455627,2022-08-18,2022,Chicago Sky,New York Liberty,91,98,New York Liberty,189,7,Wintrust Arena,False,False
+401455628,2022-08-18,2022,Las Vegas Aces,Phoenix Mercury,79,63,Las Vegas Aces,142,16,Michelob ULTRA Arena,False,False
+401455629,2022-08-19,2022,Connecticut Sun,Dallas Wings,93,68,Connecticut Sun,161,25,Mohegan Sun Arena,False,False
+401455650,2022-08-19,2022,Seattle Storm,Washington Mystics,86,83,Seattle Storm,169,3,Climate Pledge Arena,False,False
+401455651,2022-08-20,2022,Chicago Sky,New York Liberty,100,62,Chicago Sky,162,38,Wintrust Arena,False,False
+401455652,2022-08-21,2022,Las Vegas Aces,Phoenix Mercury,117,80,Las Vegas Aces,197,37,Michelob ULTRA Arena,False,False
+401455653,2022-08-21,2022,Connecticut Sun,Dallas Wings,79,89,Dallas Wings,168,10,Mohegan Sun Arena,False,False
+401455654,2022-08-21,2022,Seattle Storm,Washington Mystics,97,84,Seattle Storm,181,13,Climate Pledge Arena,False,False
+401455657,2022-08-24,2022,New York Liberty,Chicago Sky,72,90,Chicago Sky,162,18,Barclays Center,False,False
+401455659,2022-08-25,2022,Dallas Wings,Connecticut Sun,58,73,Connecticut Sun,131,15,College Park Center,False,False
+401455660,2022-08-28,2022,Las Vegas Aces,Seattle Storm,73,76,Seattle Storm,149,3,Michelob ULTRA Arena,False,False
+401455661,2022-08-29,2022,Chicago Sky,Connecticut Sun,63,68,Connecticut Sun,131,5,Wintrust Arena,False,False
+401455671,2022-09-01,2022,Chicago Sky,Connecticut Sun,85,77,Chicago Sky,162,8,Wintrust Arena,False,False
+401455674,2022-09-01,2022,Las Vegas Aces,Seattle Storm,78,73,Las Vegas Aces,151,5,Michelob ULTRA Arena,False,False
+401455675,2022-09-04,2022,Connecticut Sun,Chicago Sky,72,76,Chicago Sky,148,4,Mohegan Sun Arena,False,False
+401455676,2022-09-04,2022,Seattle Storm,Las Vegas Aces,98,110,Las Vegas Aces,208,12,Climate Pledge Arena,False,False
+401455677,2022-09-07,2022,Connecticut Sun,Chicago Sky,104,80,Connecticut Sun,184,24,Mohegan Sun Arena,False,False
+401455678,2022-09-07,2022,Seattle Storm,Las Vegas Aces,92,97,Las Vegas Aces,189,5,Climate Pledge Arena,False,False
+401455679,2022-09-09,2022,Chicago Sky,Connecticut Sun,63,72,Connecticut Sun,135,9,Wintrust Arena,False,False
+401455681,2022-09-11,2022,Las Vegas Aces,Connecticut Sun,67,64,Las Vegas Aces,131,3,Michelob ULTRA Arena,False,False
+401455682,2022-09-14,2022,Las Vegas Aces,Connecticut Sun,85,71,Las Vegas Aces,156,14,Michelob ULTRA Arena,False,False
+401455683,2022-09-16,2022,Connecticut Sun,Las Vegas Aces,105,76,Connecticut Sun,181,29,Mohegan Sun Arena,False,False
+401455684,2022-09-18,2022,Connecticut Sun,Las Vegas Aces,71,78,Las Vegas Aces,149,7,Mohegan Sun Arena,False,False
