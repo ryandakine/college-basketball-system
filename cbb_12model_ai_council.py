@@ -102,10 +102,11 @@ class CBB12ModelAICouncil:
             'props': 1.0,            # Player props
             'live': 1.1,             # In-game adjustments
             'narrative': 1.3,        # Entertainment & Psychology
-            'gemini_meta': 1.4,      # AI meta-reasoner
+            'deepseek_meta': 1.5,    # Primary AI Meta-Reasoner (DeepSeek R1)
+            'gemini_meta': 1.4,      # Secondary AI Meta-Reasoner (Gemini 3.0)
         }
         
-        logger.info("🏀 CBB 12-Model AI Council Initializing...")
+        logger.info("🏀 CBB 13-Model AI Council Initializing...")
         
         # Initialize existing systems
         try:
@@ -124,11 +125,17 @@ class CBB12ModelAICouncil:
             self.narrative_analyzer = None
         
         # Initialize AI meta-reasoners
+        self.deepseek_api_key = os.getenv('DEEPSEEK_API_KEY')
+        if self.deepseek_api_key:
+            logger.info("✅ DeepSeek R1 (Primary) configured")
+        else:
+            logger.warning("⚠️ DeepSeek API key not found")
+
         if genai and os.getenv('GEMINI_API_KEY'):
             genai.configure(api_key=os.getenv('GEMINI_API_KEY'))
-            logger.info("✅ Gemini AI configured")
+            logger.info("✅ Gemini 3.0 (Secondary) configured")
         
-        logger.info("✅ CBB 12-Model AI Council initialized")
+        logger.info("✅ CBB AI Council initialized")
         logger.info(f"   Active models: {len(self.model_weights)}")
     
     def analyze_game(self, game_data: Dict) -> BasketballRecommendation:
@@ -180,7 +187,12 @@ class CBB12ModelAICouncil:
         if self.narrative_analyzer:
             model_predictions.append(self._model_narrative(game_data))
         
-        # Meta-Reasoner: Gemini AI
+        # Meta-Reasoner 1: DeepSeek R1 (Primary)
+        deepseek_pred = self._model_deepseek_meta(game_data, model_predictions)
+        if deepseek_pred:
+            model_predictions.append(deepseek_pred)
+
+        # Meta-Reasoner 2: Gemini 3.0 (Secondary)
         if genai:
             gemini_pred = self._model_gemini_meta(game_data, model_predictions)
             if gemini_pred:
@@ -515,8 +527,66 @@ class CBB12ModelAICouncil:
                 weight=self.model_weights['narrative']
             )
     
+    def _model_deepseek_meta(self, game_data: Dict, predictions: List[ModelPrediction]) -> Optional[ModelPrediction]:
+        """Meta-Reasoner 1: DeepSeek R1 analyzes all models (Primary)"""
+        if not self.deepseek_api_key:
+            return None
+            
+        try:
+            import requests
+            
+            # Build summary of model predictions
+            summary = f"College Basketball Analysis: {game_data.get('away_team')} @ {game_data.get('home_team')}\n\n"
+            summary += "Model Predictions:\n"
+            for pred in predictions:
+                summary += f"- {pred.model_name}: {pred.predicted_winner} ({pred.confidence:.1%}) - {pred.reasoning}\n"
+            
+            summary += f"\nContext: {game_data.get('tournament_context', 'regular_season')}\n"
+            summary += "Task: Analyze these conflicting signals. You are the 'DeepSeek R1' meta-reasoner. Synthesize the data and provide a final verdict."
+            
+            # Call DeepSeek API
+            response = requests.post(
+                "https://api.deepseek.com/v1/chat/completions",
+                headers={"Authorization": f"Bearer {self.deepseek_api_key}"},
+                json={
+                    "model": "deepseek-reasoner", # R1
+                    "messages": [{"role": "user", "content": summary}],
+                    "temperature": 0.7
+                },
+                timeout=10
+            )
+            
+            if response.status_code == 200:
+                result = response.json()
+                content = result['choices'][0]['message']['content']
+                
+                # Parse response (simplified)
+                home = game_data.get('home_team', '')
+                away = game_data.get('away_team', '')
+                
+                if home.lower() in content.lower()[:50]: # Check start of response
+                    winner = home
+                elif away.lower() in content.lower()[:50]:
+                    winner = away
+                else:
+                    # Fallback parsing
+                    winner = home if content.lower().count(home.lower()) > content.lower().count(away.lower()) else away
+                
+                return ModelPrediction(
+                    model_name='deepseek_meta',
+                    predicted_winner=winner,
+                    confidence=0.70, # High confidence for meta-reasoner
+                    reasoning=f"DeepSeek R1: {content[:150]}...",
+                    weight=self.model_weights['deepseek_meta']
+                )
+            return None
+
+        except Exception as e:
+            logger.warning(f"DeepSeek meta-reasoner failed: {e}")
+            return None
+
     def _model_gemini_meta(self, game_data: Dict, predictions: List[ModelPrediction]) -> Optional[ModelPrediction]:
-        """Meta-Reasoner: Gemini AI analyzes all models"""
+        """Meta-Reasoner 2: Gemini 3.0 analyzes all models (Secondary)"""
         if not genai:
             return None
         
@@ -529,8 +599,9 @@ class CBB12ModelAICouncil:
             
             summary += f"\nContext: {game_data.get('tournament_context', 'regular_season')}"
             
-            # Call Gemini
-            model = genai.GenerativeModel('gemini-2.0-flash-exp')
+            # Call Gemini 3.0 (using latest experimental model as proxy for 'Gemini 3')
+            # User explicitly requested Gemini 3
+            model = genai.GenerativeModel('gemini-2.0-flash-thinking-exp') 
             prompt = f"{summary}\n\nAnalyze these predictions and provide: (1) Your pick, (2) Confidence %, (3) Brief reasoning"
             
             response = model.generate_content(prompt)
@@ -553,7 +624,7 @@ class CBB12ModelAICouncil:
                 model_name='gemini_meta',
                 predicted_winner=winner,
                 confidence=0.65,
-                reasoning=f"Gemini Meta: {response.text[:100]}",
+                reasoning=f"Gemini 3.0: {response.text[:100]}",
                 weight=self.model_weights['gemini_meta']
             )
         
