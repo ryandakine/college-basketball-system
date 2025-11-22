@@ -1,0 +1,65 @@
+I need you to help me collect NCAA Men's Basketball REGULAR SEASON historical data (2015-2024) for backtesting a betting system.
+
+**PRIORITY: REGULAR SEASON GAMES** (November through early March)
+We need this NOW because regular season is currently happening!
+
+For EACH season from 2015-16 through 2024-25, collect:
+
+**Regular Season Games** (15-20 games per team):
+- Date, Home Team, Away Team
+- Final Score (Home, Away)
+- Point Spread (closing line if available)
+- Result vs Spread (home covered, away covered, push)
+- Conference for each team (ACC, Big 12, Big Ten, SEC, Big East, etc.)
+- Is it a conference game? (yes/no)
+- Venue name
+- TV coverage (ESPN, FS1, CBS, etc.)
+- Rankings if available (AP Top 25)
+
+**Focus Areas**:
+1. **Conference games** (most predictable)
+2. **Rivalry games** (Duke/UNC, Kansas/Missouri, etc.)
+3. **Power 6 vs mid-major** matchups
+4. **Weeknight games** (Tue/Wed)
+
+**Data Sources**:
+1. Sports-Reference.com/cbb (best for scores)
+2. ESPN college basketball schedule/results
+3. TeamRankings.com (good for spreads)
+4. Covers.com or SportsBookReview (historical lines)
+
+**Output Format**:
+```json
+{
+  "season": "2024-25",
+  "regular_season_games": [
+    {
+      "date": "2024-11-19",
+      "home_team": "Duke",
+      "away_team": "Arizona",
+      "home_score": 69,
+      "away_score": 55,
+      "winner": "home",
+      "margin": 14,
+      "spread": -7.5,
+      "spread_result": "home",
+      "home_conference": "ACC",
+      "away_conference": "Big 12",
+      "is_conference_game": false,
+      "venue": "Cameron Indoor Stadium",
+      "tv_coverage": "ESPN",
+      "home_ranking": 4,
+      "away_ranking": 14
+    }
+  ]
+}
+```
+
+**Priorities**:
+1. Start with **2024-25 current season** (games already played)
+2. Then **2023-24 full regular season**
+3. Work backwards to 2015-16
+
+**Target**: ~5,000-7,000 regular season games across 10 years
+
+March Madness can wait - we need regular season data NOW!

@@ -97,10 +97,13 @@ class LineMonitor:
         if not api_key or api_key == "your_odds_api_key_here":
             logging.error("No valid API key configured. Please configure 'odds_api_key' in monitor_config.json")
             logging.error("Get your API key from: https://the-odds-api.com")
-            return {'futures': {}, 'games': {}, 'timestamp': datetime.now().isoformat(), 'error': 'No API key configured'}
+            return {'futures': {}, 'games': [], 'timestamp': datetime.now().isoformat(), 'error': 'No API key configured'}
+        
+        futures_data = {}
+        games_data = []
         
         try:
-            # Tournament futures
+            # Try to fetch tournament futures (may not be available for all sports)
             futures_url = f"https://api.the-odds-api.com/v4/sports/{sport}/outrights"
             params = {
                 'apiKey': api_key,
@@ -111,18 +114,24 @@ class LineMonitor:
             response = requests.get(futures_url, params=params, timeout=10)
             response.raise_for_status()
             futures_data = response.json()
-            
-            # Season win totals and game lines
+            logging.info(f"Fetched {len(futures_data)} futures markets")
+        except requests.RequestException as e:
+            logging.warning(f"Futures not available: {e}")
+            # Continue to fetch games even if futures fail
+        
+        try:
+            # Fetch game lines (spreads, totals, moneylines)
             games_url = f"https://api.the-odds-api.com/v4/sports/{sport}/odds"
             params = {
                 'apiKey': api_key,
                 'regions': 'us',
-                'markets': 'totals,h2h'
+                'markets': 'spreads,totals,h2h'
             }
             
             response = requests.get(games_url, params=params, timeout=10)
             response.raise_for_status()
             games_data = response.json()
+            logging.info(f"Fetched odds for {len(games_data)} games")
             
             return {
                 'futures': futures_data,
@@ -133,7 +142,7 @@ class LineMonitor:
         except requests.RequestException as e:
             logging.error(f"API request failed: {e}")
             logging.error("Unable to fetch odds data. Please check your API key and internet connection.")
-            return {'futures': {}, 'games': {}, 'timestamp': datetime.now().isoformat(), 'error': str(e)}
+            return {'futures': futures_data, 'games': [], 'timestamp': datetime.now().isoformat(), 'error': str(e)}
     
 
     

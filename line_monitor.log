@@ -12,3 +12,6 @@
 2025-10-17 16:41:04,580 - INFO - 🎯 Found 7 value opportunities
 2025-10-17 16:41:04,783 - ERROR - Failed to send email alert: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5a8a973e796sm232062173.32 - gsmtp')
 2025-10-17 16:41:12,700 - INFO - 🛑 Monitoring stopped by user
+2025-11-21 21:33:48,917 - INFO - Loaded 11 target teams for monitoring
+2025-11-21 21:33:49,106 - ERROR - API request failed: 404 Client Error: Not Found for url: https://api.the-odds-api.com/v4/sports/basketball_ncaab/outrights?apiKey=78c0a858acc5bfdefb7e0abe02d0c744&regions=us&markets=outrights
+2025-11-21 21:33:49,106 - ERROR - Unable to fetch odds data. Please check your API key and internet connection.
